@@ -21,11 +21,13 @@ if not N:
     raise ValueError('No transactions found')
 min_count = __import__('math').ceil(MIN_SUPPORT * N)
 
+
 # Vertical TID representation: each item maps to transaction indices.
 vertical = defaultdict(set)
 for tid, transaction in enumerate(transactions):
     for item in transaction:
         vertical[item].add(tid)
+
 
 # Apriori: generate all frequent itemsets, with no max_len restriction.
 frequent = {}  # frozenset(items) -> frozenset(transaction IDs)
@@ -63,6 +65,7 @@ while level:
     level = next_level
     k += 1
 
+
 # Closure of X is the intersection of every transaction containing X.
 closure_cache = {}
 for itemset, tids in frequent.items():
@@ -70,6 +73,7 @@ for itemset, tids in frequent.items():
     for tid in tids:
         common.intersection_update(transactions[tid])
     closure_cache[itemset] = frozenset(common)
+
 
 # Deduplicate closed itemsets by their closure.
 closed = {}
@@ -87,6 +91,7 @@ for itemset, tids in frequent.items():
         )
     if minimal:
         generators[itemset] = closure_cache[itemset]
+
 
 # Exact closed implication basis: generator -> closure(generator) - generator.
 # Confidence is 1 by the definition of closure.
