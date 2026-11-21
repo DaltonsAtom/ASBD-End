@@ -1,0 +1,17 @@
+PYSPARK DECISION TREE CLASSIFICATION
+Predictors: Season, Innings, Team; target: Performance
+Max depth: 5; Gini; deterministic approximately 80/20 split
+NOTE: Split and class weights differ from the previous scikit-learn run.
+Results are descriptive, not a controlled platform speed comparison.
+
+algorithm: PySpark Decision Tree
+records: 2792
+train_records: 2300
+test_records: 492
+training_seconds: 1.9398659999715164
+prediction_seconds: 0.4301674999878742
+accuracy: 0.6808943089430894
+weighted_f1: 0.5516314232066142
+weighted_precision: 0.4636170599510873
+weighted_recall: 0.6808943089430894
+balanced_accuracy: 0.3333333333333333

@@ -1,0 +1,2793 @@
+Season,Matchid,Innings,Team,Batsman,R,B,4s,6s,SR,Runs_Bin
+2016,2,1,Afghanistan Innings,Mohammad Shahzad,61,39,5,3,156.41,Low
+2016,2,1,Afghanistan Innings,Noor Ali Zadran,17,12,2,1,141.67,Very Low
+2016,2,1,Afghanistan Innings,Asghar Afghan,55,50,2,1,110.0,Low
+2016,2,1,Afghanistan Innings,Gulbadin Naib,12,11,1,0,109.09,Very Low
+2016,2,1,Afghanistan Innings,Mohammad Nabi,1,1,0,0,100.0,Very Low
+2016,2,1,Afghanistan Innings,Shafiqullah Shafiq,14,5,3,0,280.0,Very Low
+2016,2,1,Afghanistan Innings,Dawlat Zadran,3,2,0,0,150.0,Very Low
+2016,2,2,Scotland Innings,George Munsey,41,29,9,0,141.38,Low
+2016,2,2,Scotland Innings,Kyle Coetzer,40,27,4,1,148.15,Low
+2016,2,2,Scotland Innings,Calum MacLeod,2,3,0,0,66.67,Very Low
+2016,2,2,Scotland Innings,Matt Machan,36,31,0,1,116.13,Low
+2016,2,2,Scotland Innings,Richie Berrington,8,10,0,0,80.0,Very Low
+2016,2,2,Scotland Innings,Preston Mommsen,17,19,0,0,89.47,Very Low
+2016,2,2,Scotland Innings,Matthew Cross,2,2,0,0,100.0,Very Low
+2016,3,1,Bangladesh Innings,Tamim Iqbal,83,58,6,3,143.1,Medium
+2016,3,1,Bangladesh Innings,Soumya Sarkar,15,13,2,0,115.38,Very Low
+2016,3,1,Bangladesh Innings,Sabbir Rahman,15,15,1,1,100.0,Very Low
+2016,3,1,Bangladesh Innings,Shakib Al Hasan,5,7,0,0,71.43,Very Low
+2016,3,1,Bangladesh Innings,Mahmudullah,10,9,1,0,111.11,Very Low
+2016,3,1,Bangladesh Innings,Mushfiqur Rahim,0,2,0,0,0.0,Very Low
+2016,3,1,Bangladesh Innings,Nasir Hossain,3,7,0,0,42.86,Very Low
+2016,3,1,Bangladesh Innings,Mashrafe Mortaza,7,5,0,1,140.0,Very Low
+2016,3,1,Bangladesh Innings,Arafat Sunny,8,4,0,1,200.0,Very Low
+2016,3,2,Netherlands Innings,Stephan Myburgh,29,29,5,0,100.0,Very Low
+2016,3,2,Netherlands Innings,Wesley Barresi,9,11,1,0,81.82,Very Low
+2016,3,2,Netherlands Innings,Ben Cooper,20,15,3,0,133.33,Very Low
+2016,3,2,Netherlands Innings,Peter Borren,29,28,3,0,103.57,Very Low
+2016,3,2,Netherlands Innings,Tom Cooper,15,18,2,0,83.33,Very Low
+2016,3,2,Netherlands Innings,Roelof van der Merwe,1,3,0,0,33.33,Very Low
+2016,3,2,Netherlands Innings,Pieter Seelaar,7,8,1,0,87.5,Very Low
+2016,3,2,Netherlands Innings,Mudassar Bukhari,14,5,1,1,280.0,Very Low
+2016,3,2,Netherlands Innings,Logan van Beek,4,3,0,0,133.33,Very Low
+2016,4,1,Ireland Innings,William Porterfield,29,28,3,1,103.57,Very Low
+2016,4,1,Ireland Innings,Paul Stirling,29,22,6,0,131.82,Very Low
+2016,4,1,Ireland Innings,Gary Wilson,38,34,5,0,111.76,Low
+2016,4,1,Ireland Innings,Niall O Brien,16,11,1,0,145.45,Very Low
+2016,4,1,Ireland Innings,Kevin O Brien,14,12,1,0,116.67,Very Low
+2016,4,1,Ireland Innings,Andrew Poynter,11,10,0,1,110.0,Very Low
+2016,4,1,Ireland Innings,Andy McBrine,10,3,2,0,333.33,Very Low
+2016,4,2,Oman Innings,Zeeshan Maqsood,38,33,6,0,115.15,Low
+2016,4,2,Oman Innings,Khawar Ali,34,26,4,2,130.77,Low
+2016,4,2,Oman Innings,Jatinder Singh,24,26,1,0,92.31,Very Low
+2016,4,2,Oman Innings,Adnan Ilyas,4,7,0,0,57.14,Very Low
+2016,4,2,Oman Innings,Mehran Khan,2,4,0,0,50.0,Very Low
+2016,4,2,Oman Innings,Aamir Kaleem,0,2,0,0,0.0,Very Low
+2016,4,2,Oman Innings,Amir Ali,32,17,5,1,188.24,Low
+2016,4,2,Oman Innings,Sultan Ahmed,1,2,0,0,50.0,Very Low
+2016,4,2,Oman Innings,Ajay Lalcheta,6,3,1,0,200.0,Very Low
+2016,4,2,Oman Innings,Munis Ansari,0,1,0,0,0.0,Very Low
+2016,5,1,Zimbabwe Innings,Vusi Sibanda,4,12,0,0,33.33,Very Low
+2016,5,1,Zimbabwe Innings,Hamilton Masakadza,12,10,3,0,120.0,Very Low
+2016,5,1,Zimbabwe Innings,Richmond Mutumbami,19,17,2,1,111.76,Very Low
+2016,5,1,Zimbabwe Innings,Sean Williams,53,36,6,0,147.22,Low
+2016,5,1,Zimbabwe Innings,Sikandar Raza,9,9,1,0,100.0,Very Low
+2016,5,1,Zimbabwe Innings,Malcolm Waller,13,13,1,0,100.0,Very Low
+2016,5,1,Zimbabwe Innings,Elton Chigumbura,20,17,1,1,117.65,Very Low
+2016,5,1,Zimbabwe Innings,Wellington Masakadza,4,6,0,0,66.67,Very Low
+2016,5,2,Scotland Innings,George Munsey,8,6,2,0,133.33,Very Low
+2016,5,2,Scotland Innings,Kyle Coetzer,3,4,0,0,75.0,Very Low
+2016,5,2,Scotland Innings,Matthew Cross,0,1,0,0,0.0,Very Low
+2016,5,2,Scotland Innings,Matt Machan,9,6,2,0,150.0,Very Low
+2016,5,2,Scotland Innings,Richie Berrington,36,39,1,1,92.31,Low
+2016,5,2,Scotland Innings,Michael Leask,9,13,1,0,69.23,Very Low
+2016,5,2,Scotland Innings,Preston Mommsen,31,27,2,0,114.81,Low
+2016,5,2,Scotland Innings,Safyaan Sharif,1,3,0,0,33.33,Very Low
+2016,5,2,Scotland Innings,Josh Davey,24,13,1,2,184.62,Very Low
+2016,5,2,Scotland Innings,Mark Watt,9,5,1,0,180.0,Very Low
+2016,5,2,Scotland Innings,Alasdair Evans,0,1,0,0,0.0,Very Low
+2016,6,1,Hong Kong Innings,Jamie Atkinson,16,20,2,0,80.0,Very Low
+2016,6,1,Hong Kong Innings,Ryan Campbell,27,24,5,0,112.5,Very Low
+2016,6,1,Hong Kong Innings,Babar Hayat,0,2,0,0,0.0,Very Low
+2016,6,1,Hong Kong Innings,Mark Chapman,8,11,0,0,72.73,Very Low
+2016,6,1,Hong Kong Innings,Anshuman Rath,28,31,1,0,90.32,Very Low
+2016,6,1,Hong Kong Innings,Nizakat Khan,8,10,0,0,80.0,Very Low
+2016,6,1,Hong Kong Innings,Kinchit Shah,11,14,1,0,78.57,Very Low
+2016,6,1,Hong Kong Innings,Tanwir Afzal,6,8,0,0,75.0,Very Low
+2016,6,2,Afghanistan Innings,Mohammad Shahzad,41,40,4,2,102.5,Low
+2016,6,2,Afghanistan Innings,Noor Ali Zadran,35,37,2,0,94.59,Low
+2016,6,2,Afghanistan Innings,Mohammad Nabi,17,11,2,0,154.55,Very Low
+2016,6,2,Afghanistan Innings,Najibullah Zadran,17,9,3,0,188.89,Very Low
+2016,6,2,Afghanistan Innings,Shafiqullah Shafiq,3,7,0,0,42.86,Very Low
+2016,6,2,Afghanistan Innings,Gulbadin Naib,4,5,0,0,80.0,Very Low
+2016,8,1,Bangladesh Innings,Tamim Iqbal,47,26,3,4,180.77,Low
+2016,8,1,Bangladesh Innings,Soumya Sarkar,20,13,3,0,153.85,Very Low
+2016,8,1,Bangladesh Innings,Sabbir Rahman,13,9,0,1,144.44,Very Low
+2016,9,1,Afghanistan Innings,Mohammad Shahzad,40,23,7,1,173.91,Low
+2016,9,1,Afghanistan Innings,Noor Ali Zadran,10,14,1,0,71.43,Very Low
+2016,9,1,Afghanistan Innings,Asghar Afghan,0,2,0,0,0.0,Very Low
+2016,9,1,Afghanistan Innings,Gulbadin Naib,7,7,1,0,100.0,Very Low
+2016,9,1,Afghanistan Innings,Samiullah Shinwari,43,37,4,1,116.22,Low
+2016,9,1,Afghanistan Innings,Mohammad Nabi,52,32,4,2,162.5,Low
+2016,9,1,Afghanistan Innings,Shafiqullah Shafiq,9,4,0,1,225.0,Very Low
+2016,9,1,Afghanistan Innings,Dawlat Zadran,0,1,0,0,0.0,Very Low
+2016,9,2,Zimbabwe Innings,Vusi Sibanda,13,21,0,0,61.9,Very Low
+2016,9,2,Zimbabwe Innings,Hamilton Masakadza,11,7,0,1,157.14,Very Low
+2016,9,2,Zimbabwe Innings,Richmond Mutumbami,10,12,2,0,83.33,Very Low
+2016,9,2,Zimbabwe Innings,Sean Williams,13,16,1,0,81.25,Very Low
+2016,9,2,Zimbabwe Innings,Malcolm Waller,7,10,0,0,70.0,Very Low
+2016,9,2,Zimbabwe Innings,Sikandar Raza,15,17,0,0,88.24,Very Low
+2016,9,2,Zimbabwe Innings,Elton Chigumbura,10,10,0,1,100.0,Very Low
+2016,9,2,Zimbabwe Innings,Wellington Masakadza,6,7,1,0,85.71,Very Low
+2016,9,2,Zimbabwe Innings,Donald Tiripano,2,4,0,0,50.0,Very Low
+2016,9,2,Zimbabwe Innings,Tinashe Panyangara,17,7,0,2,242.86,Very Low
+2016,9,2,Zimbabwe Innings,Tendai Chatara,8,7,1,0,114.29,Very Low
+2016,10,1,Hong Kong Innings,Jamie Atkinson,13,19,2,0,68.42,Very Low
+2016,10,1,Hong Kong Innings,Ryan Campbell,0,4,0,0,0.0,Very Low
+2016,10,1,Hong Kong Innings,Babar Hayat,15,10,3,0,150.0,Very Low
+2016,10,1,Hong Kong Innings,Mark Chapman,40,41,1,1,97.56,Low
+2016,10,1,Hong Kong Innings,Anshuman Rath,21,23,0,0,91.3,Very Low
+2016,10,1,Hong Kong Innings,Tanwir Afzal,0,4,0,0,0.0,Very Low
+2016,10,1,Hong Kong Innings,Nizakat Khan,17,10,0,2,170.0,Very Low
+2016,10,1,Hong Kong Innings,Kinchit Shah,7,5,1,0,140.0,Very Low
+2016,10,1,Hong Kong Innings,Aizaz Khan,7,4,1,0,175.0,Very Low
+2016,10,2,Scotland Innings,George Munsey,19,11,4,0,172.73,Very Low
+2016,10,2,Scotland Innings,Kyle Coetzer,20,19,2,0,105.26,Very Low
+2016,10,2,Scotland Innings,Matthew Cross,22,14,1,2,157.14,Very Low
+2016,10,2,Scotland Innings,Matt Machan,15,4,1,1,375.0,Very Low
+2016,11,1,Netherlands Innings,Stephan Myburgh,27,18,5,0,150.0,Very Low
+2016,11,1,Netherlands Innings,Tom Cooper,0,2,0,0,0.0,Very Low
+2016,11,1,Netherlands Innings,Roelof van der Merwe,2,2,0,0,100.0,Very Low
+2016,11,1,Netherlands Innings,Wesley Barresi,8,5,0,1,160.0,Very Low
+2016,11,1,Netherlands Innings,Peter Borren,14,9,3,0,155.56,Very Low
+2016,11,1,Netherlands Innings,Mudassar Bukhari,0,0,0,0,0.0,Very Low
+2016,11,2,Ireland Innings,William Porterfield,5,6,1,0,83.33,Very Low
+2016,11,2,Ireland Innings,Paul Stirling,15,7,0,2,214.29,Very Low
+2016,11,2,Ireland Innings,Kevin O Brien,0,2,0,0,0.0,Very Low
+2016,11,2,Ireland Innings,Gary Wilson,4,4,1,0,100.0,Very Low
+2016,11,2,Ireland Innings,Niall O Brien,4,8,0,0,50.0,Very Low
+2016,11,2,Ireland Innings,Andrew Poynter,0,1,0,0,0.0,Very Low
+2016,11,2,Ireland Innings,Max Sorensen,9,7,0,0,128.57,Very Low
+2016,11,2,Ireland Innings,George Dockrell,0,1,0,0,0.0,Very Low
+2016,11,2,Ireland Innings,Andy McBrine,1,1,0,0,100.0,Very Low
+2016,12,1,Bangladesh Innings,Tamim Iqbal,103,63,10,5,163.49,High
+2016,12,1,Bangladesh Innings,Soumya Sarkar,12,22,2,0,54.55,Very Low
+2016,12,1,Bangladesh Innings,Sabbir Rahman,44,26,5,1,169.23,Low
+2016,12,1,Bangladesh Innings,Shakib Al Hasan,17,9,2,1,188.89,Very Low
+2016,12,2,Oman Innings,Zeeshan Maqsood,0,2,0,0,0.0,Very Low
+2016,12,2,Oman Innings,Khawar Ali,8,14,0,1,57.14,Very Low
+2016,12,2,Oman Innings,Jatinder Singh,25,20,4,0,125.0,Very Low
+2016,12,2,Oman Innings,Adnan Ilyas,13,13,2,0,100.0,Very Low
+2016,12,2,Oman Innings,Aamir Kaleem,0,3,0,0,0.0,Very Low
+2016,12,2,Oman Innings,Amir Ali,4,3,1,0,133.33,Very Low
+2016,12,2,Oman Innings,Mehran Khan,4,5,0,0,80.0,Very Low
+2016,12,2,Oman Innings,Sultan Ahmed,1,3,0,0,33.33,Very Low
+2016,12,2,Oman Innings,Ajay Lalcheta,1,5,0,0,20.0,Very Low
+2016,12,2,Oman Innings,Munis Ansari,3,3,0,0,100.0,Very Low
+2016,12,2,Oman Innings,Bilal Khan,1,1,0,0,100.0,Very Low
+2016,13,1,New Zealand Innings,Martin Guptill,6,2,0,1,300.0,Very Low
+2016,13,1,New Zealand Innings,Kane Williamson,8,16,1,0,50.0,Very Low
+2016,13,1,New Zealand Innings,Colin Munro,7,6,0,1,116.67,Very Low
+2016,13,1,New Zealand Innings,Corey Anderson,34,42,3,0,80.95,Low
+2016,13,1,New Zealand Innings,Ross Taylor,10,14,1,0,71.43,Very Low
+2016,13,1,New Zealand Innings,Mitchell Santner,18,17,2,0,105.88,Very Low
+2016,13,1,New Zealand Innings,Grant Elliott,9,12,0,0,75.0,Very Low
+2016,13,1,New Zealand Innings,Luke Ronchi,21,11,2,1,190.91,Very Low
+2016,13,1,New Zealand Innings,Nathan McCullum,0,0,0,0,0.0,Very Low
+2016,13,2,India Innings,Rohit Sharma,5,7,0,0,71.43,Very Low
+2016,13,2,India Innings,Shikhar Dhawan,1,3,0,0,33.33,Very Low
+2016,13,2,India Innings,Virat Kohli,23,27,2,0,85.19,Very Low
+2016,13,2,India Innings,Suresh Raina,1,2,0,0,50.0,Very Low
+2016,13,2,India Innings,Yuvraj Singh,4,5,1,0,80.0,Very Low
+2016,13,2,India Innings,MS Dhoni,30,30,1,1,100.0,Very Low
+2016,13,2,India Innings,Hardik Pandya,1,7,0,0,14.29,Very Low
+2016,13,2,India Innings,Ravindra Jadeja,0,3,0,0,0.0,Very Low
+2016,13,2,India Innings,Ravichandran Ashwin,10,20,0,0,50.0,Very Low
+2016,13,2,India Innings,Ashish Nehra,0,4,0,0,0.0,Very Low
+2016,13,2,India Innings,Jasprit Bumrah,0,2,0,0,0.0,Very Low
+2016,14,1,Pakistan Innings,Sharjeel Khan,18,10,1,2,180.0,Very Low
+2016,14,1,Pakistan Innings,Ahmed Shehzad,52,39,8,0,133.33,Low
+2016,14,1,Pakistan Innings,Mohammad Hafeez,64,42,7,2,152.38,Medium
+2016,14,1,Pakistan Innings,Shahid Afridi,49,19,4,4,257.89,Low
+2016,14,1,Pakistan Innings,Umar Akmal,0,2,0,0,0.0,Very Low
+2016,14,1,Pakistan Innings,Shoaib Malik,15,9,2,0,166.67,Very Low
+2016,14,1,Pakistan Innings,Imad Wasim,0,0,0,0,0.0,Very Low
+2016,14,2,Bangladesh Innings,Tamim Iqbal,24,20,0,2,120.0,Very Low
+2016,14,2,Bangladesh Innings,Soumya Sarkar,0,2,0,0,0.0,Very Low
+2016,14,2,Bangladesh Innings,Sabbir Rahman,25,19,5,0,131.58,Very Low
+2016,14,2,Bangladesh Innings,Shakib Al Hasan,50,40,5,1,125.0,Low
+2016,14,2,Bangladesh Innings,Mahmudullah,4,5,0,0,80.0,Very Low
+2016,14,2,Bangladesh Innings,Mushfiqur Rahim,18,21,3,0,85.71,Very Low
+2016,14,2,Bangladesh Innings,Mohammad Mithun,2,4,0,0,50.0,Very Low
+2016,14,2,Bangladesh Innings,Mashrafe Mortaza,15,9,2,1,166.67,Very Low
+2016,15,1,England Innings,Jason Roy,15,15,2,0,100.0,Very Low
+2016,15,1,England Innings,Alex Hales,28,26,4,0,107.69,Very Low
+2016,15,1,England Innings,Joe Root,48,36,3,2,133.33,Low
+2016,15,1,England Innings,Jos Buttler,30,20,0,3,150.0,Very Low
+2016,15,1,England Innings,Eoin Morgan,27,14,1,2,192.86,Very Low
+2016,15,1,England Innings,Ben Stokes,15,7,2,1,214.29,Very Low
+2016,15,1,England Innings,Moeen Ali,7,2,0,1,350.0,Very Low
+2016,15,2,West Indies Innings,Johnson Charles,0,2,0,0,0.0,Very Low
+2016,15,2,West Indies Innings,Chris Gayle,100,48,5,11,208.33,High
+2016,15,2,West Indies Innings,Marlon Samuels,37,27,8,0,137.04,Low
+2016,15,2,West Indies Innings,Denesh Ramdin,12,14,1,0,85.71,Very Low
+2016,15,2,West Indies Innings,Dwayne Bravo,2,4,0,0,50.0,Very Low
+2016,15,2,West Indies Innings,Andre Russell,16,16,2,0,100.0,Very Low
+2016,16,1,Afghanistan Innings,Mohammad Shahzad,8,12,1,0,66.67,Very Low
+2016,16,1,Afghanistan Innings,Noor Ali Zadran,20,23,3,0,86.96,Very Low
+2016,16,1,Afghanistan Innings,Asghar Afghan,62,47,3,4,131.91,Medium
+2016,16,1,Afghanistan Innings,Karim Sadiq,0,7,0,0,0.0,Very Low
+2016,16,1,Afghanistan Innings,Mohammad Nabi,3,4,0,0,75.0,Very Low
+2016,16,1,Afghanistan Innings,Samiullah Shinwari,31,14,3,2,221.43,Low
+2016,16,1,Afghanistan Innings,Shafiqullah Shafiq,5,7,0,0,71.43,Very Low
+2016,16,1,Afghanistan Innings,Dawlat Zadran,5,3,0,0,166.67,Very Low
+2016,16,1,Afghanistan Innings,Najibullah Zadran,12,3,1,1,400.0,Very Low
+2016,16,2,Sri Lanka Innings,Dinesh Chandimal,18,17,2,1,105.88,Very Low
+2016,16,2,Sri Lanka Innings,Tillakaratne Dilshan,83,56,8,3,148.21,Medium
+2016,16,2,Sri Lanka Innings,Lahiru Thirimanne,6,13,1,0,46.15,Very Low
+2016,16,2,Sri Lanka Innings,Thisara Perera,12,8,0,1,150.0,Very Low
+2016,16,2,Sri Lanka Innings,Chamara Kapugedera,10,9,1,0,111.11,Very Low
+2016,16,2,Sri Lanka Innings,Angelo Mathews,21,10,3,1,210.0,Very Low
+2016,17,1,New Zealand Innings,Martin Guptill,39,27,2,4,144.44,Low
+2016,17,1,New Zealand Innings,Kane Williamson,24,20,4,0,120.0,Very Low
+2016,17,1,New Zealand Innings,Colin Munro,23,26,2,0,88.46,Very Low
+2016,17,1,New Zealand Innings,Corey Anderson,3,6,0,0,50.0,Very Low
+2016,17,1,New Zealand Innings,Ross Taylor,11,11,0,1,100.0,Very Low
+2016,17,1,New Zealand Innings,Grant Elliott,27,20,3,0,135.0,Very Low
+2016,17,1,New Zealand Innings,Luke Ronchi,6,7,0,0,85.71,Very Low
+2016,17,1,New Zealand Innings,Mitchell Santner,1,1,0,0,100.0,Very Low
+2016,17,1,New Zealand Innings,Adam Milne,2,2,0,0,100.0,Very Low
+2016,17,2,Australia Innings,Usman Khawaja,38,27,6,0,140.74,Low
+2016,17,2,Australia Innings,Shane Watson,13,12,1,0,108.33,Very Low
+2016,17,2,Australia Innings,Steven Smith,6,7,1,0,85.71,Very Low
+2016,17,2,Australia Innings,David Warner,6,11,0,0,54.55,Very Low
+2016,17,2,Australia Innings,Glenn Maxwell,22,23,2,0,95.65,Very Low
+2016,17,2,Australia Innings,Mitchell Marsh,24,23,0,2,104.35,Very Low
+2016,17,2,Australia Innings,Ashton Agar,9,8,0,1,112.5,Very Low
+2016,17,2,Australia Innings,James Faulkner,2,4,0,0,50.0,Very Low
+2016,17,2,Australia Innings,Nathan Coulter-Nile,1,2,0,0,50.0,Very Low
+2016,17,2,Australia Innings,Peter Nevill,7,2,0,1,350.0,Very Low
+2016,17,2,Australia Innings,Adam Zampa,2,1,0,0,200.0,Very Low
+2016,18,1,South Africa Innings,Hashim Amla,58,31,7,3,187.1,Low
+2016,18,1,South Africa Innings,Quinton de Kock,52,24,7,3,216.67,Low
+2016,18,1,South Africa Innings,AB de Villiers,16,8,0,2,200.0,Very Low
+2016,18,1,South Africa Innings,Faf du Plessis,17,17,1,0,100.0,Very Low
+2016,18,1,South Africa Innings,Jean-Paul Duminy,54,28,3,3,192.86,Low
+2016,18,1,South Africa Innings,David Miller,28,12,2,2,233.33,Very Low
+2016,18,2,England Innings,Jason Roy,43,16,5,3,268.75,Low
+2016,18,2,England Innings,Alex Hales,17,7,4,0,242.86,Very Low
+2016,18,2,England Innings,Ben Stokes,15,9,1,1,166.67,Very Low
+2016,18,2,England Innings,Joe Root,83,44,6,4,188.64,Medium
+2016,18,2,England Innings,Eoin Morgan,12,15,0,0,80.0,Very Low
+2016,18,2,England Innings,Jos Buttler,21,14,1,1,150.0,Very Low
+2016,18,2,England Innings,Moeen Ali,8,10,1,0,80.0,Very Low
+2016,18,2,England Innings,Chris Jordan,5,3,1,0,166.67,Very Low
+2016,18,2,England Innings,David Willey,0,0,0,0,0.0,Very Low
+2016,18,2,England Innings,Adil Rashid,0,0,0,0,0.0,Very Low
+2016,19,1,Pakistan Innings,Sharjeel Khan,17,24,2,0,70.83,Very Low
+2016,19,1,Pakistan Innings,Ahmed Shehzad,25,28,3,0,89.29,Very Low
+2016,19,1,Pakistan Innings,Shahid Afridi,8,14,1,0,57.14,Very Low
+2016,19,1,Pakistan Innings,Umar Akmal,22,16,1,1,137.5,Very Low
+2016,19,1,Pakistan Innings,Shoaib Malik,26,16,3,1,162.5,Very Low
+2016,19,1,Pakistan Innings,Sarfaraz Ahmed,8,6,1,0,133.33,Very Low
+2016,19,1,Pakistan Innings,Mohammad Hafeez,5,5,0,0,100.0,Very Low
+2016,19,2,India Innings,Rohit Sharma,10,11,2,0,90.91,Very Low
+2016,19,2,India Innings,Shikhar Dhawan,6,15,1,0,40.0,Very Low
+2016,19,2,India Innings,Virat Kohli,55,37,7,1,148.65,Low
+2016,19,2,India Innings,Suresh Raina,0,1,0,0,0.0,Very Low
+2016,19,2,India Innings,Yuvraj Singh,24,23,1,1,104.35,Very Low
+2016,19,2,India Innings,MS Dhoni,13,9,0,1,144.44,Very Low
+2016,20,1,South Africa Innings,Quinton de Kock,45,31,6,2,145.16,Low
+2016,20,1,South Africa Innings,Hashim Amla,5,5,1,0,100.0,Very Low
+2016,20,1,South Africa Innings,Faf du Plessis,41,27,7,1,151.85,Low
+2016,20,1,South Africa Innings,AB de Villiers,64,29,4,5,220.69,Medium
+2016,20,1,South Africa Innings,Jean-Paul Duminy,29,20,2,1,145.0,Very Low
+2016,20,1,South Africa Innings,David Miller,19,8,2,1,237.5,Very Low
+2016,20,1,South Africa Innings,David Wiese,0,0,0,0,0.0,Very Low
+2016,20,2,Afghanistan Innings,Mohammad Shahzad,44,19,3,5,231.58,Low
+2016,20,2,Afghanistan Innings,Noor Ali Zadran,25,24,1,1,104.17,Very Low
+2016,20,2,Afghanistan Innings,Asghar Afghan,7,6,0,1,116.67,Very Low
+2016,20,2,Afghanistan Innings,Gulbadin Naib,26,18,3,1,144.44,Very Low
+2016,20,2,Afghanistan Innings,Mohammad Nabi,11,14,1,0,78.57,Very Low
+2016,20,2,Afghanistan Innings,Samiullah Shinwari,25,14,3,0,178.57,Very Low
+2016,20,2,Afghanistan Innings,Najibullah Zadran,12,8,1,1,150.0,Very Low
+2016,20,2,Afghanistan Innings,Rashid Khan,11,7,2,0,157.14,Very Low
+2016,20,2,Afghanistan Innings,Dawlat Zadran,0,2,0,0,0.0,Very Low
+2016,20,2,Afghanistan Innings,Amir Hamza,3,6,0,0,50.0,Very Low
+2016,20,2,Afghanistan Innings,Shapoor Zadran,1,2,0,0,50.0,Very Low
+2016,21,1,Sri Lanka Innings,Dinesh Chandimal,16,18,1,1,88.89,Very Low
+2016,21,1,Sri Lanka Innings,Tillakaratne Dilshan,12,10,1,1,120.0,Very Low
+2016,21,1,Sri Lanka Innings,Lahiru Thirimanne,5,7,1,0,71.43,Very Low
+2016,21,1,Sri Lanka Innings,Chamara Kapugedera,6,10,1,0,60.0,Very Low
+2016,21,1,Sri Lanka Innings,Angelo Mathews,20,32,0,0,62.5,Very Low
+2016,21,1,Sri Lanka Innings,Milinda Siriwardana,0,3,0,0,0.0,Very Low
+2016,21,1,Sri Lanka Innings,Thisara Perera,40,29,5,1,137.93,Low
+2016,21,1,Sri Lanka Innings,Nuwan Kulasekara,7,8,0,0,87.5,Very Low
+2016,21,1,Sri Lanka Innings,Rangana Herath,3,3,0,0,100.0,Very Low
+2016,21,1,Sri Lanka Innings,Jeffrey Vandersay,0,1,0,0,0.0,Very Low
+2016,21,1,Sri Lanka Innings,Dushmantha Chameera,0,0,0,0,0.0,Very Low
+2016,21,2,West Indies Innings,Andre Fletcher,84,64,6,5,131.25,Medium
+2016,21,2,West Indies Innings,Johnson Charles,10,13,1,0,76.92,Very Low
+2016,21,2,West Indies Innings,Marlon Samuels,3,12,0,0,25.0,Very Low
+2016,21,2,West Indies Innings,Denesh Ramdin,5,13,0,0,38.46,Very Low
+2016,21,2,West Indies Innings,Andre Russell,20,8,3,1,250.0,Very Low
+2016,23,1,New Zealand Innings,Martin Guptill,80,48,10,3,166.67,Medium
+2016,23,1,New Zealand Innings,Kane Williamson,17,21,1,0,80.95,Very Low
+2016,23,1,New Zealand Innings,Colin Munro,7,6,1,0,116.67,Very Low
+2016,23,1,New Zealand Innings,Corey Anderson,21,14,3,0,150.0,Very Low
+2016,23,1,New Zealand Innings,Ross Taylor,36,23,2,1,156.52,Low
+2016,23,1,New Zealand Innings,Luke Ronchi,11,7,0,1,157.14,Very Low
+2016,23,1,New Zealand Innings,Grant Elliott,1,1,0,0,100.0,Very Low
+2016,23,2,Pakistan Innings,Sharjeel Khan,47,25,9,1,188.0,Low
+2016,23,2,Pakistan Innings,Ahmed Shehzad,30,32,3,0,93.75,Very Low
+2016,23,2,Pakistan Innings,Khalid Latif,3,7,0,0,42.86,Very Low
+2016,23,2,Pakistan Innings,Umar Akmal,24,26,0,0,92.31,Very Low
+2016,23,2,Pakistan Innings,Shahid Afridi,19,9,2,1,211.11,Very Low
+2016,23,2,Pakistan Innings,Shoaib Malik,15,13,0,0,115.38,Very Low
+2016,23,2,Pakistan Innings,Sarfaraz Ahmed,11,8,0,0,137.5,Very Low
+2016,24,1,England Innings,Jason Roy,5,7,1,0,71.43,Very Low
+2016,24,1,England Innings,James Vince,22,18,4,0,122.22,Very Low
+2016,24,1,England Innings,Joe Root,12,8,1,1,150.0,Very Low
+2016,24,1,England Innings,Eoin Morgan,0,1,0,0,0.0,Very Low
+2016,24,1,England Innings,Ben Stokes,7,8,1,0,87.5,Very Low
+2016,24,1,England Innings,Jos Buttler,6,10,1,0,60.0,Very Low
+2016,24,1,England Innings,Moeen Ali,41,33,4,1,124.24,Low
+2016,24,1,England Innings,Chris Jordan,15,18,2,0,83.33,Very Low
+2016,24,1,England Innings,David Willey,20,17,0,2,117.65,Very Low
+2016,24,2,Afghanistan Innings,Mohammad Shahzad,4,3,1,0,133.33,Very Low
+2016,24,2,Afghanistan Innings,Noor Ali Zadran,17,19,0,0,89.47,Very Low
+2016,24,2,Afghanistan Innings,Asghar Afghan,1,4,0,0,25.0,Very Low
+2016,24,2,Afghanistan Innings,Gulbadin Naib,0,5,0,0,0.0,Very Low
+2016,24,2,Afghanistan Innings,Rashid Khan,15,20,1,1,75.0,Very Low
+2016,24,2,Afghanistan Innings,Mohammad Nabi,12,10,0,1,120.0,Very Low
+2016,24,2,Afghanistan Innings,Samiullah Shinwari,22,27,1,0,81.48,Very Low
+2016,24,2,Afghanistan Innings,Najibullah Zadran,14,10,1,1,140.0,Very Low
+2016,24,2,Afghanistan Innings,Shafiqullah Shafiq,35,20,4,2,175.0,Low
+2016,24,2,Afghanistan Innings,Amir Hamza,1,2,0,0,50.0,Very Low
+2016,24,2,Afghanistan Innings,Shapoor Zadran,0,0,0,0,0.0,Very Low
+2016,25,1,India Innings,Rohit Sharma,18,16,1,1,112.5,Very Low
+2016,25,1,India Innings,Shikhar Dhawan,23,22,2,1,104.55,Very Low
+2016,25,1,India Innings,Virat Kohli,24,24,0,1,100.0,Very Low
+2016,25,1,India Innings,Suresh Raina,30,23,1,2,130.43,Very Low
+2016,25,1,India Innings,Hardik Pandya,15,7,2,1,214.29,Very Low
+2016,25,1,India Innings,MS Dhoni,13,12,1,0,108.33,Very Low
+2016,25,1,India Innings,Yuvraj Singh,3,6,0,0,50.0,Very Low
+2016,25,1,India Innings,Ravindra Jadeja,12,8,2,0,150.0,Very Low
+2016,25,1,India Innings,Ravichandran Ashwin,5,2,1,0,250.0,Very Low
+2016,25,2,Bangladesh Innings,Tamim Iqbal,35,32,5,0,109.38,Low
+2016,25,2,Bangladesh Innings,Mohammad Mithun,1,3,0,0,33.33,Very Low
+2016,25,2,Bangladesh Innings,Sabbir Rahman,26,15,3,1,173.33,Very Low
+2016,25,2,Bangladesh Innings,Shakib Al Hasan,22,15,0,2,146.67,Very Low
+2016,25,2,Bangladesh Innings,Mashrafe Mortaza,6,5,0,1,120.0,Very Low
+2016,25,2,Bangladesh Innings,Mahmudullah,18,22,1,0,81.82,Very Low
+2016,25,2,Bangladesh Innings,Soumya Sarkar,21,21,1,1,100.0,Very Low
+2016,25,2,Bangladesh Innings,Mushfiqur Rahim,11,6,2,0,183.33,Very Low
+2016,25,2,Bangladesh Innings,Shuvagata Hom,0,1,0,0,0.0,Very Low
+2016,25,2,Bangladesh Innings,Mustafizur Rahman,0,0,0,0,0.0,Very Low
+2016,26,1,Australia Innings,Usman Khawaja,21,16,3,1,131.25,Very Low
+2016,26,1,Australia Innings,Aaron Finch,15,16,1,0,93.75,Very Low
+2016,26,1,Australia Innings,David Warner,9,6,2,0,150.0,Very Low
+2016,26,1,Australia Innings,Steven Smith,61,43,7,0,141.86,Low
+2016,26,1,Australia Innings,Glenn Maxwell,30,18,3,1,166.67,Very Low
+2016,26,1,Australia Innings,Shane Watson,44,21,4,3,209.52,Low
+2016,26,2,Pakistan Innings,Sharjeel Khan,30,19,6,0,157.89,Very Low
+2016,26,2,Pakistan Innings,Ahmed Shehzad,1,6,0,0,16.67,Very Low
+2016,26,2,Pakistan Innings,Khalid Latif,46,41,4,1,112.2,Low
+2016,26,2,Pakistan Innings,Umar Akmal,32,20,3,1,160.0,Low
+2016,26,2,Pakistan Innings,Shahid Afridi,14,7,0,2,200.0,Very Low
+2016,26,2,Pakistan Innings,Shoaib Malik,40,20,2,2,200.0,Low
+2016,26,2,Pakistan Innings,Imad Wasim,0,1,0,0,0.0,Very Low
+2016,26,2,Pakistan Innings,Sarfaraz Ahmed,2,3,0,0,66.67,Very Low
+2016,26,2,Pakistan Innings,Wahab Riaz,0,1,0,0,0.0,Very Low
+2016,26,2,Pakistan Innings,Mohammad Sami,4,2,1,0,200.0,Very Low
+2016,27,1,South Africa Innings,Hashim Amla,1,1,0,0,100.0,Very Low
+2016,27,1,South Africa Innings,Quinton de Kock,47,46,3,1,102.17,Low
+2016,27,1,South Africa Innings,Faf du Plessis,9,7,0,1,128.57,Very Low
+2016,27,1,South Africa Innings,Rilee Rossouw,0,2,0,0,0.0,Very Low
+2016,27,1,South Africa Innings,AB de Villiers,10,12,1,0,83.33,Very Low
+2016,27,1,South Africa Innings,David Miller,1,4,0,0,25.0,Very Low
+2016,27,1,South Africa Innings,David Wiese,28,26,2,0,107.69,Very Low
+2016,27,1,South Africa Innings,Chris Morris,16,17,2,0,94.12,Very Low
+2016,27,1,South Africa Innings,Aaron Phangiso,4,5,0,0,80.0,Very Low
+2016,27,2,West Indies Innings,Johnson Charles,32,35,2,1,91.43,Low
+2016,27,2,West Indies Innings,Chris Gayle,4,2,1,0,200.0,Very Low
+2016,27,2,West Indies Innings,Andre Fletcher,11,11,0,1,100.0,Very Low
+2016,27,2,West Indies Innings,Marlon Samuels,43,44,6,0,97.73,Low
+2016,27,2,West Indies Innings,Dwayne Bravo,8,6,1,0,133.33,Very Low
+2016,27,2,West Indies Innings,Andre Russell,4,8,0,0,50.0,Very Low
+2016,27,2,West Indies Innings,Daren Sammy,0,1,0,0,0.0,Very Low
+2016,27,2,West Indies Innings,Carlos Brathwaite,10,10,0,1,100.0,Very Low
+2016,27,2,West Indies Innings,Denesh Ramdin,1,1,0,0,100.0,Very Low
+2016,28,1,New Zealand Innings,Henry Nicholls,7,11,1,0,63.64,Very Low
+2016,28,1,New Zealand Innings,Kane Williamson,42,32,5,1,131.25,Low
+2016,28,1,New Zealand Innings,Colin Munro,35,33,1,2,106.06,Low
+2016,28,1,New Zealand Innings,Ross Taylor,28,24,2,1,116.67,Very Low
+2016,28,1,New Zealand Innings,Corey Anderson,0,3,0,0,0.0,Very Low
+2016,28,1,New Zealand Innings,Grant Elliott,9,7,1,0,128.57,Very Low
+2016,28,1,New Zealand Innings,Luke Ronchi,9,5,1,0,180.0,Very Low
+2016,28,1,New Zealand Innings,Mitchell Santner,3,3,0,0,100.0,Very Low
+2016,28,1,New Zealand Innings,Nathan McCullum,0,1,0,0,0.0,Very Low
+2016,28,1,New Zealand Innings,Mitchell McClenaghan,6,1,0,1,600.0,Very Low
+2016,28,2,Bangladesh Innings,Tamim Iqbal,3,8,0,0,37.5,Very Low
+2016,28,2,Bangladesh Innings,Mohammad Mithun,11,17,1,0,64.71,Very Low
+2016,28,2,Bangladesh Innings,Sabbir Rahman,12,18,1,0,66.67,Very Low
+2016,28,2,Bangladesh Innings,Shakib Al Hasan,2,6,0,0,33.33,Very Low
+2016,28,2,Bangladesh Innings,Soumya Sarkar,6,8,0,0,75.0,Very Low
+2016,28,2,Bangladesh Innings,Mahmudullah,5,8,0,0,62.5,Very Low
+2016,28,2,Bangladesh Innings,Mushfiqur Rahim,0,2,0,0,0.0,Very Low
+2016,28,2,Bangladesh Innings,Shuvagata Hom,16,17,2,0,94.12,Very Low
+2016,28,2,Bangladesh Innings,Mashrafe Mortaza,3,5,0,0,60.0,Very Low
+2016,28,2,Bangladesh Innings,Mustafizur Rahman,6,3,0,1,200.0,Very Low
+2016,28,2,Bangladesh Innings,Al-Amin Hossain,0,2,0,0,0.0,Very Low
+2016,29,1,England Innings,Jason Roy,42,39,3,2,107.69,Low
+2016,29,1,England Innings,Alex Hales,0,4,0,0,0.0,Very Low
+2016,29,1,England Innings,Joe Root,25,24,4,0,104.17,Very Low
+2016,29,1,England Innings,Jos Buttler,66,37,8,2,178.38,Medium
+2016,29,1,England Innings,Eoin Morgan,22,16,1,1,137.5,Very Low
+2016,29,1,England Innings,Ben Stokes,6,1,0,1,600.0,Very Low
+2016,29,2,Sri Lanka Innings,Dinesh Chandimal,1,3,0,0,33.33,Very Low
+2016,29,2,Sri Lanka Innings,Tillakaratne Dilshan,2,2,0,0,100.0,Very Low
+2016,29,2,Sri Lanka Innings,Milinda Siriwardana,7,7,0,1,100.0,Very Low
+2016,29,2,Sri Lanka Innings,Lahiru Thirimanne,3,5,0,0,60.0,Very Low
+2016,29,2,Sri Lanka Innings,Angelo Mathews,73,54,3,5,135.19,Medium
+2016,29,2,Sri Lanka Innings,Chamara Kapugedera,30,27,2,1,111.11,Very Low
+2016,29,2,Sri Lanka Innings,Thisara Perera,20,11,1,2,181.82,Very Low
+2016,29,2,Sri Lanka Innings,Dasun Shanaka,15,9,2,1,166.67,Very Low
+2016,29,2,Sri Lanka Innings,Rangana Herath,1,2,0,0,50.0,Very Low
+2016,29,2,Sri Lanka Innings,Jeffrey Vandersay,0,0,0,0,0.0,Very Low
+2016,30,1,Afghanistan Innings,Mohammad Shahzad,24,22,2,1,109.09,Very Low
+2016,30,1,Afghanistan Innings,Usman Ghani,4,6,1,0,66.67,Very Low
+2016,30,1,Afghanistan Innings,Asghar Afghan,16,22,0,1,72.73,Very Low
+2016,30,1,Afghanistan Innings,Gulbadin Naib,8,14,0,0,57.14,Very Low
+2016,30,1,Afghanistan Innings,Samiullah Shinwari,1,3,0,0,33.33,Very Low
+2016,30,1,Afghanistan Innings,Najibullah Zadran,48,40,4,1,120.0,Low
+2016,30,1,Afghanistan Innings,Mohammad Nabi,9,8,1,0,112.5,Very Low
+2016,30,1,Afghanistan Innings,Shafiqullah Shafiq,4,4,0,0,100.0,Very Low
+2016,30,1,Afghanistan Innings,Rashid Khan,6,1,0,1,600.0,Very Low
+2016,30,2,West Indies Innings,Johnson Charles,22,15,1,2,146.67,Very Low
+2016,30,2,West Indies Innings,Evin Lewis,0,7,0,0,0.0,Very Low
+2016,30,2,West Indies Innings,Andre Fletcher,11,13,2,0,84.62,Very Low
+2016,30,2,West Indies Innings,Marlon Samuels,5,5,1,0,100.0,Very Low
+2016,30,2,West Indies Innings,Denesh Ramdin,18,24,0,0,75.0,Very Low
+2016,30,2,West Indies Innings,Dwayne Bravo,28,29,1,1,96.55,Very Low
+2016,30,2,West Indies Innings,Andre Russell,7,9,0,0,77.78,Very Low
+2016,30,2,West Indies Innings,Daren Sammy,6,10,0,0,60.0,Very Low
+2016,30,2,West Indies Innings,Carlos Brathwaite,13,8,0,2,162.5,Very Low
+2016,30,2,West Indies Innings,Samuel Badree,2,2,0,0,100.0,Very Low
+2016,31,1,Australia Innings,Usman Khawaja,26,16,6,0,162.5,Very Low
+2016,31,1,Australia Innings,Aaron Finch,43,34,3,2,126.47,Low
+2016,31,1,Australia Innings,David Warner,6,9,0,0,66.67,Very Low
+2016,31,1,Australia Innings,Steven Smith,2,6,0,0,33.33,Very Low
+2016,31,1,Australia Innings,Glenn Maxwell,31,28,1,1,110.71,Low
+2016,31,1,Australia Innings,Shane Watson,18,16,2,0,112.5,Very Low
+2016,31,1,Australia Innings,James Faulkner,10,10,1,0,100.0,Very Low
+2016,31,1,Australia Innings,Peter Nevill,10,2,1,1,500.0,Very Low
+2016,31,2,India Innings,Rohit Sharma,12,17,1,0,70.59,Very Low
+2016,31,2,India Innings,Shikhar Dhawan,13,12,1,1,108.33,Very Low
+2016,31,2,India Innings,Virat Kohli,82,51,9,2,160.78,Medium
+2016,31,2,India Innings,Suresh Raina,10,7,1,0,142.86,Very Low
+2016,31,2,India Innings,Yuvraj Singh,21,18,1,1,116.67,Very Low
+2016,31,2,India Innings,MS Dhoni,18,10,3,0,180.0,Very Low
+2016,32,1,Sri Lanka Innings,Dinesh Chandimal,21,20,2,1,105.0,Very Low
+2016,32,1,Sri Lanka Innings,Tillakaratne Dilshan,36,40,4,1,90.0,Low
+2016,32,1,Sri Lanka Innings,Lahiru Thirimanne,0,1,0,0,0.0,Very Low
+2016,32,1,Sri Lanka Innings,Milinda Siriwardana,15,10,2,0,150.0,Very Low
+2016,32,1,Sri Lanka Innings,Shehan Jayasuriya,1,3,0,0,33.33,Very Low
+2016,32,1,Sri Lanka Innings,Chamara Kapugedera,4,7,0,0,57.14,Very Low
+2016,32,1,Sri Lanka Innings,Thisara Perera,8,7,1,0,114.29,Very Low
+2016,32,1,Sri Lanka Innings,Dasun Shanaka,20,18,1,1,111.11,Very Low
+2016,32,1,Sri Lanka Innings,Rangana Herath,2,5,0,0,40.0,Very Low
+2016,32,1,Sri Lanka Innings,Jeffrey Vandersay,3,7,0,0,42.86,Very Low
+2016,32,1,Sri Lanka Innings,Suranga Lakmal,0,1,0,0,0.0,Very Low
+2016,32,2,South Africa Innings,Hashim Amla,56,52,5,1,107.69,Low
+2016,32,2,South Africa Innings,Quinton de Kock,9,6,2,0,150.0,Very Low
+2016,32,2,South Africa Innings,Faf du Plessis,31,36,3,0,86.11,Low
+2016,32,2,South Africa Innings,AB de Villiers,20,12,0,2,166.67,Very Low
+2016,33,1,New Zealand Innings,Martin Guptill,15,12,3,0,125.0,Very Low
+2016,33,1,New Zealand Innings,Kane Williamson,32,28,3,1,114.29,Low
+2016,33,1,New Zealand Innings,Colin Munro,46,32,7,1,143.75,Low
+2016,33,1,New Zealand Innings,Corey Anderson,28,23,2,1,121.74,Very Low
+2016,33,1,New Zealand Innings,Ross Taylor,6,8,0,0,75.0,Very Low
+2016,33,1,New Zealand Innings,Luke Ronchi,3,3,0,0,100.0,Very Low
+2016,33,1,New Zealand Innings,Grant Elliott,4,6,0,0,66.67,Very Low
+2016,33,1,New Zealand Innings,Mitchell Santner,7,6,1,0,116.67,Very Low
+2016,33,1,New Zealand Innings,Mitchell McClenaghan,1,2,0,0,50.0,Very Low
+2016,33,2,England Innings,Jason Roy,78,44,11,2,177.27,Medium
+2016,33,2,England Innings,Alex Hales,20,19,1,1,105.26,Very Low
+2016,33,2,England Innings,Joe Root,27,22,3,0,122.73,Very Low
+2016,33,2,England Innings,Eoin Morgan,0,1,0,0,0.0,Very Low
+2016,33,2,England Innings,Jos Buttler,32,17,2,3,188.24,Low
+2016,34,1,India Innings,Rohit Sharma,43,31,3,3,138.71,Low
+2016,34,1,India Innings,Ajinkya Rahane,40,35,2,0,114.29,Low
+2016,34,1,India Innings,Virat Kohli,89,47,11,1,189.36,Medium
+2016,34,1,India Innings,MS Dhoni,15,9,1,0,166.67,Very Low
+2016,34,2,West Indies Innings,Johnson Charles,52,36,7,2,144.44,Low
+2016,34,2,West Indies Innings,Chris Gayle,5,6,1,0,83.33,Very Low
+2016,34,2,West Indies Innings,Marlon Samuels,8,7,2,0,114.29,Very Low
+2016,34,2,West Indies Innings,Lendl Simmons,82,51,7,5,160.78,Medium
+2016,34,2,West Indies Innings,Andre Russell,43,20,3,4,215.0,Low
+2016,35,1,England Innings,Jason Roy,0,2,0,0,0.0,Very Low
+2016,35,1,England Innings,Alex Hales,1,3,0,0,33.33,Very Low
+2016,35,1,England Innings,Joe Root,54,36,7,0,150.0,Low
+2016,35,1,England Innings,Eoin Morgan,5,12,1,0,41.67,Very Low
+2016,35,1,England Innings,Jos Buttler,36,22,1,3,163.64,Low
+2016,35,1,England Innings,Ben Stokes,13,8,1,0,162.5,Very Low
+2016,35,1,England Innings,Moeen Ali,0,2,0,0,0.0,Very Low
+2016,35,1,England Innings,Chris Jordan,12,13,1,0,92.31,Very Low
+2016,35,1,England Innings,David Willey,21,14,1,2,150.0,Very Low
+2016,35,1,England Innings,Liam Plunkett,4,4,0,0,100.0,Very Low
+2016,35,1,England Innings,Adil Rashid,4,4,0,0,100.0,Very Low
+2016,35,2,West Indies Innings,Johnson Charles,1,7,0,0,14.29,Very Low
+2016,35,2,West Indies Innings,Chris Gayle,4,2,1,0,200.0,Very Low
+2016,35,2,West Indies Innings,Marlon Samuels,85,66,9,2,128.79,Medium
+2016,35,2,West Indies Innings,Lendl Simmons,0,1,0,0,0.0,Very Low
+2016,35,2,West Indies Innings,Dwayne Bravo,25,27,1,1,92.59,Very Low
+2016,35,2,West Indies Innings,Andre Russell,1,3,0,0,33.33,Very Low
+2016,35,2,West Indies Innings,Daren Sammy,2,2,0,0,100.0,Very Low
+2016,35,2,West Indies Innings,Carlos Brathwaite,34,10,1,4,340.0,Low
+2016,1,1,Zimbabwe Innings,Donald Tiripano,0,2,0,0,0.0,Very Low
+2016,1,1,Zimbabwe Innings,Wellington Masakadza,2,5,0,0,40.0,Very Low
+2016,1,1,Zimbabwe Innings,Tinashe Panyangara,0,1,0,0,0.0,Very Low
+2016,1,2,Hong Kong Innings,Jamie Atkinson,53,44,4,2,120.45,Low
+2016,1,2,Hong Kong Innings,Ryan Campbell,9,19,1,0,47.37,Very Low
+2016,1,2,Hong Kong Innings,Babar Hayat,9,12,1,0,75.0,Very Low
+2016,1,2,Hong Kong Innings,Mark Chapman,19,17,2,1,111.76,Very Low
+2016,1,2,Hong Kong Innings,Anshuman Rath,13,8,2,0,162.5,Very Low
+2016,1,2,Hong Kong Innings,Tanwir Afzal,31,17,3,1,182.35,Low
+2016,1,2,Hong Kong Innings,Nizakat Khan,0,1,0,0,0.0,Very Low
+2016,1,2,Hong Kong Innings,Aizaz Khan,0,3,0,0,0.0,Very Low
+2016,22,1,Bangladesh Innings,Mohammad Mithun,23,22,1,1,104.55,Very Low
+2016,22,1,Bangladesh Innings,Soumya Sarkar,1,6,0,0,16.67,Very Low
+2016,22,1,Bangladesh Innings,Sabbir Rahman,12,17,2,0,70.59,Very Low
+2016,22,1,Bangladesh Innings,Shakib Al Hasan,33,25,3,1,132.0,Low
+2016,22,1,Bangladesh Innings,Shuvagata Hom,13,10,1,1,130.0,Very Low
+2016,22,1,Bangladesh Innings,Mahmudullah,49,29,7,1,168.97,Low
+2016,22,1,Bangladesh Innings,Mushfiqur Rahim,15,11,2,0,136.36,Very Low
+2016,22,2,Australia Innings,Usman Khawaja,58,45,7,1,128.89,Low
+2016,22,2,Australia Innings,Shane Watson,21,15,2,1,140.0,Very Low
+2016,22,2,Australia Innings,Steven Smith,14,13,0,1,107.69,Very Low
+2016,22,2,Australia Innings,David Warner,17,9,1,1,188.89,Very Low
+2016,22,2,Australia Innings,Glenn Maxwell,26,15,2,2,173.33,Very Low
+2016,22,2,Australia Innings,Mitchell Marsh,6,6,1,0,100.0,Very Low
+2016,22,2,Australia Innings,James Faulkner,5,3,1,0,166.67,Very Low
+2016,22,2,Australia Innings,John Hastings,3,4,0,0,75.0,Very Low
+2016,22,2,Australia Innings,Peter Nevill,1,1,0,0,100.0,Very Low
+2014,2,1,Nepal Innings,Subash Khakurel,22,16,4,0,137.5,Very Low
+2014,2,1,Nepal Innings,Sagar Pun,13,13,2,0,100.0,Very Low
+2014,2,1,Nepal Innings,Gyanendra Malla,48,41,4,1,117.07,Low
+2014,2,1,Nepal Innings,Paras Khadka,41,37,4,0,110.81,Low
+2014,2,1,Nepal Innings,Binod Bhandari,1,2,0,0,50.0,Very Low
+2014,2,1,Nepal Innings,Sharad Vesawkar,14,9,2,0,155.56,Very Low
+2014,2,1,Nepal Innings,Basant Regmi,0,0,0,0,0.0,Very Low
+2014,2,1,Nepal Innings,Naresh Bahadur Budayair,0,1,0,0,0.0,Very Low
+2014,2,1,Nepal Innings,Shakti Gauchan,0,1,0,0,0.0,Very Low
+2014,2,2,Hong Kong Innings,Irfan Ahmed,0,1,0,0,0.0,Very Low
+2014,2,2,Hong Kong Innings,Waqas Barkat,18,19,3,0,94.74,Very Low
+2014,2,2,Hong Kong Innings,Jamie Atkinson,6,7,1,0,85.71,Very Low
+2014,2,2,Hong Kong Innings,Babar Hayat,20,25,2,0,80.0,Very Low
+2014,2,2,Hong Kong Innings,Mark Chapman,13,12,1,0,108.33,Very Low
+2014,2,2,Hong Kong Innings,Nizakat Khan,0,1,0,0,0.0,Very Low
+2014,2,2,Hong Kong Innings,Tanwir Afzal,0,5,0,0,0.0,Very Low
+2014,2,2,Hong Kong Innings,Aizaz Khan,0,3,0,0,0.0,Very Low
+2014,2,2,Hong Kong Innings,Najeeb Amar,2,9,0,0,22.22,Very Low
+2014,2,2,Hong Kong Innings,Haseeb Amjad,4,9,0,0,44.44,Very Low
+2014,2,2,Hong Kong Innings,Nadeem Ahmed,5,11,0,0,45.45,Very Low
+2014,4,1,United Arab Emirates Innings,Amjad Ali,5,6,1,0,83.33,Very Low
+2014,4,1,United Arab Emirates Innings,Faizan Asif,6,4,0,1,150.0,Very Low
+2014,4,1,United Arab Emirates Innings,Khurram Khan,31,25,4,0,124.0,Low
+2014,4,1,United Arab Emirates Innings,Swapnil Patil,23,28,2,0,82.14,Very Low
+2014,4,1,United Arab Emirates Innings,Shaiman Anwar,32,19,4,1,168.42,Low
+2014,4,1,United Arab Emirates Innings,Rohan Mustafa,20,14,2,0,142.86,Very Low
+2014,4,1,United Arab Emirates Innings,Amjad Javed,2,2,0,0,100.0,Very Low
+2014,4,1,United Arab Emirates Innings,Vikrant Shetty,10,12,1,0,83.33,Very Low
+2014,4,1,United Arab Emirates Innings,Shadeep Silva,3,6,0,0,50.0,Very Low
+2014,4,1,United Arab Emirates Innings,Kamran Shahzad,0,2,0,0,0.0,Very Low
+2014,4,1,United Arab Emirates Innings,Manjula Guruge,1,1,0,0,100.0,Very Low
+2014,4,2,Netherlands Innings,Stephan Myburgh,55,36,7,2,152.78,Low
+2014,4,2,Netherlands Innings,Michael Swart,26,16,3,1,162.5,Very Low
+2014,4,2,Netherlands Innings,Wesley Barresi,24,21,1,1,114.29,Very Low
+2014,4,2,Netherlands Innings,Tom Cooper,34,26,4,1,130.77,Low
+2014,4,2,Netherlands Innings,Peter Borren,3,8,0,0,37.5,Very Low
+2014,4,2,Netherlands Innings,Ben Cooper,6,6,1,0,100.0,Very Low
+2014,5,1,Hong Kong Innings,Irfan Ahmed,0,1,0,0,0.0,Very Low
+2014,5,1,Hong Kong Innings,Waqas Barkat,32,32,3,0,100.0,Low
+2014,5,1,Hong Kong Innings,Jamie Atkinson,31,20,5,1,155.0,Low
+2014,5,1,Hong Kong Innings,Mark Chapman,38,43,3,1,88.37,Low
+2014,5,1,Hong Kong Innings,Babar Hayat,5,3,1,0,166.67,Very Low
+2014,5,1,Hong Kong Innings,Nizakat Khan,9,4,0,1,225.0,Very Low
+2014,5,1,Hong Kong Innings,Munir Dar,3,6,0,0,50.0,Very Low
+2014,5,1,Hong Kong Innings,Tanwir Afzal,11,6,1,1,183.33,Very Low
+2014,5,1,Hong Kong Innings,Haseeb Amjad,7,6,1,0,116.67,Very Low
+2014,5,1,Hong Kong Innings,Aizaz Khan,1,1,0,0,100.0,Very Low
+2014,5,2,Afghanistan Innings,Najeeb Tarakai,7,6,1,0,116.67,Very Low
+2014,5,2,Afghanistan Innings,Mohammad Shahzad,68,53,6,3,128.3,Medium
+2014,5,2,Afghanistan Innings,Asghar Afghan,13,21,0,0,61.9,Very Low
+2014,5,2,Afghanistan Innings,Shafiqullah Shafiq,51,24,5,3,212.5,Low
+2014,5,2,Afghanistan Innings,Mohammad Nabi,6,5,0,0,120.0,Very Low
+2014,6,1,Nepal Innings,Subash Khakurel,8,13,0,0,61.54,Very Low
+2014,6,1,Nepal Innings,Sagar Pun,12,19,2,0,63.16,Very Low
+2014,6,1,Nepal Innings,Gyanendra Malla,13,6,2,0,216.67,Very Low
+2014,6,1,Nepal Innings,Paras Khadka,41,35,5,0,117.14,Low
+2014,6,1,Nepal Innings,Sharad Vesawkar,40,43,5,0,93.02,Low
+2014,6,1,Nepal Innings,Binod Bhandari,0,4,0,0,0.0,Very Low
+2014,6,2,Bangladesh Innings,Tamim Iqbal,30,22,2,1,136.36,Very Low
+2014,6,2,Bangladesh Innings,Anamul Haque,42,33,5,2,127.27,Low
+2014,6,2,Bangladesh Innings,Sabbir Rahman,21,20,1,1,105.0,Very Low
+2014,6,2,Bangladesh Innings,Shakib Al Hasan,37,18,1,4,205.56,Low
+2014,7,1,Netherlands Innings,Michael Swart,3,8,0,0,37.5,Very Low
+2014,7,1,Netherlands Innings,Stephan Myburgh,0,1,0,0,0.0,Very Low
+2014,7,1,Netherlands Innings,Wesley Barresi,12,6,3,0,200.0,Very Low
+2014,7,1,Netherlands Innings,Peter Borren,8,7,2,0,114.29,Very Low
+2014,7,1,Netherlands Innings,Tom Cooper,72,58,9,1,124.14,Medium
+2014,7,1,Netherlands Innings,Ben Cooper,20,24,1,0,83.33,Very Low
+2014,7,1,Netherlands Innings,Mudassar Bukhari,14,16,0,0,87.5,Very Low
+2014,7,2,Zimbabwe Innings,Hamilton Masakadza,43,45,3,1,95.56,Low
+2014,7,2,Zimbabwe Innings,Sikandar Raza,13,12,2,0,108.33,Very Low
+2014,7,2,Zimbabwe Innings,Brendan Taylor,49,39,2,1,125.64,Low
+2014,7,2,Zimbabwe Innings,Elton Chigumbura,0,2,0,0,0.0,Very Low
+2014,7,2,Zimbabwe Innings,Sean Williams,26,19,2,0,136.84,Very Low
+2014,7,2,Zimbabwe Innings,Vusi Sibanda,9,3,0,1,300.0,Very Low
+2014,7,2,Zimbabwe Innings,Timycen Maruma,0,0,0,0,0.0,Very Low
+2014,10,1,Bangladesh Innings,Tamim Iqbal,0,2,0,0,0.0,Very Low
+2014,10,1,Bangladesh Innings,Anamul Haque,26,17,3,1,152.94,Very Low
+2014,10,1,Bangladesh Innings,Sabbir Rahman,2,4,0,0,50.0,Very Low
+2014,10,1,Bangladesh Innings,Shakib Al Hasan,34,27,6,0,125.93,Low
+2014,10,1,Bangladesh Innings,Mushfiqur Rahim,23,18,3,0,127.78,Very Low
+2014,10,1,Bangladesh Innings,Nasir Hossain,14,17,0,0,82.35,Very Low
+2014,10,1,Bangladesh Innings,Mahmudullah,2,3,0,0,66.67,Very Low
+2014,10,1,Bangladesh Innings,Farhad Reza,0,2,0,0,0.0,Very Low
+2014,10,1,Bangladesh Innings,Abdur Razzak,0,1,0,0,0.0,Very Low
+2014,10,1,Bangladesh Innings,Rubel Hossain,0,3,0,0,0.0,Very Low
+2014,10,1,Bangladesh Innings,Al-Amin Hossain,1,5,0,0,20.0,Very Low
+2014,10,2,Hong Kong Innings,Waqas Barkat,0,2,0,0,0.0,Very Low
+2014,10,2,Hong Kong Innings,Irfan Ahmed,34,28,3,3,121.43,Low
+2014,10,2,Hong Kong Innings,Jamie Atkinson,7,14,0,0,50.0,Very Low
+2014,10,2,Hong Kong Innings,Mark Chapman,5,7,0,0,71.43,Very Low
+2014,10,2,Hong Kong Innings,Babar Hayat,1,4,0,0,25.0,Very Low
+2014,10,2,Hong Kong Innings,Nizakat Khan,12,21,0,0,57.14,Very Low
+2014,10,2,Hong Kong Innings,Munir Dar,36,27,3,1,133.33,Low
+2014,10,2,Hong Kong Innings,Tanwir Afzal,0,7,0,0,0.0,Very Low
+2014,10,2,Hong Kong Innings,Haseeb Amjad,12,6,0,1,200.0,Very Low
+2014,10,2,Hong Kong Innings,Nadeem Ahmed,2,2,0,0,100.0,Very Low
+2014,11,1,United Arab Emirates Innings,Shaiman Anwar,6,6,1,0,100.0,Very Low
+2014,11,1,United Arab Emirates Innings,Faizan Asif,1,3,0,0,33.33,Very Low
+2014,11,1,United Arab Emirates Innings,Khurram Khan,26,27,3,0,96.3,Very Low
+2014,11,1,United Arab Emirates Innings,Swapnil Patil,30,26,5,0,115.38,Very Low
+2014,11,1,United Arab Emirates Innings,Rohan Mustafa,4,8,0,0,50.0,Very Low
+2014,11,1,United Arab Emirates Innings,Amjad Ali,1,4,0,0,25.0,Very Low
+2014,11,1,United Arab Emirates Innings,Amjad Javed,8,10,0,0,80.0,Very Low
+2014,11,1,United Arab Emirates Innings,Ahmed Raza,0,4,0,0,0.0,Very Low
+2014,11,1,United Arab Emirates Innings,Shadeep Silva,13,16,1,0,81.25,Very Low
+2014,11,1,United Arab Emirates Innings,Kamran Shahzad,21,15,1,2,140.0,Very Low
+2014,11,1,United Arab Emirates Innings,Manjula Guruge,1,1,0,0,100.0,Very Low
+2014,11,2,Zimbabwe Innings,Hamilton Masakadza,2,4,0,0,50.0,Very Low
+2014,11,2,Zimbabwe Innings,Sikandar Raza,9,14,1,0,64.29,Very Low
+2014,11,2,Zimbabwe Innings,Brendan Taylor,15,7,2,1,214.29,Very Low
+2014,11,2,Zimbabwe Innings,Sean Williams,0,3,0,0,0.0,Very Low
+2014,11,2,Zimbabwe Innings,Vusi Sibanda,16,19,0,1,84.21,Very Low
+2014,11,2,Zimbabwe Innings,Elton Chigumbura,53,21,6,3,252.38,Low
+2014,11,2,Zimbabwe Innings,Timycen Maruma,22,14,3,0,157.14,Very Low
+2014,12,1,Ireland Innings,William Porterfield,47,32,5,2,146.88,Low
+2014,12,1,Ireland Innings,Paul Stirling,7,9,1,0,77.78,Very Low
+2014,12,1,Ireland Innings,Ed Joyce,28,25,1,1,112.0,Very Low
+2014,12,1,Ireland Innings,Andrew Poynter,57,38,4,4,150.0,Low
+2014,12,1,Ireland Innings,Kevin O Brien,42,16,2,4,262.5,Low
+2014,12,2,Netherlands Innings,Peter Borren,31,15,4,2,206.67,Low
+2014,12,2,Netherlands Innings,Stephan Myburgh,63,23,4,7,273.91,Medium
+2014,12,2,Netherlands Innings,Wesley Barresi,40,22,3,3,181.82,Low
+2014,12,2,Netherlands Innings,Logan van Beek,1,3,0,0,33.33,Very Low
+2014,12,2,Netherlands Innings,Tom Cooper,45,15,1,6,300.0,Low
+2014,12,2,Netherlands Innings,Ben Cooper,9,5,0,1,180.0,Very Low
+2014,13,1,Pakistan Innings,Kamran Akmal,8,10,2,0,80.0,Very Low
+2014,13,1,Pakistan Innings,Ahmed Shehzad,22,17,2,0,129.41,Very Low
+2014,13,1,Pakistan Innings,Mohammad Hafeez,15,22,1,0,68.18,Very Low
+2014,13,1,Pakistan Innings,Umar Akmal,33,30,2,0,110.0,Low
+2014,13,1,Pakistan Innings,Shoaib Malik,18,20,1,1,90.0,Very Low
+2014,13,1,Pakistan Innings,Shahid Afridi,8,10,1,0,80.0,Very Low
+2014,13,1,Pakistan Innings,Sohaib Maqsood,21,11,2,1,190.91,Very Low
+2014,13,1,Pakistan Innings,Bilawal Bhatti,0,0,0,0,0.0,Very Low
+2014,13,2,India Innings,Rohit Sharma,24,21,1,2,114.29,Very Low
+2014,13,2,India Innings,Shikhar Dhawan,30,28,5,0,107.14,Very Low
+2014,13,2,India Innings,Virat Kohli,36,32,4,1,112.5,Low
+2014,13,2,India Innings,Yuvraj Singh,1,2,0,0,50.0,Very Low
+2014,13,2,India Innings,Suresh Raina,35,28,4,1,125.0,Low
+2014,14,1,Sri Lanka Innings,Kusal Perera,61,40,6,3,152.5,Low
+2014,14,1,Sri Lanka Innings,Tillakaratne Dilshan,0,1,0,0,0.0,Very Low
+2014,14,1,Sri Lanka Innings,Mahela Jayawardene,9,9,1,0,100.0,Very Low
+2014,14,1,Sri Lanka Innings,Kumar Sangakkara,14,18,1,0,77.78,Very Low
+2014,14,1,Sri Lanka Innings,Angelo Mathews,43,32,3,1,134.38,Low
+2014,14,1,Sri Lanka Innings,Dinesh Chandimal,12,9,1,0,133.33,Very Low
+2014,14,1,Sri Lanka Innings,Thisara Perera,8,6,1,0,133.33,Very Low
+2014,14,1,Sri Lanka Innings,Nuwan Kulasekara,7,4,1,0,175.0,Very Low
+2014,14,1,Sri Lanka Innings,Sachithra Senanayake,1,1,0,0,100.0,Very Low
+2014,14,2,South Africa Innings,Quinton de Kock,25,18,4,1,138.89,Very Low
+2014,14,2,South Africa Innings,Hashim Amla,23,26,2,0,88.46,Very Low
+2014,14,2,South Africa Innings,Jean-Paul Duminy,39,30,3,2,130.0,Low
+2014,14,2,South Africa Innings,AB de Villiers,24,16,3,0,150.0,Very Low
+2014,14,2,South Africa Innings,David Miller,19,16,1,0,118.75,Very Low
+2014,14,2,South Africa Innings,Albie Morkel,12,4,0,2,300.0,Very Low
+2014,14,2,South Africa Innings,Farhaan Behardien,5,4,0,0,125.0,Very Low
+2014,14,2,South Africa Innings,Dale Steyn,0,2,0,0,0.0,Very Low
+2014,14,2,South Africa Innings,Morne Morkel,0,0,0,0,0.0,Very Low
+2014,14,2,South Africa Innings,Imran Tahir,8,4,0,1,200.0,Very Low
+2014,16,1,Pakistan Innings,Ahmed Shehzad,5,5,1,0,100.0,Very Low
+2014,16,1,Pakistan Innings,Kamran Akmal,31,31,4,0,100.0,Low
+2014,16,1,Pakistan Innings,Mohammad Hafeez,13,10,2,0,130.0,Very Low
+2014,16,1,Pakistan Innings,Umar Akmal,94,54,9,4,174.07,High
+2014,16,1,Pakistan Innings,Sohaib Maqsood,5,7,0,0,71.43,Very Low
+2014,16,1,Pakistan Innings,Shahid Afridi,20,11,2,1,181.82,Very Low
+2014,16,1,Pakistan Innings,Shoaib Malik,6,3,1,0,200.0,Very Low
+2014,16,2,Australia Innings,David Warner,4,2,1,0,200.0,Very Low
+2014,16,2,Australia Innings,Aaron Finch,65,54,7,2,120.37,Medium
+2014,16,2,Australia Innings,Shane Watson,4,4,1,0,100.0,Very Low
+2014,16,2,Australia Innings,Glenn Maxwell,74,33,7,6,224.24,Medium
+2014,16,2,Australia Innings,George Bailey,4,9,0,0,44.44,Very Low
+2014,16,2,Australia Innings,Brad Hodge,2,3,0,0,66.67,Very Low
+2014,16,2,Australia Innings,Brad Haddin,8,8,0,0,100.0,Very Low
+2014,16,2,Australia Innings,Nathan Coulter-Nile,0,3,0,0,0.0,Very Low
+2014,16,2,Australia Innings,Mitchell Starc,3,2,0,0,150.0,Very Low
+2014,16,2,Australia Innings,Brad Hogg,3,3,0,0,100.0,Very Low
+2014,16,2,Australia Innings,Doug Bollinger,0,0,0,0,0.0,Very Low
+2014,17,1,West Indies Innings,Dwayne Smith,11,29,2,0,37.93,Very Low
+2014,17,1,West Indies Innings,Chris Gayle,34,33,1,2,103.03,Low
+2014,17,1,West Indies Innings,Marlon Samuels,18,22,3,0,81.82,Very Low
+2014,17,1,West Indies Innings,Lendl Simmons,27,22,1,2,122.73,Very Low
+2014,17,1,West Indies Innings,Dwayne Bravo,0,1,0,0,0.0,Very Low
+2014,17,1,West Indies Innings,Daren Sammy,11,7,2,0,157.14,Very Low
+2014,17,1,West Indies Innings,Andre Russell,7,5,0,1,140.0,Very Low
+2014,17,1,West Indies Innings,Sunil Narine,7,2,0,1,350.0,Very Low
+2014,17,1,West Indies Innings,Denesh Ramdin,0,0,0,0,0.0,Very Low
+2014,17,2,India Innings,Rohit Sharma,62,55,5,2,112.73,Medium
+2014,17,2,India Innings,Shikhar Dhawan,0,3,0,0,0.0,Very Low
+2014,17,2,India Innings,Virat Kohli,54,41,5,1,131.71,Low
+2014,17,2,India Innings,Yuvraj Singh,10,19,1,0,52.63,Very Low
+2014,17,2,India Innings,Suresh Raina,1,1,0,0,100.0,Very Low
+2014,19,1,Netherlands Innings,Stephan Myburgh,0,3,0,0,0.0,Very Low
+2014,19,1,Netherlands Innings,Michael Swart,0,4,0,0,0.0,Very Low
+2014,19,1,Netherlands Innings,Wesley Barresi,1,4,0,0,25.0,Very Low
+2014,19,1,Netherlands Innings,Tom Cooper,16,18,2,0,88.89,Very Low
+2014,19,1,Netherlands Innings,Peter Borren,0,7,0,0,0.0,Very Low
+2014,19,1,Netherlands Innings,Ben Cooper,8,10,1,0,80.0,Very Low
+2014,19,1,Netherlands Innings,Mudassar Bukhari,4,8,0,0,50.0,Very Low
+2014,19,1,Netherlands Innings,Logan van Beek,1,4,0,0,25.0,Very Low
+2014,19,1,Netherlands Innings,Pieter Seelaar,3,3,0,0,100.0,Very Low
+2014,19,1,Netherlands Innings,Timm van der Gugten,0,0,0,0,0.0,Very Low
+2014,19,1,Netherlands Innings,Ahsan Malik,0,2,0,0,0.0,Very Low
+2014,19,2,Sri Lanka Innings,Kusal Perera,14,10,1,1,140.0,Very Low
+2014,19,2,Sri Lanka Innings,Tillakaratne Dilshan,12,11,2,0,109.09,Very Low
+2014,19,2,Sri Lanka Innings,Mahela Jayawardene,11,10,2,0,110.0,Very Low
+2014,20,1,West Indies Innings,Dwayne Smith,72,43,10,3,167.44,Medium
+2014,20,1,West Indies Innings,Chris Gayle,48,48,3,2,100.0,Low
+2014,20,1,West Indies Innings,Lendl Simmons,0,0,0,0,0.0,Very Low
+2014,20,1,West Indies Innings,Marlon Samuels,18,22,1,0,81.82,Very Low
+2014,20,1,West Indies Innings,Daren Sammy,14,5,3,0,280.0,Very Low
+2014,20,1,West Indies Innings,Andre Russell,0,1,0,0,0.0,Very Low
+2014,20,1,West Indies Innings,Dwayne Bravo,0,1,0,0,0.0,Very Low
+2014,20,1,West Indies Innings,Denesh Ramdin,0,1,0,0,0.0,Very Low
+2014,20,2,Bangladesh Innings,Tamim Iqbal,5,10,1,0,50.0,Very Low
+2014,20,2,Bangladesh Innings,Anamul Haque,10,7,2,0,142.86,Very Low
+2014,20,2,Bangladesh Innings,Mominul Haque,16,19,2,0,84.21,Very Low
+2014,20,2,Bangladesh Innings,Shakib Al Hasan,0,1,0,0,0.0,Very Low
+2014,20,2,Bangladesh Innings,Mushfiqur Rahim,22,22,2,1,100.0,Very Low
+2014,20,2,Bangladesh Innings,Sabbir Rahman,1,3,0,0,33.33,Very Low
+2014,20,2,Bangladesh Innings,Mahmudullah,1,3,0,0,33.33,Very Low
+2014,20,2,Bangladesh Innings,Ziaur Rahman,9,13,0,0,69.23,Very Low
+2014,20,2,Bangladesh Innings,Sohag Gazi,11,20,0,0,55.0,Very Low
+2014,20,2,Bangladesh Innings,Mashrafe Mortaza,19,17,3,0,111.76,Very Low
+2014,20,2,Bangladesh Innings,Al-Amin Hossain,0,0,0,0,0.0,Very Low
+2014,21,1,South Africa Innings,Hashim Amla,43,22,7,1,195.45,Low
+2014,21,1,South Africa Innings,Quinton de Kock,0,2,0,0,0.0,Very Low
+2014,21,1,South Africa Innings,Faf du Plessis,24,14,3,1,171.43,Very Low
+2014,21,1,South Africa Innings,AB de Villiers,21,21,1,0,100.0,Very Low
+2014,21,1,South Africa Innings,Albie Morkel,5,11,0,0,45.45,Very Low
+2014,21,1,South Africa Innings,Jean-Paul Duminy,12,15,0,0,80.0,Very Low
+2014,21,1,South Africa Innings,David Miller,17,18,0,0,94.44,Very Low
+2014,21,1,South Africa Innings,Dale Steyn,5,4,1,0,125.0,Very Low
+2014,21,1,South Africa Innings,Beuran Hendricks,3,4,0,0,75.0,Very Low
+2014,21,1,South Africa Innings,Imran Tahir,9,7,1,0,128.57,Very Low
+2014,21,1,South Africa Innings,Lonwabo Tsotsobe,1,2,0,0,50.0,Very Low
+2014,21,2,Netherlands Innings,Stephan Myburgh,51,28,8,2,182.14,Low
+2014,21,2,Netherlands Innings,Michael Swart,8,12,1,0,66.67,Very Low
+2014,21,2,Netherlands Innings,Wesley Barresi,14,9,1,1,155.56,Very Low
+2014,21,2,Netherlands Innings,Peter Borren,13,10,1,1,130.0,Very Low
+2014,21,2,Netherlands Innings,Tom Cooper,16,13,2,0,123.08,Very Low
+2014,21,2,Netherlands Innings,Ben Cooper,5,6,0,0,83.33,Very Low
+2014,21,2,Netherlands Innings,Mudassar Bukhari,11,12,1,0,91.67,Very Low
+2014,21,2,Netherlands Innings,Pieter Seelaar,2,4,0,0,50.0,Very Low
+2014,21,2,Netherlands Innings,Logan van Beek,1,5,0,0,20.0,Very Low
+2014,21,2,Netherlands Innings,Timm van der Gugten,8,12,0,0,66.67,Very Low
+2014,21,2,Netherlands Innings,Ahsan Malik,1,1,0,0,100.0,Very Low
+2014,22,1,Sri Lanka Innings,Tillakaratne Dilshan,55,47,4,2,117.02,Low
+2014,22,1,Sri Lanka Innings,Kusal Perera,3,6,0,0,50.0,Very Low
+2014,22,1,Sri Lanka Innings,Mahela Jayawardene,89,51,11,3,174.51,Medium
+2014,22,1,Sri Lanka Innings,Thisara Perera,23,12,2,1,191.67,Very Low
+2014,22,1,Sri Lanka Innings,Kumar Sangakkara,0,1,0,0,0.0,Very Low
+2014,22,1,Sri Lanka Innings,Angelo Mathews,11,5,0,1,220.0,Very Low
+2014,22,2,England Innings,Michael Lumb,0,5,0,0,0.0,Very Low
+2014,22,2,England Innings,Alex Hales,116,64,11,6,181.25,High
+2014,22,2,England Innings,Moeen Ali,0,1,0,0,0.0,Very Low
+2014,22,2,England Innings,Eoin Morgan,57,38,7,2,150.0,Low
+2014,22,2,England Innings,Jos Buttler,2,3,0,0,66.67,Very Low
+2014,22,2,England Innings,Ravi Bopara,11,6,2,0,183.33,Very Low
+2014,25,1,Netherlands Innings,Stephan Myburgh,16,23,1,1,69.57,Very Low
+2014,25,1,Netherlands Innings,Michael Swart,26,26,3,0,100.0,Very Low
+2014,25,1,Netherlands Innings,Wesley Barresi,4,8,0,0,50.0,Very Low
+2014,25,1,Netherlands Innings,Peter Borren,49,35,7,1,140.0,Low
+2014,25,1,Netherlands Innings,Tom Cooper,40,23,4,2,173.91,Low
+2014,25,1,Netherlands Innings,Ben Cooper,1,6,0,0,16.67,Very Low
+2014,25,2,New Zealand Innings,Martin Guptill,9,15,1,0,60.0,Very Low
+2014,25,2,New Zealand Innings,Kane Williamson,29,22,5,0,131.82,Very Low
+2014,25,2,New Zealand Innings,Brendon McCullum,65,45,4,3,144.44,Medium
+2014,25,2,New Zealand Innings,Ross Taylor,18,11,1,1,163.64,Very Low
+2014,25,2,New Zealand Innings,Corey Anderson,20,14,1,1,142.86,Very Low
+2014,25,2,New Zealand Innings,James Neesham,7,7,0,0,100.0,Very Low
+2014,26,1,South Africa Innings,Hashim Amla,56,37,6,2,151.35,Low
+2014,26,1,South Africa Innings,Quinton de Kock,29,33,2,0,87.88,Very Low
+2014,26,1,South Africa Innings,AB de Villiers,69,28,9,3,246.43,Medium
+2014,26,1,South Africa Innings,Jean-Paul Duminy,5,5,0,0,100.0,Very Low
+2014,26,1,South Africa Innings,David Miller,19,15,2,1,126.67,Very Low
+2014,26,1,South Africa Innings,Albie Morkel,3,3,0,0,100.0,Very Low
+2014,26,2,England Innings,Alex Hales,38,22,6,1,172.73,Low
+2014,26,2,England Innings,Michael Lumb,18,14,1,2,128.57,Very Low
+2014,26,2,England Innings,Moeen Ali,10,10,1,0,100.0,Very Low
+2014,26,2,England Innings,Eoin Morgan,14,14,1,0,100.0,Very Low
+2014,26,2,England Innings,Jos Buttler,34,24,2,1,141.67,Low
+2014,26,2,England Innings,Ravi Bopara,31,18,3,1,172.22,Low
+2014,26,2,England Innings,Chris Jordan,16,14,2,0,114.29,Very Low
+2014,26,2,England Innings,Tim Bresnan,17,4,1,2,425.0,Very Low
+2014,26,2,England Innings,Stuart Broad,1,1,0,0,100.0,Very Low
+2014,27,1,Pakistan Innings,Ahmed Shehzad,111,62,10,5,179.03,High
+2014,27,1,Pakistan Innings,Kamran Akmal,9,12,2,0,75.0,Very Low
+2014,27,1,Pakistan Innings,Mohammad Hafeez,8,12,0,0,66.67,Very Low
+2014,27,1,Pakistan Innings,Umar Akmal,0,2,0,0,0.0,Very Low
+2014,27,1,Pakistan Innings,Shoaib Malik,26,23,2,0,113.04,Very Low
+2014,27,1,Pakistan Innings,Shahid Afridi,22,9,1,2,244.44,Very Low
+2014,27,1,Pakistan Innings,Sohaib Maqsood,1,1,0,0,100.0,Very Low
+2014,27,2,Bangladesh Innings,Tamim Iqbal,16,15,2,0,106.67,Very Low
+2014,27,2,Bangladesh Innings,Anamul Haque,18,16,3,0,112.5,Very Low
+2014,27,2,Bangladesh Innings,Shakib Al Hasan,38,32,2,2,118.75,Low
+2014,27,2,Bangladesh Innings,Shamsur Rahman,4,12,0,0,33.33,Very Low
+2014,27,2,Bangladesh Innings,Mushfiqur Rahim,2,4,0,0,50.0,Very Low
+2014,27,2,Bangladesh Innings,Nasir Hossain,23,19,1,1,121.05,Very Low
+2014,27,2,Bangladesh Innings,Mahmudullah,17,12,0,1,141.67,Very Low
+2014,27,2,Bangladesh Innings,Ziaur Rahman,0,1,0,0,0.0,Very Low
+2014,27,2,Bangladesh Innings,Mashrafe Mortaza,17,9,4,0,188.89,Very Low
+2014,28,1,India Innings,Rohit Sharma,5,3,1,0,166.67,Very Low
+2014,28,1,India Innings,Ajinkya Rahane,19,16,2,0,118.75,Very Low
+2014,28,1,India Innings,Virat Kohli,23,22,2,1,104.55,Very Low
+2014,28,1,India Innings,Yuvraj Singh,60,43,5,4,139.53,Low
+2014,28,1,India Innings,Suresh Raina,6,10,0,0,60.0,Very Low
+2014,28,1,India Innings,MS Dhoni,24,20,1,1,120.0,Very Low
+2014,28,1,India Innings,Ravindra Jadeja,3,3,0,0,100.0,Very Low
+2014,28,1,India Innings,Ravichandran Ashwin,2,3,0,0,66.67,Very Low
+2014,28,1,India Innings,Bhuvneshwar Kumar,0,1,0,0,0.0,Very Low
+2014,28,2,Australia Innings,Aaron Finch,6,11,1,0,54.55,Very Low
+2014,28,2,Australia Innings,David Warner,19,21,1,1,90.48,Very Low
+2014,28,2,Australia Innings,Cameron White,0,2,0,0,0.0,Very Low
+2014,28,2,Australia Innings,Shane Watson,1,4,0,0,25.0,Very Low
+2014,28,2,Australia Innings,Glenn Maxwell,23,12,0,3,191.67,Very Low
+2014,28,2,Australia Innings,George Bailey,8,10,0,1,80.0,Very Low
+2014,28,2,Australia Innings,Brad Hodge,13,18,0,0,72.22,Very Low
+2014,28,2,Australia Innings,Brad Haddin,6,8,1,0,75.0,Very Low
+2014,28,2,Australia Innings,Mitchell Starc,2,4,0,0,50.0,Very Low
+2014,28,2,Australia Innings,James Muirhead,3,7,0,0,42.86,Very Low
+2014,28,2,Australia Innings,Doug Bollinger,1,1,0,0,100.0,Very Low
+2014,29,1,Netherlands Innings,Michael Swart,13,15,2,0,86.67,Very Low
+2014,29,1,Netherlands Innings,Stephan Myburgh,39,31,6,1,125.81,Low
+2014,29,1,Netherlands Innings,Wesley Barresi,48,45,2,2,106.67,Low
+2014,29,1,Netherlands Innings,Tom Cooper,8,15,0,0,53.33,Very Low
+2014,29,1,Netherlands Innings,Peter Borren,7,10,1,0,70.0,Very Low
+2014,29,1,Netherlands Innings,Mudassar Bukhari,1,2,0,0,50.0,Very Low
+2014,29,1,Netherlands Innings,Ben Cooper,0,2,0,0,0.0,Very Low
+2014,29,2,England Innings,Alex Hales,12,17,2,0,70.59,Very Low
+2014,29,2,England Innings,Michael Lumb,6,8,0,0,75.0,Very Low
+2014,29,2,England Innings,Moeen Ali,3,7,0,0,42.86,Very Low
+2014,29,2,England Innings,Eoin Morgan,6,8,1,0,75.0,Very Low
+2014,29,2,England Innings,Jos Buttler,6,14,0,0,42.86,Very Low
+2014,29,2,England Innings,Ravi Bopara,18,20,0,0,90.0,Very Low
+2014,29,2,England Innings,Tim Bresnan,5,6,0,0,83.33,Very Low
+2014,29,2,England Innings,Chris Jordan,14,14,0,0,100.0,Very Low
+2014,29,2,England Innings,Stuart Broad,4,5,0,0,80.0,Very Low
+2014,29,2,England Innings,James Tredwell,8,6,1,0,133.33,Very Low
+2014,29,2,England Innings,Stephen Parry,1,1,0,0,100.0,Very Low
+2014,31,1,Bangladesh Innings,Tamim Iqbal,5,11,0,0,45.45,Very Low
+2014,31,1,Bangladesh Innings,Anamul Haque,0,6,0,0,0.0,Very Low
+2014,31,1,Bangladesh Innings,Shakib Al Hasan,66,52,5,3,126.92,Medium
+2014,31,1,Bangladesh Innings,Mushfiqur Rahim,47,36,5,1,130.56,Low
+2014,31,1,Bangladesh Innings,Mahmudullah,6,7,0,0,85.71,Very Low
+2014,31,1,Bangladesh Innings,Nasir Hossain,14,10,2,0,140.0,Very Low
+2014,31,2,Australia Innings,Aaron Finch,71,45,7,4,157.78,Medium
+2014,31,2,Australia Innings,David Warner,48,35,5,3,137.14,Low
+2014,31,2,Australia Innings,Cameron White,18,15,2,0,120.0,Very Low
+2014,31,2,Australia Innings,Glenn Maxwell,5,3,1,0,166.67,Very Low
+2014,31,2,Australia Innings,George Bailey,11,7,1,1,157.14,Very Low
+2014,32,1,West Indies Innings,Dwayne Smith,8,13,2,0,61.54,Very Low
+2014,32,1,West Indies Innings,Chris Gayle,5,4,1,0,125.0,Very Low
+2014,32,1,West Indies Innings,Lendl Simmons,31,29,2,2,106.9,Low
+2014,32,1,West Indies Innings,Marlon Samuels,20,18,1,1,111.11,Very Low
+2014,32,1,West Indies Innings,Dwayne Bravo,46,26,2,4,176.92,Low
+2014,32,1,West Indies Innings,Denesh Ramdin,5,10,0,0,50.0,Very Low
+2014,32,1,West Indies Innings,Daren Sammy,42,20,5,2,210.0,Low
+2014,32,1,West Indies Innings,Andre Russell,0,0,0,0,0.0,Very Low
+2014,32,2,Pakistan Innings,Ahmed Shehzad,0,1,0,0,0.0,Very Low
+2014,32,2,Pakistan Innings,Kamran Akmal,0,3,0,0,0.0,Very Low
+2014,32,2,Pakistan Innings,Mohammad Hafeez,19,32,0,0,59.38,Very Low
+2014,32,2,Pakistan Innings,Umar Akmal,1,5,0,0,20.0,Very Low
+2014,32,2,Pakistan Innings,Shoaib Malik,2,6,0,0,33.33,Very Low
+2014,32,2,Pakistan Innings,Sohaib Maqsood,18,22,1,1,81.82,Very Low
+2014,32,2,Pakistan Innings,Shahid Afridi,18,12,0,2,150.0,Very Low
+2014,32,2,Pakistan Innings,Sohail Tanvir,14,12,1,1,116.67,Very Low
+2014,32,2,Pakistan Innings,Umar Gul,4,7,0,0,57.14,Very Low
+2014,32,2,Pakistan Innings,Saeed Ajmal,1,3,0,0,33.33,Very Low
+2014,32,2,Pakistan Innings,Zulfiqar Babar,3,4,0,0,75.0,Very Low
+2014,33,1,Sri Lanka Innings,Kusal Perera,26,12,2,2,216.67,Very Low
+2014,33,1,Sri Lanka Innings,Tillakaratne Dilshan,39,39,2,1,100.0,Low
+2014,33,1,Sri Lanka Innings,Mahela Jayawardene,0,0,0,0,0.0,Very Low
+2014,33,1,Sri Lanka Innings,Kumar Sangakkara,1,6,0,0,16.67,Very Low
+2014,33,1,Sri Lanka Innings,Lahiru Thirimanne,44,35,3,2,125.71,Low
+2014,33,1,Sri Lanka Innings,Angelo Mathews,40,23,3,2,173.91,Low
+2014,33,1,Sri Lanka Innings,Seekkuge Prasanna,6,5,0,0,120.0,Very Low
+2014,33,2,West Indies Innings,Dwayne Smith,17,14,1,1,121.43,Very Low
+2014,33,2,West Indies Innings,Chris Gayle,3,13,0,0,23.08,Very Low
+2014,33,2,West Indies Innings,Lendl Simmons,4,8,0,0,50.0,Very Low
+2014,33,2,West Indies Innings,Marlon Samuels,18,29,1,0,62.07,Very Low
+2014,33,2,West Indies Innings,Dwayne Bravo,30,19,3,1,157.89,Very Low
+2014,33,2,West Indies Innings,Daren Sammy,0,0,0,0,0.0,Very Low
+2014,34,1,South Africa Innings,Quinton de Kock,6,4,1,0,150.0,Very Low
+2014,34,1,South Africa Innings,Hashim Amla,22,16,4,0,137.5,Very Low
+2014,34,1,South Africa Innings,Faf du Plessis,58,41,5,2,141.46,Low
+2014,34,1,South Africa Innings,Jean-Paul Duminy,45,40,1,3,112.5,Low
+2014,34,1,South Africa Innings,AB de Villiers,10,8,1,0,125.0,Very Low
+2014,34,1,South Africa Innings,David Miller,23,12,2,1,191.67,Very Low
+2014,34,2,India Innings,Rohit Sharma,24,13,4,1,184.62,Very Low
+2014,34,2,India Innings,Ajinkya Rahane,32,30,2,1,106.67,Low
+2014,34,2,India Innings,Virat Kohli,72,44,5,2,163.64,Medium
+2014,34,2,India Innings,Yuvraj Singh,18,17,2,0,105.88,Very Low
+2014,34,2,India Innings,Suresh Raina,21,10,3,1,210.0,Very Low
+2014,34,2,India Innings,MS Dhoni,0,1,0,0,0.0,Very Low
+2014,35,1,India Innings,Rohit Sharma,29,26,3,0,111.54,Very Low
+2014,35,1,India Innings,Ajinkya Rahane,3,8,0,0,37.5,Very Low
+2014,35,1,India Innings,Virat Kohli,77,58,5,4,132.76,Medium
+2014,35,1,India Innings,Yuvraj Singh,11,21,0,0,52.38,Very Low
+2014,35,1,India Innings,MS Dhoni,4,7,0,0,57.14,Very Low
+2014,35,2,Sri Lanka Innings,Kusal Perera,5,7,1,0,71.43,Very Low
+2014,35,2,Sri Lanka Innings,Tillakaratne Dilshan,18,16,4,0,112.5,Very Low
+2014,35,2,Sri Lanka Innings,Mahela Jayawardene,24,24,4,0,100.0,Very Low
+2014,35,2,Sri Lanka Innings,Kumar Sangakkara,52,35,6,1,148.57,Low
+2014,35,2,Sri Lanka Innings,Lahiru Thirimanne,7,11,1,0,63.64,Very Low
+2014,35,2,Sri Lanka Innings,Thisara Perera,23,14,0,3,164.29,Very Low
+2014,1,1,Afghanistan Innings,Mohammad Shahzad,0,1,0,0,0.0,Very Low
+2014,1,1,Afghanistan Innings,Najeeb Tarakai,7,11,1,0,63.64,Very Low
+2014,1,1,Afghanistan Innings,Gulbadin Naib,21,22,3,1,95.45,Very Low
+2014,1,1,Afghanistan Innings,Nawroz Mangal,0,1,0,0,0.0,Very Low
+2014,1,1,Afghanistan Innings,Mohammad Nabi,3,9,0,0,33.33,Very Low
+2014,1,1,Afghanistan Innings,Karim Sadiq,10,23,0,0,43.48,Very Low
+2014,1,1,Afghanistan Innings,Shafiqullah Shafiq,16,16,2,0,100.0,Very Low
+2014,1,1,Afghanistan Innings,Samiullah Shinwari,1,3,0,0,33.33,Very Low
+2014,1,1,Afghanistan Innings,Dawlat Zadran,1,6,0,0,16.67,Very Low
+2014,1,1,Afghanistan Innings,Shapoor Zadran,1,11,0,0,9.09,Very Low
+2014,1,1,Afghanistan Innings,Aftab Alam,0,1,0,0,0.0,Very Low
+2014,1,2,Bangladesh Innings,Tamim Iqbal,21,27,2,0,77.78,Very Low
+2014,1,2,Bangladesh Innings,Anamul Haque,44,33,4,3,133.33,Low
+2014,1,2,Bangladesh Innings,Shakib Al Hasan,10,12,1,0,83.33,Very Low
+2014,3,1,Zimbabwe Innings,Hamilton Masakadza,21,17,3,0,123.53,Very Low
+2014,3,1,Zimbabwe Innings,Sikandar Raza,10,8,2,0,125.0,Very Low
+2014,3,1,Zimbabwe Innings,Brendan Taylor,59,46,6,2,128.26,Low
+2014,3,1,Zimbabwe Innings,Sean Williams,16,9,1,1,177.78,Very Low
+2014,3,1,Zimbabwe Innings,Vusi Sibanda,16,18,1,0,88.89,Very Low
+2014,3,1,Zimbabwe Innings,Elton Chigumbura,22,13,0,2,169.23,Very Low
+2014,3,1,Zimbabwe Innings,Timycen Maruma,13,9,0,1,144.44,Very Low
+2014,3,2,Ireland Innings,William Porterfield,31,23,3,1,134.78,Low
+2014,3,2,Ireland Innings,Paul Stirling,60,34,9,1,176.47,Low
+2014,3,2,Ireland Innings,Ed Joyce,22,28,0,0,78.57,Very Low
+2014,3,2,Ireland Innings,Andrew Poynter,23,15,3,0,153.33,Very Low
+2014,3,2,Ireland Innings,Gary Wilson,0,2,0,0,0.0,Very Low
+2014,3,2,Ireland Innings,Kevin O Brien,17,10,2,1,170.0,Very Low
+2014,3,2,Ireland Innings,Stuart Thompson,3,6,0,0,50.0,Very Low
+2014,3,2,Ireland Innings,Max Sorensen,0,1,0,0,0.0,Very Low
+2014,3,2,Ireland Innings,Alex Cusack,0,1,0,0,0.0,Very Low
+2014,9,1,Nepal Innings,Subash Khakurel,56,53,6,1,105.66,Low
+2014,9,1,Nepal Innings,Sagar Pun,8,11,1,0,72.73,Very Low
+2014,9,1,Nepal Innings,Gyanendra Malla,22,13,3,1,169.23,Very Low
+2014,9,1,Nepal Innings,Paras Khadka,1,5,0,0,20.0,Very Low
+2014,9,1,Nepal Innings,Sharad Vesawkar,37,32,5,0,115.63,Low
+2014,9,1,Nepal Innings,Binod Bhandari,4,6,1,0,66.67,Very Low
+2014,9,1,Nepal Innings,Naresh Bahadur Budayair,2,3,0,0,66.67,Very Low
+2014,9,2,Afghanistan Innings,Mohammad Shahzad,6,17,1,0,35.29,Very Low
+2014,9,2,Afghanistan Innings,Karim Sadiq,8,7,2,0,114.29,Very Low
+2014,9,2,Afghanistan Innings,Najibullah Zadran,5,4,1,0,125.0,Very Low
+2014,9,2,Afghanistan Innings,Nawroz Mangal,5,7,1,0,71.43,Very Low
+2014,9,2,Afghanistan Innings,Shafiqullah Shafiq,36,32,3,1,112.5,Low
+2014,9,2,Afghanistan Innings,Mohammad Nabi,1,2,0,0,50.0,Very Low
+2014,9,2,Afghanistan Innings,Asghar Afghan,49,36,4,1,136.11,Low
+2014,9,2,Afghanistan Innings,Samiullah Shinwari,15,13,1,0,115.38,Very Low
+2014,9,2,Afghanistan Innings,Mirwais Ashraf,2,2,0,0,100.0,Very Low
+2014,9,2,Afghanistan Innings,Dawlat Zadran,0,0,0,0,0.0,Very Low
+2014,15,1,England Innings,Michael Lumb,33,24,4,1,137.5,Low
+2014,15,1,England Innings,Alex Hales,0,2,0,0,0.0,Very Low
+2014,15,1,England Innings,Moeen Ali,36,23,6,1,156.52,Low
+2014,15,1,England Innings,Eoin Morgan,12,15,1,0,80.0,Very Low
+2014,15,1,England Innings,Jos Buttler,32,23,4,0,139.13,Low
+2014,15,1,England Innings,Ravi Bopara,24,19,0,1,126.32,Very Low
+2014,15,1,England Innings,Chris Jordan,8,6,0,1,133.33,Very Low
+2014,15,1,England Innings,Tim Bresnan,17,8,2,1,212.5,Very Low
+2014,15,2,New Zealand Innings,Martin Guptill,11,9,2,0,122.22,Very Low
+2014,15,2,New Zealand Innings,Kane Williamson,24,17,4,0,141.18,Very Low
+2014,15,2,New Zealand Innings,Brendon McCullum,16,6,1,2,266.67,Very Low
+2014,18,1,South Africa Innings,Quinton de Kock,4,8,0,0,50.0,Very Low
+2014,18,1,South Africa Innings,Hashim Amla,41,40,2,0,102.5,Low
+2014,18,1,South Africa Innings,Faf du Plessis,13,8,2,0,162.5,Very Low
+2014,18,1,South Africa Innings,AB de Villiers,5,6,1,0,83.33,Very Low
+2014,18,1,South Africa Innings,Jean-Paul Duminy,86,43,10,3,200.0,Medium
+2014,18,1,South Africa Innings,David Miller,6,6,1,0,100.0,Very Low
+2014,18,1,South Africa Innings,Albie Morkel,13,8,0,1,162.5,Very Low
+2014,18,1,South Africa Innings,Dale Steyn,1,1,0,0,100.0,Very Low
+2014,18,2,New Zealand Innings,Martin Guptill,22,25,3,0,88.0,Very Low
+2014,18,2,New Zealand Innings,Kane Williamson,51,35,5,2,145.71,Low
+2014,18,2,New Zealand Innings,Brendon McCullum,4,4,0,0,100.0,Very Low
+2014,18,2,New Zealand Innings,Ross Taylor,62,37,4,3,167.57,Medium
+2014,18,2,New Zealand Innings,Colin Munro,7,8,1,0,87.5,Very Low
+2014,18,2,New Zealand Innings,Corey Anderson,7,4,1,0,175.0,Very Low
+2014,18,2,New Zealand Innings,Luke Ronchi,5,3,1,0,166.67,Very Low
+2014,18,2,New Zealand Innings,Nathan McCullum,4,4,1,0,100.0,Very Low
+2014,18,2,New Zealand Innings,Tim Southee,0,0,0,0,0.0,Very Low
+2014,23,1,Australia Innings,Aaron Finch,16,11,2,1,145.45,Very Low
+2014,23,1,Australia Innings,David Warner,20,14,4,0,142.86,Very Low
+2014,23,1,Australia Innings,Shane Watson,2,8,0,0,25.0,Very Low
+2014,23,1,Australia Innings,Glenn Maxwell,45,22,5,3,204.55,Low
+2014,23,1,Australia Innings,George Bailey,12,12,0,1,100.0,Very Low
+2014,23,1,Australia Innings,Brad Hodge,35,26,2,1,134.62,Low
+2014,23,1,Australia Innings,James Faulkner,13,17,1,0,76.47,Very Low
+2014,23,1,Australia Innings,Brad Haddin,15,7,1,1,214.29,Very Low
+2014,23,1,Australia Innings,Mitchell Starc,4,4,0,0,100.0,Very Low
+2014,23,1,Australia Innings,James Muirhead,1,1,0,0,100.0,Very Low
+2014,23,2,West Indies Innings,Dwayne Smith,17,19,4,0,89.47,Very Low
+2014,23,2,West Indies Innings,Chris Gayle,53,35,6,2,151.43,Low
+2014,23,2,West Indies Innings,Lendl Simmons,26,24,3,0,108.33,Very Low
+2014,23,2,West Indies Innings,Marlon Samuels,12,15,1,0,80.0,Very Low
+2014,23,2,West Indies Innings,Dwayne Bravo,27,12,2,2,225.0,Very Low
+2014,23,2,West Indies Innings,Daren Sammy,34,13,2,3,261.54,Low
+2014,24,1,Bangladesh Innings,Tamim Iqbal,6,10,1,0,60.0,Very Low
+2014,24,1,Bangladesh Innings,Anamul Haque,44,43,5,2,102.33,Low
+2014,24,1,Bangladesh Innings,Shamsur Rahman,0,1,0,0,0.0,Very Low
+2014,24,1,Bangladesh Innings,Shakib Al Hasan,1,2,0,0,50.0,Very Low
+2014,24,1,Bangladesh Innings,Mushfiqur Rahim,24,21,4,0,114.29,Very Low
+2014,24,1,Bangladesh Innings,Nasir Hossain,16,17,1,0,94.12,Very Low
+2014,24,1,Bangladesh Innings,Mahmudullah,33,23,5,1,143.48,Low
+2014,24,1,Bangladesh Innings,Ziaur Rahman,0,1,0,0,0.0,Very Low
+2014,24,1,Bangladesh Innings,Mashrafe Mortaza,6,2,0,1,300.0,Very Low
+2014,24,2,India Innings,Rohit Sharma,56,44,5,1,127.27,Low
+2014,24,2,India Innings,Shikhar Dhawan,1,6,0,0,16.67,Very Low
+2014,24,2,India Innings,Virat Kohli,57,50,3,1,114.0,Low
+2014,24,2,India Innings,MS Dhoni,22,12,1,2,183.33,Very Low
+2014,30,1,Sri Lanka Innings,Kusal Perera,16,8,2,1,200.0,Very Low
+2014,30,1,Sri Lanka Innings,Tillakaratne Dilshan,8,11,1,0,72.73,Very Low
+2014,30,1,Sri Lanka Innings,Mahela Jayawardene,25,32,2,0,78.13,Very Low
+2014,30,1,Sri Lanka Innings,Kumar Sangakkara,4,11,1,0,36.36,Very Low
+2014,30,1,Sri Lanka Innings,Lahiru Thirimanne,20,18,3,0,111.11,Very Low
+2014,30,1,Sri Lanka Innings,Angelo Mathews,6,10,0,0,60.0,Very Low
+2014,30,1,Sri Lanka Innings,Thisara Perera,16,13,3,0,123.08,Very Low
+2014,30,1,Sri Lanka Innings,Nuwan Kulasekara,0,1,0,0,0.0,Very Low
+2014,30,1,Sri Lanka Innings,Sachithra Senanayake,17,11,1,1,154.55,Very Low
+2014,30,1,Sri Lanka Innings,Rangana Herath,1,1,0,0,100.0,Very Low
+2014,30,1,Sri Lanka Innings,Lasith Malinga,0,1,0,0,0.0,Very Low
+2014,30,2,New Zealand Innings,Martin Guptill,5,9,0,0,55.56,Very Low
+2014,30,2,New Zealand Innings,Kane Williamson,42,43,6,0,97.67,Low
+2014,30,2,New Zealand Innings,Brendon McCullum,0,5,0,0,0.0,Very Low
+2014,30,2,New Zealand Innings,Ross Taylor,0,5,0,0,0.0,Very Low
+2014,30,2,New Zealand Innings,James Neesham,0,1,0,0,0.0,Very Low
+2014,30,2,New Zealand Innings,Luke Ronchi,2,4,0,0,50.0,Very Low
+2014,30,2,New Zealand Innings,Nathan McCullum,2,9,0,0,22.22,Very Low
+2014,30,2,New Zealand Innings,Kyle Mills,4,9,1,0,44.44,Very Low
+2014,30,2,New Zealand Innings,Trent Boult,3,8,0,0,37.5,Very Low
+2014,30,2,New Zealand Innings,Mitchell McClenaghan,0,0,0,0,0.0,Very Low
+2014,30,2,New Zealand Innings,Corey Anderson,0,0,0,0,0.0,Very Low
+2014,8,1,United Arab Emirates Innings,Amjad Ali,20,19,4,0,105.26,Very Low
+2014,8,1,United Arab Emirates Innings,Faizan Asif,11,15,1,0,73.33,Very Low
+2014,8,1,United Arab Emirates Innings,Khurram Khan,16,21,1,0,76.19,Very Low
+2014,8,1,United Arab Emirates Innings,Swapnil Patil,0,3,0,0,0.0,Very Low
+2014,8,1,United Arab Emirates Innings,Shaiman Anwar,30,28,0,2,107.14,Very Low
+2014,8,1,United Arab Emirates Innings,Amjad Javed,19,21,3,0,90.48,Very Low
+2014,8,1,United Arab Emirates Innings,Rohan Mustafa,13,13,0,0,100.0,Very Low
+2014,8,1,United Arab Emirates Innings,Vikrant Shetty,1,1,0,0,100.0,Very Low
+2014,8,2,Ireland Innings,William Porterfield,33,35,2,1,94.29,Low
+2014,8,2,Ireland Innings,Paul Stirling,8,5,2,0,160.0,Very Low
+2014,8,2,Ireland Innings,Ed Joyce,43,38,4,1,113.16,Low
+2014,8,2,Ireland Innings,Kevin O Brien,0,2,0,0,0.0,Very Low
+2014,8,2,Ireland Innings,Andrew Poynter,4,5,1,0,80.0,Very Low
+2014,8,2,Ireland Innings,Gary Wilson,1,1,0,0,100.0,Very Low
+2012,1,1,Sri Lanka Innings,Dilshan Munaweera,17,19,3,0,89.47,Very Low
+2012,1,1,Sri Lanka Innings,Tillakaratne Dilshan,39,28,5,0,139.29,Low
+2012,1,1,Sri Lanka Innings,Mahela Jayawardene,13,18,1,0,72.22,Very Low
+2012,1,1,Sri Lanka Innings,Kumar Sangakkara,44,26,2,1,169.23,Low
+2012,1,1,Sri Lanka Innings,Jeevan Mendis,43,30,4,1,143.33,Low
+2012,1,1,Sri Lanka Innings,Thisara Perera,6,2,0,1,300.0,Very Low
+2012,1,2,Zimbabwe Innings,Hamilton Masakadza,20,23,3,0,86.96,Very Low
+2012,1,2,Zimbabwe Innings,Vusi Sibanda,11,16,1,0,68.75,Very Low
+2012,1,2,Zimbabwe Innings,Brendan Taylor,0,1,0,0,0.0,Very Low
+2012,1,2,Zimbabwe Innings,Elton Chigumbura,19,19,1,1,100.0,Very Low
+2012,1,2,Zimbabwe Innings,Craig Ervine,10,13,0,1,76.92,Very Low
+2012,1,2,Zimbabwe Innings,Malcolm Waller,0,2,0,0,0.0,Very Low
+2012,1,2,Zimbabwe Innings,Graeme Cremer,17,20,2,0,85.0,Very Low
+2012,1,2,Zimbabwe Innings,Prosper Utseya,1,2,0,0,50.0,Very Low
+2012,1,2,Zimbabwe Innings,Kyle Jarvis,0,3,0,0,0.0,Very Low
+2012,1,2,Zimbabwe Innings,Brian Vitori,7,4,0,0,175.0,Very Low
+2012,1,2,Zimbabwe Innings,Chris Mpofu,0,2,0,0,0.0,Very Low
+2012,2,1,Ireland Innings,William Porterfield,0,1,0,0,0.0,Very Low
+2012,2,1,Ireland Innings,Paul Stirling,7,12,1,0,58.33,Very Low
+2012,2,1,Ireland Innings,Ed Joyce,16,18,3,0,88.89,Very Low
+2012,2,1,Ireland Innings,Niall O Brien,20,24,2,0,83.33,Very Low
+2012,2,1,Ireland Innings,Gary Wilson,5,5,1,0,100.0,Very Low
+2012,2,1,Ireland Innings,Kevin O Brien,35,29,5,0,120.69,Low
+2012,2,1,Ireland Innings,Alex Cusack,15,14,1,0,107.14,Very Low
+2012,2,1,Ireland Innings,Trent Johnston,7,7,1,0,100.0,Very Low
+2012,2,1,Ireland Innings,Nigel Jones,14,10,0,1,140.0,Very Low
+2012,2,2,Australia Innings,David Warner,26,23,4,0,113.04,Very Low
+2012,2,2,Australia Innings,Shane Watson,51,30,5,3,170.0,Low
+2012,2,2,Australia Innings,Michael Hussey,10,11,0,0,90.91,Very Low
+2012,2,2,Australia Innings,Cameron White,22,19,3,0,115.79,Very Low
+2012,2,2,Australia Innings,George Bailey,6,8,1,0,75.0,Very Low
+2012,3,1,India Innings,Gautam Gambhir,10,8,1,0,125.0,Very Low
+2012,3,1,India Innings,Virender Sehwag,8,10,1,0,80.0,Very Low
+2012,3,1,India Innings,Virat Kohli,50,39,4,2,128.21,Low
+2012,3,1,India Innings,Yuvraj Singh,18,20,0,1,90.0,Very Low
+2012,3,1,India Innings,Suresh Raina,38,33,6,0,115.15,Low
+2012,3,1,India Innings,MS Dhoni,18,9,2,1,200.0,Very Low
+2012,3,1,India Innings,Rohit Sharma,1,1,0,0,100.0,Very Low
+2012,3,2,Afghanistan Innings,Mohammad Shahzad,18,16,3,0,112.5,Very Low
+2012,3,2,Afghanistan Innings,Nawroz Mangal,22,18,1,1,122.22,Very Low
+2012,3,2,Afghanistan Innings,Karim Sadiq,26,26,3,0,100.0,Very Low
+2012,3,2,Afghanistan Innings,Asghar Afghan,6,9,0,0,66.67,Very Low
+2012,3,2,Afghanistan Innings,Mohammad Nabi,31,17,2,2,182.35,Low
+2012,3,2,Afghanistan Innings,Samiullah Shinwari,1,2,0,0,50.0,Very Low
+2012,3,2,Afghanistan Innings,Shafiqullah Shafiq,8,9,0,1,88.89,Very Low
+2012,3,2,Afghanistan Innings,Gulbadin Naib,5,14,0,0,35.71,Very Low
+2012,3,2,Afghanistan Innings,Najibullah Zadran,5,2,1,0,250.0,Very Low
+2012,3,2,Afghanistan Innings,Dawlat Zadran,8,5,2,0,160.0,Very Low
+2012,3,2,Afghanistan Innings,Shapoor Zadran,0,0,0,0,0.0,Very Low
+2012,4,1,Zimbabwe Innings,Hamilton Masakadza,6,17,1,0,35.29,Very Low
+2012,4,1,Zimbabwe Innings,Vusi Sibanda,0,3,0,0,0.0,Very Low
+2012,4,1,Zimbabwe Innings,Brendan Taylor,4,4,0,0,100.0,Very Low
+2012,4,1,Zimbabwe Innings,Craig Ervine,37,40,4,0,92.5,Low
+2012,4,1,Zimbabwe Innings,Stuart Matsikenyeri,11,18,0,0,61.11,Very Low
+2012,4,1,Zimbabwe Innings,Elton Chigumbura,0,1,0,0,0.0,Very Low
+2012,4,1,Zimbabwe Innings,Graeme Cremer,6,11,0,0,54.55,Very Low
+2012,4,1,Zimbabwe Innings,Prosper Utseya,5,9,0,0,55.56,Very Low
+2012,4,1,Zimbabwe Innings,Ray Price,7,6,1,0,116.67,Very Low
+2012,4,1,Zimbabwe Innings,Kyle Jarvis,9,11,0,0,81.82,Very Low
+2012,4,2,South Africa Innings,Richard Levi,50,43,6,0,116.28,Low
+2012,4,2,South Africa Innings,Hashim Amla,32,33,3,0,96.97,Low
+2012,8,1,West Indies Innings,Dwayne Smith,2,5,0,0,40.0,Very Low
+2012,8,1,West Indies Innings,Chris Gayle,54,33,5,4,163.64,Low
+2012,8,1,West Indies Innings,Johnson Charles,16,12,2,1,133.33,Very Low
+2012,8,1,West Indies Innings,Marlon Samuels,50,32,3,4,156.25,Low
+2012,8,1,West Indies Innings,Dwayne Bravo,27,21,1,1,128.57,Very Low
+2012,8,1,West Indies Innings,Kieron Pollard,10,8,2,0,125.0,Very Low
+2012,8,1,West Indies Innings,Daren Sammy,12,7,1,1,171.43,Very Low
+2012,8,1,West Indies Innings,Denesh Ramdin,3,2,0,0,150.0,Very Low
+2012,8,1,West Indies Innings,Ravi Rampaul,0,0,0,0,0.0,Very Low
+2012,8,1,West Indies Innings,Sunil Narine,4,1,1,0,400.0,Very Low
+2012,8,2,Australia Innings,David Warner,28,14,3,2,200.0,Very Low
+2012,8,2,Australia Innings,Shane Watson,41,24,2,3,170.83,Low
+2012,8,2,Australia Innings,Michael Hussey,28,19,3,1,147.37,Very Low
+2012,10,1,India Innings,Gautam Gambhir,45,38,5,0,118.42,Low
+2012,10,1,India Innings,Irfan Pathan,8,8,1,0,100.0,Very Low
+2012,10,1,India Innings,Virat Kohli,40,32,6,0,125.0,Low
+2012,10,1,India Innings,Rohit Sharma,55,33,5,1,166.67,Low
+2012,10,1,India Innings,MS Dhoni,9,8,1,0,112.5,Very Low
+2012,10,1,India Innings,Suresh Raina,1,1,0,0,100.0,Very Low
+2012,10,2,England Innings,Craig Kieswetter,35,25,4,2,140.0,Low
+2012,10,2,England Innings,Alex Hales,0,2,0,0,0.0,Very Low
+2012,10,2,England Innings,Luke Wright,6,4,0,1,150.0,Very Low
+2012,10,2,England Innings,Eoin Morgan,2,6,0,0,33.33,Very Low
+2012,10,2,England Innings,Jonny Bairstow,1,8,0,0,12.5,Very Low
+2012,10,2,England Innings,Jos Buttler,11,12,1,0,91.67,Very Low
+2012,10,2,England Innings,Tim Bresnan,1,8,0,0,12.5,Very Low
+2012,10,2,England Innings,Stuart Broad,3,3,0,0,100.0,Very Low
+2012,10,2,England Innings,Graeme Swann,0,3,0,0,0.0,Very Low
+2012,10,2,England Innings,Steven Finn,8,10,1,0,80.0,Very Low
+2012,10,2,England Innings,Jade Dernbach,12,7,2,0,171.43,Very Low
+2012,12,1,Bangladesh Innings,Tamim Iqbal,24,12,5,0,200.0,Very Low
+2012,12,1,Bangladesh Innings,Mohammad Ashraful,14,13,3,0,107.69,Very Low
+2012,12,1,Bangladesh Innings,Shakib Al Hasan,84,54,11,2,155.56,Medium
+2012,12,1,Bangladesh Innings,Mushfiqur Rahim,25,26,1,1,96.15,Very Low
+2012,12,1,Bangladesh Innings,Mahmudullah,0,2,0,0,0.0,Very Low
+2012,12,1,Bangladesh Innings,Nasir Hossain,16,13,2,0,123.08,Very Low
+2012,12,1,Bangladesh Innings,Ziaur Rahman,1,1,0,0,100.0,Very Low
+2012,12,2,Pakistan Innings,Mohammad Hafeez,45,47,6,0,95.74,Low
+2012,12,2,Pakistan Innings,Imran Nazir,72,36,9,3,200.0,Medium
+2012,12,2,Pakistan Innings,Nasir Jamshed,29,14,2,2,207.14,Very Low
+2012,12,2,Pakistan Innings,Kamran Akmal,22,15,4,0,146.67,Very Low
+2012,16,1,India Innings,Gautam Gambhir,17,12,3,0,141.67,Very Low
+2012,16,1,India Innings,Irfan Pathan,31,30,2,1,103.33,Low
+2012,16,1,India Innings,Virat Kohli,15,13,2,0,115.38,Very Low
+2012,16,1,India Innings,Yuvraj Singh,8,10,1,0,80.0,Very Low
+2012,16,1,India Innings,Rohit Sharma,1,2,0,0,50.0,Very Low
+2012,16,1,India Innings,Suresh Raina,26,19,4,0,136.84,Very Low
+2012,16,1,India Innings,MS Dhoni,15,21,2,0,71.43,Very Low
+2012,16,1,India Innings,Ravichandran Ashwin,16,12,1,1,133.33,Very Low
+2012,16,1,India Innings,Harbhajan Singh,1,1,0,0,100.0,Very Low
+2012,16,2,Australia Innings,Shane Watson,72,42,2,7,171.43,Medium
+2012,16,2,Australia Innings,David Warner,63,41,7,3,153.66,Medium
+2012,16,2,Australia Innings,Glenn Maxwell,4,6,0,0,66.67,Very Low
+2012,18,1,West Indies Innings,Johnson Charles,12,21,2,0,57.14,Very Low
+2012,18,1,West Indies Innings,Chris Gayle,2,9,0,0,22.22,Very Low
+2012,18,1,West Indies Innings,Marlon Samuels,50,35,4,2,142.86,Low
+2012,18,1,West Indies Innings,Dwayne Bravo,40,34,4,2,117.65,Low
+2012,18,1,West Indies Innings,Kieron Pollard,1,6,0,0,16.67,Very Low
+2012,18,1,West Indies Innings,Andre Russell,19,14,0,1,135.71,Very Low
+2012,18,1,West Indies Innings,Daren Sammy,1,1,0,0,100.0,Very Low
+2012,18,2,Sri Lanka Innings,Mahela Jayawardene,65,49,10,1,132.65,Medium
+2012,18,2,Sri Lanka Innings,Tillakaratne Dilshan,13,9,3,0,144.44,Very Low
+2012,18,2,Sri Lanka Innings,Kumar Sangakkara,39,34,5,0,114.71,Low
+2012,20,1,Pakistan Innings,Mohammad Hafeez,15,28,1,0,53.57,Very Low
+2012,20,1,Pakistan Innings,Imran Nazir,8,5,2,0,160.0,Very Low
+2012,20,1,Pakistan Innings,Shahid Afridi,14,12,2,0,116.67,Very Low
+2012,20,1,Pakistan Innings,Nasir Jamshed,4,5,0,0,80.0,Very Low
+2012,20,1,Pakistan Innings,Kamran Akmal,5,6,0,0,83.33,Very Low
+2012,20,1,Pakistan Innings,Shoaib Malik,28,22,3,0,127.27,Very Low
+2012,20,1,Pakistan Innings,Umar Akmal,21,18,0,1,116.67,Very Low
+2012,20,1,Pakistan Innings,Yasir Arafat,8,11,1,0,72.73,Very Low
+2012,20,1,Pakistan Innings,Umar Gul,12,10,1,1,120.0,Very Low
+2012,20,1,Pakistan Innings,Saeed Ajmal,1,2,0,0,50.0,Very Low
+2012,20,1,Pakistan Innings,Raza Hasan,0,0,0,0,0.0,Very Low
+2012,20,2,India Innings,Gautam Gambhir,0,2,0,0,0.0,Very Low
+2012,20,2,India Innings,Virender Sehwag,29,24,4,0,120.83,Very Low
+2012,20,2,India Innings,Virat Kohli,78,61,8,2,127.87,Medium
+2012,20,2,India Innings,Yuvraj Singh,19,16,2,0,118.75,Very Low
+2012,22,1,Sri Lanka Innings,Mahela Jayawardene,42,38,5,1,110.53,Low
+2012,22,1,Sri Lanka Innings,Tillakaratne Dilshan,16,12,1,1,133.33,Very Low
+2012,22,1,Sri Lanka Innings,Kumar Sangakkara,13,12,1,0,108.33,Very Low
+2012,22,1,Sri Lanka Innings,Angelo Mathews,28,19,3,1,147.37,Very Low
+2012,22,1,Sri Lanka Innings,Jeevan Mendis,18,13,2,1,138.46,Very Low
+2012,22,1,Sri Lanka Innings,Lahiru Thirimanne,13,7,1,1,185.71,Very Low
+2012,22,1,Sri Lanka Innings,Thisara Perera,26,16,0,2,162.5,Very Low
+2012,22,1,Sri Lanka Innings,Nuwan Kulasekara,1,3,0,0,33.33,Very Low
+2012,22,2,England Innings,Luke Wright,12,11,1,1,109.09,Very Low
+2012,22,2,England Innings,Alex Hales,3,5,0,0,60.0,Very Low
+2012,22,2,England Innings,Jonny Bairstow,2,2,0,0,100.0,Very Low
+2012,22,2,England Innings,Samit Patel,67,48,8,2,139.58,Medium
+2012,22,2,England Innings,Eoin Morgan,10,15,1,0,66.67,Very Low
+2012,22,2,England Innings,Ravi Bopara,1,6,0,0,16.67,Very Low
+2012,22,2,England Innings,Jos Buttler,8,7,0,0,114.29,Very Low
+2012,22,2,England Innings,Stuart Broad,1,2,0,0,50.0,Very Low
+2012,22,2,England Innings,Graeme Swann,34,20,4,1,170.0,Low
+2012,22,2,England Innings,Steven Finn,1,3,0,0,33.33,Very Low
+2012,22,2,England Innings,Jade Dernbach,2,2,0,0,100.0,Very Low
+2012,24,1,India Innings,Gautam Gambhir,8,12,1,0,66.67,Very Low
+2012,24,1,India Innings,Virender Sehwag,17,14,1,1,121.43,Very Low
+2012,24,1,India Innings,Virat Kohli,2,6,0,0,33.33,Very Low
+2012,24,1,India Innings,Rohit Sharma,25,27,2,0,92.59,Very Low
+2012,24,1,India Innings,Yuvraj Singh,21,15,1,2,140.0,Very Low
+2012,24,1,India Innings,Suresh Raina,45,34,5,0,132.35,Low
+2012,24,1,India Innings,MS Dhoni,23,13,3,0,176.92,Very Low
+2012,24,2,South Africa Innings,Hashim Amla,0,2,0,0,0.0,Very Low
+2012,24,2,South Africa Innings,Jacques Kallis,6,8,1,0,75.0,Very Low
+2012,24,2,South Africa Innings,AB de Villiers,13,13,2,0,100.0,Very Low
+2012,24,2,South Africa Innings,Faf du Plessis,65,38,6,2,171.05,Medium
+2012,24,2,South Africa Innings,Jean-Paul Duminy,16,23,0,0,69.57,Very Low
+2012,24,2,South Africa Innings,Farhaan Behardien,13,12,1,0,108.33,Very Low
+2012,24,2,South Africa Innings,Robin Peterson,10,10,1,0,100.0,Very Low
+2012,24,2,South Africa Innings,Albie Morkel,10,6,0,1,166.67,Very Low
+2012,24,2,South Africa Innings,Johan Botha,8,5,0,1,160.0,Very Low
+2012,24,2,South Africa Innings,Dale Steyn,0,0,0,0,0.0,Very Low
+2012,24,2,South Africa Innings,Morne Morkel,6,3,0,1,200.0,Very Low
+2012,25,1,Sri Lanka Innings,Mahela Jayawardene,42,36,7,0,116.67,Low
+2012,25,1,Sri Lanka Innings,Tillakaratne Dilshan,35,43,3,0,81.4,Low
+2012,25,1,Sri Lanka Innings,Kumar Sangakkara,18,11,3,0,163.64,Very Low
+2012,25,1,Sri Lanka Innings,Jeevan Mendis,15,18,1,0,83.33,Very Low
+2012,25,1,Sri Lanka Innings,Thisara Perera,11,7,2,0,157.14,Very Low
+2012,25,1,Sri Lanka Innings,Angelo Mathews,10,6,1,0,166.67,Very Low
+2012,25,2,Pakistan Innings,Mohammad Hafeez,42,40,4,1,105.0,Low
+2012,25,2,Pakistan Innings,Imran Nazir,20,21,3,0,95.24,Very Low
+2012,25,2,Pakistan Innings,Nasir Jamshed,4,8,0,0,50.0,Very Low
+2012,25,2,Pakistan Innings,Kamran Akmal,1,2,0,0,50.0,Very Low
+2012,25,2,Pakistan Innings,Shoaib Malik,6,7,0,0,85.71,Very Low
+2012,25,2,Pakistan Innings,Umar Akmal,29,22,3,0,131.82,Very Low
+2012,25,2,Pakistan Innings,Shahid Afridi,0,1,0,0,0.0,Very Low
+2012,25,2,Pakistan Innings,Sohail Tanvir,8,13,1,0,61.54,Very Low
+2012,25,2,Pakistan Innings,Umar Gul,2,6,0,0,33.33,Very Low
+2012,26,1,West Indies Innings,Johnson Charles,10,13,2,0,76.92,Very Low
+2012,26,1,West Indies Innings,Chris Gayle,75,41,5,6,182.93,Medium
+2012,26,1,West Indies Innings,Marlon Samuels,26,20,2,2,130.0,Very Low
+2012,26,1,West Indies Innings,Dwayne Bravo,37,31,1,3,119.35,Low
+2012,26,1,West Indies Innings,Kieron Pollard,38,15,3,3,253.33,Low
+2012,26,2,Australia Innings,David Warner,1,3,0,0,33.33,Very Low
+2012,26,2,Australia Innings,Shane Watson,7,9,1,0,77.78,Very Low
+2012,26,2,Australia Innings,Michael Hussey,18,12,3,0,150.0,Very Low
+2012,26,2,Australia Innings,Cameron White,5,6,0,0,83.33,Very Low
+2012,26,2,Australia Innings,George Bailey,63,29,6,4,217.24,Medium
+2012,26,2,Australia Innings,David Hussey,0,2,0,0,0.0,Very Low
+2012,26,2,Australia Innings,Matthew Wade,1,5,0,0,20.0,Very Low
+2012,26,2,Australia Innings,Pat Cummins,13,15,1,0,86.67,Very Low
+2012,26,2,Australia Innings,Mitchell Starc,2,5,0,0,40.0,Very Low
+2012,26,2,Australia Innings,Brad Hogg,7,7,0,0,100.0,Very Low
+2012,26,2,Australia Innings,Xavier Doherty,9,7,1,0,128.57,Very Low
+2012,5,1,New Zealand Innings,Martin Guptill,11,14,0,1,78.57,Very Low
+2012,5,1,New Zealand Innings,James Franklin,35,36,2,1,97.22,Low
+2012,5,1,New Zealand Innings,Brendon McCullum,123,58,11,7,212.07,High
+2012,5,1,New Zealand Innings,Ross Taylor,14,12,2,0,116.67,Very Low
+2012,5,2,Bangladesh Innings,Tamim Iqbal,0,3,0,0,0.0,Very Low
+2012,5,2,Bangladesh Innings,Mohammad Ashraful,21,21,3,0,100.0,Very Low
+2012,5,2,Bangladesh Innings,Shakib Al Hasan,11,8,2,0,137.5,Very Low
+2012,5,2,Bangladesh Innings,Mushfiqur Rahim,4,6,0,0,66.67,Very Low
+2012,5,2,Bangladesh Innings,Mahmudullah,15,19,0,1,78.95,Very Low
+2012,5,2,Bangladesh Innings,Nasir Hossain,50,39,6,1,128.21,Low
+2012,5,2,Bangladesh Innings,Ziaur Rahman,14,16,0,1,87.5,Very Low
+2012,5,2,Bangladesh Innings,Mashrafe Mortaza,5,3,1,0,166.67,Very Low
+2012,5,2,Bangladesh Innings,Elias Sunny,5,3,1,0,166.67,Very Low
+2012,5,2,Bangladesh Innings,Abdur Razzak,0,2,0,0,0.0,Very Low
+2012,6,1,England Innings,Craig Kieswetter,0,6,0,0,0.0,Very Low
+2012,6,1,England Innings,Alex Hales,31,27,5,0,114.81,Low
+2012,6,1,England Innings,Luke Wright,99,55,8,6,180.0,High
+2012,6,1,England Innings,Eoin Morgan,27,23,1,1,117.39,Very Low
+2012,6,1,England Innings,Jos Buttler,15,7,3,0,214.29,Very Low
+2012,6,1,England Innings,Jonny Bairstow,12,5,1,1,240.0,Very Low
+2012,6,1,England Innings,Samit Patel,0,0,0,0,0.0,Very Low
+2012,6,2,Afghanistan Innings,Mohammad Shahzad,1,5,0,0,20.0,Very Low
+2012,6,2,Afghanistan Innings,Nawroz Mangal,8,9,1,0,88.89,Very Low
+2012,6,2,Afghanistan Innings,Shafiqullah Shafiq,0,1,0,0,0.0,Very Low
+2012,6,2,Afghanistan Innings,Karim Sadiq,5,8,0,0,62.5,Very Low
+2012,6,2,Afghanistan Innings,Asghar Afghan,4,11,0,0,36.36,Very Low
+2012,6,2,Afghanistan Innings,Mohammad Nabi,1,6,0,0,16.67,Very Low
+2012,6,2,Afghanistan Innings,Samiullah Shinwari,2,9,0,0,22.22,Very Low
+2012,6,2,Afghanistan Innings,Gulbadin Naib,44,32,5,3,137.5,Low
+2012,6,2,Afghanistan Innings,Dawlat Zadran,0,3,0,0,0.0,Very Low
+2012,6,2,Afghanistan Innings,Shapoor Zadran,9,17,0,1,52.94,Very Low
+2012,6,2,Afghanistan Innings,Izatullah Dawlatzai,0,3,0,0,0.0,Very Low
+2012,7,1,South Africa Innings,Richard Levi,4,4,0,0,100.0,Very Low
+2012,7,1,South Africa Innings,Hashim Amla,16,9,3,0,177.78,Very Low
+2012,7,1,South Africa Innings,Faf du Plessis,13,11,0,0,118.18,Very Low
+2012,7,1,South Africa Innings,AB de Villiers,30,13,1,2,230.77,Very Low
+2012,7,1,South Africa Innings,Jean-Paul Duminy,12,5,1,1,240.0,Very Low
+2012,7,1,South Africa Innings,Albie Morkel,0,0,0,0,0.0,Very Low
+2012,7,2,Sri Lanka Innings,Mahela Jayawardene,4,6,1,0,66.67,Very Low
+2012,7,2,Sri Lanka Innings,Tillakaratne Dilshan,0,0,0,0,0.0,Very Low
+2012,7,2,Sri Lanka Innings,Dilshan Munaweera,13,14,1,0,92.86,Very Low
+2012,7,2,Sri Lanka Innings,Kumar Sangakkara,13,11,1,0,118.18,Very Low
+2012,7,2,Sri Lanka Innings,Thisara Perera,1,3,0,0,33.33,Very Low
+2012,7,2,Sri Lanka Innings,Jeevan Mendis,7,5,1,0,140.0,Very Low
+2012,7,2,Sri Lanka Innings,Lahiru Thirimanne,5,3,0,0,166.67,Very Low
+2012,9,1,Pakistan Innings,Mohammad Hafeez,43,38,2,2,113.16,Low
+2012,9,1,Pakistan Innings,Imran Nazir,25,16,5,0,156.25,Very Low
+2012,9,1,Pakistan Innings,Nasir Jamshed,56,35,2,4,160.0,Low
+2012,9,1,Pakistan Innings,Kamran Akmal,3,3,0,0,100.0,Very Low
+2012,9,1,Pakistan Innings,Umar Akmal,23,15,3,1,153.33,Very Low
+2012,9,1,Pakistan Innings,Shoaib Malik,9,7,1,0,128.57,Very Low
+2012,9,1,Pakistan Innings,Shahid Afridi,12,6,2,0,200.0,Very Low
+2012,9,2,New Zealand Innings,Rob Nicol,33,28,3,1,117.86,Low
+2012,9,2,New Zealand Innings,Kane Williamson,15,13,2,0,115.38,Very Low
+2012,9,2,New Zealand Innings,Brendon McCullum,32,31,4,1,103.23,Low
+2012,9,2,New Zealand Innings,Daniel Vettori,18,16,1,0,112.5,Very Low
+2012,9,2,New Zealand Innings,Jacob Oram,11,7,2,0,157.14,Very Low
+2012,9,2,New Zealand Innings,Ross Taylor,26,11,3,1,236.36,Very Low
+2012,9,2,New Zealand Innings,James Franklin,13,6,1,1,216.67,Very Low
+2012,9,2,New Zealand Innings,Nathan McCullum,5,4,1,0,125.0,Very Low
+2012,9,2,New Zealand Innings,Tim Southee,1,3,0,0,33.33,Very Low
+2012,9,2,New Zealand Innings,Kyle Mills,0,1,0,0,0.0,Very Low
+2012,9,2,New Zealand Innings,Adam Milne,0,0,0,0,0.0,Very Low
+2012,11,1,Ireland Innings,William Porterfield,0,1,0,0,0.0,Very Low
+2012,11,1,Ireland Innings,Paul Stirling,19,16,3,0,118.75,Very Low
+2012,11,1,Ireland Innings,Ed Joyce,17,19,3,0,89.47,Very Low
+2012,11,1,Ireland Innings,Niall O Brien,25,21,0,1,119.05,Very Low
+2012,11,1,Ireland Innings,Gary Wilson,21,22,3,0,95.45,Very Low
+2012,11,1,Ireland Innings,Kevin O Brien,13,15,0,1,86.67,Very Low
+2012,11,1,Ireland Innings,Trent Johnston,15,10,0,1,150.0,Very Low
+2012,11,1,Ireland Innings,Nigel Jones,14,11,0,1,127.27,Very Low
+2012,13,1,New Zealand Innings,Rob Nicol,58,40,3,4,145.0,Low
+2012,13,1,New Zealand Innings,Martin Guptill,38,30,6,0,126.67,Low
+2012,13,1,New Zealand Innings,Brendon McCullum,25,16,0,2,156.25,Very Low
+2012,13,1,New Zealand Innings,Ross Taylor,23,15,2,0,153.33,Very Low
+2012,13,1,New Zealand Innings,Jacob Oram,6,6,1,0,100.0,Very Low
+2012,13,1,New Zealand Innings,Nathan McCullum,3,4,0,0,75.0,Very Low
+2012,13,1,New Zealand Innings,James Franklin,8,5,1,0,160.0,Very Low
+2012,13,1,New Zealand Innings,Kane Williamson,4,4,0,0,100.0,Very Low
+2012,13,2,Sri Lanka Innings,Mahela Jayawardene,44,26,3,3,169.23,Low
+2012,13,2,Sri Lanka Innings,Tillakaratne Dilshan,76,53,5,3,143.4,Medium
+2012,13,2,Sri Lanka Innings,Kumar Sangakkara,21,14,4,0,150.0,Very Low
+2012,13,2,Sri Lanka Innings,Jeevan Mendis,8,9,1,0,88.89,Very Low
+2012,13,2,Sri Lanka Innings,Angelo Mathews,12,11,0,0,109.09,Very Low
+2012,13,2,Sri Lanka Innings,Thisara Perera,5,3,1,0,166.67,Very Low
+2012,13,2,Sri Lanka Innings,Lahiru Thirimanne,5,4,1,0,125.0,Very Low
+2012,14,1,West Indies Innings,Johnson Charles,84,56,10,3,150.0,Medium
+2012,14,1,West Indies Innings,Chris Gayle,58,35,6,4,165.71,Low
+2012,14,1,West Indies Innings,Marlon Samuels,2,8,0,0,25.0,Very Low
+2012,14,1,West Indies Innings,Kieron Pollard,1,5,0,0,20.0,Very Low
+2012,14,1,West Indies Innings,Dwayne Bravo,11,8,2,0,137.5,Very Low
+2012,14,1,West Indies Innings,Daren Sammy,4,3,0,0,133.33,Very Low
+2012,14,1,West Indies Innings,Andre Russell,10,5,2,0,200.0,Very Low
+2012,14,2,England Innings,Craig Kieswetter,0,2,0,0,0.0,Very Low
+2012,14,2,England Innings,Alex Hales,68,51,5,2,133.33,Medium
+2012,14,2,England Innings,Luke Wright,0,1,0,0,0.0,Very Low
+2012,14,2,England Innings,Jonny Bairstow,18,29,2,0,62.07,Very Low
+2012,14,2,England Innings,Eoin Morgan,71,36,4,5,197.22,Medium
+2012,14,2,England Innings,Jos Buttler,1,1,0,0,100.0,Very Low
+2012,15,1,South Africa Innings,Richard Levi,8,9,1,0,88.89,Very Low
+2012,15,1,South Africa Innings,Hashim Amla,6,6,1,0,100.0,Very Low
+2012,15,1,South Africa Innings,Jacques Kallis,12,18,0,1,66.67,Very Low
+2012,15,1,South Africa Innings,Jean-Paul Duminy,48,38,2,2,126.32,Low
+2012,15,1,South Africa Innings,Farhaan Behardien,18,21,2,0,85.71,Very Low
+2012,15,1,South Africa Innings,AB de Villiers,25,18,2,1,138.89,Very Low
+2012,15,1,South Africa Innings,Albie Morkel,9,6,1,0,150.0,Very Low
+2012,15,1,South Africa Innings,Robin Peterson,3,4,0,0,75.0,Very Low
+2012,15,2,Pakistan Innings,Mohammad Hafeez,15,9,2,1,166.67,Very Low
+2012,15,2,Pakistan Innings,Imran Nazir,14,11,3,0,127.27,Very Low
+2012,15,2,Pakistan Innings,Nasir Jamshed,0,2,0,0,0.0,Very Low
+2012,15,2,Pakistan Innings,Kamran Akmal,1,6,0,0,16.67,Very Low
+2012,15,2,Pakistan Innings,Shoaib Malik,12,26,1,0,46.15,Very Low
+2012,15,2,Pakistan Innings,Umar Akmal,43,41,4,1,104.88,Low
+2012,15,2,Pakistan Innings,Shahid Afridi,0,1,0,0,0.0,Very Low
+2012,15,2,Pakistan Innings,Yasir Arafat,3,5,0,0,60.0,Very Low
+2012,15,2,Pakistan Innings,Umar Gul,32,17,2,3,188.24,Low
+2012,15,2,Pakistan Innings,Saeed Ajmal,4,1,1,0,400.0,Very Low
+2012,17,1,New Zealand Innings,Martin Guptill,5,6,1,0,83.33,Very Low
+2012,17,1,New Zealand Innings,Rob Nicol,11,15,1,0,73.33,Very Low
+2012,17,1,New Zealand Innings,Brendon McCullum,10,10,2,0,100.0,Very Low
+2012,17,1,New Zealand Innings,Kane Williamson,17,23,1,0,73.91,Very Low
+2012,17,1,New Zealand Innings,Ross Taylor,22,23,2,0,95.65,Very Low
+2012,17,1,New Zealand Innings,James Franklin,50,33,4,2,151.52,Low
+2012,17,1,New Zealand Innings,Nathan McCullum,16,10,0,2,160.0,Very Low
+2012,17,1,New Zealand Innings,Doug Bracewell,2,1,0,0,200.0,Very Low
+2012,17,2,England Innings,Craig Kieswetter,4,14,0,0,28.57,Very Low
+2012,17,2,England Innings,Alex Hales,22,15,3,0,146.67,Very Low
+2012,17,2,England Innings,Luke Wright,76,43,5,5,176.74,Medium
+2012,17,2,England Innings,Eoin Morgan,30,31,1,1,96.77,Very Low
+2012,17,2,England Innings,Jos Buttler,5,8,0,0,62.5,Very Low
+2012,17,2,England Innings,Jonny Bairstow,5,2,1,0,250.0,Very Low
+2012,19,1,South Africa Innings,Richard Levi,0,3,0,0,0.0,Very Low
+2012,19,1,South Africa Innings,Hashim Amla,17,15,1,1,113.33,Very Low
+2012,19,1,South Africa Innings,Jacques Kallis,6,7,1,0,85.71,Very Low
+2012,19,1,South Africa Innings,Jean-Paul Duminy,30,25,4,0,120.0,Very Low
+2012,19,1,South Africa Innings,AB de Villiers,21,24,0,0,87.5,Very Low
+2012,19,1,South Africa Innings,Farhaan Behardien,31,27,2,1,114.81,Low
+2012,19,1,South Africa Innings,Robin Peterson,32,19,6,0,168.42,Low
+2012,19,2,Australia Innings,David Warner,5,9,0,0,55.56,Very Low
+2012,19,2,Australia Innings,Shane Watson,70,47,8,2,148.94,Medium
+2012,19,2,Australia Innings,Michael Hussey,45,37,2,2,121.62,Low
+2012,19,2,Australia Innings,Cameron White,21,13,3,1,161.54,Very Low
+2012,21,1,West Indies Innings,Johnson Charles,8,9,2,0,88.89,Very Low
+2012,21,1,West Indies Innings,Chris Gayle,30,14,3,2,214.29,Very Low
+2012,21,1,West Indies Innings,Andre Russell,6,6,0,1,100.0,Very Low
+2012,21,1,West Indies Innings,Marlon Samuels,24,22,2,1,109.09,Very Low
+2012,21,1,West Indies Innings,Darren Bravo,16,21,0,1,76.19,Very Low
+2012,21,1,West Indies Innings,Kieron Pollard,28,22,3,0,127.27,Very Low
+2012,21,1,West Indies Innings,Denesh Ramdin,1,2,0,0,50.0,Very Low
+2012,21,1,West Indies Innings,Daren Sammy,11,12,1,0,91.67,Very Low
+2012,21,1,West Indies Innings,Sunil Narine,3,4,0,0,75.0,Very Low
+2012,21,1,West Indies Innings,Samuel Badree,1,4,0,0,25.0,Very Low
+2012,21,1,West Indies Innings,Ravi Rampaul,1,3,0,0,33.33,Very Low
+2012,21,2,New Zealand Innings,Rob Nicol,3,5,0,0,60.0,Very Low
+2012,21,2,New Zealand Innings,Martin Guptill,21,27,2,0,77.78,Very Low
+2012,21,2,New Zealand Innings,Brendon McCullum,22,18,3,0,122.22,Very Low
+2012,21,2,New Zealand Innings,Ross Taylor,62,40,3,3,155.0,Medium
+2012,21,2,New Zealand Innings,James Franklin,14,14,1,0,100.0,Very Low
+2012,21,2,New Zealand Innings,Jacob Oram,6,9,0,0,66.67,Very Low
+2012,21,2,New Zealand Innings,Nathan McCullum,5,7,0,0,71.43,Very Low
+2012,21,2,New Zealand Innings,Doug Bracewell,1,1,0,0,100.0,Very Low
+2012,23,1,Pakistan Innings,Mohammad Hafeez,4,5,0,0,80.0,Very Low
+2012,23,1,Pakistan Innings,Imran Nazir,14,13,2,0,107.69,Very Low
+2012,23,1,Pakistan Innings,Nasir Jamshed,55,46,4,2,119.57,Low
+2012,23,1,Pakistan Innings,Kamran Akmal,32,26,1,1,123.08,Low
+2012,23,1,Pakistan Innings,Umar Akmal,9,8,1,0,112.5,Very Low
+2012,23,1,Pakistan Innings,Abdul Razzaq,22,17,2,1,129.41,Very Low
+2012,23,1,Pakistan Innings,Shahid Afridi,4,2,1,0,200.0,Very Low
+2012,23,1,Pakistan Innings,Shoaib Malik,4,3,0,0,133.33,Very Low
+2012,23,2,Australia Innings,Shane Watson,8,14,1,0,57.14,Very Low
+2012,23,2,Australia Innings,David Warner,8,13,1,0,61.54,Very Low
+2012,23,2,Australia Innings,Michael Hussey,54,47,4,1,114.89,Low
+2012,23,2,Australia Innings,George Bailey,15,12,1,1,125.0,Very Low
+2012,23,2,Australia Innings,Cameron White,12,11,0,1,109.09,Very Low
+2012,23,2,Australia Innings,Glenn Maxwell,4,5,0,0,80.0,Very Low
+2012,23,2,Australia Innings,Matthew Wade,13,14,1,0,92.86,Very Low
+2012,23,2,Australia Innings,Pat Cummins,0,1,0,0,0.0,Very Low
+2012,23,2,Australia Innings,Mitchell Starc,1,3,0,0,33.33,Very Low
+2012,27,1,West Indies Innings,Johnson Charles,0,5,0,0,0.0,Very Low
+2012,27,1,West Indies Innings,Chris Gayle,3,16,0,0,18.75,Very Low
+2012,27,1,West Indies Innings,Marlon Samuels,78,56,3,6,139.29,Medium
+2012,27,1,West Indies Innings,Dwayne Bravo,19,19,0,1,100.0,Very Low
+2012,27,1,West Indies Innings,Kieron Pollard,2,4,0,0,50.0,Very Low
+2012,27,1,West Indies Innings,Andre Russell,0,1,0,0,0.0,Very Low
+2012,27,1,West Indies Innings,Daren Sammy,26,15,3,0,173.33,Very Low
+2012,27,1,West Indies Innings,Denesh Ramdin,4,4,0,0,100.0,Very Low
+2012,27,2,Sri Lanka Innings,Mahela Jayawardene,33,36,2,0,91.67,Low
+2012,27,2,Sri Lanka Innings,Tillakaratne Dilshan,0,3,0,0,0.0,Very Low
+2012,27,2,Sri Lanka Innings,Kumar Sangakkara,22,26,2,0,84.62,Very Low
+2012,27,2,Sri Lanka Innings,Angelo Mathews,1,5,0,0,20.0,Very Low
+2012,27,2,Sri Lanka Innings,Jeevan Mendis,3,3,0,0,100.0,Very Low
+2012,27,2,Sri Lanka Innings,Thisara Perera,3,5,0,0,60.0,Very Low
+2012,27,2,Sri Lanka Innings,Lahiru Thirimanne,4,7,0,0,57.14,Very Low
+2012,27,2,Sri Lanka Innings,Nuwan Kulasekara,26,13,3,1,200.0,Very Low
+2012,27,2,Sri Lanka Innings,Lasith Malinga,5,13,0,0,38.46,Very Low
+2012,27,2,Sri Lanka Innings,Ajantha Mendis,1,2,0,0,50.0,Very Low
+2012,27,2,Sri Lanka Innings,Akila Dananjaya,0,0,0,0,0.0,Very Low
+2010,1,1,West Indies Innings,Andre Fletcher,19,22,1,0,86.36,Very Low
+2010,1,1,West Indies Innings,Shivnarine Chanderpaul,14,12,2,0,116.67,Very Low
+2010,1,1,West Indies Innings,Dwayne Bravo,18,10,0,2,180.0,Very Low
+2010,1,1,West Indies Innings,Ramnaresh Sarwan,24,26,1,0,92.31,Very Low
+2010,1,1,West Indies Innings,Narsingh Deonarine,10,16,0,0,62.5,Very Low
+2010,1,1,West Indies Innings,Denesh Ramdin,1,2,0,0,50.0,Very Low
+2010,1,1,West Indies Innings,Daren Sammy,30,17,2,2,176.47,Very Low
+2010,1,1,West Indies Innings,Kieron Pollard,8,6,1,0,133.33,Very Low
+2010,1,1,West Indies Innings,Nikita Miller,2,2,0,0,100.0,Very Low
+2010,1,1,West Indies Innings,Ravi Rampaul,8,8,0,0,100.0,Very Low
+2010,1,2,Ireland Innings,William Porterfield,4,2,1,0,200.0,Very Low
+2010,1,2,Ireland Innings,Paul Stirling,0,4,0,0,0.0,Very Low
+2010,1,2,Ireland Innings,Niall O Brien,6,5,1,0,120.0,Very Low
+2010,1,2,Ireland Innings,Alex Cusack,2,4,0,0,50.0,Very Low
+2010,1,2,Ireland Innings,Gary Wilson,17,34,0,0,50.0,Very Low
+2010,1,2,Ireland Innings,Kevin O Brien,9,16,1,0,56.25,Very Low
+2010,1,2,Ireland Innings,Trent Johnston,5,10,0,0,50.0,Very Low
+2010,1,2,Ireland Innings,John Mooney,1,3,0,0,33.33,Very Low
+2010,1,2,Ireland Innings,Andre Botha,4,11,0,0,36.36,Very Low
+2010,1,2,Ireland Innings,Boyd Rankin,1,5,0,0,20.0,Very Low
+2010,1,2,Ireland Innings,George Dockrell,0,6,0,0,0.0,Very Low
+2010,2,1,Sri Lanka Innings,Mahela Jayawardene,81,51,8,2,158.82,Medium
+2010,2,1,Sri Lanka Innings,Tillakaratne Dilshan,3,19,0,0,15.79,Very Low
+2010,2,1,Sri Lanka Innings,Kumar Sangakkara,4,11,0,0,36.36,Very Low
+2010,2,1,Sri Lanka Innings,Dinesh Chandimal,29,23,1,1,126.09,Very Low
+2010,2,1,Sri Lanka Innings,Chamara Kapugedera,11,10,0,1,110.0,Very Low
+2010,2,1,Sri Lanka Innings,Angelo Mathews,3,6,0,0,50.0,Very Low
+2010,2,1,Sri Lanka Innings,Sanath Jayasuriya,0,0,0,0,0.0,Very Low
+2010,2,2,New Zealand Innings,Brendon McCullum,0,4,0,0,0.0,Very Low
+2010,2,2,New Zealand Innings,Jesse Ryder,42,27,3,2,155.56,Low
+2010,2,2,New Zealand Innings,Martin Guptill,19,24,1,1,79.17,Very Low
+2010,2,2,New Zealand Innings,Ross Taylor,9,15,0,0,60.0,Very Low
+2010,2,2,New Zealand Innings,Scott Styris,17,21,1,0,80.95,Very Low
+2010,2,2,New Zealand Innings,Daniel Vettori,17,15,1,0,113.33,Very Low
+2010,2,2,New Zealand Innings,Jacob Oram,15,6,0,2,250.0,Very Low
+2010,2,2,New Zealand Innings,Gareth Hopkins,1,1,0,0,100.0,Very Low
+2010,2,2,New Zealand Innings,Nathan McCullum,16,6,1,1,266.67,Very Low
+2010,2,2,New Zealand Innings,Tim Southee,0,0,0,0,0.0,Very Low
+2010,3,1,Afghanistan Innings,Noor Ali Zadran,50,48,4,0,104.17,Low
+2010,3,1,Afghanistan Innings,Karim Sadiq,0,4,0,0,0.0,Very Low
+2010,3,1,Afghanistan Innings,Mohammad Shahzad,6,5,1,0,120.0,Very Low
+2010,3,1,Afghanistan Innings,Nawroz Mangal,5,11,1,0,45.45,Very Low
+2010,3,1,Afghanistan Innings,Asghar Afghan,30,33,0,3,90.91,Very Low
+2010,3,1,Afghanistan Innings,Mohammad Nabi,0,3,0,0,0.0,Very Low
+2010,3,1,Afghanistan Innings,Raees Ahmadzai,5,5,0,0,100.0,Very Low
+2010,3,1,Afghanistan Innings,Samiullah Shinwari,7,6,1,0,116.67,Very Low
+2010,3,1,Afghanistan Innings,Hamid Hassan,6,5,1,0,120.0,Very Low
+2010,3,1,Afghanistan Innings,Shapoor Zadran,0,0,0,0,0.0,Very Low
+2010,3,2,India Innings,Gautam Gambhir,4,6,0,0,66.67,Very Low
+2010,3,2,India Innings,Murali Vijay,48,46,2,3,104.35,Low
+2010,3,2,India Innings,Suresh Raina,18,13,1,1,138.46,Very Low
+2010,3,2,India Innings,Yuvraj Singh,23,22,0,1,104.55,Very Low
+2010,3,2,India Innings,MS Dhoni,15,6,0,2,250.0,Very Low
+2010,6,1,Australia Innings,David Warner,26,18,4,1,144.44,Very Low
+2010,6,1,Australia Innings,Shane Watson,81,49,7,4,165.31,Medium
+2010,6,1,Australia Innings,Michael Clarke,2,3,0,0,66.67,Very Low
+2010,6,1,Australia Innings,David Hussey,53,29,2,5,182.76,Low
+2010,6,1,Australia Innings,Michael Hussey,17,8,1,1,212.5,Very Low
+2010,6,1,Australia Innings,Cameron White,9,7,0,0,128.57,Very Low
+2010,6,1,Australia Innings,Brad Haddin,1,2,0,0,50.0,Very Low
+2010,6,1,Australia Innings,Mitchell Johnson,0,1,0,0,0.0,Very Low
+2010,6,1,Australia Innings,Steven Smith,0,1,0,0,0.0,Very Low
+2010,6,1,Australia Innings,Dirk Nannes,0,1,0,0,0.0,Very Low
+2010,6,1,Australia Innings,Shaun Tait,0,2,0,0,0.0,Very Low
+2010,6,2,Pakistan Innings,Kamran Akmal,0,1,0,0,0.0,Very Low
+2010,6,2,Pakistan Innings,Salman Butt,15,10,3,0,150.0,Very Low
+2010,6,2,Pakistan Innings,Mohammad Hafeez,12,14,3,0,85.71,Very Low
+2010,6,2,Pakistan Innings,Umar Akmal,18,14,0,1,128.57,Very Low
+2010,6,2,Pakistan Innings,Misbah-ul-Haq,41,31,1,2,132.26,Low
+2010,6,2,Pakistan Innings,Shahid Afridi,33,24,3,1,137.5,Low
+2010,6,2,Pakistan Innings,Abdul Razzaq,1,2,0,0,50.0,Very Low
+2010,6,2,Pakistan Innings,Fawad Alam,16,11,1,1,145.45,Very Low
+2010,6,2,Pakistan Innings,Mohammad Amir,2,3,0,0,66.67,Very Low
+2010,6,2,Pakistan Innings,Mohammad Sami,5,5,0,0,100.0,Very Low
+2010,6,2,Pakistan Innings,Saeed Ajmal,4,6,0,0,66.67,Very Low
+2010,7,1,Sri Lanka Innings,Mahela Jayawardene,100,64,10,4,156.25,High
+2010,7,1,Sri Lanka Innings,Tillakaratne Dilshan,2,4,0,0,50.0,Very Low
+2010,7,1,Sri Lanka Innings,Thisara Perera,23,19,1,2,121.05,Very Low
+2010,7,1,Sri Lanka Innings,Kumar Sangakkara,3,7,0,0,42.86,Very Low
+2010,7,1,Sri Lanka Innings,Dinesh Chandimal,9,8,0,1,112.5,Very Low
+2010,7,1,Sri Lanka Innings,Angelo Mathews,4,6,0,0,66.67,Very Low
+2010,7,1,Sri Lanka Innings,Chamara Kapugedera,13,6,0,2,216.67,Very Low
+2010,7,1,Sri Lanka Innings,Sanath Jayasuriya,3,3,0,0,100.0,Very Low
+2010,7,1,Sri Lanka Innings,Lasith Malinga,2,3,0,0,66.67,Very Low
+2010,7,2,Zimbabwe Innings,Hamilton Masakadza,4,6,0,0,66.67,Very Low
+2010,7,2,Zimbabwe Innings,Tatenda Taibu,12,13,0,0,92.31,Very Low
+2010,7,2,Zimbabwe Innings,Brendan Taylor,11,11,0,0,100.0,Very Low
+2010,8,1,England Innings,Michael Lumb,28,18,4,0,155.56,Very Low
+2010,8,1,England Innings,Craig Kieswetter,26,14,1,3,185.71,Very Low
+2010,8,1,England Innings,Kevin Pietersen,24,20,1,1,120.0,Very Low
+2010,8,1,England Innings,Paul Collingwood,6,8,0,0,75.0,Very Low
+2010,8,1,England Innings,Eoin Morgan,55,35,3,3,157.14,Low
+2010,8,1,England Innings,Luke Wright,45,27,1,4,166.67,Low
+2010,8,1,England Innings,Tim Bresnan,0,0,0,0,0.0,Very Low
+2010,8,2,West Indies Innings,Chris Gayle,25,12,2,2,208.33,Very Low
+2010,8,2,West Indies Innings,Shivnarine Chanderpaul,15,13,0,1,115.38,Very Low
+2010,8,2,West Indies Innings,Kieron Pollard,0,0,0,0,0.0,Very Low
+2010,8,2,West Indies Innings,Andre Fletcher,12,10,1,0,120.0,Very Low
+2010,10,1,England Innings,Michael Lumb,14,11,3,0,127.27,Very Low
+2010,10,1,England Innings,Craig Kieswetter,13,17,0,0,76.47,Very Low
+2010,10,1,England Innings,Kevin Pietersen,9,18,0,0,50.0,Very Low
+2010,10,1,England Innings,Paul Collingwood,0,3,0,0,0.0,Very Low
+2010,10,1,England Innings,Eoin Morgan,45,37,5,0,121.62,Low
+2010,10,1,England Innings,Luke Wright,20,24,0,1,83.33,Very Low
+2010,10,1,England Innings,Tim Bresnan,5,6,1,0,83.33,Very Low
+2010,10,1,England Innings,Graeme Swann,7,5,0,0,140.0,Very Low
+2010,10,1,England Innings,Michael Yardy,0,0,0,0,0.0,Very Low
+2010,10,1,England Innings,Stuart Broad,0,0,0,0,0.0,Very Low
+2010,10,2,Ireland Innings,William Porterfield,4,10,0,0,40.0,Very Low
+2010,10,2,Ireland Innings,Paul Stirling,0,6,0,0,0.0,Very Low
+2010,10,2,Ireland Innings,Niall O Brien,9,5,2,0,180.0,Very Low
+2010,11,1,South Africa Innings,Graeme Smith,27,14,4,1,192.86,Very Low
+2010,11,1,South Africa Innings,Loots Bosman,0,1,0,0,0.0,Very Low
+2010,11,1,South Africa Innings,Jacques Kallis,34,33,0,2,103.03,Low
+2010,11,1,South Africa Innings,AB de Villiers,17,21,1,1,80.95,Very Low
+2010,11,1,South Africa Innings,Jean-Paul Duminy,25,21,0,2,119.05,Very Low
+2010,11,1,South Africa Innings,Mark Boucher,4,6,0,0,66.67,Very Low
+2010,11,1,South Africa Innings,Albie Morkel,23,17,2,1,135.29,Very Low
+2010,11,1,South Africa Innings,Roelof van der Merwe,2,6,0,0,33.33,Very Low
+2010,11,1,South Africa Innings,Dale Steyn,1,1,0,0,100.0,Very Low
+2010,11,2,Afghanistan Innings,Noor Ali Zadran,0,3,0,0,0.0,Very Low
+2010,11,2,Afghanistan Innings,Karim Sadiq,2,8,0,0,25.0,Very Low
+2010,11,2,Afghanistan Innings,Mohammad Shahzad,2,6,0,0,33.33,Very Low
+2010,11,2,Afghanistan Innings,Nawroz Mangal,1,4,0,0,25.0,Very Low
+2010,11,2,Afghanistan Innings,Asghar Afghan,3,6,0,0,50.0,Very Low
+2010,11,2,Afghanistan Innings,Raees Ahmadzai,4,2,1,0,200.0,Very Low
+2010,11,2,Afghanistan Innings,Mohammad Nabi,0,5,0,0,0.0,Very Low
+2010,11,2,Afghanistan Innings,Samiullah Shinwari,11,12,0,1,91.67,Very Low
+2010,11,2,Afghanistan Innings,Mirwais Ashraf,23,25,1,2,92.0,Very Low
+2010,11,2,Afghanistan Innings,Hamid Hassan,22,21,1,2,104.76,Very Low
+2010,11,2,Afghanistan Innings,Shapoor Zadran,1,6,0,0,16.67,Very Low
+2010,12,1,Australia Innings,David Warner,16,11,2,1,145.45,Very Low
+2010,12,1,Australia Innings,Shane Watson,4,7,0,0,57.14,Very Low
+2010,12,1,Australia Innings,Michael Clarke,16,21,0,1,76.19,Very Low
+2010,12,1,Australia Innings,Brad Haddin,6,9,0,0,66.67,Very Low
+2010,12,1,Australia Innings,David Hussey,9,13,0,0,69.23,Very Low
+2010,12,1,Australia Innings,Cameron White,8,11,0,0,72.73,Very Low
+2010,12,1,Australia Innings,Michael Hussey,47,29,4,1,162.07,Low
+2010,12,1,Australia Innings,Steven Smith,27,18,1,2,150.0,Very Low
+2010,12,1,Australia Innings,Ryan Harris,2,1,0,0,200.0,Very Low
+2010,12,2,Bangladesh Innings,Imrul Kayes,0,6,0,0,0.0,Very Low
+2010,12,2,Bangladesh Innings,Mohammad Ashraful,0,3,0,0,0.0,Very Low
+2010,12,2,Bangladesh Innings,Aftab Ahmed,1,3,0,0,33.33,Very Low
+2010,12,2,Bangladesh Innings,Shakib Al Hasan,28,28,0,1,100.0,Very Low
+2010,12,2,Bangladesh Innings,Mahmudullah,2,3,0,0,66.67,Very Low
+2010,12,2,Bangladesh Innings,Mushfiqur Rahim,24,25,2,1,96.0,Very Low
+2010,12,2,Bangladesh Innings,Naeem Islam,7,6,0,1,116.67,Very Low
+2010,12,2,Bangladesh Innings,Jahurul Islam,18,12,1,1,150.0,Very Low
+2010,12,2,Bangladesh Innings,Shafiul Islam,16,13,1,1,123.08,Very Low
+2010,12,2,Bangladesh Innings,Mashrafe Mortaza,6,5,1,0,120.0,Very Low
+2010,12,2,Bangladesh Innings,Abdur Razzak,3,8,0,0,37.5,Very Low
+2010,15,1,Australia Innings,Shane Watson,54,32,1,6,168.75,Low
+2010,15,1,Australia Innings,David Warner,72,42,2,7,171.43,Medium
+2010,15,1,Australia Innings,David Hussey,35,22,3,2,159.09,Low
+2010,15,1,Australia Innings,Brad Haddin,8,7,0,1,114.29,Very Low
+2010,15,1,Australia Innings,Cameron White,5,6,0,0,83.33,Very Low
+2010,15,1,Australia Innings,Michael Hussey,8,10,0,0,80.0,Very Low
+2010,15,1,Australia Innings,Steven Smith,1,1,0,0,100.0,Very Low
+2010,15,2,India Innings,Murali Vijay,2,7,0,0,28.57,Very Low
+2010,15,2,India Innings,Gautam Gambhir,9,10,2,0,90.0,Very Low
+2010,15,2,India Innings,Suresh Raina,5,5,1,0,100.0,Very Low
+2010,15,2,India Innings,Rohit Sharma,79,46,4,6,171.74,Medium
+2010,15,2,India Innings,Yuvraj Singh,1,2,0,0,50.0,Very Low
+2010,15,2,India Innings,MS Dhoni,2,8,0,0,25.0,Very Low
+2010,15,2,India Innings,Yusuf Pathan,1,5,0,0,20.0,Very Low
+2010,15,2,India Innings,Ravindra Jadeja,4,5,0,0,80.0,Very Low
+2010,15,2,India Innings,Harbhajan Singh,13,11,1,1,118.18,Very Low
+2010,15,2,India Innings,Zaheer Khan,9,6,0,1,150.0,Very Low
+2010,15,2,India Innings,Ashish Nehra,0,1,0,0,0.0,Very Low
+2010,17,1,New Zealand Innings,Brendon McCullum,33,29,5,0,113.79,Low
+2010,17,1,New Zealand Innings,Jesse Ryder,7,8,1,0,87.5,Very Low
+2010,17,1,New Zealand Innings,Martin Guptill,2,10,0,0,20.0,Very Low
+2010,17,1,New Zealand Innings,Ross Taylor,3,7,0,0,42.86,Very Low
+2010,17,1,New Zealand Innings,Daniel Vettori,38,34,1,2,111.76,Low
+2010,17,1,New Zealand Innings,Scott Styris,21,17,1,1,123.53,Very Low
+2010,17,1,New Zealand Innings,Gareth Hopkins,2,7,0,0,28.57,Very Low
+2010,17,1,New Zealand Innings,Nathan McCullum,12,9,0,1,133.33,Very Low
+2010,17,1,New Zealand Innings,Ian Butler,0,0,0,0,0.0,Very Low
+2010,17,2,Pakistan Innings,Kamran Akmal,5,8,0,0,62.5,Very Low
+2010,17,2,Pakistan Innings,Salman Butt,67,54,8,1,124.07,Medium
+2010,17,2,Pakistan Innings,Mohammad Hafeez,8,4,2,0,200.0,Very Low
+2010,17,2,Pakistan Innings,Umar Akmal,0,1,0,0,0.0,Very Low
+2010,17,2,Pakistan Innings,Misbah-ul-Haq,3,13,0,0,23.08,Very Low
+2010,17,2,Pakistan Innings,Shahid Afridi,11,9,1,0,122.22,Very Low
+2010,17,2,Pakistan Innings,Abdul Razzaq,29,29,1,3,100.0,Very Low
+2010,17,2,Pakistan Innings,Abdur Rehman,2,3,0,0,66.67,Very Low
+2010,19,1,West Indies Innings,Chris Gayle,98,66,5,7,148.48,High
+2010,19,1,West Indies Innings,Shivnarine Chanderpaul,23,29,2,0,79.31,Very Low
+2010,19,1,West Indies Innings,Daren Sammy,19,10,2,1,190.0,Very Low
+2010,19,1,West Indies Innings,Kieron Pollard,17,11,0,2,154.55,Very Low
+2010,19,1,West Indies Innings,Dwayne Bravo,1,2,0,0,50.0,Very Low
+2010,19,1,West Indies Innings,Ramnaresh Sarwan,0,1,0,0,0.0,Very Low
+2010,19,1,West Indies Innings,Wavell Hinds,0,0,0,0,0.0,Very Low
+2010,19,1,West Indies Innings,Denesh Ramdin,4,2,1,0,200.0,Very Low
+2010,19,2,India Innings,Murali Vijay,7,14,0,0,50.0,Very Low
+2010,19,2,India Innings,Gautam Gambhir,15,14,3,0,107.14,Very Low
+2010,19,2,India Innings,Suresh Raina,32,25,4,1,128.0,Low
+2010,19,2,India Innings,Rohit Sharma,5,8,1,0,62.5,Very Low
+2010,19,2,India Innings,Yuvraj Singh,12,14,1,0,85.71,Very Low
+2010,19,2,India Innings,MS Dhoni,29,18,2,2,161.11,Very Low
+2010,19,2,India Innings,Yusuf Pathan,17,10,0,2,170.0,Very Low
+2010,19,2,India Innings,Harbhajan Singh,14,10,1,1,140.0,Very Low
+2010,19,2,India Innings,Ravindra Jadeja,5,6,0,0,83.33,Very Low
+2010,19,2,India Innings,Ashish Nehra,0,2,0,0,0.0,Very Low
+2010,19,2,India Innings,Zaheer Khan,0,1,0,0,0.0,Very Low
+2010,20,1,Australia Innings,Shane Watson,1,4,0,0,25.0,Very Low
+2010,20,1,Australia Innings,David Warner,9,12,1,0,75.0,Very Low
+2010,20,1,Australia Innings,Brad Haddin,15,10,3,0,150.0,Very Low
+2010,20,1,Australia Innings,Michael Clarke,14,20,0,0,70.0,Very Low
+2010,20,1,Australia Innings,David Hussey,0,1,0,0,0.0,Very Low
+2010,20,1,Australia Innings,Cameron White,85,49,6,6,173.47,Medium
+2010,20,1,Australia Innings,Michael Hussey,39,26,4,1,150.0,Low
+2010,20,2,Sri Lanka Innings,Mahela Jayawardene,9,6,0,1,150.0,Very Low
+2010,20,2,Sri Lanka Innings,Sanath Jayasuriya,5,14,0,0,35.71,Very Low
+2010,20,2,Sri Lanka Innings,Kumar Sangakkara,2,3,0,0,66.67,Very Low
+2010,20,2,Sri Lanka Innings,Tillakaratne Dilshan,20,12,2,1,166.67,Very Low
+2010,20,2,Sri Lanka Innings,Angelo Mathews,8,4,2,0,200.0,Very Low
+2010,20,2,Sri Lanka Innings,Dinesh Chandimal,19,24,1,0,79.17,Very Low
+2010,20,2,Sri Lanka Innings,Chamara Kapugedera,12,15,1,0,80.0,Very Low
+2010,20,2,Sri Lanka Innings,Suraj Randiv,2,2,0,0,100.0,Very Low
+2010,20,2,Sri Lanka Innings,Lasith Malinga,1,8,0,0,12.5,Very Low
+2010,20,2,Sri Lanka Innings,Ajantha Mendis,1,7,0,0,14.29,Very Low
+2010,20,2,Sri Lanka Innings,Chanaka Welegedara,2,3,0,0,66.67,Very Low
+2010,23,1,West Indies Innings,Chris Gayle,4,2,1,0,200.0,Very Low
+2010,23,1,West Indies Innings,Shivnarine Chanderpaul,24,18,4,0,133.33,Very Low
+2010,23,1,West Indies Innings,Ramnaresh Sarwan,26,31,2,0,83.87,Very Low
+2010,23,1,West Indies Innings,Dwayne Bravo,6,9,0,0,66.67,Very Low
+2010,23,1,West Indies Innings,Narsingh Deonarine,0,2,0,0,0.0,Very Low
+2010,23,1,West Indies Innings,Denesh Ramdin,1,2,0,0,50.0,Very Low
+2010,23,1,West Indies Innings,Kieron Pollard,13,14,1,1,92.86,Very Low
+2010,23,1,West Indies Innings,Daren Sammy,0,1,0,0,0.0,Very Low
+2010,23,1,West Indies Innings,Jerome Taylor,3,7,0,0,42.86,Very Low
+2010,23,1,West Indies Innings,Nikita Miller,10,13,0,0,76.92,Very Low
+2010,23,1,West Indies Innings,Sulieman Benn,9,16,0,1,56.25,Very Low
+2010,23,2,Australia Innings,David Warner,25,12,4,1,208.33,Very Low
+2010,23,2,Australia Innings,Shane Watson,5,7,0,0,71.43,Very Low
+2010,23,2,Australia Innings,Michael Clarke,16,24,0,0,66.67,Very Low
+2010,23,2,Australia Innings,Brad Haddin,42,46,5,0,91.3,Low
+2010,23,2,Australia Innings,David Hussey,10,9,1,0,111.11,Very Low
+2010,23,2,Australia Innings,Cameron White,0,0,0,0,0.0,Very Low
+2010,24,1,India Innings,Dinesh Karthik,13,12,2,0,108.33,Very Low
+2010,24,1,India Innings,Gautam Gambhir,41,32,3,0,128.13,Low
+2010,24,1,India Innings,Suresh Raina,63,47,7,1,134.04,Medium
+2010,24,1,India Innings,MS Dhoni,23,19,0,1,121.05,Very Low
+2010,24,1,India Innings,Yuvraj Singh,1,2,0,0,50.0,Very Low
+2010,24,1,India Innings,Yusuf Pathan,13,9,2,0,144.44,Very Low
+2010,24,2,Sri Lanka Innings,Mahela Jayawardene,4,3,1,0,133.33,Very Low
+2010,24,2,Sri Lanka Innings,Sanath Jayasuriya,0,5,0,0,0.0,Very Low
+2010,24,2,Sri Lanka Innings,Tillakaratne Dilshan,33,26,5,0,126.92,Low
+2010,24,2,Sri Lanka Innings,Kumar Sangakkara,46,33,2,3,139.39,Low
+2010,24,2,Sri Lanka Innings,Angelo Mathews,46,37,3,2,124.32,Low
+2010,24,2,Sri Lanka Innings,Chamara Kapugedera,37,16,2,3,231.25,Low
+2010,24,2,Sri Lanka Innings,Thisara Perera,0,0,0,0,0.0,Very Low
+2010,25,1,Sri Lanka Innings,Mahela Jayawardene,10,9,1,0,111.11,Very Low
+2010,25,1,Sri Lanka Innings,Sanath Jayasuriya,1,4,0,0,25.0,Very Low
+2010,25,1,Sri Lanka Innings,Tillakaratne Dilshan,9,8,2,0,112.5,Very Low
+2010,25,1,Sri Lanka Innings,Kumar Sangakkara,16,19,2,0,84.21,Very Low
+2010,25,1,Sri Lanka Innings,Angelo Mathews,58,45,3,1,128.89,Low
+2010,25,1,Sri Lanka Innings,Chamara Kapugedera,16,27,2,0,59.26,Very Low
+2010,25,1,Sri Lanka Innings,Thisara Perera,7,8,0,0,87.5,Very Low
+2010,25,1,Sri Lanka Innings,Chinthaka Jayasinghe,2,1,0,0,200.0,Very Low
+2010,25,2,England Innings,Craig Kieswetter,39,29,5,2,134.48,Low
+2010,25,2,England Innings,Michael Lumb,33,26,4,1,126.92,Low
+2010,25,2,England Innings,Kevin Pietersen,42,26,3,2,161.54,Low
+2010,25,2,England Innings,Paul Collingwood,10,13,0,0,76.92,Very Low
+2010,25,2,England Innings,Eoin Morgan,2,2,0,0,100.0,Very Low
+2010,26,1,Pakistan Innings,Kamran Akmal,50,34,6,2,147.06,Low
+2010,26,1,Pakistan Innings,Salman Butt,32,30,4,0,106.67,Low
+2010,26,1,Pakistan Innings,Umar Akmal,56,35,2,4,160.0,Low
+2010,26,1,Pakistan Innings,Shahid Afridi,8,9,0,0,88.89,Very Low
+2010,26,1,Pakistan Innings,Khalid Latif,13,6,1,1,216.67,Very Low
+2010,26,1,Pakistan Innings,Abdul Razzaq,12,7,0,1,171.43,Very Low
+2010,26,1,Pakistan Innings,Misbah-ul-Haq,0,0,0,0,0.0,Very Low
+2010,26,2,Australia Innings,David Warner,0,2,0,0,0.0,Very Low
+2010,26,2,Australia Innings,Shane Watson,16,9,2,1,177.78,Very Low
+2010,26,2,Australia Innings,Brad Haddin,25,20,2,1,125.0,Very Low
+2010,26,2,Australia Innings,Michael Clarke,17,19,2,0,89.47,Very Low
+2010,26,2,Australia Innings,David Hussey,13,9,0,1,144.44,Very Low
+2010,26,2,Australia Innings,Cameron White,43,31,0,5,138.71,Low
+2010,26,2,Australia Innings,Michael Hussey,60,24,3,6,250.0,Low
+2010,26,2,Australia Innings,Steven Smith,5,4,1,0,125.0,Very Low
+2010,26,2,Australia Innings,Mitchell Johnson,5,3,1,0,166.67,Very Low
+2010,27,1,Australia Innings,Shane Watson,2,3,0,0,66.67,Very Low
+2010,27,1,Australia Innings,David Warner,2,4,0,0,50.0,Very Low
+2010,27,1,Australia Innings,Michael Clarke,27,27,2,0,100.0,Very Low
+2010,27,1,Australia Innings,Brad Haddin,1,2,0,0,50.0,Very Low
+2010,27,1,Australia Innings,David Hussey,59,54,2,2,109.26,Low
+2010,27,1,Australia Innings,Cameron White,30,19,4,1,157.89,Very Low
+2010,27,1,Australia Innings,Michael Hussey,17,10,2,0,170.0,Very Low
+2010,27,1,Australia Innings,Steven Smith,1,2,0,0,50.0,Very Low
+2010,27,2,England Innings,Michael Lumb,2,4,0,0,50.0,Very Low
+2010,27,2,England Innings,Craig Kieswetter,63,49,7,2,128.57,Medium
+2010,27,2,England Innings,Kevin Pietersen,47,31,4,1,151.61,Low
+2010,27,2,England Innings,Paul Collingwood,12,5,1,1,240.0,Very Low
+2010,27,2,England Innings,Eoin Morgan,15,13,0,1,115.38,Very Low
+2010,4,1,Pakistan Innings,Kamran Akmal,73,55,8,1,132.73,Medium
+2010,4,1,Pakistan Innings,Salman Butt,73,46,8,2,158.7,Medium
+2010,4,1,Pakistan Innings,Shahid Afridi,9,9,0,0,100.0,Very Low
+2010,4,1,Pakistan Innings,Abdul Razzaq,6,5,0,0,120.0,Very Low
+2010,4,1,Pakistan Innings,Misbah-ul-Haq,8,5,0,0,160.0,Very Low
+2010,4,2,Bangladesh Innings,Tamim Iqbal,19,18,3,0,105.56,Very Low
+2010,4,2,Bangladesh Innings,Imrul Kayes,0,2,0,0,0.0,Very Low
+2010,4,2,Bangladesh Innings,Mohammad Ashraful,65,49,4,3,132.65,Medium
+2010,4,2,Bangladesh Innings,Shakib Al Hasan,47,31,3,2,151.61,Low
+2010,4,2,Bangladesh Innings,Mahmudullah,0,3,0,0,0.0,Very Low
+2010,4,2,Bangladesh Innings,Naeem Islam,10,9,1,0,111.11,Very Low
+2010,4,2,Bangladesh Innings,Mushfiqur Rahim,4,3,0,0,133.33,Very Low
+2010,4,2,Bangladesh Innings,Mashrafe Mortaza,1,3,0,0,33.33,Very Low
+2010,4,2,Bangladesh Innings,Suhrawadi Shuvo,1,3,0,0,33.33,Very Low
+2010,5,1,India Innings,Dinesh Karthik,16,17,2,0,94.12,Very Low
+2010,5,1,India Innings,Murali Vijay,0,1,0,0,0.0,Very Low
+2010,5,1,India Innings,Suresh Raina,101,60,9,5,168.33,High
+2010,5,1,India Innings,Yuvraj Singh,37,30,3,2,123.33,Low
+2010,5,1,India Innings,Yusuf Pathan,11,7,0,1,157.14,Very Low
+2010,5,1,India Innings,MS Dhoni,16,6,1,1,266.67,Very Low
+2010,5,1,India Innings,Harbhajan Singh,0,0,0,0,0.0,Very Low
+2010,5,2,South Africa Innings,Jacques Kallis,73,54,3,3,135.19,Medium
+2010,5,2,South Africa Innings,Loots Bosman,8,14,0,0,57.14,Very Low
+2010,5,2,South Africa Innings,Graeme Smith,36,28,1,2,128.57,Low
+2010,5,2,South Africa Innings,AB de Villiers,31,15,1,3,206.67,Low
+2010,5,2,South Africa Innings,Albie Morkel,12,7,0,1,171.43,Very Low
+2010,5,2,South Africa Innings,Mark Boucher,4,2,0,0,200.0,Very Low
+2010,5,2,South Africa Innings,Jean-Paul Duminy,4,1,1,0,400.0,Very Low
+2010,9,1,Zimbabwe Innings,Tatenda Taibu,21,14,3,0,150.0,Very Low
+2010,9,1,Zimbabwe Innings,Hamilton Masakadza,20,20,2,0,100.0,Very Low
+2010,9,1,Zimbabwe Innings,Andy Blignaut,8,8,1,0,100.0,Very Low
+2010,9,1,Zimbabwe Innings,Elton Chigumbura,3,4,0,0,75.0,Very Low
+2010,9,1,Zimbabwe Innings,Craig Ervine,1,5,0,0,20.0,Very Low
+2010,9,1,Zimbabwe Innings,Charles Coventry,0,2,0,0,0.0,Very Low
+2010,9,1,Zimbabwe Innings,Gregory Lamb,14,21,0,0,66.67,Very Low
+2010,9,1,Zimbabwe Innings,Timycen Maruma,4,11,0,0,36.36,Very Low
+2010,9,1,Zimbabwe Innings,Graeme Cremer,0,1,0,0,0.0,Very Low
+2010,9,1,Zimbabwe Innings,Prosper Utseya,0,1,0,0,0.0,Very Low
+2010,9,1,Zimbabwe Innings,Ray Price,2,4,0,0,50.0,Very Low
+2010,9,2,New Zealand Innings,Brendon McCullum,22,26,2,0,84.62,Very Low
+2010,9,2,New Zealand Innings,Jesse Ryder,2,11,0,0,18.18,Very Low
+2010,9,2,New Zealand Innings,Martin Guptill,6,12,0,0,50.0,Very Low
+2010,13,1,Pakistan Innings,Kamran Akmal,15,18,2,1,83.33,Very Low
+2010,13,1,Pakistan Innings,Salman Butt,34,26,3,1,130.77,Low
+2010,13,1,Pakistan Innings,Mohammad Hafeez,18,14,2,0,128.57,Very Low
+2010,13,1,Pakistan Innings,Umar Akmal,30,25,2,1,120.0,Very Low
+2010,13,1,Pakistan Innings,Shahid Afridi,0,1,0,0,0.0,Very Low
+2010,13,1,Pakistan Innings,Misbah-ul-Haq,13,14,0,1,92.86,Very Low
+2010,13,1,Pakistan Innings,Abdul Razzaq,10,9,0,1,111.11,Very Low
+2010,13,1,Pakistan Innings,Fawad Alam,1,3,0,0,33.33,Very Low
+2010,13,1,Pakistan Innings,Mohammad Amir,3,7,0,0,42.86,Very Low
+2010,13,1,Pakistan Innings,Saeed Ajmal,13,5,1,1,260.0,Very Low
+2010,13,1,Pakistan Innings,Mohammad Asif,0,0,0,0,0.0,Very Low
+2010,13,2,England Innings,Michael Lumb,25,13,3,1,192.31,Very Low
+2010,13,2,England Innings,Craig Kieswetter,25,27,3,1,92.59,Very Low
+2010,13,2,England Innings,Kevin Pietersen,73,52,8,2,140.38,Medium
+2010,13,2,England Innings,Paul Collingwood,16,15,1,0,106.67,Very Low
+2010,13,2,England Innings,Eoin Morgan,5,7,1,0,71.43,Very Low
+2010,13,2,England Innings,Luke Wright,1,3,0,0,33.33,Very Low
+2010,14,1,South Africa Innings,Jacques Kallis,31,26,1,2,119.23,Low
+2010,14,1,South Africa Innings,Graeme Smith,14,12,2,0,116.67,Very Low
+2010,14,1,South Africa Innings,Herschelle Gibbs,30,24,1,2,125.0,Very Low
+2010,14,1,South Africa Innings,AB de Villiers,47,39,1,2,120.51,Low
+2010,14,1,South Africa Innings,Albie Morkel,40,18,0,5,222.22,Low
+2010,14,1,South Africa Innings,Mark Boucher,0,1,0,0,0.0,Very Low
+2010,14,2,New Zealand Innings,Brendon McCullum,6,5,1,0,120.0,Very Low
+2010,14,2,New Zealand Innings,Jesse Ryder,33,28,2,2,117.86,Low
+2010,14,2,New Zealand Innings,Martin Guptill,18,19,3,0,94.74,Very Low
+2010,14,2,New Zealand Innings,Ross Taylor,19,16,1,1,118.75,Very Low
+2010,14,2,New Zealand Innings,Scott Styris,13,12,2,0,108.33,Very Low
+2010,14,2,New Zealand Innings,Gareth Hopkins,18,13,0,2,138.46,Very Low
+2010,14,2,New Zealand Innings,Jacob Oram,0,2,0,0,0.0,Very Low
+2010,14,2,New Zealand Innings,Nathan McCullum,26,17,3,1,152.94,Very Low
+2010,14,2,New Zealand Innings,Daniel Vettori,10,10,1,0,100.0,Very Low
+2010,16,1,Sri Lanka Innings,Mahela Jayawardene,98,56,9,4,175.0,High
+2010,16,1,Sri Lanka Innings,Sanath Jayasuriya,6,10,1,0,60.0,Very Low
+2010,16,1,Sri Lanka Innings,Kumar Sangakkara,68,49,5,3,138.78,Medium
+2010,16,1,Sri Lanka Innings,Chamara Kapugedera,6,4,1,0,150.0,Very Low
+2010,16,1,Sri Lanka Innings,Tillakaratne Dilshan,4,1,1,0,400.0,Very Low
+2010,16,2,West Indies Innings,Chris Gayle,5,4,1,0,125.0,Very Low
+2010,16,2,West Indies Innings,Shivnarine Chanderpaul,11,9,1,1,122.22,Very Low
+2010,16,2,West Indies Innings,Ramnaresh Sarwan,28,33,2,0,84.85,Very Low
+2010,16,2,West Indies Innings,Dwayne Bravo,23,23,3,0,100.0,Very Low
+2010,16,2,West Indies Innings,Andre Fletcher,16,18,2,0,88.89,Very Low
+2010,16,2,West Indies Innings,Kieron Pollard,9,10,1,0,90.0,Very Low
+2010,16,2,West Indies Innings,Daren Sammy,2,3,0,0,66.67,Very Low
+2010,16,2,West Indies Innings,Wavell Hinds,5,7,1,0,71.43,Very Low
+2010,16,2,West Indies Innings,Jerome Taylor,16,9,2,0,177.78,Very Low
+2010,16,2,West Indies Innings,Sulieman Benn,6,4,1,0,150.0,Very Low
+2010,18,1,England Innings,Michael Lumb,3,4,0,0,75.0,Very Low
+2010,18,1,England Innings,Craig Kieswetter,41,42,3,2,97.62,Low
+2010,18,1,England Innings,Kevin Pietersen,53,33,8,1,160.61,Low
+2010,18,1,England Innings,Paul Collingwood,14,9,0,2,155.56,Very Low
+2010,18,1,England Innings,Eoin Morgan,21,14,3,0,150.0,Very Low
+2010,18,1,England Innings,Luke Wright,0,2,0,0,0.0,Very Low
+2010,18,1,England Innings,Tim Bresnan,13,13,1,0,100.0,Very Low
+2010,18,1,England Innings,Michael Yardy,8,5,1,0,160.0,Very Low
+2010,18,1,England Innings,Graeme Swann,1,1,0,0,100.0,Very Low
+2010,18,2,South Africa Innings,Graeme Smith,19,24,2,0,79.17,Very Low
+2010,18,2,South Africa Innings,Jacques Kallis,11,13,0,1,84.62,Very Low
+2010,18,2,South Africa Innings,Herschelle Gibbs,8,8,1,0,100.0,Very Low
+2010,18,2,South Africa Innings,AB de Villiers,5,9,0,0,55.56,Very Low
+2010,18,2,South Africa Innings,Albie Morkel,0,2,0,0,0.0,Very Low
+2010,18,2,South Africa Innings,Jean-Paul Duminy,39,25,2,2,156.0,Low
+2010,18,2,South Africa Innings,Mark Boucher,9,11,0,0,81.82,Very Low
+2010,18,2,South Africa Innings,Johan Botha,12,12,0,1,100.0,Very Low
+2010,18,2,South Africa Innings,Dale Steyn,5,6,0,0,83.33,Very Low
+2010,18,2,South Africa Innings,Morne Morkel,1,2,0,0,50.0,Very Low
+2010,18,2,South Africa Innings,Charl Langeveldt,2,3,0,0,66.67,Very Low
+2010,21,1,Pakistan Innings,Kamran Akmal,37,33,3,2,112.12,Low
+2010,21,1,Pakistan Innings,Salman Butt,2,4,0,0,50.0,Very Low
+2010,21,1,Pakistan Innings,Khalid Latif,7,9,1,0,77.78,Very Low
+2010,21,1,Pakistan Innings,Mohammad Hafeez,1,5,0,0,20.0,Very Low
+2010,21,1,Pakistan Innings,Umar Akmal,51,33,2,4,154.55,Low
+2010,21,1,Pakistan Innings,Shahid Afridi,30,18,4,1,166.67,Very Low
+2010,21,1,Pakistan Innings,Abdul Razzaq,11,10,0,0,110.0,Very Low
+2010,21,1,Pakistan Innings,Misbah-ul-Haq,3,7,0,0,42.86,Very Low
+2010,21,1,Pakistan Innings,Abdur Rehman,2,1,0,0,200.0,Very Low
+2010,21,2,South Africa Innings,Herschelle Gibbs,3,9,0,0,33.33,Very Low
+2010,21,2,South Africa Innings,Graeme Smith,13,13,1,0,100.0,Very Low
+2010,21,2,South Africa Innings,Jacques Kallis,22,21,2,0,104.76,Very Low
+2010,21,2,South Africa Innings,AB de Villiers,53,41,1,2,129.27,Low
+2010,21,2,South Africa Innings,Jean-Paul Duminy,3,5,0,0,60.0,Very Low
+2010,21,2,South Africa Innings,Mark Boucher,12,14,1,0,85.71,Very Low
+2010,21,2,South Africa Innings,Albie Morkel,7,7,0,0,100.0,Very Low
+2010,21,2,South Africa Innings,Johan Botha,19,8,4,0,237.5,Very Low
+2010,21,2,South Africa Innings,Roelof van der Merwe,2,2,0,0,100.0,Very Low
+2010,22,1,New Zealand Innings,Brendon McCullum,33,32,4,0,103.13,Low
+2010,22,1,New Zealand Innings,Jesse Ryder,9,11,2,0,81.82,Very Low
+2010,22,1,New Zealand Innings,Aaron Redmond,16,15,0,1,106.67,Very Low
+2010,22,1,New Zealand Innings,Ross Taylor,44,33,0,2,133.33,Low
+2010,22,1,New Zealand Innings,Scott Styris,31,19,3,1,163.16,Low
+2010,22,1,New Zealand Innings,Gareth Hopkins,1,2,0,0,50.0,Very Low
+2010,22,1,New Zealand Innings,Nathan McCullum,3,5,0,0,60.0,Very Low
+2010,22,1,New Zealand Innings,Daniel Vettori,4,4,0,0,100.0,Very Low
+2010,22,2,England Innings,Craig Kieswetter,15,12,1,1,125.0,Very Low
+2010,22,2,England Innings,Michael Lumb,32,21,4,1,152.38,Low
+2010,22,2,England Innings,Ravi Bopara,9,10,1,0,90.0,Very Low
+2010,22,2,England Innings,Paul Collingwood,3,6,0,0,50.0,Very Low
+2010,22,2,England Innings,Eoin Morgan,40,34,4,1,117.65,Low
+2010,22,2,England Innings,Luke Wright,24,17,3,0,141.18,Very Low
+2010,22,2,England Innings,Tim Bresnan,23,11,3,0,209.09,Very Low
+2010,22,2,England Innings,Michael Yardy,0,2,0,0,0.0,Very Low
+2010,22,2,England Innings,Graeme Swann,1,2,0,0,50.0,Very Low
+2009,2,1,Scotland Innings,Ryan Watson,27,10,6,0,270.0,Very Low
+2009,2,1,Scotland Innings,Navdeep Poonia,27,15,2,1,180.0,Very Low
+2009,2,1,Scotland Innings,Kyle Coetzer,33,15,3,2,220.0,Low
+2009,2,1,Scotland Innings,Jan Stander,0,1,0,0,0.0,Very Low
+2009,2,1,Scotland Innings,Colin Smith,0,1,0,0,0.0,Very Low
+2009,2,2,New Zealand Innings,Brendon McCullum,18,7,4,0,257.14,Very Low
+2009,2,2,New Zealand Innings,Jesse Ryder,31,12,3,2,258.33,Low
+2009,2,2,New Zealand Innings,Ross Taylor,21,10,1,2,210.0,Very Low
+2009,2,2,New Zealand Innings,Jacob Oram,8,6,1,0,133.33,Very Low
+2009,2,2,New Zealand Innings,Scott Styris,8,4,0,1,200.0,Very Low
+2009,3,1,Australia Innings,Shane Watson,0,3,0,0,0.0,Very Low
+2009,3,1,Australia Innings,David Warner,63,53,6,1,118.87,Medium
+2009,3,1,Australia Innings,Ricky Ponting,0,1,0,0,0.0,Very Low
+2009,3,1,Australia Innings,Michael Clarke,2,7,0,0,28.57,Very Low
+2009,3,1,Australia Innings,Brad Haddin,24,19,2,1,126.32,Very Low
+2009,3,1,Australia Innings,David Hussey,27,16,0,3,168.75,Very Low
+2009,3,1,Australia Innings,Michael Hussey,28,15,3,1,186.67,Very Low
+2009,3,1,Australia Innings,Mitchell Johnson,9,7,1,0,128.57,Very Low
+2009,3,1,Australia Innings,Brett Lee,1,1,0,0,100.0,Very Low
+2009,3,2,West Indies Innings,Chris Gayle,88,50,6,6,176.0,Medium
+2009,3,2,West Indies Innings,Andre Fletcher,53,32,7,1,165.63,Low
+2009,3,2,West Indies Innings,Xavier Marshall,8,12,0,0,66.67,Very Low
+2009,3,2,West Indies Innings,Shivnarine Chanderpaul,0,1,0,0,0.0,Very Low
+2009,3,2,West Indies Innings,Ramnaresh Sarwan,8,2,2,0,400.0,Very Low
+2009,4,1,India Innings,Gautam Gambhir,50,46,4,0,108.7,Low
+2009,4,1,India Innings,Rohit Sharma,36,23,3,2,156.52,Low
+2009,4,1,India Innings,MS Dhoni,26,21,0,1,123.81,Very Low
+2009,4,1,India Innings,Yuvraj Singh,41,18,3,4,227.78,Low
+2009,4,1,India Innings,Suresh Raina,10,8,1,0,125.0,Very Low
+2009,4,1,India Innings,Yusuf Pathan,1,1,0,0,100.0,Very Low
+2009,4,1,India Innings,Irfan Pathan,11,3,1,1,366.67,Very Low
+2009,4,2,Bangladesh Innings,Tamim Iqbal,15,10,3,0,150.0,Very Low
+2009,4,2,Bangladesh Innings,Junaid Siddique,41,22,2,3,186.36,Low
+2009,4,2,Bangladesh Innings,Mohammad Ashraful,11,9,1,0,122.22,Very Low
+2009,4,2,Bangladesh Innings,Shakib Al Hasan,8,10,0,0,80.0,Very Low
+2009,4,2,Bangladesh Innings,Mahmudullah,8,13,0,0,61.54,Very Low
+2009,4,2,Bangladesh Innings,Raqibul Hasan,16,20,1,0,80.0,Very Low
+2009,4,2,Bangladesh Innings,Mashrafe Mortaza,11,8,0,1,137.5,Very Low
+2009,4,2,Bangladesh Innings,Mushfiqur Rahim,11,11,1,0,100.0,Very Low
+2009,4,2,Bangladesh Innings,Naeem Islam,28,17,0,3,164.71,Very Low
+2009,4,2,Bangladesh Innings,Shahadat Hossain,0,0,0,0,0.0,Very Low
+2009,5,1,South Africa Innings,Graeme Smith,38,29,6,1,131.03,Low
+2009,5,1,South Africa Innings,Jacques Kallis,48,31,8,0,154.84,Low
+2009,5,1,South Africa Innings,Herschelle Gibbs,16,14,0,0,114.29,Very Low
+2009,5,1,South Africa Innings,AB de Villiers,79,34,5,6,232.35,Medium
+2009,5,1,South Africa Innings,Albie Morkel,24,11,1,2,218.18,Very Low
+2009,5,1,South Africa Innings,Mark Boucher,2,3,0,0,66.67,Very Low
+2009,5,1,South Africa Innings,Jean-Paul Duminy,0,0,0,0,0.0,Very Low
+2009,5,2,Scotland Innings,Gavin Hamilton,5,6,1,0,83.33,Very Low
+2009,5,2,Scotland Innings,Ryan Watson,4,4,1,0,100.0,Very Low
+2009,5,2,Scotland Innings,Navdeep Poonia,0,1,0,0,0.0,Very Low
+2009,5,2,Scotland Innings,Kyle Coetzer,42,32,1,3,131.25,Low
+2009,5,2,Scotland Innings,Colin Smith,0,1,0,0,0.0,Very Low
+2009,5,2,Scotland Innings,Neil McCallum,8,16,1,0,50.0,Very Low
+2009,5,2,Scotland Innings,Jan Stander,2,6,0,0,33.33,Very Low
+2009,5,2,Scotland Innings,Majid Haq,15,20,0,0,75.0,Very Low
+2009,5,2,Scotland Innings,Gordon Drummond,1,2,0,0,50.0,Very Low
+2009,5,2,Scotland Innings,Glenn Rogers,1,3,0,0,33.33,Very Low
+2009,5,2,Scotland Innings,Calum MacLeod,0,3,0,0,0.0,Very Low
+2009,6,1,England Innings,Ravi Bopara,5,6,1,0,83.33,Very Low
+2009,6,1,England Innings,Luke Wright,34,16,6,1,212.5,Low
+2009,6,1,England Innings,Kevin Pietersen,58,38,5,3,152.63,Low
+2009,6,1,England Innings,Owais Shah,33,32,3,1,103.13,Low
+2009,6,1,England Innings,Paul Collingwood,15,11,2,0,136.36,Very Low
+2009,6,1,England Innings,Dimitri Mascarenhas,16,12,1,0,133.33,Very Low
+2009,6,1,England Innings,James Foster,14,8,0,1,175.0,Very Low
+2009,6,2,Pakistan Innings,Ahmed Shehzad,4,7,0,0,57.14,Very Low
+2009,6,2,Pakistan Innings,Salman Butt,28,23,5,0,121.74,Very Low
+2009,6,2,Pakistan Innings,Kamran Akmal,6,6,0,0,100.0,Very Low
+2009,6,2,Pakistan Innings,Shoaib Malik,20,21,1,0,95.24,Very Low
+2009,6,2,Pakistan Innings,Younis Khan,46,31,5,0,148.39,Low
+2009,6,2,Pakistan Innings,Shahid Afridi,5,12,0,0,41.67,Very Low
+2009,6,2,Pakistan Innings,Misbah-ul-Haq,10,8,0,1,125.0,Very Low
+2009,6,2,Pakistan Innings,Yasir Arafat,4,6,0,0,66.67,Very Low
+2009,6,2,Pakistan Innings,Umar Gul,8,6,1,0,133.33,Very Low
+2009,7,1,Bangladesh Innings,Tamim Iqbal,22,28,2,0,78.57,Very Low
+2009,7,1,Bangladesh Innings,Junaid Siddique,13,5,3,0,260.0,Very Low
+2009,7,1,Bangladesh Innings,Mohammad Ashraful,14,10,1,1,140.0,Very Low
+2009,7,1,Bangladesh Innings,Shakib Al Hasan,7,7,1,0,100.0,Very Low
+2009,7,1,Bangladesh Innings,Mahmudullah,7,10,0,0,70.0,Very Low
+2009,7,1,Bangladesh Innings,Raqibul Hasan,13,20,0,0,65.0,Very Low
+2009,7,1,Bangladesh Innings,Mushfiqur Rahim,14,15,0,0,93.33,Very Low
+2009,7,1,Bangladesh Innings,Mashrafe Mortaza,33,16,1,2,206.25,Low
+2009,7,1,Bangladesh Innings,Naeem Islam,7,9,0,0,77.78,Very Low
+2009,7,1,Bangladesh Innings,Abdur Razzak,0,0,0,0,0.0,Very Low
+2009,7,2,Ireland Innings,Jeremy Bray,2,10,0,0,20.0,Very Low
+2009,7,2,Ireland Innings,William Porterfield,23,29,3,0,79.31,Very Low
+2009,7,2,Ireland Innings,Niall O Brien,40,25,3,3,160.0,Low
+2009,7,2,Ireland Innings,Gary Wilson,10,15,0,0,66.67,Very Low
+2009,7,2,Ireland Innings,John Mooney,17,14,2,0,121.43,Very Low
+2009,7,2,Ireland Innings,Kevin O Brien,39,17,4,2,229.41,Low
+2009,8,1,Australia Innings,Shane Watson,22,21,2,1,104.76,Very Low
+2009,8,1,Australia Innings,David Warner,0,3,0,0,0.0,Very Low
+2009,8,1,Australia Innings,Ricky Ponting,25,15,5,0,166.67,Very Low
+2009,8,1,Australia Innings,Brad Haddin,16,17,0,1,94.12,Very Low
+2009,8,1,Australia Innings,Michael Clarke,11,15,0,0,73.33,Very Low
+2009,8,1,Australia Innings,David Hussey,28,22,1,2,127.27,Very Low
+2009,8,1,Australia Innings,Michael Hussey,1,5,0,0,20.0,Very Low
+2009,8,1,Australia Innings,Mitchell Johnson,28,13,2,2,215.38,Very Low
+2009,8,1,Australia Innings,Brett Lee,15,5,2,1,300.0,Very Low
+2009,8,1,Australia Innings,Nathan Hauritz,4,3,1,0,133.33,Very Low
+2009,8,1,Australia Innings,Nathan Bracken,4,1,1,0,400.0,Very Low
+2009,8,2,Sri Lanka Innings,Tillakaratne Dilshan,53,32,10,0,165.63,Low
+2009,8,2,Sri Lanka Innings,Sanath Jayasuriya,2,7,0,0,28.57,Very Low
+2009,8,2,Sri Lanka Innings,Kumar Sangakkara,55,42,4,2,130.95,Low
+2009,8,2,Sri Lanka Innings,Mahela Jayawardene,9,12,0,0,75.0,Very Low
+2009,8,2,Sri Lanka Innings,Chamara Silva,11,11,1,0,100.0,Very Low
+2009,8,2,Sri Lanka Innings,Jehan Mubarak,21,12,1,2,175.0,Very Low
+2009,9,1,Pakistan Innings,Kamran Akmal,41,30,3,2,136.67,Low
+2009,9,1,Pakistan Innings,Salman Butt,18,13,2,1,138.46,Very Low
+2009,9,1,Pakistan Innings,Shoaib Malik,30,28,2,0,107.14,Very Low
+2009,9,1,Pakistan Innings,Younis Khan,36,20,0,3,180.0,Low
+2009,9,1,Pakistan Innings,Misbah-ul-Haq,31,20,3,0,155.0,Low
+2009,9,1,Pakistan Innings,Shahid Afridi,13,7,0,1,185.71,Very Low
+2009,9,1,Pakistan Innings,Fawad Alam,3,2,0,0,150.0,Very Low
+2009,9,2,Netherlands Innings,Darron Reekers,13,6,3,0,216.67,Very Low
+2009,9,2,Netherlands Innings,Alexei Kervezee,21,29,1,0,72.41,Very Low
+2009,9,2,Netherlands Innings,Bas Zuiderent,13,15,2,0,86.67,Very Low
+2009,9,2,Netherlands Innings,Peter Borren,2,4,0,0,50.0,Very Low
+2009,9,2,Netherlands Innings,Ryan ten Doeschate,14,10,0,1,140.0,Very Low
+2009,9,2,Netherlands Innings,Tom de Grooth,4,7,0,0,57.14,Very Low
+2009,9,2,Netherlands Innings,Daan van Bunge,0,2,0,0,0.0,Very Low
+2009,9,2,Netherlands Innings,Edgar Schiferli,2,6,0,0,33.33,Very Low
+2009,9,2,Netherlands Innings,Jeroen Smits,11,17,0,0,64.71,Very Low
+2009,9,2,Netherlands Innings,Dirk Nannes,6,7,0,0,85.71,Very Low
+2009,9,2,Netherlands Innings,Pieter Seelaar,1,2,0,0,50.0,Very Low
+2009,10,1,South Africa Innings,Jacques Kallis,24,23,2,1,104.35,Very Low
+2009,10,1,South Africa Innings,Graeme Smith,33,35,4,0,94.29,Low
+2009,10,1,South Africa Innings,Herschelle Gibbs,3,7,0,0,42.86,Very Low
+2009,10,1,South Africa Innings,Roelof van der Merwe,0,6,0,0,0.0,Very Low
+2009,10,1,South Africa Innings,Jean-Paul Duminy,29,23,1,2,126.09,Very Low
+2009,10,1,South Africa Innings,AB de Villiers,15,8,2,0,187.5,Very Low
+2009,10,1,South Africa Innings,Mark Boucher,6,6,0,0,100.0,Very Low
+2009,10,1,South Africa Innings,Albie Morkel,10,10,0,0,100.0,Very Low
+2009,10,1,South Africa Innings,Johan Botha,2,2,0,0,100.0,Very Low
+2009,10,2,New Zealand Innings,Brendon McCullum,57,54,6,0,105.56,Low
+2009,10,2,New Zealand Innings,Martin Guptill,6,5,1,0,120.0,Very Low
+2009,10,2,New Zealand Innings,Neil Broom,1,5,0,0,20.0,Very Low
+2009,10,2,New Zealand Innings,Ross Taylor,22,31,2,0,70.97,Very Low
+2009,10,2,New Zealand Innings,Jacob Oram,24,18,2,0,133.33,Very Low
+2009,10,2,New Zealand Innings,Scott Styris,7,7,0,0,100.0,Very Low
+2009,11,1,Sri Lanka Innings,Tillakaratne Dilshan,74,47,11,1,157.45,Medium
+2009,11,1,Sri Lanka Innings,Sanath Jayasuriya,81,47,10,3,172.34,Medium
+2009,11,1,Sri Lanka Innings,Kumar Sangakkara,5,6,0,0,83.33,Very Low
+2009,11,1,Sri Lanka Innings,Mahela Jayawardene,4,7,0,0,57.14,Very Low
+2009,11,1,Sri Lanka Innings,Jehan Mubarak,8,5,1,0,160.0,Very Low
+2009,11,1,Sri Lanka Innings,Chamara Silva,7,7,1,0,100.0,Very Low
+2009,11,1,Sri Lanka Innings,Angelo Mathews,3,2,0,0,150.0,Very Low
+2009,11,2,West Indies Innings,Lendl Simmons,29,19,5,0,152.63,Very Low
+2009,11,2,West Indies Innings,Andre Fletcher,13,11,1,1,118.18,Very Low
+2009,11,2,West Indies Innings,Xavier Marshall,14,11,1,0,127.27,Very Low
+2009,11,2,West Indies Innings,Shivnarine Chanderpaul,1,5,0,0,20.0,Very Low
+2009,11,2,West Indies Innings,Ramnaresh Sarwan,28,26,0,0,107.69,Very Low
+2009,11,2,West Indies Innings,Dwayne Bravo,51,38,5,2,134.21,Low
+2009,11,2,West Indies Innings,Kieron Pollard,19,11,3,0,172.73,Very Low
+2009,12,1,Ireland Innings,William Porterfield,5,8,0,0,62.5,Very Low
+2009,12,1,Ireland Innings,Jeremy Bray,0,7,0,0,0.0,Very Low
+2009,12,1,Ireland Innings,Gary Wilson,19,23,1,0,82.61,Very Low
+2009,12,1,Ireland Innings,Andre Botha,8,5,1,0,160.0,Very Low
+2009,12,1,Ireland Innings,Kevin O Brien,2,4,0,0,50.0,Very Low
+2009,12,1,Ireland Innings,John Mooney,19,22,1,0,86.36,Very Low
+2009,12,1,Ireland Innings,Andrew White,29,25,3,1,116.0,Very Low
+2009,12,1,Ireland Innings,Regan West,1,1,0,0,100.0,Very Low
+2009,12,1,Ireland Innings,Alex Cusack,12,6,2,0,200.0,Very Low
+2009,12,1,Ireland Innings,Kyle McCallan,9,7,1,0,128.57,Very Low
+2009,12,2,India Innings,Gautam Gambhir,37,31,3,1,119.35,Low
+2009,12,2,India Innings,Rohit Sharma,52,45,4,1,115.56,Low
+2009,12,2,India Innings,MS Dhoni,14,13,1,0,107.69,Very Low
+2009,12,2,India Innings,Yuvraj Singh,3,4,0,0,75.0,Very Low
+2009,13,1,New Zealand Innings,Brendon McCullum,10,14,0,1,71.43,Very Low
+2009,13,1,New Zealand Innings,Aaron Redmond,63,30,13,0,210.0,Medium
+2009,13,1,New Zealand Innings,Martin Guptill,45,32,0,4,140.63,Low
+2009,13,1,New Zealand Innings,Scott Styris,42,25,1,3,168.0,Low
+2009,13,1,New Zealand Innings,Jacob Oram,15,7,1,1,214.29,Very Low
+2009,13,1,New Zealand Innings,Peter McGlashan,5,5,0,0,100.0,Very Low
+2009,13,1,New Zealand Innings,James Franklin,7,7,0,0,100.0,Very Low
+2009,13,2,Ireland Innings,William Porterfield,1,1,0,0,100.0,Very Low
+2009,13,2,Ireland Innings,Gary Wilson,23,28,2,0,82.14,Very Low
+2009,13,2,Ireland Innings,Niall O Brien,3,4,0,0,75.0,Very Low
+2009,13,2,Ireland Innings,Andre Botha,28,17,5,0,164.71,Very Low
+2009,13,2,Ireland Innings,Kevin O Brien,2,3,0,0,66.67,Very Low
+2009,13,2,Ireland Innings,John Mooney,12,14,1,0,85.71,Very Low
+2009,13,2,Ireland Innings,Alex Cusack,20,12,1,1,166.67,Very Low
+2009,13,2,Ireland Innings,Trent Johnston,14,9,0,1,155.56,Very Low
+2009,13,2,Ireland Innings,Kyle McCallan,0,2,0,0,0.0,Very Low
+2009,13,2,Ireland Innings,Regan West,8,8,1,0,100.0,Very Low
+2009,13,2,Ireland Innings,Peter Connell,1,2,0,0,50.0,Very Low
+2009,14,1,England Innings,Ravi Bopara,2,5,0,0,40.0,Very Low
+2009,14,1,England Innings,Luke Wright,1,6,0,0,16.67,Very Low
+2009,14,1,England Innings,Kevin Pietersen,19,17,4,0,111.76,Very Low
+2009,14,1,England Innings,Owais Shah,38,33,3,2,115.15,Low
+2009,14,1,England Innings,Paul Collingwood,19,19,2,0,100.0,Very Low
+2009,14,1,England Innings,James Foster,1,4,0,0,25.0,Very Low
+2009,14,1,England Innings,Dimitri Mascarenhas,1,3,0,0,33.33,Very Low
+2009,14,1,England Innings,Graeme Swann,5,6,0,0,83.33,Very Low
+2009,14,1,England Innings,Stuart Broad,9,8,1,0,112.5,Very Low
+2009,14,1,England Innings,Adil Rashid,9,17,0,0,52.94,Very Low
+2009,14,1,England Innings,James Anderson,0,1,0,0,0.0,Very Low
+2009,14,2,South Africa Innings,Graeme Smith,11,15,2,0,73.33,Very Low
+2009,14,2,South Africa Innings,Jacques Kallis,57,49,5,1,116.33,Low
+2009,14,2,South Africa Innings,Herschelle Gibbs,30,30,2,1,100.0,Very Low
+2009,14,2,South Africa Innings,AB de Villiers,11,12,0,0,91.67,Very Low
+2009,14,2,South Africa Innings,Jean-Paul Duminy,2,4,0,0,50.0,Very Low
+2009,16,1,India Innings,Gautam Gambhir,14,13,2,0,107.69,Very Low
+2009,16,1,India Innings,Rohit Sharma,5,3,1,0,166.67,Very Low
+2009,16,1,India Innings,Suresh Raina,5,8,0,0,62.5,Very Low
+2009,16,1,India Innings,Yuvraj Singh,67,43,6,2,155.81,Medium
+2009,16,1,India Innings,MS Dhoni,11,23,0,0,47.83,Very Low
+2009,16,1,India Innings,Yusuf Pathan,31,23,3,1,134.78,Low
+2009,16,1,India Innings,Irfan Pathan,2,3,0,0,66.67,Very Low
+2009,16,1,India Innings,Harbhajan Singh,13,4,3,0,325.0,Very Low
+2009,16,1,India Innings,Zaheer Khan,0,0,0,0,0.0,Very Low
+2009,16,2,West Indies Innings,Chris Gayle,22,28,4,0,78.57,Very Low
+2009,16,2,West Indies Innings,Andre Fletcher,0,2,0,0,0.0,Very Low
+2009,16,2,West Indies Innings,Lendl Simmons,44,37,5,0,118.92,Low
+2009,16,2,West Indies Innings,Dwayne Bravo,66,36,4,3,183.33,Medium
+2009,16,2,West Indies Innings,Shivnarine Chanderpaul,18,9,3,0,200.0,Very Low
+2009,18,1,New Zealand Innings,Brendon McCullum,12,6,2,0,200.0,Very Low
+2009,18,1,New Zealand Innings,Aaron Redmond,15,14,2,0,107.14,Very Low
+2009,18,1,New Zealand Innings,Martin Guptill,8,8,1,0,100.0,Very Low
+2009,18,1,New Zealand Innings,Scott Styris,22,29,0,1,75.86,Very Low
+2009,18,1,New Zealand Innings,Jacob Oram,5,11,0,0,45.45,Very Low
+2009,18,1,New Zealand Innings,Peter McGlashan,8,8,1,0,100.0,Very Low
+2009,18,1,New Zealand Innings,Nathan McCullum,7,11,1,0,63.64,Very Low
+2009,18,1,New Zealand Innings,James Franklin,7,13,0,0,53.85,Very Low
+2009,18,1,New Zealand Innings,Daniel Vettori,8,9,1,0,88.89,Very Low
+2009,18,1,New Zealand Innings,Kyle Mills,0,1,0,0,0.0,Very Low
+2009,18,1,New Zealand Innings,Ian Butler,1,1,0,0,100.0,Very Low
+2009,18,2,Pakistan Innings,Kamran Akmal,19,14,1,1,135.71,Very Low
+2009,18,2,Pakistan Innings,Shahzaib Hasan,35,28,4,2,125.0,Low
+2009,18,2,Pakistan Innings,Abdul Razzaq,5,8,0,0,62.5,Very Low
+2009,18,2,Pakistan Innings,Shoaib Malik,4,3,1,0,133.33,Very Low
+2009,18,2,Pakistan Innings,Shahid Afridi,29,18,3,0,161.11,Very Low
+2009,18,2,Pakistan Innings,Younis Khan,6,9,0,0,66.67,Very Low
+2009,19,1,Sri Lanka Innings,Tillakaratne Dilshan,0,2,0,0,0.0,Very Low
+2009,19,1,Sri Lanka Innings,Sanath Jayasuriya,27,27,5,0,100.0,Very Low
+2009,19,1,Sri Lanka Innings,Kumar Sangakkara,3,10,0,0,30.0,Very Low
+2009,19,1,Sri Lanka Innings,Mahela Jayawardene,78,53,9,1,147.17,Medium
+2009,19,1,Sri Lanka Innings,Chamara Silva,4,6,0,0,66.67,Very Low
+2009,19,1,Sri Lanka Innings,Jehan Mubarak,7,9,0,0,77.78,Very Low
+2009,19,1,Sri Lanka Innings,Angelo Mathews,10,7,1,0,142.86,Very Low
+2009,19,1,Sri Lanka Innings,Nuwan Kulasekara,1,2,0,0,50.0,Very Low
+2009,19,1,Sri Lanka Innings,Muttiah Muralitharan,0,1,0,0,0.0,Very Low
+2009,19,1,Sri Lanka Innings,Lasith Malinga,1,2,0,0,50.0,Very Low
+2009,19,1,Sri Lanka Innings,Ajantha Mendis,4,1,1,0,400.0,Very Low
+2009,19,2,Ireland Innings,William Porterfield,31,29,5,0,106.9,Low
+2009,19,2,Ireland Innings,Niall O Brien,31,37,4,0,83.78,Low
+2009,19,2,Ireland Innings,Andrew White,22,21,1,1,104.76,Very Low
+2009,19,2,Ireland Innings,Kevin O Brien,0,2,0,0,0.0,Very Low
+2009,19,2,Ireland Innings,John Mooney,31,21,4,0,147.62,Low
+2009,19,2,Ireland Innings,Trent Johnston,9,6,0,1,150.0,Very Low
+2009,19,2,Ireland Innings,Andre Botha,0,1,0,0,0.0,Very Low
+2009,19,2,Ireland Innings,Alex Cusack,2,3,0,0,66.67,Very Low
+2009,19,2,Ireland Innings,Regan West,1,1,0,0,100.0,Very Low
+2009,20,1,England Innings,Ravi Bopara,37,37,3,1,100.0,Low
+2009,20,1,England Innings,Luke Wright,1,7,0,0,14.29,Very Low
+2009,20,1,England Innings,Kevin Pietersen,46,27,5,1,170.37,Low
+2009,20,1,England Innings,Dimitri Mascarenhas,25,27,2,0,92.59,Very Low
+2009,20,1,England Innings,Owais Shah,12,10,1,0,120.0,Very Low
+2009,20,1,England Innings,Paul Collingwood,7,5,1,0,140.0,Very Low
+2009,20,1,England Innings,James Foster,6,5,0,0,120.0,Very Low
+2009,20,1,England Innings,Graeme Swann,0,1,0,0,0.0,Very Low
+2009,20,1,England Innings,Stuart Broad,3,1,0,0,300.0,Very Low
+2009,20,2,India Innings,Gautam Gambhir,26,26,4,0,100.0,Very Low
+2009,20,2,India Innings,Rohit Sharma,9,8,1,0,112.5,Very Low
+2009,20,2,India Innings,Suresh Raina,2,5,0,0,40.0,Very Low
+2009,20,2,India Innings,Ravindra Jadeja,25,35,1,0,71.43,Very Low
+2009,20,2,India Innings,Yuvraj Singh,17,9,0,2,188.89,Very Low
+2009,20,2,India Innings,MS Dhoni,30,20,3,0,150.0,Very Low
+2009,20,2,India Innings,Yusuf Pathan,33,17,1,2,194.12,Low
+2009,22,1,England Innings,Ravi Bopara,55,47,5,0,117.02,Low
+2009,22,1,England Innings,Luke Wright,6,6,1,0,100.0,Very Low
+2009,22,1,England Innings,Kevin Pietersen,31,19,5,0,163.16,Low
+2009,22,1,England Innings,Owais Shah,18,15,1,1,120.0,Very Low
+2009,22,1,England Innings,Paul Collingwood,11,10,0,0,110.0,Very Low
+2009,22,1,England Innings,James Foster,13,12,0,0,108.33,Very Low
+2009,22,1,England Innings,Graeme Swann,10,9,0,0,111.11,Very Low
+2009,22,1,England Innings,Stuart Broad,10,2,1,1,500.0,Very Low
+2009,22,2,West Indies Innings,Chris Gayle,15,8,3,0,187.5,Very Low
+2009,22,2,West Indies Innings,Andre Fletcher,0,3,0,0,0.0,Very Low
+2009,22,2,West Indies Innings,Lendl Simmons,0,1,0,0,0.0,Very Low
+2009,22,2,West Indies Innings,Dwayne Bravo,18,13,1,1,138.46,Very Low
+2009,22,2,West Indies Innings,Kieron Pollard,9,6,0,1,150.0,Very Low
+2009,22,2,West Indies Innings,Shivnarine Chanderpaul,17,10,1,0,170.0,Very Low
+2009,22,2,West Indies Innings,Ramnaresh Sarwan,19,9,3,0,211.11,Very Low
+2009,23,1,Sri Lanka Innings,Tillakaratne Dilshan,48,37,5,0,129.73,Low
+2009,23,1,Sri Lanka Innings,Sanath Jayasuriya,0,1,0,0,0.0,Very Low
+2009,23,1,Sri Lanka Innings,Chamara Silva,13,10,2,0,130.0,Very Low
+2009,23,1,Sri Lanka Innings,Kumar Sangakkara,35,35,3,0,100.0,Low
+2009,23,1,Sri Lanka Innings,Mahela Jayawardene,41,29,6,1,141.38,Low
+2009,23,1,Sri Lanka Innings,Jehan Mubarak,8,5,1,0,160.0,Very Low
+2009,23,1,Sri Lanka Innings,Angelo Mathews,6,4,0,0,150.0,Very Low
+2009,23,2,New Zealand Innings,Brendon McCullum,10,12,2,0,83.33,Very Low
+2009,23,2,New Zealand Innings,Aaron Redmond,23,13,3,1,176.92,Very Low
+2009,23,2,New Zealand Innings,Martin Guptill,43,34,4,1,126.47,Low
+2009,23,2,New Zealand Innings,Ross Taylor,8,8,1,0,100.0,Very Low
+2009,23,2,New Zealand Innings,Scott Styris,2,3,0,0,66.67,Very Low
+2009,23,2,New Zealand Innings,Jacob Oram,7,12,0,0,58.33,Very Low
+2009,23,2,New Zealand Innings,Peter McGlashan,2,3,0,0,66.67,Very Low
+2009,23,2,New Zealand Innings,Nathan McCullum,2,4,0,0,50.0,Very Low
+2009,23,2,New Zealand Innings,Daniel Vettori,3,5,0,0,60.0,Very Low
+2009,23,2,New Zealand Innings,Kyle Mills,4,6,1,0,66.67,Very Low
+2009,23,2,New Zealand Innings,Ian Butler,2,2,0,0,100.0,Very Low
+2009,24,1,South Africa Innings,Graeme Smith,26,26,2,0,100.0,Very Low
+2009,24,1,South Africa Innings,Herschelle Gibbs,5,3,1,0,166.67,Very Low
+2009,24,1,South Africa Innings,AB de Villiers,63,51,7,0,123.53,Medium
+2009,24,1,South Africa Innings,Jean-Paul Duminy,10,15,0,0,66.67,Very Low
+2009,24,1,South Africa Innings,Mark Boucher,11,15,1,0,73.33,Very Low
+2009,24,1,South Africa Innings,Albie Morkel,8,8,1,0,100.0,Very Low
+2009,24,1,South Africa Innings,Johan Botha,4,2,1,0,200.0,Very Low
+2009,24,2,India Innings,Gautam Gambhir,21,19,3,0,110.53,Very Low
+2009,24,2,India Innings,Rohit Sharma,29,28,3,0,103.57,Very Low
+2009,24,2,India Innings,Suresh Raina,3,8,0,0,37.5,Very Low
+2009,24,2,India Innings,Yuvraj Singh,25,25,1,1,100.0,Very Low
+2009,24,2,India Innings,MS Dhoni,5,12,0,0,41.67,Very Low
+2009,24,2,India Innings,Yusuf Pathan,0,2,0,0,0.0,Very Low
+2009,24,2,India Innings,Harbhajan Singh,14,15,1,1,93.33,Very Low
+2009,24,2,India Innings,Ravindra Jadeja,7,6,0,0,116.67,Very Low
+2009,24,2,India Innings,Zaheer Khan,4,3,0,0,133.33,Very Low
+2009,24,2,India Innings,RP Singh,2,2,0,0,100.0,Very Low
+2009,25,1,Pakistan Innings,Kamran Akmal,23,12,4,1,191.67,Very Low
+2009,25,1,Pakistan Innings,Shahzaib Hasan,0,2,0,0,0.0,Very Low
+2009,25,1,Pakistan Innings,Shahid Afridi,51,34,8,0,150.0,Low
+2009,25,1,Pakistan Innings,Shoaib Malik,34,39,2,0,87.18,Low
+2009,25,1,Pakistan Innings,Younis Khan,24,18,1,0,133.33,Very Low
+2009,25,1,Pakistan Innings,Abdul Razzaq,12,15,0,0,80.0,Very Low
+2009,25,2,South Africa Innings,Jacques Kallis,64,54,7,1,118.52,Medium
+2009,25,2,South Africa Innings,Graeme Smith,10,14,1,0,71.43,Very Low
+2009,25,2,South Africa Innings,Herschelle Gibbs,5,4,1,0,125.0,Very Low
+2009,25,2,South Africa Innings,AB de Villiers,1,5,0,0,20.0,Very Low
+2009,25,2,South Africa Innings,Jean-Paul Duminy,44,39,3,1,112.82,Low
+2009,25,2,South Africa Innings,Albie Morkel,2,4,0,0,50.0,Very Low
+2009,25,2,South Africa Innings,Mark Boucher,0,0,0,0,0.0,Very Low
+2009,26,1,Sri Lanka Innings,Tillakaratne Dilshan,96,57,12,2,168.42,High
+2009,26,1,Sri Lanka Innings,Sanath Jayasuriya,24,37,3,0,64.86,Very Low
+2009,26,1,Sri Lanka Innings,Kumar Sangakkara,0,2,0,0,0.0,Very Low
+2009,26,1,Sri Lanka Innings,Mahela Jayawardene,2,3,0,0,66.67,Very Low
+2009,26,1,Sri Lanka Innings,Chamara Silva,11,12,2,0,91.67,Very Low
+2009,26,1,Sri Lanka Innings,Jehan Mubarak,7,5,1,0,140.0,Very Low
+2009,26,1,Sri Lanka Innings,Angelo Mathews,12,4,1,1,300.0,Very Low
+2009,26,2,West Indies Innings,Chris Gayle,63,50,8,2,126.0,Medium
+2009,26,2,West Indies Innings,Xavier Marshall,0,1,0,0,0.0,Very Low
+2009,26,2,West Indies Innings,Lendl Simmons,0,2,0,0,0.0,Very Low
+2009,26,2,West Indies Innings,Dwayne Bravo,0,2,0,0,0.0,Very Low
+2009,26,2,West Indies Innings,Shivnarine Chanderpaul,7,15,0,0,46.67,Very Low
+2009,26,2,West Indies Innings,Ramnaresh Sarwan,5,12,0,0,41.67,Very Low
+2009,26,2,West Indies Innings,Kieron Pollard,3,10,0,0,30.0,Very Low
+2009,26,2,West Indies Innings,Denesh Ramdin,9,5,2,0,180.0,Very Low
+2009,26,2,West Indies Innings,Jerome Taylor,2,2,0,0,100.0,Very Low
+2009,26,2,West Indies Innings,Daren Sammy,1,4,0,0,25.0,Very Low
+2009,26,2,West Indies Innings,Sulieman Benn,0,4,0,0,0.0,Very Low
+2009,27,1,Sri Lanka Innings,Tillakaratne Dilshan,0,5,0,0,0.0,Very Low
+2009,27,1,Sri Lanka Innings,Sanath Jayasuriya,17,10,2,1,170.0,Very Low
+2009,27,1,Sri Lanka Innings,Jehan Mubarak,0,2,0,0,0.0,Very Low
+2009,27,1,Sri Lanka Innings,Kumar Sangakkara,64,52,7,0,123.08,Medium
+2009,27,1,Sri Lanka Innings,Mahela Jayawardene,1,4,0,0,25.0,Very Low
+2009,27,1,Sri Lanka Innings,Chamara Silva,14,19,2,0,73.68,Very Low
+2009,27,1,Sri Lanka Innings,Isuru Udana,1,5,0,0,20.0,Very Low
+2009,27,1,Sri Lanka Innings,Angelo Mathews,35,24,3,1,145.83,Low
+2009,27,2,Pakistan Innings,Kamran Akmal,37,28,2,2,132.14,Low
+2009,27,2,Pakistan Innings,Shahzaib Hasan,19,23,3,0,82.61,Very Low
+2009,27,2,Pakistan Innings,Shahid Afridi,54,40,2,2,135.0,Low
+2009,27,2,Pakistan Innings,Shoaib Malik,24,22,1,0,109.09,Very Low
+2009,1,1,England Innings,Ravi Bopara,46,34,5,0,135.29,Low
+2009,1,1,England Innings,Luke Wright,71,49,8,0,144.9,Medium
+2009,1,1,England Innings,Owais Shah,5,8,0,0,62.5,Very Low
+2009,1,1,England Innings,Eoin Morgan,6,8,0,0,75.0,Very Low
+2009,1,1,England Innings,Paul Collingwood,11,10,1,0,110.0,Very Low
+2009,1,1,England Innings,Robert Key,10,8,0,0,125.0,Very Low
+2009,1,1,England Innings,James Foster,3,3,0,0,100.0,Very Low
+2009,1,2,Netherlands Innings,Alexei Kervezee,1,4,0,0,25.0,Very Low
+2009,1,2,Netherlands Innings,Darron Reekers,20,13,1,2,153.85,Very Low
+2009,1,2,Netherlands Innings,Bas Zuiderent,12,16,1,0,75.0,Very Low
+2009,1,2,Netherlands Innings,Tom de Grooth,49,30,6,1,163.33,Low
+2009,1,2,Netherlands Innings,Peter Borren,30,25,1,1,120.0,Very Low
+2009,1,2,Netherlands Innings,Ryan ten Doeschate,22,17,2,0,129.41,Very Low
+2009,1,2,Netherlands Innings,Daan van Bunge,8,8,1,0,100.0,Very Low
+2009,1,2,Netherlands Innings,Edgar Schiferli,5,7,0,0,71.43,Very Low
+2009,15,1,Sri Lanka Innings,Tillakaratne Dilshan,46,39,8,0,117.95,Low
+2009,15,1,Sri Lanka Innings,Sanath Jayasuriya,26,24,2,1,108.33,Very Low
+2009,15,1,Sri Lanka Innings,Kumar Sangakkara,15,16,1,0,93.75,Very Low
+2009,15,1,Sri Lanka Innings,Mahela Jayawardene,19,18,2,0,105.56,Very Low
+2009,15,1,Sri Lanka Innings,Chamara Silva,8,6,1,0,133.33,Very Low
+2009,15,1,Sri Lanka Innings,Jehan Mubarak,5,10,0,0,50.0,Very Low
+2009,15,1,Sri Lanka Innings,Angelo Mathews,9,8,1,0,112.5,Very Low
+2009,15,1,Sri Lanka Innings,Nuwan Kulasekara,0,1,0,0,0.0,Very Low
+2009,15,1,Sri Lanka Innings,Lasith Malinga,2,1,0,0,200.0,Very Low
+2009,15,2,Pakistan Innings,Salman Butt,0,3,0,0,0.0,Very Low
+2009,15,2,Pakistan Innings,Kamran Akmal,5,9,0,0,55.56,Very Low
+2009,15,2,Pakistan Innings,Shoaib Malik,28,20,5,0,140.0,Very Low
+2009,15,2,Pakistan Innings,Younis Khan,50,37,4,0,135.14,Low
+2009,15,2,Pakistan Innings,Misbah-ul-Haq,21,28,0,0,75.0,Very Low
+2009,15,2,Pakistan Innings,Shahid Afridi,0,1,0,0,0.0,Very Low
+2009,15,2,Pakistan Innings,Fawad Alam,12,11,1,0,109.09,Very Low
+2009,15,2,Pakistan Innings,Sohail Tanvir,3,7,0,0,42.86,Very Low
+2009,15,2,Pakistan Innings,Umar Gul,9,4,0,1,225.0,Very Low
+2009,15,2,Pakistan Innings,Mohammad Amir,0,0,0,0,0.0,Very Low
+2009,15,2,Pakistan Innings,Saeed Ajmal,0,0,0,0,0.0,Very Low
+2009,17,1,South Africa Innings,Jacques Kallis,45,31,6,1,145.16,Low
+2009,17,1,South Africa Innings,Graeme Smith,31,18,6,0,172.22,Low
+2009,17,1,South Africa Innings,Herschelle Gibbs,55,35,8,1,157.14,Low
+2009,17,1,South Africa Innings,AB de Villiers,17,10,2,0,170.0,Very Low
+2009,17,1,South Africa Innings,Albie Morkel,10,8,2,0,125.0,Very Low
+2009,17,1,South Africa Innings,Mark Boucher,17,12,0,1,141.67,Very Low
+2009,17,1,South Africa Innings,Jean-Paul Duminy,0,1,0,0,0.0,Very Low
+2009,17,1,South Africa Innings,Roelof van der Merwe,1,3,0,0,33.33,Very Low
+2009,17,1,South Africa Innings,Johan Botha,4,2,0,0,200.0,Very Low
+2009,17,2,West Indies Innings,Chris Gayle,5,8,0,0,62.5,Very Low
+2009,17,2,West Indies Innings,Andre Fletcher,0,5,0,0,0.0,Very Low
+2009,17,2,West Indies Innings,Lendl Simmons,77,50,12,1,154.0,Medium
+2009,17,2,West Indies Innings,Dwayne Bravo,19,17,2,0,111.76,Very Low
+2009,17,2,West Indies Innings,Shivnarine Chanderpaul,8,7,1,0,114.29,Very Low
+2009,17,2,West Indies Innings,Ramnaresh Sarwan,8,11,0,0,72.73,Very Low
+2009,17,2,West Indies Innings,Kieron Pollard,6,4,1,0,150.0,Very Low
+2009,17,2,West Indies Innings,Denesh Ramdin,8,7,1,0,114.29,Very Low
+2009,17,2,West Indies Innings,Jerome Taylor,0,1,0,0,0.0,Very Low
+2009,17,2,West Indies Innings,Sulieman Benn,13,9,2,0,144.44,Very Low
+2009,17,2,West Indies Innings,Fidel Edwards,2,2,0,0,100.0,Very Low
+2009,21,1,Pakistan Innings,Kamran Akmal,57,51,5,1,111.76,Low
+2009,21,1,Pakistan Innings,Shahzaib Hasan,23,19,3,1,121.05,Very Low
+2009,21,1,Pakistan Innings,Shahid Afridi,24,13,3,0,184.62,Very Low
+2009,21,1,Pakistan Innings,Younis Khan,10,8,1,0,125.0,Very Low
+2009,21,1,Pakistan Innings,Misbah-ul-Haq,20,14,1,1,142.86,Very Low
+2009,21,1,Pakistan Innings,Abdul Razzaq,15,9,0,1,166.67,Very Low
+2009,21,1,Pakistan Innings,Shoaib Malik,4,7,0,0,57.14,Very Low
+2009,21,2,Ireland Innings,William Porterfield,40,36,2,0,111.11,Low
+2009,21,2,Ireland Innings,Niall O Brien,7,10,1,0,70.0,Very Low
+2009,21,2,Ireland Innings,Paul Stirling,17,16,2,0,106.25,Very Low
+2009,21,2,Ireland Innings,Kevin O Brien,26,30,1,0,86.67,Very Low
+2009,21,2,Ireland Innings,John Mooney,2,8,0,0,25.0,Very Low
+2009,21,2,Ireland Innings,Trent Johnston,0,1,0,0,0.0,Very Low
+2009,21,2,Ireland Innings,Andrew White,5,7,0,0,71.43,Very Low
+2009,21,2,Ireland Innings,Alex Cusack,2,2,0,0,100.0,Very Low
+2009,21,2,Ireland Innings,Kyle McCallan,2,6,0,0,33.33,Very Low
+2009,21,2,Ireland Innings,Regan West,1,1,0,0,100.0,Very Low
+2009,21,2,Ireland Innings,Boyd Rankin,5,5,0,0,100.0,Very Low
+2007,1,1,West Indies Innings,Chris Gayle,117,57,7,10,205.26,High
+2007,1,1,West Indies Innings,Devon Smith,35,34,3,0,102.94,Low
+2007,1,1,West Indies Innings,Marlon Samuels,6,4,0,1,150.0,Very Low
+2007,1,1,West Indies Innings,Shivnarine Chanderpaul,11,10,1,0,110.0,Very Low
+2007,1,1,West Indies Innings,Dwayne Smith,1,4,0,0,25.0,Very Low
+2007,1,1,West Indies Innings,Ramnaresh Sarwan,12,8,0,1,150.0,Very Low
+2007,1,1,West Indies Innings,Denesh Ramdin,6,4,1,0,150.0,Very Low
+2007,1,1,West Indies Innings,Dwayne Bravo,0,0,0,0,0.0,Very Low
+2007,1,2,South Africa Innings,Graeme Smith,28,21,4,1,133.33,Very Low
+2007,1,2,South Africa Innings,Herschelle Gibbs,90,55,14,2,163.64,Medium
+2007,1,2,South Africa Innings,AB de Villiers,16,9,1,1,177.78,Very Low
+2007,1,2,South Africa Innings,Justin Kemp,46,22,5,2,209.09,Low
+2007,2,1,Kenya Innings,Morris Ouma,0,2,0,0,0.0,Very Low
+2007,2,1,Kenya Innings,David Obuya,0,1,0,0,0.0,Very Low
+2007,2,1,Kenya Innings,Tanmay Mishra,0,3,0,0,0.0,Very Low
+2007,2,1,Kenya Innings,Steve Tikolo,0,2,0,0,0.0,Very Low
+2007,2,1,Kenya Innings,Collins Obuya,18,25,2,0,72.0,Very Low
+2007,2,1,Kenya Innings,Thomas Odoyo,18,26,3,0,69.23,Very Low
+2007,2,1,Kenya Innings,Nehemiah Odhiambo,0,6,0,0,0.0,Very Low
+2007,2,1,Kenya Innings,Alex Obanda,4,12,0,0,33.33,Very Low
+2007,2,1,Kenya Innings,Jimmy Kamande,14,13,1,0,107.69,Very Low
+2007,2,1,Kenya Innings,Rajesh Bhudia,11,9,0,1,122.22,Very Low
+2007,2,1,Kenya Innings,Peter Ongondo,0,2,0,0,0.0,Very Low
+2007,2,2,New Zealand Innings,Lou Vincent,27,20,4,1,135.0,Very Low
+2007,2,2,New Zealand Innings,Brendon McCullum,16,13,1,1,123.08,Very Low
+2007,2,2,New Zealand Innings,Peter Fulton,21,14,1,2,150.0,Very Low
+2007,3,1,Pakistan Innings,Salman Butt,13,23,2,0,56.52,Very Low
+2007,3,1,Pakistan Innings,Imran Nazir,4,3,1,0,133.33,Very Low
+2007,3,1,Pakistan Innings,Mohammad Hafeez,18,11,3,0,163.64,Very Low
+2007,3,1,Pakistan Innings,Younis Khan,41,29,3,2,141.38,Low
+2007,3,1,Pakistan Innings,Shoaib Malik,11,13,1,0,84.62,Very Low
+2007,3,1,Pakistan Innings,Shahid Afridi,22,7,1,2,314.29,Very Low
+2007,3,1,Pakistan Innings,Misbah-ul-Haq,23,16,4,0,143.75,Very Low
+2007,3,1,Pakistan Innings,Kamran Akmal,16,10,1,1,160.0,Very Low
+2007,3,1,Pakistan Innings,Yasir Arafat,17,8,1,1,212.5,Very Low
+2007,3,1,Pakistan Innings,Umar Gul,0,0,0,0,0.0,Very Low
+2007,3,2,Scotland Innings,Fraser Watts,46,35,9,0,131.43,Low
+2007,3,2,Scotland Innings,Ryan Watson,2,4,0,0,50.0,Very Low
+2007,3,2,Scotland Innings,Navdeep Poonia,4,6,0,0,66.67,Very Low
+2007,3,2,Scotland Innings,Gavin Hamilton,2,4,0,0,50.0,Very Low
+2007,3,2,Scotland Innings,Neil McCallum,0,2,0,0,0.0,Very Low
+2007,3,2,Scotland Innings,Dougie Brown,1,5,0,0,20.0,Very Low
+2007,3,2,Scotland Innings,Colin Smith,11,7,2,0,157.14,Very Low
+2007,3,2,Scotland Innings,Majid Haq,14,31,0,0,45.16,Very Low
+2007,3,2,Scotland Innings,Craig Wright,14,18,0,0,77.78,Very Low
+2007,3,2,Scotland Innings,John Blain,0,1,0,0,0.0,Very Low
+2007,3,2,Scotland Innings,Dewald Nel,13,7,2,0,185.71,Very Low
+2007,4,1,Australia Innings,Adam Gilchrist,4,6,0,0,66.67,Very Low
+2007,4,1,Australia Innings,Matthew Hayden,4,2,1,0,200.0,Very Low
+2007,4,1,Australia Innings,Ricky Ponting,8,15,1,0,53.33,Very Low
+2007,4,1,Australia Innings,Andrew Symonds,33,25,4,0,132.0,Low
+2007,4,1,Australia Innings,Michael Hussey,15,23,1,0,65.22,Very Low
+2007,4,1,Australia Innings,Brad Hodge,35,22,2,2,159.09,Low
+2007,4,1,Australia Innings,Brad Haddin,6,12,0,0,50.0,Very Low
+2007,4,1,Australia Innings,Brett Lee,13,7,1,1,185.71,Very Low
+2007,4,1,Australia Innings,Mitchell Johnson,9,5,1,0,180.0,Very Low
+2007,4,1,Australia Innings,Nathan Bracken,4,3,0,0,133.33,Very Low
+2007,4,2,Zimbabwe Innings,Vusi Sibanda,23,15,5,0,153.33,Very Low
+2007,4,2,Zimbabwe Innings,Brendan Taylor,60,45,4,2,133.33,Low
+2007,4,2,Zimbabwe Innings,Chamu Chibhabha,15,14,3,0,107.14,Very Low
+2007,4,2,Zimbabwe Innings,Tatenda Taibu,0,6,0,0,0.0,Very Low
+2007,4,2,Zimbabwe Innings,Stuart Matsikenyeri,3,8,0,0,37.5,Very Low
+2007,4,2,Zimbabwe Innings,Hamilton Masakadza,27,28,2,0,96.43,Very Low
+2007,4,2,Zimbabwe Innings,Elton Chigumbura,4,3,0,0,133.33,Very Low
+2007,8,1,Sri Lanka Innings,Upul Tharanga,10,11,1,0,90.91,Very Low
+2007,8,1,Sri Lanka Innings,Sanath Jayasuriya,88,44,11,4,200.0,Medium
+2007,8,1,Sri Lanka Innings,Kumar Sangakkara,30,18,5,0,166.67,Very Low
+2007,8,1,Sri Lanka Innings,Mahela Jayawardene,65,27,9,2,240.74,Medium
+2007,8,1,Sri Lanka Innings,Chamara Silva,5,4,1,0,125.0,Very Low
+2007,8,1,Sri Lanka Innings,Tillakaratne Dilshan,3,4,0,0,75.0,Very Low
+2007,8,1,Sri Lanka Innings,Jehan Mubarak,46,13,3,5,353.85,Low
+2007,8,1,Sri Lanka Innings,Gayan Wijekoon,1,1,0,0,100.0,Very Low
+2007,8,2,Kenya Innings,Morris Ouma,0,3,0,0,0.0,Very Low
+2007,8,2,Kenya Innings,David Obuya,18,33,1,0,54.55,Very Low
+2007,8,2,Kenya Innings,Nehemiah Odhiambo,5,8,1,0,62.5,Very Low
+2007,8,2,Kenya Innings,Tanmay Mishra,16,22,0,1,72.73,Very Low
+2007,8,2,Kenya Innings,Steve Tikolo,4,4,0,0,100.0,Very Low
+2007,8,2,Kenya Innings,Collins Obuya,2,3,0,0,66.67,Very Low
+2007,8,2,Kenya Innings,Alex Obanda,21,25,2,0,84.0,Very Low
+2007,8,2,Kenya Innings,Jimmy Kamande,4,10,0,0,40.0,Very Low
+2007,8,2,Kenya Innings,Lameck Onyango,4,4,0,0,100.0,Very Low
+2007,8,2,Kenya Innings,Peter Ongondo,3,5,0,0,60.0,Very Low
+2007,8,2,Kenya Innings,Thomas Odoyo,0,0,0,0,0.0,Very Low
+2007,10,1,India Innings,Gautam Gambhir,0,3,0,0,0.0,Very Low
+2007,10,1,India Innings,Virender Sehwag,5,3,1,0,166.67,Very Low
+2007,10,1,India Innings,Robin Uthappa,50,39,4,2,128.21,Low
+2007,10,1,India Innings,Yuvraj Singh,1,4,0,0,25.0,Very Low
+2007,10,1,India Innings,Dinesh Karthik,11,9,2,0,122.22,Very Low
+2007,10,1,India Innings,MS Dhoni,33,31,3,1,106.45,Low
+2007,10,1,India Innings,Irfan Pathan,20,15,0,2,133.33,Very Low
+2007,10,1,India Innings,Harbhajan Singh,1,4,0,0,25.0,Very Low
+2007,10,1,India Innings,Ajit Agarkar,14,9,2,0,155.56,Very Low
+2007,10,1,India Innings,S Sreesanth,1,3,0,0,33.33,Very Low
+2007,10,2,Pakistan Innings,Salman Butt,17,25,2,0,68.0,Very Low
+2007,10,2,Pakistan Innings,Imran Nazir,7,8,1,0,87.5,Very Low
+2007,10,2,Pakistan Innings,Kamran Akmal,15,13,1,1,115.38,Very Low
+2007,10,2,Pakistan Innings,Younis Khan,2,8,0,0,25.0,Very Low
+2007,10,2,Pakistan Innings,Shoaib Malik,20,18,3,0,111.11,Very Low
+2007,10,2,Pakistan Innings,Misbah-ul-Haq,53,35,7,1,151.43,Low
+2007,10,2,Pakistan Innings,Shahid Afridi,7,9,0,0,77.78,Very Low
+2007,10,2,Pakistan Innings,Yasir Arafat,12,5,2,0,240.0,Very Low
+2007,12,1,Bangladesh Innings,Tamim Iqbal,8,7,2,0,114.29,Very Low
+2007,12,1,Bangladesh Innings,Nazimuddin,0,1,0,0,0.0,Very Low
+2007,12,1,Bangladesh Innings,Aftab Ahmed,36,14,5,2,257.14,Low
+2007,12,1,Bangladesh Innings,Mohammad Ashraful,10,3,1,1,333.33,Very Low
+2007,12,1,Bangladesh Innings,Shakib Al Hasan,19,14,3,0,135.71,Very Low
+2007,12,1,Bangladesh Innings,Alok Kapali,14,35,0,0,40.0,Very Low
+2007,12,1,Bangladesh Innings,Mashrafe Mortaza,12,8,0,2,150.0,Very Low
+2007,12,1,Bangladesh Innings,Farhad Reza,19,21,0,2,90.48,Very Low
+2007,12,1,Bangladesh Innings,Mushfiqur Rahim,4,6,0,0,66.67,Very Low
+2007,12,1,Bangladesh Innings,Abdur Razzak,2,6,0,0,33.33,Very Low
+2007,12,1,Bangladesh Innings,Syed Rasel,6,3,1,0,200.0,Very Low
+2007,12,2,South Africa Innings,Graeme Smith,41,34,6,0,120.59,Low
+2007,12,2,South Africa Innings,Jean-Paul Duminy,36,28,4,1,128.57,Low
+2007,12,2,South Africa Innings,Albie Morkel,41,29,3,2,141.38,Low
+2007,12,2,South Africa Innings,AB de Villiers,14,15,1,0,93.33,Very Low
+2007,12,2,South Africa Innings,Justin Kemp,12,7,1,1,171.43,Very Low
+2007,13,1,New Zealand Innings,Lou Vincent,3,6,0,0,50.0,Very Low
+2007,13,1,New Zealand Innings,Brendon McCullum,45,31,9,0,145.16,Low
+2007,13,1,New Zealand Innings,Peter Fulton,21,23,1,1,91.3,Very Low
+2007,13,1,New Zealand Innings,Ross Taylor,11,9,0,1,122.22,Very Low
+2007,13,1,New Zealand Innings,Scott Styris,2,4,0,0,50.0,Very Low
+2007,13,1,New Zealand Innings,Craig McMillan,44,23,1,4,191.3,Low
+2007,13,1,New Zealand Innings,Jacob Oram,35,15,2,3,233.33,Low
+2007,13,1,New Zealand Innings,Daniel Vettori,15,5,3,0,300.0,Very Low
+2007,13,1,New Zealand Innings,Shane Bond,4,2,1,0,200.0,Very Low
+2007,13,1,New Zealand Innings,Mark Gillespie,0,1,0,0,0.0,Very Low
+2007,13,1,New Zealand Innings,Jeetan Patel,0,1,0,0,0.0,Very Low
+2007,13,2,India Innings,Gautam Gambhir,51,33,5,2,154.55,Low
+2007,13,2,India Innings,Virender Sehwag,40,17,6,2,235.29,Low
+2007,13,2,India Innings,Robin Uthappa,0,2,0,0,0.0,Very Low
+2007,13,2,India Innings,MS Dhoni,24,20,2,0,120.0,Very Low
+2007,13,2,India Innings,Yuvraj Singh,5,7,0,0,71.43,Very Low
+2007,13,2,India Innings,Dinesh Karthik,17,12,3,0,141.67,Very Low
+2007,13,2,India Innings,Irfan Pathan,11,10,2,0,110.0,Very Low
+2007,13,2,India Innings,Ajit Agarkar,1,2,0,0,50.0,Very Low
+2007,13,2,India Innings,Harbhajan Singh,7,6,1,0,116.67,Very Low
+2007,13,2,India Innings,S Sreesanth,19,10,4,0,190.0,Very Low
+2007,13,2,India Innings,RP Singh,1,1,0,0,100.0,Very Low
+2007,16,1,Pakistan Innings,Salman Butt,12,17,1,0,70.59,Very Low
+2007,16,1,Pakistan Innings,Imran Nazir,7,4,0,1,175.0,Very Low
+2007,16,1,Pakistan Innings,Mohammad Hafeez,10,11,2,0,90.91,Very Low
+2007,16,1,Pakistan Innings,Younis Khan,51,35,2,3,145.71,Low
+2007,16,1,Pakistan Innings,Shoaib Malik,57,31,4,2,183.87,Low
+2007,16,1,Pakistan Innings,Shahid Afridi,17,9,2,0,188.89,Very Low
+2007,16,1,Pakistan Innings,Kamran Akmal,10,9,1,0,111.11,Very Low
+2007,16,1,Pakistan Innings,Misbah-ul-Haq,16,6,0,2,266.67,Very Low
+2007,16,2,Sri Lanka Innings,Upul Tharanga,0,2,0,0,0.0,Very Low
+2007,16,2,Sri Lanka Innings,Sanath Jayasuriya,5,5,0,0,100.0,Very Low
+2007,16,2,Sri Lanka Innings,Kumar Sangakkara,18,10,2,1,180.0,Very Low
+2007,16,2,Sri Lanka Innings,Mahela Jayawardene,28,27,2,1,103.7,Very Low
+2007,16,2,Sri Lanka Innings,Chamara Silva,38,27,5,1,140.74,Low
+2007,16,2,Sri Lanka Innings,Tillakaratne Dilshan,38,28,0,4,135.71,Low
+2007,16,2,Sri Lanka Innings,Jehan Mubarak,0,4,0,0,0.0,Very Low
+2007,16,2,Sri Lanka Innings,Gayan Wijekoon,0,4,0,0,0.0,Very Low
+2007,16,2,Sri Lanka Innings,Chaminda Vaas,12,13,0,0,92.31,Very Low
+2007,16,2,Sri Lanka Innings,Lasith Malinga,1,2,0,0,50.0,Very Low
+2007,16,2,Sri Lanka Innings,Dilhara Fernando,0,0,0,0,0.0,Very Low
+2007,17,1,New Zealand Innings,Lou Vincent,13,17,1,0,76.47,Very Low
+2007,17,1,New Zealand Innings,Brendon McCullum,4,5,1,0,80.0,Very Low
+2007,17,1,New Zealand Innings,Peter Fulton,0,2,0,0,0.0,Very Low
+2007,17,1,New Zealand Innings,Ross Taylor,7,8,0,1,87.5,Very Low
+2007,17,1,New Zealand Innings,Scott Styris,42,31,1,4,135.48,Low
+2007,17,1,New Zealand Innings,Craig McMillan,57,31,3,4,183.87,Low
+2007,17,1,New Zealand Innings,Jacob Oram,8,6,1,0,133.33,Very Low
+2007,17,1,New Zealand Innings,Daniel Vettori,17,9,2,0,188.89,Very Low
+2007,17,1,New Zealand Innings,Shane Bond,2,3,0,0,66.67,Very Low
+2007,17,1,New Zealand Innings,Mark Gillespie,7,8,0,0,87.5,Very Low
+2007,17,2,England Innings,Darren Maddy,50,31,4,2,161.29,Low
+2007,17,2,England Innings,Vikram Solanki,24,25,4,0,96.0,Very Low
+2007,17,2,England Innings,Kevin Pietersen,24,16,2,1,150.0,Very Low
+2007,17,2,England Innings,Paul Collingwood,3,5,0,0,60.0,Very Low
+2007,17,2,England Innings,Owais Shah,21,16,0,1,131.25,Very Low
+2007,17,2,England Innings,Andrew Flintoff,1,1,0,0,100.0,Very Low
+2007,17,2,England Innings,Luke Wright,24,17,1,1,141.18,Very Low
+2007,17,2,England Innings,Dimitri Mascarenhas,0,1,0,0,0.0,Very Low
+2007,17,2,England Innings,Chris Schofield,8,6,0,0,133.33,Very Low
+2007,17,2,England Innings,Stuart Broad,3,2,0,0,150.0,Very Low
+2007,20,1,New Zealand Innings,Lou Vincent,32,29,4,0,110.34,Low
+2007,20,1,New Zealand Innings,Brendon McCullum,38,26,3,2,146.15,Low
+2007,20,1,New Zealand Innings,Ross Taylor,1,3,0,0,33.33,Very Low
+2007,20,1,New Zealand Innings,Scott Styris,6,9,0,0,66.67,Very Low
+2007,20,1,New Zealand Innings,Craig McMillan,48,25,2,4,192.0,Low
+2007,20,1,New Zealand Innings,Jacob Oram,15,15,2,0,100.0,Very Low
+2007,20,1,New Zealand Innings,Nathan McCullum,1,4,0,0,25.0,Very Low
+2007,20,1,New Zealand Innings,Daniel Vettori,1,3,0,0,33.33,Very Low
+2007,20,1,New Zealand Innings,Shane Bond,0,1,0,0,0.0,Very Low
+2007,20,1,New Zealand Innings,Mark Gillespie,3,7,0,0,42.86,Very Low
+2007,20,2,South Africa Innings,Graeme Smith,2,4,0,0,50.0,Very Low
+2007,20,2,South Africa Innings,Herschelle Gibbs,19,19,4,0,100.0,Very Low
+2007,20,2,South Africa Innings,AB de Villiers,1,5,0,0,20.0,Very Low
+2007,20,2,South Africa Innings,Justin Kemp,89,56,6,6,158.93,Medium
+2007,20,2,South Africa Innings,Mark Boucher,23,23,2,0,100.0,Very Low
+2007,20,2,South Africa Innings,Shaun Pollock,16,11,0,1,145.45,Very Low
+2007,21,1,India Innings,Gautam Gambhir,58,41,7,1,141.46,Low
+2007,21,1,India Innings,Virender Sehwag,68,52,4,3,130.77,Medium
+2007,21,1,India Innings,Robin Uthappa,6,4,1,0,150.0,Very Low
+2007,21,1,India Innings,MS Dhoni,10,8,0,0,125.0,Very Low
+2007,21,1,India Innings,Yuvraj Singh,58,16,3,7,362.5,Low
+2007,21,1,India Innings,Irfan Pathan,0,0,0,0,0.0,Very Low
+2007,21,2,England Innings,Darren Maddy,29,20,3,1,145.0,Very Low
+2007,21,2,England Innings,Vikram Solanki,43,31,5,1,138.71,Low
+2007,21,2,England Innings,Kevin Pietersen,39,23,3,1,169.57,Low
+2007,21,2,England Innings,Paul Collingwood,28,20,2,1,140.0,Very Low
+2007,21,2,England Innings,Owais Shah,21,13,3,1,161.54,Very Low
+2007,21,2,England Innings,Andrew Flintoff,8,4,1,0,200.0,Very Low
+2007,21,2,England Innings,Luke Wright,16,9,1,1,177.78,Very Low
+2007,21,2,England Innings,Dimitri Mascarenhas,0,0,0,0,0.0,Very Low
+2007,22,1,Sri Lanka Innings,Upul Tharanga,4,8,0,0,50.0,Very Low
+2007,22,1,Sri Lanka Innings,Sanath Jayasuriya,0,2,0,0,0.0,Very Low
+2007,22,1,Sri Lanka Innings,Kumar Sangakkara,22,23,3,0,95.65,Very Low
+2007,22,1,Sri Lanka Innings,Mahela Jayawardene,1,2,0,0,50.0,Very Low
+2007,22,1,Sri Lanka Innings,Chamara Silva,6,11,1,0,54.55,Very Low
+2007,22,1,Sri Lanka Innings,Tillakaratne Dilshan,3,5,0,0,60.0,Very Low
+2007,22,1,Sri Lanka Innings,Jehan Mubarak,28,26,3,0,107.69,Very Low
+2007,22,1,Sri Lanka Innings,Farveez Maharoof,0,2,0,0,0.0,Very Low
+2007,22,1,Sri Lanka Innings,Chaminda Vaas,21,28,1,0,75.0,Very Low
+2007,22,1,Sri Lanka Innings,Lasith Malinga,12,10,0,1,120.0,Very Low
+2007,22,1,Sri Lanka Innings,Dilhara Fernando,0,2,0,0,0.0,Very Low
+2007,22,2,Australia Innings,Adam Gilchrist,31,25,4,0,124.0,Low
+2007,22,2,Australia Innings,Matthew Hayden,58,38,7,2,152.63,Low
+2007,24,1,India Innings,Gautam Gambhir,19,19,3,0,100.0,Very Low
+2007,24,1,India Innings,Virender Sehwag,11,11,1,0,100.0,Very Low
+2007,24,1,India Innings,Dinesh Karthik,0,1,0,0,0.0,Very Low
+2007,24,1,India Innings,Robin Uthappa,15,16,1,1,93.75,Very Low
+2007,24,1,India Innings,Rohit Sharma,50,40,7,2,125.0,Low
+2007,24,1,India Innings,MS Dhoni,45,33,4,1,136.36,Low
+2007,24,1,India Innings,Irfan Pathan,0,1,0,0,0.0,Very Low
+2007,24,2,South Africa Innings,Herschelle Gibbs,1,3,0,0,33.33,Very Low
+2007,24,2,South Africa Innings,Graeme Smith,4,6,1,0,66.67,Very Low
+2007,24,2,South Africa Innings,AB de Villiers,1,4,0,0,25.0,Very Low
+2007,24,2,South Africa Innings,Justin Kemp,5,12,1,0,41.67,Very Low
+2007,24,2,South Africa Innings,Mark Boucher,36,41,4,0,87.8,Low
+2007,24,2,South Africa Innings,Shaun Pollock,0,1,0,0,0.0,Very Low
+2007,24,2,South Africa Innings,Albie Morkel,36,37,2,1,97.3,Low
+2007,24,2,South Africa Innings,Vernon Philander,2,5,0,0,40.0,Very Low
+2007,24,2,South Africa Innings,Johan van der Wath,2,6,0,0,33.33,Very Low
+2007,24,2,South Africa Innings,Morne Morkel,1,3,0,0,33.33,Very Low
+2007,24,2,South Africa Innings,Makhaya Ntini,4,2,1,0,200.0,Very Low
+2007,26,1,India Innings,Gautam Gambhir,24,25,4,0,96.0,Very Low
+2007,26,1,India Innings,Virender Sehwag,9,13,1,0,69.23,Very Low
+2007,26,1,India Innings,Robin Uthappa,34,28,1,3,121.43,Low
+2007,26,1,India Innings,Yuvraj Singh,70,30,5,5,233.33,Medium
+2007,26,1,India Innings,MS Dhoni,36,18,4,1,200.0,Low
+2007,26,1,India Innings,Rohit Sharma,8,5,0,1,160.0,Very Low
+2007,26,1,India Innings,Irfan Pathan,0,1,0,0,0.0,Very Low
+2007,26,2,Australia Innings,Adam Gilchrist,22,13,2,2,169.23,Very Low
+2007,26,2,Australia Innings,Matthew Hayden,62,47,4,4,131.91,Medium
+2007,26,2,Australia Innings,Brad Hodge,11,10,0,1,110.0,Very Low
+2007,26,2,Australia Innings,Andrew Symonds,43,26,3,2,165.38,Low
+2007,26,2,Australia Innings,Michael Hussey,13,12,0,1,108.33,Very Low
+2007,26,2,Australia Innings,Michael Clarke,3,3,0,0,100.0,Very Low
+2007,26,2,Australia Innings,Brad Haddin,5,8,0,0,62.5,Very Low
+2007,26,2,Australia Innings,Brett Lee,2,2,0,0,100.0,Very Low
+2007,26,2,Australia Innings,Mitchell Johnson,4,1,1,0,400.0,Very Low
+2007,27,1,India Innings,Gautam Gambhir,75,54,8,2,138.89,Medium
+2007,27,1,India Innings,Yusuf Pathan,15,8,1,1,187.5,Very Low
+2007,27,1,India Innings,Robin Uthappa,8,11,1,0,72.73,Very Low
+2007,27,1,India Innings,Yuvraj Singh,14,19,1,0,73.68,Very Low
+2007,27,1,India Innings,MS Dhoni,6,10,0,0,60.0,Very Low
+2007,27,1,India Innings,Rohit Sharma,30,16,2,1,187.5,Very Low
+2007,27,1,India Innings,Irfan Pathan,3,3,0,0,100.0,Very Low
+2007,27,2,Pakistan Innings,Mohammad Hafeez,1,3,0,0,33.33,Very Low
+2007,27,2,Pakistan Innings,Imran Nazir,33,14,4,2,235.71,Low
+2007,27,2,Pakistan Innings,Kamran Akmal,0,3,0,0,0.0,Very Low
+2007,27,2,Pakistan Innings,Younis Khan,24,24,4,0,100.0,Very Low
+2007,27,2,Pakistan Innings,Shoaib Malik,8,17,0,0,47.06,Very Low
+2007,27,2,Pakistan Innings,Misbah-ul-Haq,43,38,0,4,113.16,Low
+2007,27,2,Pakistan Innings,Shahid Afridi,0,1,0,0,0.0,Very Low
+2007,27,2,Pakistan Innings,Yasir Arafat,15,11,2,0,136.36,Very Low
+2007,27,2,Pakistan Innings,Sohail Tanvir,12,4,0,2,300.0,Very Low
+2007,27,2,Pakistan Innings,Umar Gul,0,2,0,0,0.0,Very Low
+2007,27,2,Pakistan Innings,Mohammad Asif,4,1,1,0,400.0,Very Low
+2007,5,1,West Indies Innings,Chris Gayle,0,3,0,0,0.0,Very Low
+2007,5,1,West Indies Innings,Devon Smith,51,52,6,0,98.08,Low
+2007,5,1,West Indies Innings,Shivnarine Chanderpaul,37,31,3,2,119.35,Low
+2007,5,1,West Indies Innings,Marlon Samuels,27,14,2,2,192.86,Very Low
+2007,5,1,West Indies Innings,Ramnaresh Sarwan,5,7,0,0,71.43,Very Low
+2007,5,1,West Indies Innings,Denesh Ramdin,2,3,0,0,66.67,Very Low
+2007,5,1,West Indies Innings,Dwayne Smith,29,7,1,4,414.29,Very Low
+2007,5,1,West Indies Innings,Dwayne Bravo,2,2,0,0,100.0,Very Low
+2007,5,1,West Indies Innings,Daren Powell,1,1,0,0,100.0,Very Low
+2007,5,2,Bangladesh Innings,Tamim Iqbal,10,13,2,0,76.92,Very Low
+2007,5,2,Bangladesh Innings,Nazimuddin,1,4,0,0,25.0,Very Low
+2007,5,2,Bangladesh Innings,Aftab Ahmed,62,49,8,1,126.53,Medium
+2007,5,2,Bangladesh Innings,Mohammad Ashraful,61,27,7,3,225.93,Low
+2007,5,2,Bangladesh Innings,Shakib Al Hasan,13,9,1,0,144.44,Very Low
+2007,5,2,Bangladesh Innings,Alok Kapali,5,7,0,0,71.43,Very Low
+2007,6,1,England Innings,Darren Maddy,14,9,2,0,155.56,Very Low
+2007,6,1,England Innings,Matt Prior,20,14,2,1,142.86,Very Low
+2007,6,1,England Innings,Luke Wright,0,1,0,0,0.0,Very Low
+2007,6,1,England Innings,Kevin Pietersen,79,37,7,4,213.51,Medium
+2007,6,1,England Innings,Paul Collingwood,37,28,1,2,132.14,Low
+2007,6,1,England Innings,Andrew Flintoff,13,13,0,1,100.0,Very Low
+2007,6,1,England Innings,Owais Shah,11,8,0,1,137.5,Very Low
+2007,6,1,England Innings,Dimitri Mascarenhas,0,1,0,0,0.0,Very Low
+2007,6,1,England Innings,Chris Schofield,9,7,1,0,128.57,Very Low
+2007,6,1,England Innings,Stuart Broad,1,2,0,0,50.0,Very Low
+2007,6,1,England Innings,James Anderson,0,0,0,0,0.0,Very Low
+2007,6,2,Zimbabwe Innings,Vusi Sibanda,29,25,5,0,116.0,Very Low
+2007,6,2,Zimbabwe Innings,Brendan Taylor,47,39,4,2,120.51,Low
+2007,6,2,Zimbabwe Innings,Tatenda Taibu,2,4,0,0,50.0,Very Low
+2007,6,2,Zimbabwe Innings,Chamu Chibhabha,5,8,0,0,62.5,Very Low
+2007,6,2,Zimbabwe Innings,Stuart Matsikenyeri,2,6,0,0,33.33,Very Low
+2007,6,2,Zimbabwe Innings,Elton Chigumbura,8,5,0,1,160.0,Very Low
+2007,6,2,Zimbabwe Innings,Hamilton Masakadza,27,23,1,0,117.39,Very Low
+2007,6,2,Zimbabwe Innings,Prosper Utseya,13,10,1,0,130.0,Very Low
+2007,6,2,Zimbabwe Innings,Keith Dabengwa,0,0,0,0,0.0,Very Low
+2007,9,1,England Innings,Darren Maddy,20,20,3,0,100.0,Very Low
+2007,9,1,England Innings,Matt Prior,17,17,1,1,100.0,Very Low
+2007,9,1,England Innings,Luke Wright,3,6,0,0,50.0,Very Low
+2007,9,1,England Innings,Kevin Pietersen,21,20,2,0,105.0,Very Low
+2007,9,1,England Innings,Paul Collingwood,18,11,2,1,163.64,Very Low
+2007,9,1,England Innings,Andrew Flintoff,31,19,4,1,163.16,Low
+2007,9,1,England Innings,Owais Shah,14,13,0,1,107.69,Very Low
+2007,9,1,England Innings,Dimitri Mascarenhas,4,6,0,0,66.67,Very Low
+2007,9,1,England Innings,Chris Schofield,1,4,0,0,25.0,Very Low
+2007,9,1,England Innings,Stuart Broad,1,3,0,0,33.33,Very Low
+2007,9,1,England Innings,James Kirtley,2,4,0,0,50.0,Very Low
+2007,9,2,Australia Innings,Adam Gilchrist,45,28,5,1,160.71,Low
+2007,9,2,Australia Innings,Matthew Hayden,67,43,11,1,155.81,Medium
+2007,9,2,Australia Innings,Ricky Ponting,20,16,1,1,125.0,Very Low
+2007,9,2,Australia Innings,Andrew Symonds,2,2,0,0,100.0,Very Low
+2007,11,1,New Zealand Innings,Lou Vincent,14,16,1,0,87.5,Very Low
+2007,11,1,New Zealand Innings,Brendon McCullum,10,12,0,0,83.33,Very Low
+2007,11,1,New Zealand Innings,Peter Fulton,25,19,1,2,131.58,Very Low
+2007,11,1,New Zealand Innings,Ross Taylor,62,43,3,3,144.19,Medium
+2007,11,1,New Zealand Innings,Scott Styris,2,3,0,0,66.67,Very Low
+2007,11,1,New Zealand Innings,Craig McMillan,2,5,0,0,40.0,Very Low
+2007,11,1,New Zealand Innings,Jacob Oram,33,19,2,2,173.68,Low
+2007,11,1,New Zealand Innings,Daniel Vettori,3,3,0,0,100.0,Very Low
+2007,11,2,Sri Lanka Innings,Upul Tharanga,37,25,2,2,148.0,Low
+2007,11,2,Sri Lanka Innings,Sanath Jayasuriya,61,44,6,3,138.64,Low
+2007,11,2,Sri Lanka Innings,Kumar Sangakkara,14,19,1,0,73.68,Very Low
+2007,11,2,Sri Lanka Innings,Mahela Jayawardene,35,18,4,1,194.44,Low
+2007,11,2,Sri Lanka Innings,Chamara Silva,9,7,1,0,128.57,Very Low
+2007,14,1,Bangladesh Innings,Tamim Iqbal,32,40,3,0,80.0,Low
+2007,14,1,Bangladesh Innings,Nazimuddin,11,17,2,0,64.71,Very Low
+2007,14,1,Bangladesh Innings,Aftab Ahmed,31,34,2,0,91.18,Low
+2007,14,1,Bangladesh Innings,Mohammad Ashraful,7,6,1,0,116.67,Very Low
+2007,14,1,Bangladesh Innings,Shakib Al Hasan,16,11,1,1,145.45,Very Low
+2007,14,1,Bangladesh Innings,Mashrafe Mortaza,0,1,0,0,0.0,Very Low
+2007,14,1,Bangladesh Innings,Alok Kapali,0,1,0,0,0.0,Very Low
+2007,14,1,Bangladesh Innings,Farhad Reza,4,13,0,0,30.77,Very Low
+2007,14,1,Bangladesh Innings,Mushfiqur Rahim,3,2,0,0,150.0,Very Low
+2007,14,1,Bangladesh Innings,Abdur Razzak,0,0,0,0,0.0,Very Low
+2007,14,2,Australia Innings,Adam Gilchrist,43,28,1,4,153.57,Low
+2007,14,2,Australia Innings,Matthew Hayden,73,48,9,3,152.08,Medium
+2007,14,2,Australia Innings,Ricky Ponting,6,8,0,0,75.0,Very Low
+2007,15,1,South Africa Innings,Graeme Smith,19,13,4,0,146.15,Very Low
+2007,15,1,South Africa Innings,Jean-Paul Duminy,0,4,0,0,0.0,Very Low
+2007,15,1,South Africa Innings,AB de Villiers,18,14,4,0,128.57,Very Low
+2007,15,1,South Africa Innings,Justin Kemp,21,27,0,1,77.78,Very Low
+2007,15,1,South Africa Innings,Mark Boucher,29,29,3,0,100.0,Very Low
+2007,15,1,South Africa Innings,Shaun Pollock,0,1,0,0,0.0,Very Low
+2007,15,1,South Africa Innings,Albie Morkel,43,20,3,4,215.0,Low
+2007,15,1,South Africa Innings,Vernon Philander,6,7,0,0,85.71,Very Low
+2007,15,1,South Africa Innings,Johan van der Wath,9,5,1,0,180.0,Very Low
+2007,15,2,England Innings,Luke Wright,0,4,0,0,0.0,Very Low
+2007,15,2,England Innings,Matt Prior,32,31,1,1,103.23,Low
+2007,15,2,England Innings,Kevin Pietersen,15,14,3,0,107.14,Very Low
+2007,15,2,England Innings,Paul Collingwood,0,1,0,0,0.0,Very Low
+2007,15,2,England Innings,Owais Shah,36,31,1,2,116.13,Low
+2007,15,2,England Innings,Andrew Flintoff,17,16,2,0,106.25,Very Low
+2007,15,2,England Innings,Jeremy Snape,7,11,0,0,63.64,Very Low
+2007,15,2,England Innings,Dimitri Mascarenhas,15,9,2,0,166.67,Very Low
+2007,15,2,England Innings,Chris Schofield,6,3,1,0,200.0,Very Low
+2007,18,1,Australia Innings,Adam Gilchrist,24,12,5,0,200.0,Very Low
+2007,18,1,Australia Innings,Matthew Hayden,1,5,0,0,20.0,Very Low
+2007,18,1,Australia Innings,Ricky Ponting,27,26,3,0,103.85,Very Low
+2007,18,1,Australia Innings,Andrew Symonds,29,18,5,0,161.11,Very Low
+2007,18,1,Australia Innings,Michael Hussey,37,25,3,1,148.0,Low
+2007,18,1,Australia Innings,Brad Hodge,36,29,3,0,124.14,Low
+2007,18,1,Australia Innings,Michael Clarke,0,1,0,0,0.0,Very Low
+2007,18,1,Australia Innings,Brett Lee,2,3,0,0,66.67,Very Low
+2007,18,1,Australia Innings,Mitchell Johnson,1,1,0,0,100.0,Very Low
+2007,18,2,Pakistan Innings,Imran Nazir,10,10,1,1,100.0,Very Low
+2007,18,2,Pakistan Innings,Mohammad Hafeez,15,11,2,1,136.36,Very Low
+2007,18,2,Pakistan Innings,Salman Butt,11,12,2,0,91.67,Very Low
+2007,18,2,Pakistan Innings,Younis Khan,4,3,1,0,133.33,Very Low
+2007,18,2,Pakistan Innings,Shoaib Malik,52,38,4,2,136.84,Low
+2007,18,2,Pakistan Innings,Misbah-ul-Haq,66,42,7,1,157.14,Medium
+2007,19,1,Sri Lanka Innings,Upul Tharanga,23,14,3,0,164.29,Very Low
+2007,19,1,Sri Lanka Innings,Sanath Jayasuriya,0,1,0,0,0.0,Very Low
+2007,19,1,Sri Lanka Innings,Kumar Sangakkara,20,29,2,0,68.97,Very Low
+2007,19,1,Sri Lanka Innings,Mahela Jayawardene,30,30,1,0,100.0,Very Low
+2007,19,1,Sri Lanka Innings,Chamara Silva,12,12,0,1,100.0,Very Low
+2007,19,1,Sri Lanka Innings,Tillakaratne Dilshan,21,16,2,0,131.25,Very Low
+2007,19,1,Sri Lanka Innings,Jehan Mubarak,31,19,2,1,163.16,Low
+2007,19,2,Bangladesh Innings,Tamim Iqbal,3,10,0,0,30.0,Very Low
+2007,19,2,Bangladesh Innings,Nazimuddin,0,1,0,0,0.0,Very Low
+2007,19,2,Bangladesh Innings,Aftab Ahmed,18,11,3,0,163.64,Very Low
+2007,19,2,Bangladesh Innings,Mohammad Ashraful,4,8,0,0,50.0,Very Low
+2007,19,2,Bangladesh Innings,Shakib Al Hasan,18,19,2,0,94.74,Very Low
+2007,19,2,Bangladesh Innings,Nadif Chowdhury,5,6,0,0,83.33,Very Low
+2007,19,2,Bangladesh Innings,Mahmudullah,16,16,0,1,100.0,Very Low
+2007,19,2,Bangladesh Innings,Mashrafe Mortaza,12,12,2,0,100.0,Very Low
+2007,19,2,Bangladesh Innings,Mushfiqur Rahim,1,1,0,0,100.0,Very Low
+2007,19,2,Bangladesh Innings,Abdur Razzak,5,12,0,0,41.67,Very Low
+2007,19,2,Bangladesh Innings,Syed Rasel,0,0,0,0,0.0,Very Low
+2007,23,1,Bangladesh Innings,Tamim Iqbal,3,8,0,0,37.5,Very Low
+2007,23,1,Bangladesh Innings,Junaid Siddique,71,49,6,3,144.9,Medium
+2007,23,1,Bangladesh Innings,Aftab Ahmed,15,17,0,0,88.24,Very Low
+2007,23,1,Bangladesh Innings,Mohammad Ashraful,5,4,0,0,125.0,Very Low
+2007,23,1,Bangladesh Innings,Shakib Al Hasan,1,3,0,0,33.33,Very Low
+2007,23,1,Bangladesh Innings,Nadif Chowdhury,12,10,1,0,120.0,Very Low
+2007,23,1,Bangladesh Innings,Mahmudullah,1,1,0,0,100.0,Very Low
+2007,23,1,Bangladesh Innings,Mashrafe Mortaza,11,14,0,0,78.57,Very Low
+2007,23,1,Bangladesh Innings,Mushfiqur Rahim,6,9,0,0,66.67,Very Low
+2007,23,1,Bangladesh Innings,Abdur Razzak,0,1,0,0,0.0,Very Low
+2007,23,1,Bangladesh Innings,Syed Rasel,1,6,0,0,16.67,Very Low
+2007,23,2,Pakistan Innings,Imran Nazir,27,18,3,1,150.0,Very Low
+2007,23,2,Pakistan Innings,Shahid Afridi,39,15,5,2,260.0,Low
+2007,23,2,Pakistan Innings,Mohammad Hafeez,23,21,4,0,109.52,Very Low
+2007,23,2,Pakistan Innings,Salman Butt,21,28,0,0,75.0,Very Low
+2007,23,2,Pakistan Innings,Younis Khan,1,4,0,0,25.0,Very Low
+2007,23,2,Pakistan Innings,Shoaib Malik,21,23,2,0,91.3,Very Low
+2007,23,2,Pakistan Innings,Misbah-ul-Haq,1,2,0,0,50.0,Very Low
+2007,23,2,Pakistan Innings,Kamran Akmal,3,4,0,0,75.0,Very Low
+2007,25,1,New Zealand Innings,Lou Vincent,28,28,1,1,100.0,Very Low
+2007,25,1,New Zealand Innings,Brendon McCullum,26,27,2,0,96.3,Very Low
+2007,25,1,New Zealand Innings,Scott Styris,18,12,1,1,150.0,Very Low
+2007,25,1,New Zealand Innings,Peter Fulton,10,15,0,0,66.67,Very Low
+2007,25,1,New Zealand Innings,Ross Taylor,37,23,2,2,160.87,Low
+2007,25,1,New Zealand Innings,Craig McMillan,12,6,1,1,200.0,Very Low
+2007,25,1,New Zealand Innings,Jacob Oram,1,4,0,0,25.0,Very Low
+2007,25,1,New Zealand Innings,Daniel Vettori,0,0,0,0,0.0,Very Low
+2007,25,1,New Zealand Innings,Shane Bond,5,7,0,0,71.43,Very Low
+2007,25,1,New Zealand Innings,Jeetan Patel,0,0,0,0,0.0,Very Low
+2007,25,2,Pakistan Innings,Mohammad Hafeez,32,21,3,2,152.38,Low
+2007,25,2,Pakistan Innings,Imran Nazir,59,41,3,5,143.9,Low
+2007,25,2,Pakistan Innings,Younis Khan,4,15,0,0,26.67,Very Low
+2007,25,2,Pakistan Innings,Shoaib Malik,26,14,1,1,185.71,Very Low
+2007,25,2,Pakistan Innings,Shahid Afridi,6,5,1,0,120.0,Very Low
+2007,25,2,Pakistan Innings,Misbah-ul-Haq,16,17,0,1,94.12,Very Low

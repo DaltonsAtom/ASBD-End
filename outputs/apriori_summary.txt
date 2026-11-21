@@ -1,0 +1,18 @@
+
+APRIORI ASSOCIATION RULE MINING SUMMARY
+========================================
+
+Total Transactions: 2792
+Unique Items: 23
+
+Minimum Support: 0.05
+Minimum Confidence: 0.6
+Minimum Lift: 1.0
+Maximum Itemset Length: 3
+
+Frequent Itemsets: 353
+Association Rules: 296
+
+Apriori Execution Time: 0.006168 seconds
+Rule Generation Time: 0.003113 seconds
+Total Algorithm Time: 0.009282 seconds

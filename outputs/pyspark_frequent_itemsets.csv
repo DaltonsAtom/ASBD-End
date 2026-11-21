@@ -1,0 +1,526 @@
+items,freq,length
+['Runs=Low'],1925,1
+['StrikeRate=Low'],1471,1
+"['StrikeRate=Low', 'Runs=Low']",1339,2
+"['StrikeRate=Low', 'Sixes=None']",1383,2
+"['StrikeRate=Low', 'Sixes=None', 'Runs=Low']",1286,3
+['Innings=1'],1435,1
+"['Innings=1', 'Runs=Low']",966,2
+"['Innings=1', 'Sixes=None']",972,2
+"['Innings=1', 'Sixes=None', 'Runs=Low']",823,3
+"['Innings=1', 'StrikeRate=Low']",718,2
+"['Innings=1', 'StrikeRate=Low', 'Runs=Low']",653,3
+"['Innings=1', 'StrikeRate=Low', 'Sixes=None']",673,3
+"['Innings=1', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",625,4
+"['Innings=1', 'Balls=Few']",731,2
+"['Innings=1', 'Balls=Few', 'Runs=Low']",727,3
+"['Innings=1', 'Balls=Few', 'Sixes=None']",635,3
+"['Innings=1', 'Balls=Few', 'Sixes=None', 'Runs=Low']",634,4
+"['Innings=1', 'Balls=Few', 'StrikeRate=Low']",479,3
+"['Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",479,4
+"['Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",477,4
+"['Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",477,5
+['Fours=None'],1247,1
+"['Fours=None', 'Runs=Low']",1201,2
+"['Fours=None', 'Sixes=None']",1062,2
+"['Fours=None', 'Sixes=None', 'Runs=Low']",1054,3
+"['Fours=None', 'StrikeRate=Low']",1053,2
+"['Fours=None', 'StrikeRate=Low', 'Runs=Low']",1040,3
+"['Fours=None', 'StrikeRate=Low', 'Sixes=None']",1010,3
+"['Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",1003,4
+"['Fours=None', 'Balls=Few']",1037,2
+"['Fours=None', 'Balls=Few', 'Runs=Low']",1037,3
+"['Fours=None', 'Balls=Few', 'Sixes=None']",936,3
+"['Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",936,4
+"['Fours=None', 'Balls=Few', 'StrikeRate=Low']",897,3
+"['Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",897,4
+"['Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",890,4
+"['Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",890,5
+"['Fours=None', 'Innings=1']",613,2
+"['Fours=None', 'Innings=1', 'Runs=Low']",586,3
+"['Fours=None', 'Innings=1', 'Sixes=None']",512,3
+"['Fours=None', 'Innings=1', 'Sixes=None', 'Runs=Low']",509,4
+"['Fours=None', 'Innings=1', 'StrikeRate=Low']",504,3
+"['Fours=None', 'Innings=1', 'StrikeRate=Low', 'Runs=Low']",496,4
+"['Fours=None', 'Innings=1', 'StrikeRate=Low', 'Sixes=None']",480,4
+"['Fours=None', 'Innings=1', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",477,5
+"['Fours=None', 'Innings=1', 'Balls=Few']",511,3
+"['Fours=None', 'Innings=1', 'Balls=Few', 'Runs=Low']",511,4
+"['Fours=None', 'Innings=1', 'Balls=Few', 'Sixes=None']",457,4
+"['Fours=None', 'Innings=1', 'Balls=Few', 'Sixes=None', 'Runs=Low']",457,5
+"['Fours=None', 'Innings=1', 'Balls=Few', 'StrikeRate=Low']",430,4
+"['Fours=None', 'Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",430,5
+"['Fours=None', 'Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",428,5
+"['Fours=None', 'Innings=1', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",428,6
+"['Fours=None', 'Innings=2']",634,2
+"['Fours=None', 'Innings=2', 'Runs=Low']",615,3
+"['Fours=None', 'Innings=2', 'Sixes=None']",550,3
+"['Fours=None', 'Innings=2', 'Sixes=None', 'Runs=Low']",545,4
+"['Fours=None', 'Innings=2', 'StrikeRate=Low']",549,3
+"['Fours=None', 'Innings=2', 'StrikeRate=Low', 'Runs=Low']",544,4
+"['Fours=None', 'Innings=2', 'StrikeRate=Low', 'Sixes=None']",530,4
+"['Fours=None', 'Innings=2', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",526,5
+"['Fours=None', 'Innings=2', 'Balls=Few']",526,3
+"['Fours=None', 'Innings=2', 'Balls=Few', 'Runs=Low']",526,4
+"['Fours=None', 'Innings=2', 'Balls=Few', 'Sixes=None']",479,4
+"['Fours=None', 'Innings=2', 'Balls=Few', 'Sixes=None', 'Runs=Low']",479,5
+"['Fours=None', 'Innings=2', 'Balls=Few', 'StrikeRate=Low']",467,4
+"['Fours=None', 'Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",467,5
+"['Fours=None', 'Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",462,5
+"['Fours=None', 'Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",462,6
+['Balls=Moderate'],1004,1
+"['Balls=Moderate', 'Runs=Low']",478,2
+"['Balls=Moderate', 'Sixes=None']",564,2
+"['Balls=Moderate', 'Sixes=None', 'Runs=Low']",377,3
+"['Balls=Moderate', 'StrikeRate=Low']",422,2
+"['Balls=Moderate', 'StrikeRate=Low', 'Runs=Low']",337,3
+"['Balls=Moderate', 'StrikeRate=Low', 'Sixes=None']",357,3
+"['Balls=Moderate', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",292,4
+"['Balls=Moderate', 'Innings=1']",518,2
+"['Balls=Moderate', 'Innings=1', 'Runs=Low']",238,3
+"['Balls=Moderate', 'Innings=1', 'Sixes=None']",287,3
+"['Balls=Moderate', 'Innings=1', 'Sixes=None', 'Runs=Low']",188,4
+"['Balls=Moderate', 'Innings=1', 'StrikeRate=Low']",211,3
+"['Balls=Moderate', 'Innings=1', 'StrikeRate=Low', 'Runs=Low']",173,4
+"['Balls=Moderate', 'Innings=1', 'StrikeRate=Low', 'Sixes=None']",177,4
+"['Balls=Moderate', 'Innings=1', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",147,5
+"['Balls=Moderate', 'Innings=2']",486,2
+"['Balls=Moderate', 'Innings=2', 'Runs=Low']",240,3
+"['Balls=Moderate', 'Innings=2', 'Sixes=None']",277,3
+"['Balls=Moderate', 'Innings=2', 'Sixes=None', 'Runs=Low']",189,4
+"['Balls=Moderate', 'Innings=2', 'StrikeRate=Low']",211,3
+"['Balls=Moderate', 'Innings=2', 'StrikeRate=Low', 'Runs=Low']",164,4
+"['Balls=Moderate', 'Innings=2', 'StrikeRate=Low', 'Sixes=None']",180,4
+"['Balls=Moderate', 'Innings=2', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",145,5
+"['Balls=Moderate', 'Fours=None']",198,2
+"['Balls=Moderate', 'Fours=None', 'Runs=Low']",160,3
+"['Balls=Moderate', 'Fours=None', 'StrikeRate=Low']",150,3
+"['Balls=Moderate', 'Fours=Few']",652,2
+"['Balls=Moderate', 'Fours=Few', 'Runs=Low']",311,3
+"['Balls=Moderate', 'Fours=Few', 'Sixes=None']",364,3
+"['Balls=Moderate', 'Fours=Few', 'Sixes=None', 'Runs=Low']",256,4
+"['Balls=Moderate', 'Fours=Few', 'StrikeRate=Low']",262,3
+"['Balls=Moderate', 'Fours=Few', 'StrikeRate=Low', 'Runs=Low']",196,4
+"['Balls=Moderate', 'Fours=Few', 'StrikeRate=Low', 'Sixes=None']",232,4
+"['Balls=Moderate', 'Fours=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",181,5
+"['Balls=Moderate', 'Fours=Few', 'Innings=1']",341,3
+"['Balls=Moderate', 'Fours=Few', 'Innings=1', 'Runs=Low']",161,4
+"['Balls=Moderate', 'Fours=Few', 'Innings=1', 'Sixes=None']",189,4
+"['Balls=Moderate', 'Fours=Few', 'Innings=2']",311,3
+"['Balls=Moderate', 'Fours=Few', 'Innings=2', 'Runs=Low']",150,4
+"['Balls=Moderate', 'Fours=Few', 'Innings=2', 'Sixes=None']",175,4
+['Sixes=Few'],721,1
+"['Sixes=Few', 'Runs=Low']",270,2
+"['Sixes=Few', 'Balls=Few']",175,2
+"['Sixes=Few', 'Balls=Few', 'Runs=Low']",169,3
+"['Sixes=Few', 'Innings=1']",377,2
+"['Sixes=Few', 'Innings=1', 'Runs=Low']",143,3
+"['Sixes=Few', 'Innings=2']",344,2
+"['Sixes=Few', 'Fours=None']",173,2
+"['Sixes=Few', 'Fours=None', 'Runs=Low']",147,3
+"['Sixes=Few', 'Fours=Few']",373,2
+"['Sixes=Few', 'Fours=Few', 'Innings=1']",202,3
+"['Sixes=Few', 'Fours=Few', 'Innings=2']",171,3
+"['Sixes=Few', 'Balls=Moderate']",381,2
+"['Sixes=Few', 'Balls=Moderate', 'Innings=1']",201,3
+"['Sixes=Few', 'Balls=Moderate', 'Innings=2']",180,3
+"['Sixes=Few', 'Balls=Moderate', 'Fours=Few']",251,3
+"['Sixes=Few', 'StrikeRate=Medium']",363,2
+"['Sixes=Few', 'StrikeRate=Medium', 'Innings=1']",189,3
+"['Sixes=Few', 'StrikeRate=Medium', 'Innings=2']",174,3
+"['Sixes=Few', 'StrikeRate=Medium', 'Fours=Few']",189,3
+"['Sixes=Few', 'StrikeRate=Medium', 'Balls=Moderate']",195,3
+"['Sixes=Few', 'StrikeRate=Medium', 'Balls=Moderate', 'Fours=Few']",144,4
+['StrikeRate=High'],544,1
+"['StrikeRate=High', 'Runs=Low']",248,2
+"['StrikeRate=High', 'Sixes=None']",165,2
+"['StrikeRate=High', 'Balls=Few']",247,2
+"['StrikeRate=High', 'Balls=Few', 'Runs=Low']",238,3
+"['StrikeRate=High', 'Innings=1']",297,2
+"['StrikeRate=High', 'Innings=2']",247,2
+"['StrikeRate=High', 'Fours=Few']",313,2
+"['StrikeRate=High', 'Fours=Few', 'Runs=Low']",174,3
+"['StrikeRate=High', 'Fours=Few', 'Balls=Few']",174,3
+"['StrikeRate=High', 'Fours=Few', 'Balls=Few', 'Runs=Low']",166,4
+"['StrikeRate=High', 'Fours=Few', 'Innings=1']",168,3
+"['StrikeRate=High', 'Fours=Few', 'Innings=2']",145,3
+"['StrikeRate=High', 'Balls=Moderate']",209,2
+"['StrikeRate=High', 'Sixes=Few']",272,2
+"['StrikeRate=High', 'Sixes=Few', 'Innings=1']",144,3
+"['StrikeRate=High', 'Sixes=Few', 'Fours=Few']",141,3
+"['StrikeRate=High', 'Runs=Medium']",194,2
+"['StrikeRate=High', 'Runs=Medium', 'Balls=Moderate']",182,3
+['Season=2016'],534,1
+"['Season=2016', 'Runs=Low']",362,2
+"['Season=2016', 'Sixes=None']",346,2
+"['Season=2016', 'Sixes=None', 'Runs=Low']",297,3
+"['Season=2016', 'StrikeRate=Low']",269,2
+"['Season=2016', 'StrikeRate=Low', 'Runs=Low']",243,3
+"['Season=2016', 'StrikeRate=Low', 'Sixes=None']",250,3
+"['Season=2016', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",233,4
+"['Season=2016', 'Balls=Few']",280,2
+"['Season=2016', 'Balls=Few', 'Runs=Low']",277,3
+"['Season=2016', 'Balls=Few', 'Sixes=None']",226,3
+"['Season=2016', 'Balls=Few', 'Sixes=None', 'Runs=Low']",226,4
+"['Season=2016', 'Balls=Few', 'StrikeRate=Low']",178,3
+"['Season=2016', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",178,4
+"['Season=2016', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",175,4
+"['Season=2016', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",175,5
+"['Season=2016', 'Innings=1']",259,2
+"['Season=2016', 'Innings=1', 'Runs=Low']",168,3
+"['Season=2016', 'Innings=1', 'Sixes=None']",160,3
+"['Season=2016', 'Innings=2']",275,2
+"['Season=2016', 'Innings=2', 'Runs=Low']",194,3
+"['Season=2016', 'Innings=2', 'Sixes=None']",186,3
+"['Season=2016', 'Innings=2', 'Sixes=None', 'Runs=Low']",162,4
+"['Season=2016', 'Innings=2', 'StrikeRate=Low']",153,3
+"['Season=2016', 'Innings=2', 'StrikeRate=Low', 'Sixes=None']",141,4
+"['Season=2016', 'Innings=2', 'Balls=Few']",154,3
+"['Season=2016', 'Innings=2', 'Balls=Few', 'Runs=Low']",151,4
+"['Season=2016', 'Fours=None']",224,2
+"['Season=2016', 'Fours=None', 'Runs=Low']",213,3
+"['Season=2016', 'Fours=None', 'Sixes=None']",179,3
+"['Season=2016', 'Fours=None', 'Sixes=None', 'Runs=Low']",176,4
+"['Season=2016', 'Fours=None', 'StrikeRate=Low']",180,3
+"['Season=2016', 'Fours=None', 'StrikeRate=Low', 'Runs=Low']",176,4
+"['Season=2016', 'Fours=None', 'StrikeRate=Low', 'Sixes=None']",172,4
+"['Season=2016', 'Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",169,5
+"['Season=2016', 'Fours=None', 'Balls=Few']",193,3
+"['Season=2016', 'Fours=None', 'Balls=Few', 'Runs=Low']",193,4
+"['Season=2016', 'Fours=None', 'Balls=Few', 'Sixes=None']",161,4
+"['Season=2016', 'Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",161,5
+"['Season=2016', 'Fours=None', 'Balls=Few', 'StrikeRate=Low']",158,4
+"['Season=2016', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",158,5
+"['Season=2016', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",155,5
+"['Season=2016', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",155,6
+"['Season=2016', 'Fours=Few']",238,2
+"['Season=2016', 'Fours=Few', 'Runs=Low']",147,3
+"['Season=2016', 'Fours=Few', 'Sixes=None']",142,3
+"['Season=2016', 'Balls=Moderate']",194,2
+"['Season=2016', 'StrikeRate=Medium']",153,2
+"['Season=2016', 'Sixes=Few']",161,2
+['Season=2009'],436,1
+"['Season=2009', 'Runs=Low']",300,2
+"['Season=2009', 'Sixes=None']",330,2
+"['Season=2009', 'Sixes=None', 'Runs=Low']",272,3
+"['Season=2009', 'StrikeRate=Low']",222,2
+"['Season=2009', 'StrikeRate=Low', 'Runs=Low']",199,3
+"['Season=2009', 'StrikeRate=Low', 'Sixes=None']",215,3
+"['Season=2009', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",196,4
+"['Season=2009', 'Balls=Few']",237,2
+"['Season=2009', 'Balls=Few', 'Runs=Low']",235,3
+"['Season=2009', 'Balls=Few', 'Sixes=None']",217,3
+"['Season=2009', 'Balls=Few', 'Sixes=None', 'Runs=Low']",216,4
+"['Season=2009', 'Balls=Few', 'StrikeRate=Low']",155,3
+"['Season=2009', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",155,4
+"['Season=2009', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",155,4
+"['Season=2009', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",155,5
+"['Season=2009', 'Innings=1']",222,2
+"['Season=2009', 'Innings=1', 'Runs=Low']",150,3
+"['Season=2009', 'Innings=1', 'Sixes=None']",162,3
+"['Season=2009', 'Innings=2']",214,2
+"['Season=2009', 'Innings=2', 'Runs=Low']",150,3
+"['Season=2009', 'Innings=2', 'Sixes=None']",168,3
+"['Season=2009', 'Fours=None']",199,2
+"['Season=2009', 'Fours=None', 'Runs=Low']",191,3
+"['Season=2009', 'Fours=None', 'Sixes=None']",178,3
+"['Season=2009', 'Fours=None', 'Sixes=None', 'Runs=Low']",176,4
+"['Season=2009', 'Fours=None', 'StrikeRate=Low']",166,3
+"['Season=2009', 'Fours=None', 'StrikeRate=Low', 'Runs=Low']",164,4
+"['Season=2009', 'Fours=None', 'StrikeRate=Low', 'Sixes=None']",163,4
+"['Season=2009', 'Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",162,5
+"['Season=2009', 'Fours=None', 'Balls=Few']",164,3
+"['Season=2009', 'Fours=None', 'Balls=Few', 'Runs=Low']",164,4
+"['Season=2009', 'Fours=None', 'Balls=Few', 'Sixes=None']",152,4
+"['Season=2009', 'Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",152,5
+"['Season=2009', 'Fours=None', 'Balls=Few', 'StrikeRate=Low']",140,4
+"['Season=2009', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",140,5
+"['Season=2009', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",140,5
+"['Season=2009', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",140,6
+"['Season=2009', 'Fours=Few']",174,2
+"['Season=2009', 'Balls=Moderate']",146,2
+['Season=2012'],404,1
+"['Season=2012', 'Runs=Low']",278,2
+"['Season=2012', 'Sixes=None']",283,2
+"['Season=2012', 'Sixes=None', 'Runs=Low']",238,3
+"['Season=2012', 'StrikeRate=Low']",209,2
+"['Season=2012', 'StrikeRate=Low', 'Runs=Low']",190,3
+"['Season=2012', 'StrikeRate=Low', 'Sixes=None']",193,3
+"['Season=2012', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",177,4
+"['Season=2012', 'Balls=Few']",194,2
+"['Season=2012', 'Balls=Few', 'Runs=Low']",194,3
+"['Season=2012', 'Balls=Few', 'Sixes=None']",176,3
+"['Season=2012', 'Balls=Few', 'Sixes=None', 'Runs=Low']",176,4
+"['Season=2012', 'Innings=1']",205,2
+"['Season=2012', 'Innings=2']",199,2
+"['Season=2012', 'Innings=2', 'Runs=Low']",143,3
+"['Season=2012', 'Innings=2', 'Sixes=None']",147,3
+"['Season=2012', 'Fours=None']",163,2
+"['Season=2012', 'Fours=None', 'Runs=Low']",158,3
+"['Season=2012', 'Fours=Few']",183,2
+"['Season=2012', 'Balls=Moderate']",155,2
+['Balls=Many'],337,1
+"['Balls=Many', 'Innings=1']",186,2
+"['Balls=Many', 'Innings=2']",151,2
+"['Balls=Many', 'StrikeRate=Medium']",197,2
+"['Balls=Many', 'Sixes=Few']",165,2
+"['Balls=Many', 'Runs=Medium']",149,2
+"['Balls=Many', 'Fours=Many']",226,2
+['Sixes=Many'],153,1
+['Sixes=None'],1918,1
+"['Sixes=None', 'Runs=Low']",1655,2
+['Balls=Few'],1451,1
+"['Balls=Few', 'Runs=Low']",1442,2
+"['Balls=Few', 'Sixes=None']",1274,2
+"['Balls=Few', 'Sixes=None', 'Runs=Low']",1273,3
+"['Balls=Few', 'StrikeRate=Low']",997,2
+"['Balls=Few', 'StrikeRate=Low', 'Runs=Low']",997,3
+"['Balls=Few', 'StrikeRate=Low', 'Sixes=None']",989,3
+"['Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",989,4
+['Innings=2'],1357,1
+"['Innings=2', 'Runs=Low']",959,2
+"['Innings=2', 'Sixes=None']",946,2
+"['Innings=2', 'Sixes=None', 'Runs=Low']",832,3
+"['Innings=2', 'StrikeRate=Low']",753,2
+"['Innings=2', 'StrikeRate=Low', 'Runs=Low']",686,3
+"['Innings=2', 'StrikeRate=Low', 'Sixes=None']",710,3
+"['Innings=2', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",661,4
+"['Innings=2', 'Balls=Few']",720,2
+"['Innings=2', 'Balls=Few', 'Runs=Low']",715,3
+"['Innings=2', 'Balls=Few', 'Sixes=None']",639,3
+"['Innings=2', 'Balls=Few', 'Sixes=None', 'Runs=Low']",639,4
+"['Innings=2', 'Balls=Few', 'StrikeRate=Low']",518,3
+"['Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",518,4
+"['Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",512,4
+"['Innings=2', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",512,5
+['Fours=Few'],1159,1
+"['Fours=Few', 'Runs=Low']",712,2
+"['Fours=Few', 'Sixes=None']",722,2
+"['Fours=Few', 'Sixes=None', 'Runs=Low']",589,3
+"['Fours=Few', 'StrikeRate=Low']",396,2
+"['Fours=Few', 'StrikeRate=Low', 'Runs=Low']",297,3
+"['Fours=Few', 'StrikeRate=Low', 'Sixes=None']",352,3
+"['Fours=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",281,4
+"['Fours=Few', 'Balls=Few']",408,2
+"['Fours=Few', 'Balls=Few', 'Runs=Low']",400,3
+"['Fours=Few', 'Balls=Few', 'Sixes=None']",332,3
+"['Fours=Few', 'Balls=Few', 'Sixes=None', 'Runs=Low']",332,4
+"['Fours=Few', 'Innings=1']",621,2
+"['Fours=Few', 'Innings=1', 'Runs=Low']",377,3
+"['Fours=Few', 'Innings=1', 'Sixes=None']",382,3
+"['Fours=Few', 'Innings=1', 'Sixes=None', 'Runs=Low']",311,4
+"['Fours=Few', 'Innings=1', 'StrikeRate=Low']",206,3
+"['Fours=Few', 'Innings=1', 'StrikeRate=Low', 'Runs=Low']",157,4
+"['Fours=Few', 'Innings=1', 'StrikeRate=Low', 'Sixes=None']",186,4
+"['Fours=Few', 'Innings=1', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",148,5
+"['Fours=Few', 'Innings=1', 'Balls=Few']",219,3
+"['Fours=Few', 'Innings=1', 'Balls=Few', 'Runs=Low']",216,4
+"['Fours=Few', 'Innings=1', 'Balls=Few', 'Sixes=None']",177,4
+"['Fours=Few', 'Innings=1', 'Balls=Few', 'Sixes=None', 'Runs=Low']",177,5
+"['Fours=Few', 'Innings=2']",538,2
+"['Fours=Few', 'Innings=2', 'Runs=Low']",335,3
+"['Fours=Few', 'Innings=2', 'Sixes=None']",340,3
+"['Fours=Few', 'Innings=2', 'Sixes=None', 'Runs=Low']",278,4
+"['Fours=Few', 'Innings=2', 'StrikeRate=Low']",190,3
+"['Fours=Few', 'Innings=2', 'StrikeRate=Low', 'Runs=Low']",140,4
+"['Fours=Few', 'Innings=2', 'StrikeRate=Low', 'Sixes=None']",166,4
+"['Fours=Few', 'Innings=2', 'Balls=Few']",189,3
+"['Fours=Few', 'Innings=2', 'Balls=Few', 'Runs=Low']",184,4
+"['Fours=Few', 'Innings=2', 'Balls=Few', 'Sixes=None']",155,4
+"['Fours=Few', 'Innings=2', 'Balls=Few', 'Sixes=None', 'Runs=Low']",155,5
+['StrikeRate=Medium'],777,1
+"['StrikeRate=Medium', 'Runs=Low']",338,2
+"['StrikeRate=Medium', 'Sixes=None']",370,2
+"['StrikeRate=Medium', 'Sixes=None', 'Runs=Low']",235,3
+"['StrikeRate=Medium', 'Balls=Few']",207,2
+"['StrikeRate=Medium', 'Balls=Few', 'Runs=Low']",207,3
+"['StrikeRate=Medium', 'Balls=Few', 'Sixes=None']",156,3
+"['StrikeRate=Medium', 'Balls=Few', 'Sixes=None', 'Runs=Low']",156,4
+"['StrikeRate=Medium', 'Innings=1']",420,2
+"['StrikeRate=Medium', 'Innings=1', 'Runs=Low']",177,3
+"['StrikeRate=Medium', 'Innings=1', 'Sixes=None']",208,3
+"['StrikeRate=Medium', 'Innings=2']",357,2
+"['StrikeRate=Medium', 'Innings=2', 'Runs=Low']",161,3
+"['StrikeRate=Medium', 'Innings=2', 'Sixes=None']",162,3
+"['StrikeRate=Medium', 'Fours=Few']",450,2
+"['StrikeRate=Medium', 'Fours=Few', 'Runs=Low']",241,3
+"['StrikeRate=Medium', 'Fours=Few', 'Sixes=None']",243,3
+"['StrikeRate=Medium', 'Fours=Few', 'Sixes=None', 'Runs=Low']",193,4
+"['StrikeRate=Medium', 'Fours=Few', 'Innings=1']",247,3
+"['StrikeRate=Medium', 'Fours=Few', 'Innings=2']",203,3
+"['StrikeRate=Medium', 'Balls=Moderate']",373,2
+"['StrikeRate=Medium', 'Balls=Moderate', 'Sixes=None']",173,3
+"['StrikeRate=Medium', 'Balls=Moderate', 'Innings=1']",196,3
+"['StrikeRate=Medium', 'Balls=Moderate', 'Innings=2']",177,3
+"['StrikeRate=Medium', 'Balls=Moderate', 'Fours=Few']",262,3
+['Runs=Medium'],667,1
+"['Runs=Medium', 'Sixes=None']",246,2
+"['Runs=Medium', 'Innings=1']",362,2
+"['Runs=Medium', 'Innings=2']",305,2
+"['Runs=Medium', 'Fours=Few']",419,2
+"['Runs=Medium', 'Fours=Few', 'Innings=1']",225,3
+"['Runs=Medium', 'Fours=Few', 'Innings=2']",194,3
+"['Runs=Medium', 'Balls=Moderate']",509,2
+"['Runs=Medium', 'Balls=Moderate', 'Sixes=None']",186,3
+"['Runs=Medium', 'Balls=Moderate', 'Innings=1']",271,3
+"['Runs=Medium', 'Balls=Moderate', 'Innings=2']",238,3
+"['Runs=Medium', 'Balls=Moderate', 'Fours=Few']",337,3
+"['Runs=Medium', 'Balls=Moderate', 'Fours=Few', 'Innings=1']",177,4
+"['Runs=Medium', 'Balls=Moderate', 'Fours=Few', 'Innings=2']",160,4
+"['Runs=Medium', 'StrikeRate=Medium']",342,2
+"['Runs=Medium', 'StrikeRate=Medium', 'Innings=1']",196,3
+"['Runs=Medium', 'StrikeRate=Medium', 'Innings=2']",146,3
+"['Runs=Medium', 'StrikeRate=Medium', 'Fours=Few']",195,3
+"['Runs=Medium', 'StrikeRate=Medium', 'Balls=Moderate']",242,3
+"['Runs=Medium', 'StrikeRate=Medium', 'Balls=Moderate', 'Fours=Few']",155,4
+"['Runs=Medium', 'Sixes=Few']",360,2
+"['Runs=Medium', 'Sixes=Few', 'Innings=1']",196,3
+"['Runs=Medium', 'Sixes=Few', 'Innings=2']",164,3
+"['Runs=Medium', 'Sixes=Few', 'Fours=Few']",244,3
+"['Runs=Medium', 'Sixes=Few', 'Balls=Moderate']",278,3
+"['Runs=Medium', 'Sixes=Few', 'Balls=Moderate', 'Innings=1']",150,4
+"['Runs=Medium', 'Sixes=Few', 'Balls=Moderate', 'Fours=Few']",196,4
+"['Runs=Medium', 'Sixes=Few', 'StrikeRate=Medium']",203,3
+"['Runs=Medium', 'Sixes=Few', 'StrikeRate=Medium', 'Balls=Moderate']",143,4
+['Season=2014'],544,1
+"['Season=2014', 'Runs=Low']",370,2
+"['Season=2014', 'Sixes=None']",373,2
+"['Season=2014', 'Sixes=None', 'Runs=Low']",327,3
+"['Season=2014', 'StrikeRate=Low']",303,2
+"['Season=2014', 'StrikeRate=Low', 'Runs=Low']",279,3
+"['Season=2014', 'StrikeRate=Low', 'Sixes=None']",289,3
+"['Season=2014', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",272,4
+"['Season=2014', 'Balls=Few']",274,2
+"['Season=2014', 'Balls=Few', 'Runs=Low']",272,3
+"['Season=2014', 'Balls=Few', 'Sixes=None']",244,3
+"['Season=2014', 'Balls=Few', 'Sixes=None', 'Runs=Low']",244,4
+"['Season=2014', 'Balls=Few', 'StrikeRate=Low']",205,3
+"['Season=2014', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",205,4
+"['Season=2014', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",204,4
+"['Season=2014', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",204,5
+"['Season=2014', 'Innings=1']",285,2
+"['Season=2014', 'Innings=1', 'Runs=Low']",190,3
+"['Season=2014', 'Innings=1', 'Sixes=None']",201,3
+"['Season=2014', 'Innings=1', 'Sixes=None', 'Runs=Low']",170,4
+"['Season=2014', 'Innings=1', 'StrikeRate=Low']",162,3
+"['Season=2014', 'Innings=1', 'StrikeRate=Low', 'Runs=Low']",148,4
+"['Season=2014', 'Innings=1', 'StrikeRate=Low', 'Sixes=None']",155,4
+"['Season=2014', 'Innings=1', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",145,5
+"['Season=2014', 'Innings=1', 'Balls=Few']",145,3
+"['Season=2014', 'Innings=1', 'Balls=Few', 'Runs=Low']",144,4
+"['Season=2014', 'Innings=2']",259,2
+"['Season=2014', 'Innings=2', 'Runs=Low']",180,3
+"['Season=2014', 'Innings=2', 'Sixes=None']",172,3
+"['Season=2014', 'Innings=2', 'Sixes=None', 'Runs=Low']",157,4
+"['Season=2014', 'Innings=2', 'StrikeRate=Low']",141,3
+"['Season=2014', 'Fours=None']",234,2
+"['Season=2014', 'Fours=None', 'Runs=Low']",228,3
+"['Season=2014', 'Fours=None', 'Sixes=None']",210,3
+"['Season=2014', 'Fours=None', 'Sixes=None', 'Runs=Low']",209,4
+"['Season=2014', 'Fours=None', 'StrikeRate=Low']",209,3
+"['Season=2014', 'Fours=None', 'StrikeRate=Low', 'Runs=Low']",208,4
+"['Season=2014', 'Fours=None', 'StrikeRate=Low', 'Sixes=None']",206,4
+"['Season=2014', 'Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",205,5
+"['Season=2014', 'Fours=None', 'Balls=Few']",197,3
+"['Season=2014', 'Fours=None', 'Balls=Few', 'Runs=Low']",197,4
+"['Season=2014', 'Fours=None', 'Balls=Few', 'Sixes=None']",182,4
+"['Season=2014', 'Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",182,5
+"['Season=2014', 'Fours=None', 'Balls=Few', 'StrikeRate=Low']",179,4
+"['Season=2014', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",179,5
+"['Season=2014', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",178,5
+"['Season=2014', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",178,6
+"['Season=2014', 'Fours=Few']",223,2
+"['Season=2014', 'Fours=Few', 'Sixes=None']",141,3
+"['Season=2014', 'Balls=Moderate']",200,2
+"['Season=2014', 'StrikeRate=Medium']",144,2
+['Season=2010'],439,1
+"['Season=2010', 'Runs=Low']",320,2
+"['Season=2010', 'Sixes=None']",291,2
+"['Season=2010', 'Sixes=None', 'Runs=Low']",268,3
+"['Season=2010', 'StrikeRate=Low']",240,2
+"['Season=2010', 'StrikeRate=Low', 'Runs=Low']",223,3
+"['Season=2010', 'StrikeRate=Low', 'Sixes=None']",222,3
+"['Season=2010', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",213,4
+"['Season=2010', 'Balls=Few']",241,2
+"['Season=2010', 'Balls=Few', 'Runs=Low']",241,3
+"['Season=2010', 'Balls=Few', 'Sixes=None']",213,3
+"['Season=2010', 'Balls=Few', 'Sixes=None', 'Runs=Low']",213,4
+"['Season=2010', 'Balls=Few', 'StrikeRate=Low']",168,3
+"['Season=2010', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",168,4
+"['Season=2010', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",168,4
+"['Season=2010', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",168,5
+"['Season=2010', 'Innings=1']",224,2
+"['Season=2010', 'Innings=1', 'Runs=Low']",155,3
+"['Season=2010', 'Innings=1', 'Sixes=None']",146,3
+"['Season=2010', 'Innings=2']",215,2
+"['Season=2010', 'Innings=2', 'Runs=Low']",165,3
+"['Season=2010', 'Innings=2', 'Sixes=None']",145,3
+"['Season=2010', 'Fours=None']",229,2
+"['Season=2010', 'Fours=None', 'Runs=Low']",219,3
+"['Season=2010', 'Fours=None', 'Sixes=None']",189,3
+"['Season=2010', 'Fours=None', 'Sixes=None', 'Runs=Low']",189,4
+"['Season=2010', 'Fours=None', 'StrikeRate=Low']",188,3
+"['Season=2010', 'Fours=None', 'StrikeRate=Low', 'Runs=Low']",185,4
+"['Season=2010', 'Fours=None', 'StrikeRate=Low', 'Sixes=None']",179,4
+"['Season=2010', 'Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",179,5
+"['Season=2010', 'Fours=None', 'Balls=Few']",182,3
+"['Season=2010', 'Fours=None', 'Balls=Few', 'Runs=Low']",182,4
+"['Season=2010', 'Fours=None', 'Balls=Few', 'Sixes=None']",164,4
+"['Season=2010', 'Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",164,5
+"['Season=2010', 'Fours=None', 'Balls=Few', 'StrikeRate=Low']",154,4
+"['Season=2010', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",154,5
+"['Season=2010', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",154,5
+"['Season=2010', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",154,6
+"['Season=2010', 'Fours=Few']",169,2
+"['Season=2010', 'Balls=Moderate']",148,2
+['Season=2007'],435,1
+"['Season=2007', 'Runs=Low']",295,2
+"['Season=2007', 'Sixes=None']",295,2
+"['Season=2007', 'Sixes=None', 'Runs=Low']",253,3
+"['Season=2007', 'StrikeRate=Low']",228,2
+"['Season=2007', 'StrikeRate=Low', 'Runs=Low']",205,3
+"['Season=2007', 'StrikeRate=Low', 'Sixes=None']",214,3
+"['Season=2007', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",195,4
+"['Season=2007', 'Balls=Few']",225,2
+"['Season=2007', 'Balls=Few', 'Runs=Low']",223,3
+"['Season=2007', 'Balls=Few', 'Sixes=None']",198,3
+"['Season=2007', 'Balls=Few', 'Sixes=None', 'Runs=Low']",198,4
+"['Season=2007', 'Balls=Few', 'StrikeRate=Low']",153,3
+"['Season=2007', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",153,4
+"['Season=2007', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",151,4
+"['Season=2007', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",151,5
+"['Season=2007', 'Innings=1']",240,2
+"['Season=2007', 'Innings=1', 'Runs=Low']",168,3
+"['Season=2007', 'Innings=1', 'Sixes=None']",167,3
+"['Season=2007', 'Innings=1', 'Sixes=None', 'Runs=Low']",142,4
+"['Season=2007', 'Innings=2']",195,2
+"['Season=2007', 'Fours=None']",198,2
+"['Season=2007', 'Fours=None', 'Runs=Low']",192,3
+"['Season=2007', 'Fours=None', 'Sixes=None']",170,3
+"['Season=2007', 'Fours=None', 'Sixes=None', 'Runs=Low']",169,4
+"['Season=2007', 'Fours=None', 'StrikeRate=Low']",171,3
+"['Season=2007', 'Fours=None', 'StrikeRate=Low', 'Runs=Low']",169,4
+"['Season=2007', 'Fours=None', 'StrikeRate=Low', 'Sixes=None']",163,4
+"['Season=2007', 'Fours=None', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",162,5
+"['Season=2007', 'Fours=None', 'Balls=Few']",168,3
+"['Season=2007', 'Fours=None', 'Balls=Few', 'Runs=Low']",168,4
+"['Season=2007', 'Fours=None', 'Balls=Few', 'Sixes=None']",154,4
+"['Season=2007', 'Fours=None', 'Balls=Few', 'Sixes=None', 'Runs=Low']",154,5
+"['Season=2007', 'Fours=None', 'Balls=Few', 'StrikeRate=Low']",148,4
+"['Season=2007', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Runs=Low']",148,5
+"['Season=2007', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None']",147,5
+"['Season=2007', 'Fours=None', 'Balls=Few', 'StrikeRate=Low', 'Sixes=None', 'Runs=Low']",147,6
+"['Season=2007', 'Fours=Few']",172,2
+"['Season=2007', 'Balls=Moderate']",161,2
+['Fours=Many'],386,1
+"['Fours=Many', 'Innings=1']",201,2
+"['Fours=Many', 'Innings=2']",185,2
+"['Fours=Many', 'Balls=Moderate']",154,2
+"['Fours=Many', 'StrikeRate=Medium']",211,2
+"['Fours=Many', 'Sixes=Few']",175,2
+"['Fours=Many', 'Runs=Medium']",202,2
+"['Fours=Many', 'StrikeRate=High']",153,2
+['Runs=High'],200,1
+"['Runs=High', 'Fours=Many']",172,2
+"['Runs=High', 'Balls=Many']",183,2
+"['Runs=High', 'Balls=Many', 'Fours=Many']",159,3

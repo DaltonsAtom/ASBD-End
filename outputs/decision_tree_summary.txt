@@ -1,0 +1,31 @@
+
+DECISION TREE CLASSIFICATION SUMMARY
+=====================================
+
+Total Records: 2792
+Training Records: 2233
+Testing Records: 559
+
+Features: ['Season', 'Innings', 'Team']
+Target: Performance
+
+Criterion: Gini
+Maximum Depth: 5
+Minimum Samples per Leaf: 10
+Class Weight: Balanced
+Random State: 42
+
+Accuracy: 0.4884
+Balanced Accuracy: 0.3224
+
+Macro F1 Score: 0.2873
+Weighted F1 Score: 0.4887
+
+Majority Class Baseline Accuracy: 0.6887
+Majority Class Baseline Balanced Accuracy: 0.3333
+
+Training Time: 0.007976 seconds
+Prediction Time: 0.002456 seconds
+
+Tree Depth: 5
+Tree Leaves: 19

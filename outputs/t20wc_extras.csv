@@ -1,0 +1,353 @@
+Season,Matchid,Innings,Team,Batsman,Wicket,R,B,4s,6s,SR,Winner,Match
+2016,2,1,Afghanistan Innings,Total Extras,-,7,-,-,-,-,Afghanistan won by 14 runs,2nd Match
+2016,2,2,Scotland Innings,Total Extras,-,10,-,-,-,-,Afghanistan won by 14 runs,2nd Match
+2016,3,1,Bangladesh Innings,Total Extras,-,7,-,-,-,-,Bangladesh won by 8 runs,3rd Match
+2016,3,2,Netherlands Innings,Total Extras,-,17,-,-,-,-,Bangladesh won by 8 runs,3rd Match
+2016,4,1,Ireland Innings,Total Extras,-,7,-,-,-,-,Oman won by 2 wkts,4th Match
+2016,4,2,Oman Innings,Total Extras,-,16,-,-,-,-,Oman won by 2 wkts,4th Match
+2016,5,1,Zimbabwe Innings,Total Extras,-,13,-,-,-,-,Zimbabwe won by 11 runs,5th Match
+2016,5,2,Scotland Innings,Total Extras,-,6,-,-,-,-,Zimbabwe won by 11 runs,5th Match
+2016,6,1,Hong Kong Innings,Total Extras,-,12,-,-,-,-,Afghanistan won by 6 wkts,6th Match
+2016,6,2,Afghanistan Innings,Total Extras,-,2,-,-,-,-,Afghanistan won by 6 wkts,6th Match
+2016,8,1,Bangladesh Innings,Total Extras,-,14,-,-,-,-,No result,8th Match
+2016,8,2,Match Info,Total Extras,-,2,-,-,-,-,No result,8th Match
+2016,9,1,Afghanistan Innings,Total Extras,-,25,-,-,-,-,Afghanistan won by 59 runs,9th Match
+2016,9,2,Zimbabwe Innings,Total Extras,-,15,-,-,-,-,Afghanistan won by 59 runs,9th Match
+2016,10,1,Hong Kong Innings,Total Extras,-,7,-,-,-,-,Scotland won by 8 wkts,10th Match
+2016,10,2,Scotland Innings,Total Extras,-,2,-,-,-,-,Scotland won by 8 wkts,10th Match
+2016,11,1,Netherlands Innings,Total Extras,-,8,-,-,-,-,Netherlands won by 12 runs,11th Match
+2016,11,2,Ireland Innings,Total Extras,-,9,-,-,-,-,Netherlands won by 12 runs,11th Match
+2016,12,1,Bangladesh Innings,Total Extras,-,4,-,-,-,-,Bangladesh won by 54 runs (DLS method),12th Match
+2016,12,2,Oman Innings,Total Extras,-,5,-,-,-,-,Bangladesh won by 54 runs (DLS method),12th Match
+2016,13,1,New Zealand Innings,Total Extras,-,13,-,-,-,-,New Zealand won by 47 runs,13th Match
+2016,13,2,India Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 47 runs,13th Match
+2016,14,1,Pakistan Innings,Total Extras,-,3,-,-,-,-,Pakistan won by 55 runs,14th Match
+2016,14,2,Bangladesh Innings,Total Extras,-,8,-,-,-,-,Pakistan won by 55 runs,14th Match
+2016,15,1,England Innings,Total Extras,-,12,-,-,-,-,West Indies won by 6 wkts,15th Match
+2016,15,2,West Indies Innings,Total Extras,-,16,-,-,-,-,West Indies won by 6 wkts,15th Match
+2016,16,1,Afghanistan Innings,Total Extras,-,7,-,-,-,-,Sri Lanka won by 6 wkts,16th Match
+2016,16,2,Sri Lanka Innings,Total Extras,-,5,-,-,-,-,Sri Lanka won by 6 wkts,16th Match
+2016,17,1,New Zealand Innings,Total Extras,-,6,-,-,-,-,New Zealand won by 8 runs,17th Match
+2016,17,2,Australia Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 8 runs,17th Match
+2016,18,1,South Africa Innings,Total Extras,-,4,-,-,-,-,England won by 2 wkts,18th Match
+2016,18,2,England Innings,Total Extras,-,26,-,-,-,-,England won by 2 wkts,18th Match
+2016,19,1,Pakistan Innings,Total Extras,-,7,-,-,-,-,India won by 6 wkts,19th Match
+2016,19,2,India Innings,Total Extras,-,11,-,-,-,-,India won by 6 wkts,19th Match
+2016,20,1,South Africa Innings,Total Extras,-,6,-,-,-,-,South Africa won by 37 runs,20th Match
+2016,20,2,Afghanistan Innings,Total Extras,-,7,-,-,-,-,South Africa won by 37 runs,20th Match
+2016,21,1,Sri Lanka Innings,Total Extras,-,13,-,-,-,-,West Indies won by 7 wkts,21st Match
+2016,21,2,West Indies Innings,Total Extras,-,5,-,-,-,-,West Indies won by 7 wkts,21st Match
+2016,23,1,New Zealand Innings,Total Extras,-,7,-,-,-,-,New Zealand won by 22 runs,23rd Match
+2016,23,2,Pakistan Innings,Total Extras,-,9,-,-,-,-,New Zealand won by 22 runs,23rd Match
+2016,24,1,England Innings,Total Extras,-,14,-,-,-,-,England won by 15 runs,24th Match
+2016,24,2,Afghanistan Innings,Total Extras,-,6,-,-,-,-,England won by 15 runs,24th Match
+2016,25,1,India Innings,Total Extras,-,3,-,-,-,-,India won by 1 run,25th Match
+2016,25,2,Bangladesh Innings,Total Extras,-,5,-,-,-,-,India won by 1 run,25th Match
+2016,26,1,Australia Innings,Total Extras,-,13,-,-,-,-,Australia won by 21 runs,26th Match
+2016,26,2,Pakistan Innings,Total Extras,-,3,-,-,-,-,Australia won by 21 runs,26th Match
+2016,27,1,South Africa Innings,Total Extras,-,6,-,-,-,-,West Indies won by 3 wkts,27th Match
+2016,27,2,West Indies Innings,Total Extras,-,10,-,-,-,-,West Indies won by 3 wkts,27th Match
+2016,28,1,New Zealand Innings,Total Extras,-,6,-,-,-,-,New Zealand won by 75 runs,28th Match
+2016,28,2,Bangladesh Innings,Total Extras,-,6,-,-,-,-,New Zealand won by 75 runs,28th Match
+2016,29,1,England Innings,Total Extras,-,10,-,-,-,-,England won by 10 runs,29th Match
+2016,29,2,Sri Lanka Innings,Total Extras,-,9,-,-,-,-,England won by 10 runs,29th Match
+2016,30,1,Afghanistan Innings,Total Extras,-,3,-,-,-,-,Afghanistan won by 6 runs,30th Match
+2016,30,2,West Indies Innings,Total Extras,-,5,-,-,-,-,Afghanistan won by 6 runs,30th Match
+2016,31,1,Australia Innings,Total Extras,-,14,-,-,-,-,India won by 6 wkts,31st Match
+2016,31,2,India Innings,Total Extras,-,5,-,-,-,-,India won by 6 wkts,31st Match
+2016,32,1,Sri Lanka Innings,Total Extras,-,10,-,-,-,-,South Africa won by 8 wkts,32nd Match
+2016,32,2,South Africa Innings,Total Extras,-,6,-,-,-,-,South Africa won by 8 wkts,32nd Match
+2016,33,1,New Zealand Innings,Total Extras,-,11,-,-,-,-,England won by 7 wkts,1st Semi-Final - Live Cricket Score
+2016,33,2,England Innings,Total Extras,-,2,-,-,-,-,England won by 7 wkts,1st Semi-Final - Live Cricket Score
+2016,34,1,India Innings,Total Extras,-,5,-,-,-,-,West Indies won by 7 wkts,2nd Semi-Final - Live Cricket Score
+2016,34,2,West Indies Innings,Total Extras,-,6,-,-,-,-,West Indies won by 7 wkts,2nd Semi-Final - Live Cricket Score
+2016,35,1,England Innings,Total Extras,-,5,-,-,-,-,West Indies won by 4 wkts,Final - Live Cricket Score
+2016,35,2,West Indies Innings,Total Extras,-,9,-,-,-,-,West Indies won by 4 wkts,Final - Live Cricket Score
+2016,1,1,Zimbabwe Innings,Total Extras,-,6,-,-,-,-,Zimbabwe won by 14 runs,1st Match
+2016,1,2,Hong Kong Innings,Total Extras,-,10,-,-,-,-,Zimbabwe won by 14 runs,1st Match
+2016,22,1,Bangladesh Innings,Total Extras,-,10,-,-,-,-,Australia won by 3 wkts,22nd Match
+2016,22,2,Australia Innings,Total Extras,-,6,-,-,-,-,Australia won by 3 wkts,22nd Match
+2014,2,1,Nepal Innings,Total Extras,-,10,-,-,-,-,Nepal won by 80 runs,2nd Match
+2014,2,2,Hong Kong Innings,Total Extras,-,1,-,-,-,-,Nepal won by 80 runs,2nd Match
+2014,4,1,United Arab Emirates Innings,Total Extras,-,18,-,-,-,-,Netherlands won by 6 wkts,4th Match
+2014,4,2,Netherlands Innings,Total Extras,-,4,-,-,-,-,Netherlands won by 6 wkts,4th Match
+2014,5,1,Hong Kong Innings,Total Extras,-,16,-,-,-,-,Afghanistan won by 7 wkts,5th Match
+2014,5,2,Afghanistan Innings,Total Extras,-,9,-,-,-,-,Afghanistan won by 7 wkts,5th Match
+2014,6,1,Nepal Innings,Total Extras,-,12,-,-,-,-,Bangladesh won by 8 wkts,6th Match
+2014,6,2,Bangladesh Innings,Total Extras,-,2,-,-,-,-,Bangladesh won by 8 wkts,6th Match
+2014,7,1,Netherlands Innings,Total Extras,-,11,-,-,-,-,Zimbabwe won by 5 wkts,7th Match
+2014,7,2,Zimbabwe Innings,Total Extras,-,6,-,-,-,-,Zimbabwe won by 5 wkts,7th Match
+2014,10,1,Bangladesh Innings,Total Extras,-,6,-,-,-,-,Hong Kong won by 2 wkts,10th Match
+2014,10,2,Hong Kong Innings,Total Extras,-,5,-,-,-,-,Hong Kong won by 2 wkts,10th Match
+2014,11,1,United Arab Emirates Innings,Total Extras,-,5,-,-,-,-,Zimbabwe won by 5 wkts,11th Match
+2014,11,2,Zimbabwe Innings,Total Extras,-,1,-,-,-,-,Zimbabwe won by 5 wkts,11th Match
+2014,12,1,Ireland Innings,Total Extras,-,8,-,-,-,-,Netherlands won by 6 wkts,12th Match
+2014,12,2,Netherlands Innings,Total Extras,-,4,-,-,-,-,Netherlands won by 6 wkts,12th Match
+2014,13,1,Pakistan Innings,Total Extras,-,5,-,-,-,-,India won by 7 wkts,13th Match
+2014,13,2,India Innings,Total Extras,-,5,-,-,-,-,India won by 7 wkts,13th Match
+2014,14,1,Sri Lanka Innings,Total Extras,-,10,-,-,-,-,Sri Lanka won by 5 runs,14th Match
+2014,14,2,South Africa Innings,Total Extras,-,5,-,-,-,-,Sri Lanka won by 5 runs,14th Match
+2014,16,1,Pakistan Innings,Total Extras,-,17,-,-,-,-,Pakistan won by 16 runs,16th Match
+2014,16,2,Australia Innings,Total Extras,-,8,-,-,-,-,Pakistan won by 16 runs,16th Match
+2014,17,1,West Indies Innings,Total Extras,-,14,-,-,-,-,India won by 7 wkts,17th Match
+2014,17,2,India Innings,Total Extras,-,3,-,-,-,-,India won by 7 wkts,17th Match
+2014,19,1,Netherlands Innings,Total Extras,-,6,-,-,-,-,Sri Lanka won by 9 wkts,19th Match
+2014,19,2,Sri Lanka Innings,Total Extras,-,3,-,-,-,-,Sri Lanka won by 9 wkts,19th Match
+2014,20,1,West Indies Innings,Total Extras,-,19,-,-,-,-,West Indies won by 73 runs,20th Match
+2014,20,2,Bangladesh Innings,Total Extras,-,4,-,-,-,-,West Indies won by 73 runs,20th Match
+2014,21,1,South Africa Innings,Total Extras,-,5,-,-,-,-,South Africa won by 6 runs,21st Match
+2014,21,2,Netherlands Innings,Total Extras,-,9,-,-,-,-,South Africa won by 6 runs,21st Match
+2014,22,1,Sri Lanka Innings,Total Extras,-,8,-,-,-,-,England won by 6 wkts,22nd Match
+2014,22,2,England Innings,Total Extras,-,4,-,-,-,-,England won by 6 wkts,22nd Match
+2014,25,1,Netherlands Innings,Total Extras,-,15,-,-,-,-,New Zealand won by 6 wkts,25th Match
+2014,25,2,New Zealand Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 6 wkts,25th Match
+2014,26,1,South Africa Innings,Total Extras,-,15,-,-,-,-,South Africa won by 3 runs,26th Match
+2014,26,2,England Innings,Total Extras,-,14,-,-,-,-,South Africa won by 3 runs,26th Match
+2014,27,1,Pakistan Innings,Total Extras,-,13,-,-,-,-,Pakistan won by 50 runs,27th Match
+2014,27,2,Bangladesh Innings,Total Extras,-,5,-,-,-,-,Pakistan won by 50 runs,27th Match
+2014,28,1,India Innings,Total Extras,-,17,-,-,-,-,India won by 73 runs,28th Match
+2014,28,2,Australia Innings,Total Extras,-,4,-,-,-,-,India won by 73 runs,28th Match
+2014,29,1,Netherlands Innings,Total Extras,-,17,-,-,-,-,Netherlands won by 45 runs,29th Match
+2014,29,2,England Innings,Total Extras,-,5,-,-,-,-,Netherlands won by 45 runs,29th Match
+2014,31,1,Bangladesh Innings,Total Extras,-,15,-,-,-,-,Australia won by 7 wkts,31st Match
+2014,31,2,Australia Innings,Total Extras,-,5,-,-,-,-,Australia won by 7 wkts,31st Match
+2014,32,1,West Indies Innings,Total Extras,-,9,-,-,-,-,West Indies won by 84 runs,32nd Match
+2014,32,2,Pakistan Innings,Total Extras,-,2,-,-,-,-,West Indies won by 84 runs,32nd Match
+2014,33,1,Sri Lanka Innings,Total Extras,-,4,-,-,-,-,Sri Lanka won by 27 runs (D/L method),1st Semi-final - Live Cricket Score
+2014,33,2,West Indies Innings,Total Extras,-,8,-,-,-,-,Sri Lanka won by 27 runs (D/L method),1st Semi-final - Live Cricket Score
+2014,34,1,South Africa Innings,Total Extras,-,8,-,-,-,-,India won by 6 wkts,2nd Semi-final - Live Cricket Score
+2014,34,2,India Innings,Total Extras,-,9,-,-,-,-,India won by 6 wkts,2nd Semi-final - Live Cricket Score
+2014,35,1,India Innings,Total Extras,-,6,-,-,-,-,Sri Lanka won by 6 wkts,Final - Live Cricket Score
+2014,35,2,Sri Lanka Innings,Total Extras,-,5,-,-,-,-,Sri Lanka won by 6 wkts,Final - Live Cricket Score
+2014,1,1,Afghanistan Innings,Total Extras,-,12,-,-,-,-,Bangladesh won by 9 wkts,1st Match
+2014,1,2,Bangladesh Innings,Total Extras,-,3,-,-,-,-,Bangladesh won by 9 wkts,1st Match
+2014,3,1,Zimbabwe Innings,Total Extras,-,6,-,-,-,-,Ireland won by 3 wkts,3rd Match
+2014,3,2,Ireland Innings,Total Extras,-,8,-,-,-,-,Ireland won by 3 wkts,3rd Match
+2014,9,1,Nepal Innings,Total Extras,-,11,-,-,-,-,Nepal won by 9 runs,9th Match
+2014,9,2,Afghanistan Innings,Total Extras,-,5,-,-,-,-,Nepal won by 9 runs,9th Match
+2014,15,1,England Innings,Total Extras,-,10,-,-,-,-,New Zealand won by 9 runs (D/L Method),15th Match
+2014,15,2,New Zealand Innings,Total Extras,-,1,-,-,-,-,New Zealand won by 9 runs (D/L Method),15th Match
+2014,18,1,South Africa Innings,Total Extras,-,1,-,-,-,-,South Africa won by 2 runs,18th Match
+2014,18,2,New Zealand Innings,Total Extras,-,6,-,-,-,-,South Africa won by 2 runs,18th Match
+2014,23,1,Australia Innings,Total Extras,-,15,-,-,-,-,West Indies won by 6 wkts,23rd Match
+2014,23,2,West Indies Innings,Total Extras,-,10,-,-,-,-,West Indies won by 6 wkts,23rd Match
+2014,24,1,Bangladesh Innings,Total Extras,-,8,-,-,-,-,India won by 8 wkts,24th Match
+2014,24,2,India Innings,Total Extras,-,5,-,-,-,-,India won by 8 wkts,24th Match
+2014,30,1,Sri Lanka Innings,Total Extras,-,6,-,-,-,-,Sri Lanka won by 59 runs,30th Match
+2014,30,2,New Zealand Innings,Total Extras,-,2,-,-,-,-,Sri Lanka won by 59 runs,30th Match
+2014,8,1,United Arab Emirates Innings,Total Extras,-,13,-,-,-,-,Ireland won by 21 runs (D/L method),8th Match
+2014,8,2,Ireland Innings,Total Extras,-,14,-,-,-,-,Ireland won by 21 runs (D/L method),8th Match
+2012,1,1,Sri Lanka Innings,Total Extras,-,20,-,-,-,-,Sri Lanka won by 82 runs,1st Match
+2012,1,2,Zimbabwe Innings,Total Extras,-,15,-,-,-,-,Sri Lanka won by 82 runs,1st Match
+2012,2,1,Ireland Innings,Total Extras,-,4,-,-,-,-,Australia won by 7 wkts,2nd Match
+2012,2,2,Australia Innings,Total Extras,-,10,-,-,-,-,Australia won by 7 wkts,2nd Match
+2012,3,1,India Innings,Total Extras,-,16,-,-,-,-,India won by 23 runs,3rd Match
+2012,3,2,Afghanistan Innings,Total Extras,-,6,-,-,-,-,India won by 23 runs,3rd Match
+2012,4,1,Zimbabwe Innings,Total Extras,-,8,-,-,-,-,South Africa won by 10 wkts,4th Match
+2012,4,2,South Africa Innings,Total Extras,-,12,-,-,-,-,South Africa won by 10 wkts,4th Match
+2012,8,1,West Indies Innings,Total Extras,-,13,-,-,-,-,Australia won by 17 runs (D/L method),8th Match
+2012,8,2,Australia Innings,Total Extras,-,3,-,-,-,-,Australia won by 17 runs (D/L method),8th Match
+2012,10,1,India Innings,Total Extras,-,12,-,-,-,-,India won by 90 runs,10th Match
+2012,10,2,England Innings,Total Extras,-,1,-,-,-,-,India won by 90 runs,10th Match
+2012,12,1,Bangladesh Innings,Total Extras,-,11,-,-,-,-,Pakistan won by 8 wkts,12th Match
+2012,12,2,Pakistan Innings,Total Extras,-,10,-,-,-,-,Pakistan won by 8 wkts,12th Match
+2012,16,1,India Innings,Total Extras,-,10,-,-,-,-,Australia won by 9 wkts,16th Match
+2012,16,2,Australia Innings,Total Extras,-,2,-,-,-,-,Australia won by 9 wkts,16th Match
+2012,18,1,West Indies Innings,Total Extras,-,4,-,-,-,-,Sri Lanka won by 9 wkts,18th Match
+2012,18,2,Sri Lanka Innings,Total Extras,-,13,-,-,-,-,Sri Lanka won by 9 wkts,18th Match
+2012,20,1,Pakistan Innings,Total Extras,-,12,-,-,-,-,India won by 8 wkts,20th Match
+2012,20,2,India Innings,Total Extras,-,3,-,-,-,-,India won by 8 wkts,20th Match
+2012,22,1,Sri Lanka Innings,Total Extras,-,12,-,-,-,-,Sri Lanka won by 19 runs,22nd Match
+2012,22,2,England Innings,Total Extras,-,9,-,-,-,-,Sri Lanka won by 19 runs,22nd Match
+2012,24,1,India Innings,Total Extras,-,11,-,-,-,-,India won by 1 run,24th Match
+2012,24,2,South Africa Innings,Total Extras,-,4,-,-,-,-,India won by 1 run,24th Match
+2012,25,1,Sri Lanka Innings,Total Extras,-,8,-,-,-,-,Sri Lanka won by 16 runs,1st Semi-Final - Live Cricket Score
+2012,25,2,Pakistan Innings,Total Extras,-,11,-,-,-,-,Sri Lanka won by 16 runs,1st Semi-Final - Live Cricket Score
+2012,26,1,West Indies Innings,Total Extras,-,19,-,-,-,-,West Indies won by 74 runs,2nd Semi-Final - Live Cricket Score
+2012,26,2,Australia Innings,Total Extras,-,5,-,-,-,-,West Indies won by 74 runs,2nd Semi-Final - Live Cricket Score
+2012,5,1,New Zealand Innings,Total Extras,-,8,-,-,-,-,New Zealand won by 59 runs,5th Match
+2012,5,2,Bangladesh Innings,Total Extras,-,7,-,-,-,-,New Zealand won by 59 runs,5th Match
+2012,6,1,England Innings,Total Extras,-,12,-,-,-,-,England won by 116 runs,6th Match
+2012,6,2,Afghanistan Innings,Total Extras,-,6,-,-,-,-,England won by 116 runs,6th Match
+2012,7,1,South Africa Innings,Total Extras,-,3,-,-,-,-,South Africa won by 32 runs,7th Match
+2012,7,2,Sri Lanka Innings,Total Extras,-,3,-,-,-,-,South Africa won by 32 runs,7th Match
+2012,9,1,Pakistan Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 13 runs,9th Match
+2012,9,2,New Zealand Innings,Total Extras,-,10,-,-,-,-,Pakistan won by 13 runs,9th Match
+2012,11,1,Ireland Innings,Total Extras,-,5,-,-,-,-,No result,11th Match
+2012,11,2,Match Info,Total Extras,-,10,-,-,-,-,No result,11th Match
+2012,13,1,New Zealand Innings,Total Extras,-,9,-,-,-,-,Match tied (Sri Lanka won the one-over eliminator),13th Match
+2012,13,2,Sri Lanka Innings,Total Extras,-,3,-,-,-,-,Match tied (Sri Lanka won the one-over eliminator),13th Match
+2012,14,1,West Indies Innings,Total Extras,-,9,-,-,-,-,West Indies won by 15 runs,14th Match
+2012,14,2,England Innings,Total Extras,-,6,-,-,-,-,West Indies won by 15 runs,14th Match
+2012,15,1,South Africa Innings,Total Extras,-,4,-,-,-,-,Pakistan won by 2 wkts,15th Match
+2012,15,2,Pakistan Innings,Total Extras,-,12,-,-,-,-,Pakistan won by 2 wkts,15th Match
+2012,17,1,New Zealand Innings,Total Extras,-,15,-,-,-,-,England won by 6 wkts,17th Match
+2012,17,2,England Innings,Total Extras,-,7,-,-,-,-,England won by 6 wkts,17th Match
+2012,19,1,South Africa Innings,Total Extras,-,9,-,-,-,-,Australia won by 8 wkts,19th Match
+2012,19,2,Australia Innings,Total Extras,-,6,-,-,-,-,Australia won by 8 wkts,19th Match
+2012,21,1,West Indies Innings,Total Extras,-,10,-,-,-,-,Match tied (West Indies won the one-over eliminator),21st Match
+2012,21,2,New Zealand Innings,Total Extras,-,5,-,-,-,-,Match tied (West Indies won the one-over eliminator),21st Match
+2012,23,1,Pakistan Innings,Total Extras,-,5,-,-,-,-,Pakistan won by 32 runs,23rd Match
+2012,23,2,Australia Innings,Total Extras,-,2,-,-,-,-,Pakistan won by 32 runs,23rd Match
+2012,27,1,West Indies Innings,Total Extras,-,5,-,-,-,-,West Indies won by 36 runs,Final - Live Cricket Score
+2012,27,2,Sri Lanka Innings,Total Extras,-,3,-,-,-,-,West Indies won by 36 runs,Final - Live Cricket Score
+2010,1,1,West Indies Innings,Total Extras,-,4,-,-,-,-,West Indies won by 70 runs,2nd Match
+2010,1,2,Ireland Innings,Total Extras,-,19,-,-,-,-,West Indies won by 70 runs,2nd Match
+2010,2,1,Sri Lanka Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 2 wickets (with 1 ball remaining),1st Match
+2010,2,2,New Zealand Innings,Total Extras,-,3,-,-,-,-,New Zealand won by 2 wickets (with 1 ball remaining),1st Match
+2010,3,1,Afghanistan Innings,Total Extras,-,6,-,-,-,-,India won by 7 wickets (with 31 balls remaining),3rd Match
+2010,3,2,India Innings,Total Extras,-,8,-,-,-,-,India won by 7 wickets (with 31 balls remaining),3rd Match
+2010,6,1,Australia Innings,Total Extras,-,2,-,-,-,-,Australia won by 34 runs,6th Match
+2010,6,2,Pakistan Innings,Total Extras,-,10,-,-,-,-,Australia won by 34 runs,6th Match
+2010,7,1,Sri Lanka Innings,Total Extras,-,14,-,-,-,-,Sri Lanka won by 14 runs (D/L method),7th Match
+2010,7,2,Zimbabwe Innings,Total Extras,-,2,-,-,-,-,Sri Lanka won by 14 runs (D/L method),7th Match
+2010,8,1,England Innings,Total Extras,-,7,-,-,-,-,West Indies won by 8 wickets (with 1 ball remaining) (D/L method),8th Match
+2010,8,2,West Indies Innings,Total Extras,-,8,-,-,-,-,West Indies won by 8 wickets (with 1 ball remaining) (D/L method),8th Match
+2010,10,1,England Innings,Total Extras,-,7,-,-,-,-,No result,10th Match
+2010,10,2,Ireland Innings,Total Extras,-,1,-,-,-,-,No result,10th Match
+2010,11,1,South Africa Innings,Total Extras,-,6,-,-,-,-,South Africa won by 59 runs,12th Match
+2010,11,2,Afghanistan Innings,Total Extras,-,11,-,-,-,-,South Africa won by 59 runs,12th Match
+2010,12,1,Australia Innings,Total Extras,-,6,-,-,-,-,Australia won by 27 runs,11th Match
+2010,12,2,Bangladesh Innings,Total Extras,-,9,-,-,-,-,Australia won by 27 runs,11th Match
+2010,15,1,Australia Innings,Total Extras,-,1,-,-,-,-,Australia won by 49 runs,15th Match
+2010,15,2,India Innings,Total Extras,-,10,-,-,-,-,Australia won by 49 runs,15th Match
+2010,17,1,New Zealand Innings,Total Extras,-,15,-,-,-,-,New Zealand won by 1 run,17th Match
+2010,17,2,Pakistan Innings,Total Extras,-,7,-,-,-,-,New Zealand won by 1 run,17th Match
+2010,19,1,West Indies Innings,Total Extras,-,7,-,-,-,-,West Indies won by 14 runs,19th Match
+2010,19,2,India Innings,Total Extras,-,19,-,-,-,-,West Indies won by 14 runs,19th Match
+2010,20,1,Australia Innings,Total Extras,-,5,-,-,-,-,Australia won by 81 runs,20th Match
+2010,20,2,Sri Lanka Innings,Total Extras,-,6,-,-,-,-,Australia won by 81 runs,20th Match
+2010,23,1,West Indies Innings,Total Extras,-,9,-,-,-,-,Australia won by 6 wickets (with 22 balls remaining),24th Match
+2010,23,2,Australia Innings,Total Extras,-,11,-,-,-,-,Australia won by 6 wickets (with 22 balls remaining),24th Match
+2010,24,1,India Innings,Total Extras,-,9,-,-,-,-,Sri Lanka won by 5 wickets (with 0 balls remaining),23rd Match
+2010,24,2,Sri Lanka Innings,Total Extras,-,1,-,-,-,-,Sri Lanka won by 5 wickets (with 0 balls remaining),23rd Match
+2010,25,1,Sri Lanka Innings,Total Extras,-,9,-,-,-,-,England won by 7 wickets (with 24 balls remaining),1st Semi-Final - Live Cricket Score
+2010,25,2,England Innings,Total Extras,-,6,-,-,-,-,England won by 7 wickets (with 24 balls remaining),1st Semi-Final - Live Cricket Score
+2010,26,1,Pakistan Innings,Total Extras,-,20,-,-,-,-,Australia won by 3 wickets (with 1 ball remaining),2nd Semi-Final - Live Cricket Score
+2010,26,2,Australia Innings,Total Extras,-,13,-,-,-,-,Australia won by 3 wickets (with 1 ball remaining),2nd Semi-Final - Live Cricket Score
+2010,27,1,Australia Innings,Total Extras,-,8,-,-,-,-,England won by 7 wickets (with 18 balls remaining),Final - Live Cricket Score
+2010,27,2,England Innings,Total Extras,-,9,-,-,-,-,England won by 7 wickets (with 18 balls remaining),Final - Live Cricket Score
+2010,4,1,Pakistan Innings,Total Extras,-,3,-,-,-,-,Pakistan won by 21 runs,4th Match
+2010,4,2,Bangladesh Innings,Total Extras,-,4,-,-,-,-,Pakistan won by 21 runs,4th Match
+2010,5,1,India Innings,Total Extras,-,5,-,-,-,-,India won by 14 runs,5th Match
+2010,5,2,South Africa Innings,Total Extras,-,4,-,-,-,-,India won by 14 runs,5th Match
+2010,9,1,Zimbabwe Innings,Total Extras,-,11,-,-,-,-,New Zealand won by 7 runs (D/L method),9th Match
+2010,9,2,New Zealand Innings,Total Extras,-,6,-,-,-,-,New Zealand won by 7 runs (D/L method),9th Match
+2010,13,1,Pakistan Innings,Total Extras,-,10,-,-,-,-,England won by 6 wickets (with 3 balls remaining),13th Match
+2010,13,2,England Innings,Total Extras,-,6,-,-,-,-,England won by 6 wickets (with 3 balls remaining),13th Match
+2010,14,1,South Africa Innings,Total Extras,-,8,-,-,-,-,South Africa won by 13 runs,14th Match
+2010,14,2,New Zealand Innings,Total Extras,-,14,-,-,-,-,South Africa won by 13 runs,14th Match
+2010,16,1,Sri Lanka Innings,Total Extras,-,13,-,-,-,-,Sri Lanka won by 57 runs,16th Match
+2010,16,2,West Indies Innings,Total Extras,-,17,-,-,-,-,Sri Lanka won by 57 runs,16th Match
+2010,18,1,England Innings,Total Extras,-,14,-,-,-,-,England won by 39 runs,18th Match
+2010,18,2,South Africa Innings,Total Extras,-,18,-,-,-,-,England won by 39 runs,18th Match
+2010,21,1,Pakistan Innings,Total Extras,-,4,-,-,-,-,Pakistan won by 11 runs,21st Match
+2010,21,2,South Africa Innings,Total Extras,-,3,-,-,-,-,Pakistan won by 11 runs,21st Match
+2010,22,1,New Zealand Innings,Total Extras,-,8,-,-,-,-,England won by 3 wickets (with 5 balls remaining),22nd Match
+2010,22,2,England Innings,Total Extras,-,6,-,-,-,-,England won by 3 wickets (with 5 balls remaining),22nd Match
+2009,2,1,Scotland Innings,Total Extras,-,2,-,-,-,-,New Zealand won by 7 wickets (with 6 balls remaining),2nd Match
+2009,2,2,New Zealand Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 7 wickets (with 6 balls remaining),2nd Match
+2009,3,1,Australia Innings,Total Extras,-,15,-,-,-,-,West Indies won by 7 wickets (with 25 balls remaining),3rd Match
+2009,3,2,West Indies Innings,Total Extras,-,15,-,-,-,-,West Indies won by 7 wickets (with 25 balls remaining),3rd Match
+2009,4,1,India Innings,Total Extras,-,5,-,-,-,-,India won by 25 runs,4th Match
+2009,4,2,Bangladesh Innings,Total Extras,-,6,-,-,-,-,India won by 25 runs,4th Match
+2009,5,1,South Africa Innings,Total Extras,-,4,-,-,-,-,South Africa won by 130 runs,5th Match
+2009,5,2,Scotland Innings,Total Extras,-,3,-,-,-,-,South Africa won by 130 runs,5th Match
+2009,6,1,England Innings,Total Extras,-,10,-,-,-,-,England won by 48 runs,6th Match
+2009,6,2,Pakistan Innings,Total Extras,-,6,-,-,-,-,England won by 48 runs,6th Match
+2009,7,1,Bangladesh Innings,Total Extras,-,7,-,-,-,-,Ireland won by 6 wickets (with 10 balls remaining),7th Match
+2009,7,2,Ireland Innings,Total Extras,-,7,-,-,-,-,Ireland won by 6 wickets (with 10 balls remaining),7th Match
+2009,8,1,Australia Innings,Total Extras,-,5,-,-,-,-,Sri Lanka won by 6 wickets (with 6 balls remaining),8th Match
+2009,8,2,Sri Lanka Innings,Total Extras,-,9,-,-,-,-,Sri Lanka won by 6 wickets (with 6 balls remaining),8th Match
+2009,9,1,Pakistan Innings,Total Extras,-,3,-,-,-,-,Pakistan won by 82 runs,9th Match
+2009,9,2,Netherlands Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 82 runs,9th Match
+2009,10,1,South Africa Innings,Total Extras,-,6,-,-,-,-,South Africa won by 1 run,10th Match
+2009,10,2,New Zealand Innings,Total Extras,-,10,-,-,-,-,South Africa won by 1 run,10th Match
+2009,11,1,Sri Lanka Innings,Total Extras,-,10,-,-,-,-,Sri Lanka won by 15 runs,11th Match
+2009,11,2,West Indies Innings,Total Extras,-,22,-,-,-,-,Sri Lanka won by 15 runs,11th Match
+2009,12,1,Ireland Innings,Total Extras,-,8,-,-,-,-,India won by 8 wickets (with 15 balls remaining),12th Match
+2009,12,2,India Innings,Total Extras,-,7,-,-,-,-,India won by 8 wickets (with 15 balls remaining),12th Match
+2009,13,1,New Zealand Innings,Total Extras,-,11,-,-,-,-,New Zealand won by 83 runs,13th Match
+2009,13,2,Ireland Innings,Total Extras,-,3,-,-,-,-,New Zealand won by 83 runs,13th Match
+2009,14,1,England Innings,Total Extras,-,7,-,-,-,-,South Africa won by 7 wickets (with 10 balls remaining),14th Match
+2009,14,2,South Africa Innings,Total Extras,-,3,-,-,-,-,South Africa won by 7 wickets (with 10 balls remaining),14th Match
+2009,16,1,India Innings,Total Extras,-,5,-,-,-,-,West Indies won by 7 wickets (with 8 balls remaining),16th Match
+2009,16,2,West Indies Innings,Total Extras,-,6,-,-,-,-,West Indies won by 7 wickets (with 8 balls remaining),16th Match
+2009,18,1,New Zealand Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 6 wickets (with 41 balls remaining),18th Match
+2009,18,2,Pakistan Innings,Total Extras,-,2,-,-,-,-,Pakistan won by 6 wickets (with 41 balls remaining),18th Match
+2009,19,1,Sri Lanka Innings,Total Extras,-,9,-,-,-,-,Sri Lanka won by 9 runs,19th Match
+2009,19,2,Ireland Innings,Total Extras,-,8,-,-,-,-,Sri Lanka won by 9 runs,19th Match
+2009,20,1,England Innings,Total Extras,-,16,-,-,-,-,England won by 3 runs,20th Match
+2009,20,2,India Innings,Total Extras,-,8,-,-,-,-,England won by 3 runs,20th Match
+2009,22,1,England Innings,Total Extras,-,7,-,-,-,-,West Indies won by 5 wickets (with 4 balls remaining) (D/L method),22nd Match
+2009,22,2,West Indies Innings,Total Extras,-,4,-,-,-,-,West Indies won by 5 wickets (with 4 balls remaining) (D/L method),22nd Match
+2009,23,1,Sri Lanka Innings,Total Extras,-,7,-,-,-,-,Sri Lanka won by 48 runs,23rd Match
+2009,23,2,New Zealand Innings,Total Extras,-,4,-,-,-,-,Sri Lanka won by 48 runs,23rd Match
+2009,24,1,South Africa Innings,Total Extras,-,3,-,-,-,-,South Africa won by 12 runs,24th Match
+2009,24,2,India Innings,Total Extras,-,8,-,-,-,-,South Africa won by 12 runs,24th Match
+2009,25,1,Pakistan Innings,Total Extras,-,5,-,-,-,-,Pakistan won by 7 runs,1st Semi-Final - Live Cricket Score
+2009,25,2,South Africa Innings,Total Extras,-,16,-,-,-,-,Pakistan won by 7 runs,1st Semi-Final - Live Cricket Score
+2009,26,1,Sri Lanka Innings,Total Extras,-,6,-,-,-,-,Sri Lanka won by 57 runs,2nd Semi-Final - Live Cricket Score
+2009,26,2,West Indies Innings,Total Extras,-,11,-,-,-,-,Sri Lanka won by 57 runs,2nd Semi-Final - Live Cricket Score
+2009,27,1,Sri Lanka Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 8 wickets (with 8 balls remaining),Final - Live Cricket Score
+2009,27,2,Pakistan Innings,Total Extras,-,5,-,-,-,-,Pakistan won by 8 wickets (with 8 balls remaining),Final - Live Cricket Score
+2009,1,1,England Innings,Total Extras,-,10,-,-,-,-,Netherlands won by 4 wickets (with 0 balls remaining),1st Match
+2009,1,2,Netherlands Innings,Total Extras,-,16,-,-,-,-,Netherlands won by 4 wickets (with 0 balls remaining),1st Match
+2009,15,1,Sri Lanka Innings,Total Extras,-,20,-,-,-,-,Sri Lanka won by 19 runs,15th Match
+2009,15,2,Pakistan Innings,Total Extras,-,3,-,-,-,-,Sri Lanka won by 19 runs,15th Match
+2009,17,1,South Africa Innings,Total Extras,-,3,-,-,-,-,South Africa won by 20 runs,17th Match
+2009,17,2,West Indies Innings,Total Extras,-,17,-,-,-,-,South Africa won by 20 runs,17th Match
+2009,21,1,Pakistan Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 39 runs,21st Match
+2009,21,2,Ireland Innings,Total Extras,-,13,-,-,-,-,Pakistan won by 39 runs,21st Match
+2007,1,1,West Indies Innings,Total Extras,-,17,-,-,-,-,South Africa won by 8 wickets (with 14 balls remaining),1st Match
+2007,1,2,South Africa Innings,Total Extras,-,28,-,-,-,-,South Africa won by 8 wickets (with 14 balls remaining),1st Match
+2007,2,1,Kenya Innings,Total Extras,-,8,-,-,-,-,New Zealand won by 9 wickets (with 74 balls remaining),2nd Match
+2007,2,2,New Zealand Innings,Total Extras,-,10,-,-,-,-,New Zealand won by 9 wickets (with 74 balls remaining),2nd Match
+2007,3,1,Pakistan Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 51 runs,3rd Match
+2007,3,2,Scotland Innings,Total Extras,-,13,-,-,-,-,Pakistan won by 51 runs,3rd Match
+2007,4,1,Australia Innings,Total Extras,-,7,-,-,-,-,Zimbabwe won by 5 wickets (with 1 ball remaining),4th Match
+2007,4,2,Zimbabwe Innings,Total Extras,-,7,-,-,-,-,Zimbabwe won by 5 wickets (with 1 ball remaining),4th Match
+2007,8,1,Sri Lanka Innings,Total Extras,-,12,-,-,-,-,Sri Lanka won by 172 runs,8th Match
+2007,8,2,Kenya Innings,Total Extras,-,11,-,-,-,-,Sri Lanka won by 172 runs,8th Match
+2007,10,1,India Innings,Total Extras,-,5,-,-,-,-,Match tied (India won the bowl-out),10th Match
+2007,10,2,Pakistan Innings,Total Extras,-,8,-,-,-,-,Match tied (India won the bowl-out),10th Match
+2007,12,1,Bangladesh Innings,Total Extras,-,14,-,-,-,-,South Africa won by 7 wickets (with 7 balls remaining),12th Match
+2007,12,2,South Africa Innings,Total Extras,-,2,-,-,-,-,South Africa won by 7 wickets (with 7 balls remaining),12th Match
+2007,13,1,New Zealand Innings,Total Extras,-,10,-,-,-,-,New Zealand won by 10 runs,13th Match
+2007,13,2,India Innings,Total Extras,-,4,-,-,-,-,New Zealand won by 10 runs,13th Match
+2007,16,1,Pakistan Innings,Total Extras,-,9,-,-,-,-,Pakistan won by 33 runs,16th Match
+2007,16,2,Sri Lanka Innings,Total Extras,-,16,-,-,-,-,Pakistan won by 33 runs,16th Match
+2007,17,1,New Zealand Innings,Total Extras,-,7,-,-,-,-,New Zealand won by 5 runs,17th Match
+2007,17,2,England Innings,Total Extras,-,1,-,-,-,-,New Zealand won by 5 runs,17th Match
+2007,20,1,New Zealand Innings,Total Extras,-,8,-,-,-,-,South Africa won by 6 wickets (with 5 balls remaining),20th Match
+2007,20,2,South Africa Innings,Total Extras,-,8,-,-,-,-,South Africa won by 6 wickets (with 5 balls remaining),20th Match
+2007,21,1,India Innings,Total Extras,-,18,-,-,-,-,India won by 18 runs,21st Match
+2007,21,2,England Innings,Total Extras,-,16,-,-,-,-,India won by 18 runs,21st Match
+2007,22,1,Sri Lanka Innings,Total Extras,-,4,-,-,-,-,Australia won by 10 wickets (with 58 balls remaining),22nd Match
+2007,22,2,Australia Innings,Total Extras,-,13,-,-,-,-,Australia won by 10 wickets (with 58 balls remaining),22nd Match
+2007,24,1,India Innings,Total Extras,-,13,-,-,-,-,India won by 37 runs,24th Match
+2007,24,2,South Africa Innings,Total Extras,-,24,-,-,-,-,India won by 37 runs,24th Match
+2007,26,1,India Innings,Total Extras,-,7,-,-,-,-,India won by 15 runs,2nd Semi Final - Live Cricket Score
+2007,26,2,Australia Innings,Total Extras,-,8,-,-,-,-,India won by 15 runs,2nd Semi Final - Live Cricket Score
+2007,27,1,India Innings,Total Extras,-,6,-,-,-,-,India won by 5 runs,Final - Live Cricket Score
+2007,27,2,Pakistan Innings,Total Extras,-,12,-,-,-,-,India won by 5 runs,Final - Live Cricket Score
+2007,5,1,West Indies Innings,Total Extras,-,10,-,-,-,-,Bangladesh won by 6 wickets (with 12 balls remaining),5th Match
+2007,5,2,Bangladesh Innings,Total Extras,-,13,-,-,-,-,Bangladesh won by 6 wickets (with 12 balls remaining),5th Match
+2007,6,1,England Innings,Total Extras,-,4,-,-,-,-,England won by 50 runs,6th Match
+2007,6,2,Zimbabwe Innings,Total Extras,-,5,-,-,-,-,England won by 50 runs,6th Match
+2007,9,1,England Innings,Total Extras,-,3,-,-,-,-,Australia won by 8 wickets (with 31 balls remaining),9th Match
+2007,9,2,Australia Innings,Total Extras,-,2,-,-,-,-,Australia won by 8 wickets (with 31 balls remaining),9th Match
+2007,11,1,New Zealand Innings,Total Extras,-,13,-,-,-,-,Sri Lanka won by 7 wickets (with 7 balls remaining),11th Match
+2007,11,2,Sri Lanka Innings,Total Extras,-,12,-,-,-,-,Sri Lanka won by 7 wickets (with 7 balls remaining),11th Match
+2007,14,1,Bangladesh Innings,Total Extras,-,19,-,-,-,-,Australia won by 9 wickets (with 37 balls remaining),14th Match
+2007,14,2,Australia Innings,Total Extras,-,2,-,-,-,-,Australia won by 9 wickets (with 37 balls remaining),14th Match
+2007,15,1,South Africa Innings,Total Extras,-,9,-,-,-,-,South Africa won by 19 runs,15th Match
+2007,15,2,England Innings,Total Extras,-,7,-,-,-,-,South Africa won by 19 runs,15th Match
+2007,18,1,Australia Innings,Total Extras,-,7,-,-,-,-,Pakistan won by 6 wickets (with 5 balls remaining),18th Match
+2007,18,2,Pakistan Innings,Total Extras,-,7,-,-,-,-,Pakistan won by 6 wickets (with 5 balls remaining),18th Match
+2007,19,1,Sri Lanka Innings,Total Extras,-,10,-,-,-,-,Sri Lanka won by 64 runs,19th Match
+2007,19,2,Bangladesh Innings,Total Extras,-,1,-,-,-,-,Sri Lanka won by 64 runs,19th Match
+2007,23,1,Bangladesh Innings,Total Extras,-,14,-,-,-,-,Pakistan won by 4 wickets (with 6 balls remaining),23rd Match
+2007,23,2,Pakistan Innings,Total Extras,-,5,-,-,-,-,Pakistan won by 4 wickets (with 6 balls remaining),23rd Match
+2007,25,1,New Zealand Innings,Total Extras,-,6,-,-,-,-,Pakistan won by 6 wickets (with 7 balls remaining),1st Semi Final - Live Cricket Score
+2007,25,2,Pakistan Innings,Total Extras,-,4,-,-,-,-,Pakistan won by 6 wickets (with 7 balls remaining),1st Semi Final - Live Cricket Score

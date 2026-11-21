@@ -1,0 +1,11 @@
+PYSPARK ASSOCIATION MINING SUMMARY
+==================================
+Transactions: 2792
+Support: 0.05
+Confidence: 0.6
+Apriori Itemsets (max length 3): 353
+Spark Itemsets (max length 3): 353
+Itemsets Match: True
+Local Average Time: 0.011721s
+Spark Average Time: 0.693780s
+Spark Speedup: 0.0169x

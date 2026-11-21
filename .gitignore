@@ -1,0 +1,61 @@
+# Python virtual environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# LaTeX auxiliary build files (keep .tex, figures, and final PDFs)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.run.xml
+*.bcf
+*.xdv
+
+# Keep project scripts, data, plots, reports and results tracked:
+# descriptive_analytics/
+# predictive_analytics/
+# pyspark_analytics/
+# outputs/
+# plots/
+# figures/
+# *.csv, *.png, *.pdf, *.tex

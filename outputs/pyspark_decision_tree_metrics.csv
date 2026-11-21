@@ -1,0 +1,2 @@
+algorithm,records,train_records,test_records,training_seconds,prediction_seconds,accuracy,weighted_f1,weighted_precision,weighted_recall,balanced_accuracy
+PySpark Decision Tree,2792,2300,492,1.9398659999715164,0.4301674999878742,0.6808943089430894,0.5516314232066142,0.4636170599510873,0.6808943089430894,0.3333333333333333

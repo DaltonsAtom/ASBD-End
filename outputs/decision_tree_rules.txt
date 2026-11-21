@@ -1,0 +1,55 @@
+|--- categorical__Team_India Innings <= 0.500
+|   |--- categorical__Team_West Indies Innings <= 0.500
+|   |   |--- categorical__Team_Australia Innings <= 0.500
+|   |   |   |--- categorical__Team_Sri Lanka Innings <= 0.500
+|   |   |   |   |--- categorical__Team_Scotland Innings <= 0.500
+|   |   |   |   |   |--- class: Low
+|   |   |   |   |--- categorical__Team_Scotland Innings >  0.500
+|   |   |   |   |   |--- class: Medium
+|   |   |   |--- categorical__Team_Sri Lanka Innings >  0.500
+|   |   |   |   |--- categorical__Season_2009 <= 0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |   |--- categorical__Season_2009 >  0.500
+|   |   |   |   |   |--- class: High
+|   |   |--- categorical__Team_Australia Innings >  0.500
+|   |   |   |--- categorical__Season_2010 <= 0.500
+|   |   |   |   |--- categorical__Innings_1 <= 0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |   |--- categorical__Innings_1 >  0.500
+|   |   |   |   |   |--- class: Medium
+|   |   |   |--- categorical__Season_2010 >  0.500
+|   |   |   |   |--- class: High
+|   |--- categorical__Team_West Indies Innings >  0.500
+|   |   |--- categorical__Season_2010 <= 0.500
+|   |   |   |--- categorical__Season_2007 <= 0.500
+|   |   |   |   |--- categorical__Season_2014 <= 0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |   |--- categorical__Season_2014 >  0.500
+|   |   |   |   |   |--- class: Medium
+|   |   |   |--- categorical__Season_2007 >  0.500
+|   |   |   |   |--- class: Low
+|   |   |--- categorical__Season_2010 >  0.500
+|   |   |   |--- categorical__Innings_1 <= 0.500
+|   |   |   |   |--- class: Low
+|   |   |   |--- categorical__Innings_1 >  0.500
+|   |   |   |   |--- class: Medium
+|--- categorical__Team_India Innings >  0.500
+|   |--- categorical__Season_2007 <= 0.500
+|   |   |--- categorical__Season_2014 <= 0.500
+|   |   |   |--- categorical__Season_2009 <= 0.500
+|   |   |   |   |--- categorical__Innings_2 <= 0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |   |--- categorical__Innings_2 >  0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |--- categorical__Season_2009 >  0.500
+|   |   |   |   |--- categorical__Innings_2 <= 0.500
+|   |   |   |   |   |--- class: High
+|   |   |   |   |--- categorical__Innings_2 >  0.500
+|   |   |   |   |   |--- class: Medium
+|   |   |--- categorical__Season_2014 >  0.500
+|   |   |   |--- categorical__Innings_2 <= 0.500
+|   |   |   |   |--- class: High
+|   |   |   |--- categorical__Innings_2 >  0.500
+|   |   |   |   |--- class: High
+|   |--- categorical__Season_2007 >  0.500
+|   |   |--- class: High

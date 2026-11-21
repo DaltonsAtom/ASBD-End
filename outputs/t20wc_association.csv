@@ -1,0 +1,2793 @@
+Season,Matchid,Innings,Team,R,B,4s,6s,SR
+2016,2,1,Afghanistan Innings,61,39,5,3,156.41
+2016,2,1,Afghanistan Innings,17,12,2,1,141.67
+2016,2,1,Afghanistan Innings,55,50,2,1,110.0
+2016,2,1,Afghanistan Innings,12,11,1,0,109.09
+2016,2,1,Afghanistan Innings,1,1,0,0,100.0
+2016,2,1,Afghanistan Innings,14,5,3,0,280.0
+2016,2,1,Afghanistan Innings,3,2,0,0,150.0
+2016,2,2,Scotland Innings,41,29,9,0,141.38
+2016,2,2,Scotland Innings,40,27,4,1,148.15
+2016,2,2,Scotland Innings,2,3,0,0,66.67
+2016,2,2,Scotland Innings,36,31,0,1,116.13
+2016,2,2,Scotland Innings,8,10,0,0,80.0
+2016,2,2,Scotland Innings,17,19,0,0,89.47
+2016,2,2,Scotland Innings,2,2,0,0,100.0
+2016,3,1,Bangladesh Innings,83,58,6,3,143.1
+2016,3,1,Bangladesh Innings,15,13,2,0,115.38
+2016,3,1,Bangladesh Innings,15,15,1,1,100.0
+2016,3,1,Bangladesh Innings,5,7,0,0,71.43
+2016,3,1,Bangladesh Innings,10,9,1,0,111.11
+2016,3,1,Bangladesh Innings,0,2,0,0,0.0
+2016,3,1,Bangladesh Innings,3,7,0,0,42.86
+2016,3,1,Bangladesh Innings,7,5,0,1,140.0
+2016,3,1,Bangladesh Innings,8,4,0,1,200.0
+2016,3,2,Netherlands Innings,29,29,5,0,100.0
+2016,3,2,Netherlands Innings,9,11,1,0,81.82
+2016,3,2,Netherlands Innings,20,15,3,0,133.33
+2016,3,2,Netherlands Innings,29,28,3,0,103.57
+2016,3,2,Netherlands Innings,15,18,2,0,83.33
+2016,3,2,Netherlands Innings,1,3,0,0,33.33
+2016,3,2,Netherlands Innings,7,8,1,0,87.5
+2016,3,2,Netherlands Innings,14,5,1,1,280.0
+2016,3,2,Netherlands Innings,4,3,0,0,133.33
+2016,4,1,Ireland Innings,29,28,3,1,103.57
+2016,4,1,Ireland Innings,29,22,6,0,131.82
+2016,4,1,Ireland Innings,38,34,5,0,111.76
+2016,4,1,Ireland Innings,16,11,1,0,145.45
+2016,4,1,Ireland Innings,14,12,1,0,116.67
+2016,4,1,Ireland Innings,11,10,0,1,110.0
+2016,4,1,Ireland Innings,10,3,2,0,333.33
+2016,4,2,Oman Innings,38,33,6,0,115.15
+2016,4,2,Oman Innings,34,26,4,2,130.77
+2016,4,2,Oman Innings,24,26,1,0,92.31
+2016,4,2,Oman Innings,4,7,0,0,57.14
+2016,4,2,Oman Innings,2,4,0,0,50.0
+2016,4,2,Oman Innings,0,2,0,0,0.0
+2016,4,2,Oman Innings,32,17,5,1,188.24
+2016,4,2,Oman Innings,1,2,0,0,50.0
+2016,4,2,Oman Innings,6,3,1,0,200.0
+2016,4,2,Oman Innings,0,1,0,0,0.0
+2016,5,1,Zimbabwe Innings,4,12,0,0,33.33
+2016,5,1,Zimbabwe Innings,12,10,3,0,120.0
+2016,5,1,Zimbabwe Innings,19,17,2,1,111.76
+2016,5,1,Zimbabwe Innings,53,36,6,0,147.22
+2016,5,1,Zimbabwe Innings,9,9,1,0,100.0
+2016,5,1,Zimbabwe Innings,13,13,1,0,100.0
+2016,5,1,Zimbabwe Innings,20,17,1,1,117.65
+2016,5,1,Zimbabwe Innings,4,6,0,0,66.67
+2016,5,2,Scotland Innings,8,6,2,0,133.33
+2016,5,2,Scotland Innings,3,4,0,0,75.0
+2016,5,2,Scotland Innings,0,1,0,0,0.0
+2016,5,2,Scotland Innings,9,6,2,0,150.0
+2016,5,2,Scotland Innings,36,39,1,1,92.31
+2016,5,2,Scotland Innings,9,13,1,0,69.23
+2016,5,2,Scotland Innings,31,27,2,0,114.81
+2016,5,2,Scotland Innings,1,3,0,0,33.33
+2016,5,2,Scotland Innings,24,13,1,2,184.62
+2016,5,2,Scotland Innings,9,5,1,0,180.0
+2016,5,2,Scotland Innings,0,1,0,0,0.0
+2016,6,1,Hong Kong Innings,16,20,2,0,80.0
+2016,6,1,Hong Kong Innings,27,24,5,0,112.5
+2016,6,1,Hong Kong Innings,0,2,0,0,0.0
+2016,6,1,Hong Kong Innings,8,11,0,0,72.73
+2016,6,1,Hong Kong Innings,28,31,1,0,90.32
+2016,6,1,Hong Kong Innings,8,10,0,0,80.0
+2016,6,1,Hong Kong Innings,11,14,1,0,78.57
+2016,6,1,Hong Kong Innings,6,8,0,0,75.0
+2016,6,2,Afghanistan Innings,41,40,4,2,102.5
+2016,6,2,Afghanistan Innings,35,37,2,0,94.59
+2016,6,2,Afghanistan Innings,17,11,2,0,154.55
+2016,6,2,Afghanistan Innings,17,9,3,0,188.89
+2016,6,2,Afghanistan Innings,3,7,0,0,42.86
+2016,6,2,Afghanistan Innings,4,5,0,0,80.0
+2016,8,1,Bangladesh Innings,47,26,3,4,180.77
+2016,8,1,Bangladesh Innings,20,13,3,0,153.85
+2016,8,1,Bangladesh Innings,13,9,0,1,144.44
+2016,9,1,Afghanistan Innings,40,23,7,1,173.91
+2016,9,1,Afghanistan Innings,10,14,1,0,71.43
+2016,9,1,Afghanistan Innings,0,2,0,0,0.0
+2016,9,1,Afghanistan Innings,7,7,1,0,100.0
+2016,9,1,Afghanistan Innings,43,37,4,1,116.22
+2016,9,1,Afghanistan Innings,52,32,4,2,162.5
+2016,9,1,Afghanistan Innings,9,4,0,1,225.0
+2016,9,1,Afghanistan Innings,0,1,0,0,0.0
+2016,9,2,Zimbabwe Innings,13,21,0,0,61.9
+2016,9,2,Zimbabwe Innings,11,7,0,1,157.14
+2016,9,2,Zimbabwe Innings,10,12,2,0,83.33
+2016,9,2,Zimbabwe Innings,13,16,1,0,81.25
+2016,9,2,Zimbabwe Innings,7,10,0,0,70.0
+2016,9,2,Zimbabwe Innings,15,17,0,0,88.24
+2016,9,2,Zimbabwe Innings,10,10,0,1,100.0
+2016,9,2,Zimbabwe Innings,6,7,1,0,85.71
+2016,9,2,Zimbabwe Innings,2,4,0,0,50.0
+2016,9,2,Zimbabwe Innings,17,7,0,2,242.86
+2016,9,2,Zimbabwe Innings,8,7,1,0,114.29
+2016,10,1,Hong Kong Innings,13,19,2,0,68.42
+2016,10,1,Hong Kong Innings,0,4,0,0,0.0
+2016,10,1,Hong Kong Innings,15,10,3,0,150.0
+2016,10,1,Hong Kong Innings,40,41,1,1,97.56
+2016,10,1,Hong Kong Innings,21,23,0,0,91.3
+2016,10,1,Hong Kong Innings,0,4,0,0,0.0
+2016,10,1,Hong Kong Innings,17,10,0,2,170.0
+2016,10,1,Hong Kong Innings,7,5,1,0,140.0
+2016,10,1,Hong Kong Innings,7,4,1,0,175.0
+2016,10,2,Scotland Innings,19,11,4,0,172.73
+2016,10,2,Scotland Innings,20,19,2,0,105.26
+2016,10,2,Scotland Innings,22,14,1,2,157.14
+2016,10,2,Scotland Innings,15,4,1,1,375.0
+2016,11,1,Netherlands Innings,27,18,5,0,150.0
+2016,11,1,Netherlands Innings,0,2,0,0,0.0
+2016,11,1,Netherlands Innings,2,2,0,0,100.0
+2016,11,1,Netherlands Innings,8,5,0,1,160.0
+2016,11,1,Netherlands Innings,14,9,3,0,155.56
+2016,11,1,Netherlands Innings,0,0,0,0,0.0
+2016,11,2,Ireland Innings,5,6,1,0,83.33
+2016,11,2,Ireland Innings,15,7,0,2,214.29
+2016,11,2,Ireland Innings,0,2,0,0,0.0
+2016,11,2,Ireland Innings,4,4,1,0,100.0
+2016,11,2,Ireland Innings,4,8,0,0,50.0
+2016,11,2,Ireland Innings,0,1,0,0,0.0
+2016,11,2,Ireland Innings,9,7,0,0,128.57
+2016,11,2,Ireland Innings,0,1,0,0,0.0
+2016,11,2,Ireland Innings,1,1,0,0,100.0
+2016,12,1,Bangladesh Innings,103,63,10,5,163.49
+2016,12,1,Bangladesh Innings,12,22,2,0,54.55
+2016,12,1,Bangladesh Innings,44,26,5,1,169.23
+2016,12,1,Bangladesh Innings,17,9,2,1,188.89
+2016,12,2,Oman Innings,0,2,0,0,0.0
+2016,12,2,Oman Innings,8,14,0,1,57.14
+2016,12,2,Oman Innings,25,20,4,0,125.0
+2016,12,2,Oman Innings,13,13,2,0,100.0
+2016,12,2,Oman Innings,0,3,0,0,0.0
+2016,12,2,Oman Innings,4,3,1,0,133.33
+2016,12,2,Oman Innings,4,5,0,0,80.0
+2016,12,2,Oman Innings,1,3,0,0,33.33
+2016,12,2,Oman Innings,1,5,0,0,20.0
+2016,12,2,Oman Innings,3,3,0,0,100.0
+2016,12,2,Oman Innings,1,1,0,0,100.0
+2016,13,1,New Zealand Innings,6,2,0,1,300.0
+2016,13,1,New Zealand Innings,8,16,1,0,50.0
+2016,13,1,New Zealand Innings,7,6,0,1,116.67
+2016,13,1,New Zealand Innings,34,42,3,0,80.95
+2016,13,1,New Zealand Innings,10,14,1,0,71.43
+2016,13,1,New Zealand Innings,18,17,2,0,105.88
+2016,13,1,New Zealand Innings,9,12,0,0,75.0
+2016,13,1,New Zealand Innings,21,11,2,1,190.91
+2016,13,1,New Zealand Innings,0,0,0,0,0.0
+2016,13,2,India Innings,5,7,0,0,71.43
+2016,13,2,India Innings,1,3,0,0,33.33
+2016,13,2,India Innings,23,27,2,0,85.19
+2016,13,2,India Innings,1,2,0,0,50.0
+2016,13,2,India Innings,4,5,1,0,80.0
+2016,13,2,India Innings,30,30,1,1,100.0
+2016,13,2,India Innings,1,7,0,0,14.29
+2016,13,2,India Innings,0,3,0,0,0.0
+2016,13,2,India Innings,10,20,0,0,50.0
+2016,13,2,India Innings,0,4,0,0,0.0
+2016,13,2,India Innings,0,2,0,0,0.0
+2016,14,1,Pakistan Innings,18,10,1,2,180.0
+2016,14,1,Pakistan Innings,52,39,8,0,133.33
+2016,14,1,Pakistan Innings,64,42,7,2,152.38
+2016,14,1,Pakistan Innings,49,19,4,4,257.89
+2016,14,1,Pakistan Innings,0,2,0,0,0.0
+2016,14,1,Pakistan Innings,15,9,2,0,166.67
+2016,14,1,Pakistan Innings,0,0,0,0,0.0
+2016,14,2,Bangladesh Innings,24,20,0,2,120.0
+2016,14,2,Bangladesh Innings,0,2,0,0,0.0
+2016,14,2,Bangladesh Innings,25,19,5,0,131.58
+2016,14,2,Bangladesh Innings,50,40,5,1,125.0
+2016,14,2,Bangladesh Innings,4,5,0,0,80.0
+2016,14,2,Bangladesh Innings,18,21,3,0,85.71
+2016,14,2,Bangladesh Innings,2,4,0,0,50.0
+2016,14,2,Bangladesh Innings,15,9,2,1,166.67
+2016,15,1,England Innings,15,15,2,0,100.0
+2016,15,1,England Innings,28,26,4,0,107.69
+2016,15,1,England Innings,48,36,3,2,133.33
+2016,15,1,England Innings,30,20,0,3,150.0
+2016,15,1,England Innings,27,14,1,2,192.86
+2016,15,1,England Innings,15,7,2,1,214.29
+2016,15,1,England Innings,7,2,0,1,350.0
+2016,15,2,West Indies Innings,0,2,0,0,0.0
+2016,15,2,West Indies Innings,100,48,5,11,208.33
+2016,15,2,West Indies Innings,37,27,8,0,137.04
+2016,15,2,West Indies Innings,12,14,1,0,85.71
+2016,15,2,West Indies Innings,2,4,0,0,50.0
+2016,15,2,West Indies Innings,16,16,2,0,100.0
+2016,16,1,Afghanistan Innings,8,12,1,0,66.67
+2016,16,1,Afghanistan Innings,20,23,3,0,86.96
+2016,16,1,Afghanistan Innings,62,47,3,4,131.91
+2016,16,1,Afghanistan Innings,0,7,0,0,0.0
+2016,16,1,Afghanistan Innings,3,4,0,0,75.0
+2016,16,1,Afghanistan Innings,31,14,3,2,221.43
+2016,16,1,Afghanistan Innings,5,7,0,0,71.43
+2016,16,1,Afghanistan Innings,5,3,0,0,166.67
+2016,16,1,Afghanistan Innings,12,3,1,1,400.0
+2016,16,2,Sri Lanka Innings,18,17,2,1,105.88
+2016,16,2,Sri Lanka Innings,83,56,8,3,148.21
+2016,16,2,Sri Lanka Innings,6,13,1,0,46.15
+2016,16,2,Sri Lanka Innings,12,8,0,1,150.0
+2016,16,2,Sri Lanka Innings,10,9,1,0,111.11
+2016,16,2,Sri Lanka Innings,21,10,3,1,210.0
+2016,17,1,New Zealand Innings,39,27,2,4,144.44
+2016,17,1,New Zealand Innings,24,20,4,0,120.0
+2016,17,1,New Zealand Innings,23,26,2,0,88.46
+2016,17,1,New Zealand Innings,3,6,0,0,50.0
+2016,17,1,New Zealand Innings,11,11,0,1,100.0
+2016,17,1,New Zealand Innings,27,20,3,0,135.0
+2016,17,1,New Zealand Innings,6,7,0,0,85.71
+2016,17,1,New Zealand Innings,1,1,0,0,100.0
+2016,17,1,New Zealand Innings,2,2,0,0,100.0
+2016,17,2,Australia Innings,38,27,6,0,140.74
+2016,17,2,Australia Innings,13,12,1,0,108.33
+2016,17,2,Australia Innings,6,7,1,0,85.71
+2016,17,2,Australia Innings,6,11,0,0,54.55
+2016,17,2,Australia Innings,22,23,2,0,95.65
+2016,17,2,Australia Innings,24,23,0,2,104.35
+2016,17,2,Australia Innings,9,8,0,1,112.5
+2016,17,2,Australia Innings,2,4,0,0,50.0
+2016,17,2,Australia Innings,1,2,0,0,50.0
+2016,17,2,Australia Innings,7,2,0,1,350.0
+2016,17,2,Australia Innings,2,1,0,0,200.0
+2016,18,1,South Africa Innings,58,31,7,3,187.1
+2016,18,1,South Africa Innings,52,24,7,3,216.67
+2016,18,1,South Africa Innings,16,8,0,2,200.0
+2016,18,1,South Africa Innings,17,17,1,0,100.0
+2016,18,1,South Africa Innings,54,28,3,3,192.86
+2016,18,1,South Africa Innings,28,12,2,2,233.33
+2016,18,2,England Innings,43,16,5,3,268.75
+2016,18,2,England Innings,17,7,4,0,242.86
+2016,18,2,England Innings,15,9,1,1,166.67
+2016,18,2,England Innings,83,44,6,4,188.64
+2016,18,2,England Innings,12,15,0,0,80.0
+2016,18,2,England Innings,21,14,1,1,150.0
+2016,18,2,England Innings,8,10,1,0,80.0
+2016,18,2,England Innings,5,3,1,0,166.67
+2016,18,2,England Innings,0,0,0,0,0.0
+2016,18,2,England Innings,0,0,0,0,0.0
+2016,19,1,Pakistan Innings,17,24,2,0,70.83
+2016,19,1,Pakistan Innings,25,28,3,0,89.29
+2016,19,1,Pakistan Innings,8,14,1,0,57.14
+2016,19,1,Pakistan Innings,22,16,1,1,137.5
+2016,19,1,Pakistan Innings,26,16,3,1,162.5
+2016,19,1,Pakistan Innings,8,6,1,0,133.33
+2016,19,1,Pakistan Innings,5,5,0,0,100.0
+2016,19,2,India Innings,10,11,2,0,90.91
+2016,19,2,India Innings,6,15,1,0,40.0
+2016,19,2,India Innings,55,37,7,1,148.65
+2016,19,2,India Innings,0,1,0,0,0.0
+2016,19,2,India Innings,24,23,1,1,104.35
+2016,19,2,India Innings,13,9,0,1,144.44
+2016,20,1,South Africa Innings,45,31,6,2,145.16
+2016,20,1,South Africa Innings,5,5,1,0,100.0
+2016,20,1,South Africa Innings,41,27,7,1,151.85
+2016,20,1,South Africa Innings,64,29,4,5,220.69
+2016,20,1,South Africa Innings,29,20,2,1,145.0
+2016,20,1,South Africa Innings,19,8,2,1,237.5
+2016,20,1,South Africa Innings,0,0,0,0,0.0
+2016,20,2,Afghanistan Innings,44,19,3,5,231.58
+2016,20,2,Afghanistan Innings,25,24,1,1,104.17
+2016,20,2,Afghanistan Innings,7,6,0,1,116.67
+2016,20,2,Afghanistan Innings,26,18,3,1,144.44
+2016,20,2,Afghanistan Innings,11,14,1,0,78.57
+2016,20,2,Afghanistan Innings,25,14,3,0,178.57
+2016,20,2,Afghanistan Innings,12,8,1,1,150.0
+2016,20,2,Afghanistan Innings,11,7,2,0,157.14
+2016,20,2,Afghanistan Innings,0,2,0,0,0.0
+2016,20,2,Afghanistan Innings,3,6,0,0,50.0
+2016,20,2,Afghanistan Innings,1,2,0,0,50.0
+2016,21,1,Sri Lanka Innings,16,18,1,1,88.89
+2016,21,1,Sri Lanka Innings,12,10,1,1,120.0
+2016,21,1,Sri Lanka Innings,5,7,1,0,71.43
+2016,21,1,Sri Lanka Innings,6,10,1,0,60.0
+2016,21,1,Sri Lanka Innings,20,32,0,0,62.5
+2016,21,1,Sri Lanka Innings,0,3,0,0,0.0
+2016,21,1,Sri Lanka Innings,40,29,5,1,137.93
+2016,21,1,Sri Lanka Innings,7,8,0,0,87.5
+2016,21,1,Sri Lanka Innings,3,3,0,0,100.0
+2016,21,1,Sri Lanka Innings,0,1,0,0,0.0
+2016,21,1,Sri Lanka Innings,0,0,0,0,0.0
+2016,21,2,West Indies Innings,84,64,6,5,131.25
+2016,21,2,West Indies Innings,10,13,1,0,76.92
+2016,21,2,West Indies Innings,3,12,0,0,25.0
+2016,21,2,West Indies Innings,5,13,0,0,38.46
+2016,21,2,West Indies Innings,20,8,3,1,250.0
+2016,23,1,New Zealand Innings,80,48,10,3,166.67
+2016,23,1,New Zealand Innings,17,21,1,0,80.95
+2016,23,1,New Zealand Innings,7,6,1,0,116.67
+2016,23,1,New Zealand Innings,21,14,3,0,150.0
+2016,23,1,New Zealand Innings,36,23,2,1,156.52
+2016,23,1,New Zealand Innings,11,7,0,1,157.14
+2016,23,1,New Zealand Innings,1,1,0,0,100.0
+2016,23,2,Pakistan Innings,47,25,9,1,188.0
+2016,23,2,Pakistan Innings,30,32,3,0,93.75
+2016,23,2,Pakistan Innings,3,7,0,0,42.86
+2016,23,2,Pakistan Innings,24,26,0,0,92.31
+2016,23,2,Pakistan Innings,19,9,2,1,211.11
+2016,23,2,Pakistan Innings,15,13,0,0,115.38
+2016,23,2,Pakistan Innings,11,8,0,0,137.5
+2016,24,1,England Innings,5,7,1,0,71.43
+2016,24,1,England Innings,22,18,4,0,122.22
+2016,24,1,England Innings,12,8,1,1,150.0
+2016,24,1,England Innings,0,1,0,0,0.0
+2016,24,1,England Innings,7,8,1,0,87.5
+2016,24,1,England Innings,6,10,1,0,60.0
+2016,24,1,England Innings,41,33,4,1,124.24
+2016,24,1,England Innings,15,18,2,0,83.33
+2016,24,1,England Innings,20,17,0,2,117.65
+2016,24,2,Afghanistan Innings,4,3,1,0,133.33
+2016,24,2,Afghanistan Innings,17,19,0,0,89.47
+2016,24,2,Afghanistan Innings,1,4,0,0,25.0
+2016,24,2,Afghanistan Innings,0,5,0,0,0.0
+2016,24,2,Afghanistan Innings,15,20,1,1,75.0
+2016,24,2,Afghanistan Innings,12,10,0,1,120.0
+2016,24,2,Afghanistan Innings,22,27,1,0,81.48
+2016,24,2,Afghanistan Innings,14,10,1,1,140.0
+2016,24,2,Afghanistan Innings,35,20,4,2,175.0
+2016,24,2,Afghanistan Innings,1,2,0,0,50.0
+2016,24,2,Afghanistan Innings,0,0,0,0,0.0
+2016,25,1,India Innings,18,16,1,1,112.5
+2016,25,1,India Innings,23,22,2,1,104.55
+2016,25,1,India Innings,24,24,0,1,100.0
+2016,25,1,India Innings,30,23,1,2,130.43
+2016,25,1,India Innings,15,7,2,1,214.29
+2016,25,1,India Innings,13,12,1,0,108.33
+2016,25,1,India Innings,3,6,0,0,50.0
+2016,25,1,India Innings,12,8,2,0,150.0
+2016,25,1,India Innings,5,2,1,0,250.0
+2016,25,2,Bangladesh Innings,35,32,5,0,109.38
+2016,25,2,Bangladesh Innings,1,3,0,0,33.33
+2016,25,2,Bangladesh Innings,26,15,3,1,173.33
+2016,25,2,Bangladesh Innings,22,15,0,2,146.67
+2016,25,2,Bangladesh Innings,6,5,0,1,120.0
+2016,25,2,Bangladesh Innings,18,22,1,0,81.82
+2016,25,2,Bangladesh Innings,21,21,1,1,100.0
+2016,25,2,Bangladesh Innings,11,6,2,0,183.33
+2016,25,2,Bangladesh Innings,0,1,0,0,0.0
+2016,25,2,Bangladesh Innings,0,0,0,0,0.0
+2016,26,1,Australia Innings,21,16,3,1,131.25
+2016,26,1,Australia Innings,15,16,1,0,93.75
+2016,26,1,Australia Innings,9,6,2,0,150.0
+2016,26,1,Australia Innings,61,43,7,0,141.86
+2016,26,1,Australia Innings,30,18,3,1,166.67
+2016,26,1,Australia Innings,44,21,4,3,209.52
+2016,26,2,Pakistan Innings,30,19,6,0,157.89
+2016,26,2,Pakistan Innings,1,6,0,0,16.67
+2016,26,2,Pakistan Innings,46,41,4,1,112.2
+2016,26,2,Pakistan Innings,32,20,3,1,160.0
+2016,26,2,Pakistan Innings,14,7,0,2,200.0
+2016,26,2,Pakistan Innings,40,20,2,2,200.0
+2016,26,2,Pakistan Innings,0,1,0,0,0.0
+2016,26,2,Pakistan Innings,2,3,0,0,66.67
+2016,26,2,Pakistan Innings,0,1,0,0,0.0
+2016,26,2,Pakistan Innings,4,2,1,0,200.0
+2016,27,1,South Africa Innings,1,1,0,0,100.0
+2016,27,1,South Africa Innings,47,46,3,1,102.17
+2016,27,1,South Africa Innings,9,7,0,1,128.57
+2016,27,1,South Africa Innings,0,2,0,0,0.0
+2016,27,1,South Africa Innings,10,12,1,0,83.33
+2016,27,1,South Africa Innings,1,4,0,0,25.0
+2016,27,1,South Africa Innings,28,26,2,0,107.69
+2016,27,1,South Africa Innings,16,17,2,0,94.12
+2016,27,1,South Africa Innings,4,5,0,0,80.0
+2016,27,2,West Indies Innings,32,35,2,1,91.43
+2016,27,2,West Indies Innings,4,2,1,0,200.0
+2016,27,2,West Indies Innings,11,11,0,1,100.0
+2016,27,2,West Indies Innings,43,44,6,0,97.73
+2016,27,2,West Indies Innings,8,6,1,0,133.33
+2016,27,2,West Indies Innings,4,8,0,0,50.0
+2016,27,2,West Indies Innings,0,1,0,0,0.0
+2016,27,2,West Indies Innings,10,10,0,1,100.0
+2016,27,2,West Indies Innings,1,1,0,0,100.0
+2016,28,1,New Zealand Innings,7,11,1,0,63.64
+2016,28,1,New Zealand Innings,42,32,5,1,131.25
+2016,28,1,New Zealand Innings,35,33,1,2,106.06
+2016,28,1,New Zealand Innings,28,24,2,1,116.67
+2016,28,1,New Zealand Innings,0,3,0,0,0.0
+2016,28,1,New Zealand Innings,9,7,1,0,128.57
+2016,28,1,New Zealand Innings,9,5,1,0,180.0
+2016,28,1,New Zealand Innings,3,3,0,0,100.0
+2016,28,1,New Zealand Innings,0,1,0,0,0.0
+2016,28,1,New Zealand Innings,6,1,0,1,600.0
+2016,28,2,Bangladesh Innings,3,8,0,0,37.5
+2016,28,2,Bangladesh Innings,11,17,1,0,64.71
+2016,28,2,Bangladesh Innings,12,18,1,0,66.67
+2016,28,2,Bangladesh Innings,2,6,0,0,33.33
+2016,28,2,Bangladesh Innings,6,8,0,0,75.0
+2016,28,2,Bangladesh Innings,5,8,0,0,62.5
+2016,28,2,Bangladesh Innings,0,2,0,0,0.0
+2016,28,2,Bangladesh Innings,16,17,2,0,94.12
+2016,28,2,Bangladesh Innings,3,5,0,0,60.0
+2016,28,2,Bangladesh Innings,6,3,0,1,200.0
+2016,28,2,Bangladesh Innings,0,2,0,0,0.0
+2016,29,1,England Innings,42,39,3,2,107.69
+2016,29,1,England Innings,0,4,0,0,0.0
+2016,29,1,England Innings,25,24,4,0,104.17
+2016,29,1,England Innings,66,37,8,2,178.38
+2016,29,1,England Innings,22,16,1,1,137.5
+2016,29,1,England Innings,6,1,0,1,600.0
+2016,29,2,Sri Lanka Innings,1,3,0,0,33.33
+2016,29,2,Sri Lanka Innings,2,2,0,0,100.0
+2016,29,2,Sri Lanka Innings,7,7,0,1,100.0
+2016,29,2,Sri Lanka Innings,3,5,0,0,60.0
+2016,29,2,Sri Lanka Innings,73,54,3,5,135.19
+2016,29,2,Sri Lanka Innings,30,27,2,1,111.11
+2016,29,2,Sri Lanka Innings,20,11,1,2,181.82
+2016,29,2,Sri Lanka Innings,15,9,2,1,166.67
+2016,29,2,Sri Lanka Innings,1,2,0,0,50.0
+2016,29,2,Sri Lanka Innings,0,0,0,0,0.0
+2016,30,1,Afghanistan Innings,24,22,2,1,109.09
+2016,30,1,Afghanistan Innings,4,6,1,0,66.67
+2016,30,1,Afghanistan Innings,16,22,0,1,72.73
+2016,30,1,Afghanistan Innings,8,14,0,0,57.14
+2016,30,1,Afghanistan Innings,1,3,0,0,33.33
+2016,30,1,Afghanistan Innings,48,40,4,1,120.0
+2016,30,1,Afghanistan Innings,9,8,1,0,112.5
+2016,30,1,Afghanistan Innings,4,4,0,0,100.0
+2016,30,1,Afghanistan Innings,6,1,0,1,600.0
+2016,30,2,West Indies Innings,22,15,1,2,146.67
+2016,30,2,West Indies Innings,0,7,0,0,0.0
+2016,30,2,West Indies Innings,11,13,2,0,84.62
+2016,30,2,West Indies Innings,5,5,1,0,100.0
+2016,30,2,West Indies Innings,18,24,0,0,75.0
+2016,30,2,West Indies Innings,28,29,1,1,96.55
+2016,30,2,West Indies Innings,7,9,0,0,77.78
+2016,30,2,West Indies Innings,6,10,0,0,60.0
+2016,30,2,West Indies Innings,13,8,0,2,162.5
+2016,30,2,West Indies Innings,2,2,0,0,100.0
+2016,31,1,Australia Innings,26,16,6,0,162.5
+2016,31,1,Australia Innings,43,34,3,2,126.47
+2016,31,1,Australia Innings,6,9,0,0,66.67
+2016,31,1,Australia Innings,2,6,0,0,33.33
+2016,31,1,Australia Innings,31,28,1,1,110.71
+2016,31,1,Australia Innings,18,16,2,0,112.5
+2016,31,1,Australia Innings,10,10,1,0,100.0
+2016,31,1,Australia Innings,10,2,1,1,500.0
+2016,31,2,India Innings,12,17,1,0,70.59
+2016,31,2,India Innings,13,12,1,1,108.33
+2016,31,2,India Innings,82,51,9,2,160.78
+2016,31,2,India Innings,10,7,1,0,142.86
+2016,31,2,India Innings,21,18,1,1,116.67
+2016,31,2,India Innings,18,10,3,0,180.0
+2016,32,1,Sri Lanka Innings,21,20,2,1,105.0
+2016,32,1,Sri Lanka Innings,36,40,4,1,90.0
+2016,32,1,Sri Lanka Innings,0,1,0,0,0.0
+2016,32,1,Sri Lanka Innings,15,10,2,0,150.0
+2016,32,1,Sri Lanka Innings,1,3,0,0,33.33
+2016,32,1,Sri Lanka Innings,4,7,0,0,57.14
+2016,32,1,Sri Lanka Innings,8,7,1,0,114.29
+2016,32,1,Sri Lanka Innings,20,18,1,1,111.11
+2016,32,1,Sri Lanka Innings,2,5,0,0,40.0
+2016,32,1,Sri Lanka Innings,3,7,0,0,42.86
+2016,32,1,Sri Lanka Innings,0,1,0,0,0.0
+2016,32,2,South Africa Innings,56,52,5,1,107.69
+2016,32,2,South Africa Innings,9,6,2,0,150.0
+2016,32,2,South Africa Innings,31,36,3,0,86.11
+2016,32,2,South Africa Innings,20,12,0,2,166.67
+2016,33,1,New Zealand Innings,15,12,3,0,125.0
+2016,33,1,New Zealand Innings,32,28,3,1,114.29
+2016,33,1,New Zealand Innings,46,32,7,1,143.75
+2016,33,1,New Zealand Innings,28,23,2,1,121.74
+2016,33,1,New Zealand Innings,6,8,0,0,75.0
+2016,33,1,New Zealand Innings,3,3,0,0,100.0
+2016,33,1,New Zealand Innings,4,6,0,0,66.67
+2016,33,1,New Zealand Innings,7,6,1,0,116.67
+2016,33,1,New Zealand Innings,1,2,0,0,50.0
+2016,33,2,England Innings,78,44,11,2,177.27
+2016,33,2,England Innings,20,19,1,1,105.26
+2016,33,2,England Innings,27,22,3,0,122.73
+2016,33,2,England Innings,0,1,0,0,0.0
+2016,33,2,England Innings,32,17,2,3,188.24
+2016,34,1,India Innings,43,31,3,3,138.71
+2016,34,1,India Innings,40,35,2,0,114.29
+2016,34,1,India Innings,89,47,11,1,189.36
+2016,34,1,India Innings,15,9,1,0,166.67
+2016,34,2,West Indies Innings,52,36,7,2,144.44
+2016,34,2,West Indies Innings,5,6,1,0,83.33
+2016,34,2,West Indies Innings,8,7,2,0,114.29
+2016,34,2,West Indies Innings,82,51,7,5,160.78
+2016,34,2,West Indies Innings,43,20,3,4,215.0
+2016,35,1,England Innings,0,2,0,0,0.0
+2016,35,1,England Innings,1,3,0,0,33.33
+2016,35,1,England Innings,54,36,7,0,150.0
+2016,35,1,England Innings,5,12,1,0,41.67
+2016,35,1,England Innings,36,22,1,3,163.64
+2016,35,1,England Innings,13,8,1,0,162.5
+2016,35,1,England Innings,0,2,0,0,0.0
+2016,35,1,England Innings,12,13,1,0,92.31
+2016,35,1,England Innings,21,14,1,2,150.0
+2016,35,1,England Innings,4,4,0,0,100.0
+2016,35,1,England Innings,4,4,0,0,100.0
+2016,35,2,West Indies Innings,1,7,0,0,14.29
+2016,35,2,West Indies Innings,4,2,1,0,200.0
+2016,35,2,West Indies Innings,85,66,9,2,128.79
+2016,35,2,West Indies Innings,0,1,0,0,0.0
+2016,35,2,West Indies Innings,25,27,1,1,92.59
+2016,35,2,West Indies Innings,1,3,0,0,33.33
+2016,35,2,West Indies Innings,2,2,0,0,100.0
+2016,35,2,West Indies Innings,34,10,1,4,340.0
+2016,1,1,Zimbabwe Innings,0,2,0,0,0.0
+2016,1,1,Zimbabwe Innings,2,5,0,0,40.0
+2016,1,1,Zimbabwe Innings,0,1,0,0,0.0
+2016,1,2,Hong Kong Innings,53,44,4,2,120.45
+2016,1,2,Hong Kong Innings,9,19,1,0,47.37
+2016,1,2,Hong Kong Innings,9,12,1,0,75.0
+2016,1,2,Hong Kong Innings,19,17,2,1,111.76
+2016,1,2,Hong Kong Innings,13,8,2,0,162.5
+2016,1,2,Hong Kong Innings,31,17,3,1,182.35
+2016,1,2,Hong Kong Innings,0,1,0,0,0.0
+2016,1,2,Hong Kong Innings,0,3,0,0,0.0
+2016,22,1,Bangladesh Innings,23,22,1,1,104.55
+2016,22,1,Bangladesh Innings,1,6,0,0,16.67
+2016,22,1,Bangladesh Innings,12,17,2,0,70.59
+2016,22,1,Bangladesh Innings,33,25,3,1,132.0
+2016,22,1,Bangladesh Innings,13,10,1,1,130.0
+2016,22,1,Bangladesh Innings,49,29,7,1,168.97
+2016,22,1,Bangladesh Innings,15,11,2,0,136.36
+2016,22,2,Australia Innings,58,45,7,1,128.89
+2016,22,2,Australia Innings,21,15,2,1,140.0
+2016,22,2,Australia Innings,14,13,0,1,107.69
+2016,22,2,Australia Innings,17,9,1,1,188.89
+2016,22,2,Australia Innings,26,15,2,2,173.33
+2016,22,2,Australia Innings,6,6,1,0,100.0
+2016,22,2,Australia Innings,5,3,1,0,166.67
+2016,22,2,Australia Innings,3,4,0,0,75.0
+2016,22,2,Australia Innings,1,1,0,0,100.0
+2014,2,1,Nepal Innings,22,16,4,0,137.5
+2014,2,1,Nepal Innings,13,13,2,0,100.0
+2014,2,1,Nepal Innings,48,41,4,1,117.07
+2014,2,1,Nepal Innings,41,37,4,0,110.81
+2014,2,1,Nepal Innings,1,2,0,0,50.0
+2014,2,1,Nepal Innings,14,9,2,0,155.56
+2014,2,1,Nepal Innings,0,0,0,0,0.0
+2014,2,1,Nepal Innings,0,1,0,0,0.0
+2014,2,1,Nepal Innings,0,1,0,0,0.0
+2014,2,2,Hong Kong Innings,0,1,0,0,0.0
+2014,2,2,Hong Kong Innings,18,19,3,0,94.74
+2014,2,2,Hong Kong Innings,6,7,1,0,85.71
+2014,2,2,Hong Kong Innings,20,25,2,0,80.0
+2014,2,2,Hong Kong Innings,13,12,1,0,108.33
+2014,2,2,Hong Kong Innings,0,1,0,0,0.0
+2014,2,2,Hong Kong Innings,0,5,0,0,0.0
+2014,2,2,Hong Kong Innings,0,3,0,0,0.0
+2014,2,2,Hong Kong Innings,2,9,0,0,22.22
+2014,2,2,Hong Kong Innings,4,9,0,0,44.44
+2014,2,2,Hong Kong Innings,5,11,0,0,45.45
+2014,4,1,United Arab Emirates Innings,5,6,1,0,83.33
+2014,4,1,United Arab Emirates Innings,6,4,0,1,150.0
+2014,4,1,United Arab Emirates Innings,31,25,4,0,124.0
+2014,4,1,United Arab Emirates Innings,23,28,2,0,82.14
+2014,4,1,United Arab Emirates Innings,32,19,4,1,168.42
+2014,4,1,United Arab Emirates Innings,20,14,2,0,142.86
+2014,4,1,United Arab Emirates Innings,2,2,0,0,100.0
+2014,4,1,United Arab Emirates Innings,10,12,1,0,83.33
+2014,4,1,United Arab Emirates Innings,3,6,0,0,50.0
+2014,4,1,United Arab Emirates Innings,0,2,0,0,0.0
+2014,4,1,United Arab Emirates Innings,1,1,0,0,100.0
+2014,4,2,Netherlands Innings,55,36,7,2,152.78
+2014,4,2,Netherlands Innings,26,16,3,1,162.5
+2014,4,2,Netherlands Innings,24,21,1,1,114.29
+2014,4,2,Netherlands Innings,34,26,4,1,130.77
+2014,4,2,Netherlands Innings,3,8,0,0,37.5
+2014,4,2,Netherlands Innings,6,6,1,0,100.0
+2014,5,1,Hong Kong Innings,0,1,0,0,0.0
+2014,5,1,Hong Kong Innings,32,32,3,0,100.0
+2014,5,1,Hong Kong Innings,31,20,5,1,155.0
+2014,5,1,Hong Kong Innings,38,43,3,1,88.37
+2014,5,1,Hong Kong Innings,5,3,1,0,166.67
+2014,5,1,Hong Kong Innings,9,4,0,1,225.0
+2014,5,1,Hong Kong Innings,3,6,0,0,50.0
+2014,5,1,Hong Kong Innings,11,6,1,1,183.33
+2014,5,1,Hong Kong Innings,7,6,1,0,116.67
+2014,5,1,Hong Kong Innings,1,1,0,0,100.0
+2014,5,2,Afghanistan Innings,7,6,1,0,116.67
+2014,5,2,Afghanistan Innings,68,53,6,3,128.3
+2014,5,2,Afghanistan Innings,13,21,0,0,61.9
+2014,5,2,Afghanistan Innings,51,24,5,3,212.5
+2014,5,2,Afghanistan Innings,6,5,0,0,120.0
+2014,6,1,Nepal Innings,8,13,0,0,61.54
+2014,6,1,Nepal Innings,12,19,2,0,63.16
+2014,6,1,Nepal Innings,13,6,2,0,216.67
+2014,6,1,Nepal Innings,41,35,5,0,117.14
+2014,6,1,Nepal Innings,40,43,5,0,93.02
+2014,6,1,Nepal Innings,0,4,0,0,0.0
+2014,6,2,Bangladesh Innings,30,22,2,1,136.36
+2014,6,2,Bangladesh Innings,42,33,5,2,127.27
+2014,6,2,Bangladesh Innings,21,20,1,1,105.0
+2014,6,2,Bangladesh Innings,37,18,1,4,205.56
+2014,7,1,Netherlands Innings,3,8,0,0,37.5
+2014,7,1,Netherlands Innings,0,1,0,0,0.0
+2014,7,1,Netherlands Innings,12,6,3,0,200.0
+2014,7,1,Netherlands Innings,8,7,2,0,114.29
+2014,7,1,Netherlands Innings,72,58,9,1,124.14
+2014,7,1,Netherlands Innings,20,24,1,0,83.33
+2014,7,1,Netherlands Innings,14,16,0,0,87.5
+2014,7,2,Zimbabwe Innings,43,45,3,1,95.56
+2014,7,2,Zimbabwe Innings,13,12,2,0,108.33
+2014,7,2,Zimbabwe Innings,49,39,2,1,125.64
+2014,7,2,Zimbabwe Innings,0,2,0,0,0.0
+2014,7,2,Zimbabwe Innings,26,19,2,0,136.84
+2014,7,2,Zimbabwe Innings,9,3,0,1,300.0
+2014,7,2,Zimbabwe Innings,0,0,0,0,0.0
+2014,10,1,Bangladesh Innings,0,2,0,0,0.0
+2014,10,1,Bangladesh Innings,26,17,3,1,152.94
+2014,10,1,Bangladesh Innings,2,4,0,0,50.0
+2014,10,1,Bangladesh Innings,34,27,6,0,125.93
+2014,10,1,Bangladesh Innings,23,18,3,0,127.78
+2014,10,1,Bangladesh Innings,14,17,0,0,82.35
+2014,10,1,Bangladesh Innings,2,3,0,0,66.67
+2014,10,1,Bangladesh Innings,0,2,0,0,0.0
+2014,10,1,Bangladesh Innings,0,1,0,0,0.0
+2014,10,1,Bangladesh Innings,0,3,0,0,0.0
+2014,10,1,Bangladesh Innings,1,5,0,0,20.0
+2014,10,2,Hong Kong Innings,0,2,0,0,0.0
+2014,10,2,Hong Kong Innings,34,28,3,3,121.43
+2014,10,2,Hong Kong Innings,7,14,0,0,50.0
+2014,10,2,Hong Kong Innings,5,7,0,0,71.43
+2014,10,2,Hong Kong Innings,1,4,0,0,25.0
+2014,10,2,Hong Kong Innings,12,21,0,0,57.14
+2014,10,2,Hong Kong Innings,36,27,3,1,133.33
+2014,10,2,Hong Kong Innings,0,7,0,0,0.0
+2014,10,2,Hong Kong Innings,12,6,0,1,200.0
+2014,10,2,Hong Kong Innings,2,2,0,0,100.0
+2014,11,1,United Arab Emirates Innings,6,6,1,0,100.0
+2014,11,1,United Arab Emirates Innings,1,3,0,0,33.33
+2014,11,1,United Arab Emirates Innings,26,27,3,0,96.3
+2014,11,1,United Arab Emirates Innings,30,26,5,0,115.38
+2014,11,1,United Arab Emirates Innings,4,8,0,0,50.0
+2014,11,1,United Arab Emirates Innings,1,4,0,0,25.0
+2014,11,1,United Arab Emirates Innings,8,10,0,0,80.0
+2014,11,1,United Arab Emirates Innings,0,4,0,0,0.0
+2014,11,1,United Arab Emirates Innings,13,16,1,0,81.25
+2014,11,1,United Arab Emirates Innings,21,15,1,2,140.0
+2014,11,1,United Arab Emirates Innings,1,1,0,0,100.0
+2014,11,2,Zimbabwe Innings,2,4,0,0,50.0
+2014,11,2,Zimbabwe Innings,9,14,1,0,64.29
+2014,11,2,Zimbabwe Innings,15,7,2,1,214.29
+2014,11,2,Zimbabwe Innings,0,3,0,0,0.0
+2014,11,2,Zimbabwe Innings,16,19,0,1,84.21
+2014,11,2,Zimbabwe Innings,53,21,6,3,252.38
+2014,11,2,Zimbabwe Innings,22,14,3,0,157.14
+2014,12,1,Ireland Innings,47,32,5,2,146.88
+2014,12,1,Ireland Innings,7,9,1,0,77.78
+2014,12,1,Ireland Innings,28,25,1,1,112.0
+2014,12,1,Ireland Innings,57,38,4,4,150.0
+2014,12,1,Ireland Innings,42,16,2,4,262.5
+2014,12,2,Netherlands Innings,31,15,4,2,206.67
+2014,12,2,Netherlands Innings,63,23,4,7,273.91
+2014,12,2,Netherlands Innings,40,22,3,3,181.82
+2014,12,2,Netherlands Innings,1,3,0,0,33.33
+2014,12,2,Netherlands Innings,45,15,1,6,300.0
+2014,12,2,Netherlands Innings,9,5,0,1,180.0
+2014,13,1,Pakistan Innings,8,10,2,0,80.0
+2014,13,1,Pakistan Innings,22,17,2,0,129.41
+2014,13,1,Pakistan Innings,15,22,1,0,68.18
+2014,13,1,Pakistan Innings,33,30,2,0,110.0
+2014,13,1,Pakistan Innings,18,20,1,1,90.0
+2014,13,1,Pakistan Innings,8,10,1,0,80.0
+2014,13,1,Pakistan Innings,21,11,2,1,190.91
+2014,13,1,Pakistan Innings,0,0,0,0,0.0
+2014,13,2,India Innings,24,21,1,2,114.29
+2014,13,2,India Innings,30,28,5,0,107.14
+2014,13,2,India Innings,36,32,4,1,112.5
+2014,13,2,India Innings,1,2,0,0,50.0
+2014,13,2,India Innings,35,28,4,1,125.0
+2014,14,1,Sri Lanka Innings,61,40,6,3,152.5
+2014,14,1,Sri Lanka Innings,0,1,0,0,0.0
+2014,14,1,Sri Lanka Innings,9,9,1,0,100.0
+2014,14,1,Sri Lanka Innings,14,18,1,0,77.78
+2014,14,1,Sri Lanka Innings,43,32,3,1,134.38
+2014,14,1,Sri Lanka Innings,12,9,1,0,133.33
+2014,14,1,Sri Lanka Innings,8,6,1,0,133.33
+2014,14,1,Sri Lanka Innings,7,4,1,0,175.0
+2014,14,1,Sri Lanka Innings,1,1,0,0,100.0
+2014,14,2,South Africa Innings,25,18,4,1,138.89
+2014,14,2,South Africa Innings,23,26,2,0,88.46
+2014,14,2,South Africa Innings,39,30,3,2,130.0
+2014,14,2,South Africa Innings,24,16,3,0,150.0
+2014,14,2,South Africa Innings,19,16,1,0,118.75
+2014,14,2,South Africa Innings,12,4,0,2,300.0
+2014,14,2,South Africa Innings,5,4,0,0,125.0
+2014,14,2,South Africa Innings,0,2,0,0,0.0
+2014,14,2,South Africa Innings,0,0,0,0,0.0
+2014,14,2,South Africa Innings,8,4,0,1,200.0
+2014,16,1,Pakistan Innings,5,5,1,0,100.0
+2014,16,1,Pakistan Innings,31,31,4,0,100.0
+2014,16,1,Pakistan Innings,13,10,2,0,130.0
+2014,16,1,Pakistan Innings,94,54,9,4,174.07
+2014,16,1,Pakistan Innings,5,7,0,0,71.43
+2014,16,1,Pakistan Innings,20,11,2,1,181.82
+2014,16,1,Pakistan Innings,6,3,1,0,200.0
+2014,16,2,Australia Innings,4,2,1,0,200.0
+2014,16,2,Australia Innings,65,54,7,2,120.37
+2014,16,2,Australia Innings,4,4,1,0,100.0
+2014,16,2,Australia Innings,74,33,7,6,224.24
+2014,16,2,Australia Innings,4,9,0,0,44.44
+2014,16,2,Australia Innings,2,3,0,0,66.67
+2014,16,2,Australia Innings,8,8,0,0,100.0
+2014,16,2,Australia Innings,0,3,0,0,0.0
+2014,16,2,Australia Innings,3,2,0,0,150.0
+2014,16,2,Australia Innings,3,3,0,0,100.0
+2014,16,2,Australia Innings,0,0,0,0,0.0
+2014,17,1,West Indies Innings,11,29,2,0,37.93
+2014,17,1,West Indies Innings,34,33,1,2,103.03
+2014,17,1,West Indies Innings,18,22,3,0,81.82
+2014,17,1,West Indies Innings,27,22,1,2,122.73
+2014,17,1,West Indies Innings,0,1,0,0,0.0
+2014,17,1,West Indies Innings,11,7,2,0,157.14
+2014,17,1,West Indies Innings,7,5,0,1,140.0
+2014,17,1,West Indies Innings,7,2,0,1,350.0
+2014,17,1,West Indies Innings,0,0,0,0,0.0
+2014,17,2,India Innings,62,55,5,2,112.73
+2014,17,2,India Innings,0,3,0,0,0.0
+2014,17,2,India Innings,54,41,5,1,131.71
+2014,17,2,India Innings,10,19,1,0,52.63
+2014,17,2,India Innings,1,1,0,0,100.0
+2014,19,1,Netherlands Innings,0,3,0,0,0.0
+2014,19,1,Netherlands Innings,0,4,0,0,0.0
+2014,19,1,Netherlands Innings,1,4,0,0,25.0
+2014,19,1,Netherlands Innings,16,18,2,0,88.89
+2014,19,1,Netherlands Innings,0,7,0,0,0.0
+2014,19,1,Netherlands Innings,8,10,1,0,80.0
+2014,19,1,Netherlands Innings,4,8,0,0,50.0
+2014,19,1,Netherlands Innings,1,4,0,0,25.0
+2014,19,1,Netherlands Innings,3,3,0,0,100.0
+2014,19,1,Netherlands Innings,0,0,0,0,0.0
+2014,19,1,Netherlands Innings,0,2,0,0,0.0
+2014,19,2,Sri Lanka Innings,14,10,1,1,140.0
+2014,19,2,Sri Lanka Innings,12,11,2,0,109.09
+2014,19,2,Sri Lanka Innings,11,10,2,0,110.0
+2014,20,1,West Indies Innings,72,43,10,3,167.44
+2014,20,1,West Indies Innings,48,48,3,2,100.0
+2014,20,1,West Indies Innings,0,0,0,0,0.0
+2014,20,1,West Indies Innings,18,22,1,0,81.82
+2014,20,1,West Indies Innings,14,5,3,0,280.0
+2014,20,1,West Indies Innings,0,1,0,0,0.0
+2014,20,1,West Indies Innings,0,1,0,0,0.0
+2014,20,1,West Indies Innings,0,1,0,0,0.0
+2014,20,2,Bangladesh Innings,5,10,1,0,50.0
+2014,20,2,Bangladesh Innings,10,7,2,0,142.86
+2014,20,2,Bangladesh Innings,16,19,2,0,84.21
+2014,20,2,Bangladesh Innings,0,1,0,0,0.0
+2014,20,2,Bangladesh Innings,22,22,2,1,100.0
+2014,20,2,Bangladesh Innings,1,3,0,0,33.33
+2014,20,2,Bangladesh Innings,1,3,0,0,33.33
+2014,20,2,Bangladesh Innings,9,13,0,0,69.23
+2014,20,2,Bangladesh Innings,11,20,0,0,55.0
+2014,20,2,Bangladesh Innings,19,17,3,0,111.76
+2014,20,2,Bangladesh Innings,0,0,0,0,0.0
+2014,21,1,South Africa Innings,43,22,7,1,195.45
+2014,21,1,South Africa Innings,0,2,0,0,0.0
+2014,21,1,South Africa Innings,24,14,3,1,171.43
+2014,21,1,South Africa Innings,21,21,1,0,100.0
+2014,21,1,South Africa Innings,5,11,0,0,45.45
+2014,21,1,South Africa Innings,12,15,0,0,80.0
+2014,21,1,South Africa Innings,17,18,0,0,94.44
+2014,21,1,South Africa Innings,5,4,1,0,125.0
+2014,21,1,South Africa Innings,3,4,0,0,75.0
+2014,21,1,South Africa Innings,9,7,1,0,128.57
+2014,21,1,South Africa Innings,1,2,0,0,50.0
+2014,21,2,Netherlands Innings,51,28,8,2,182.14
+2014,21,2,Netherlands Innings,8,12,1,0,66.67
+2014,21,2,Netherlands Innings,14,9,1,1,155.56
+2014,21,2,Netherlands Innings,13,10,1,1,130.0
+2014,21,2,Netherlands Innings,16,13,2,0,123.08
+2014,21,2,Netherlands Innings,5,6,0,0,83.33
+2014,21,2,Netherlands Innings,11,12,1,0,91.67
+2014,21,2,Netherlands Innings,2,4,0,0,50.0
+2014,21,2,Netherlands Innings,1,5,0,0,20.0
+2014,21,2,Netherlands Innings,8,12,0,0,66.67
+2014,21,2,Netherlands Innings,1,1,0,0,100.0
+2014,22,1,Sri Lanka Innings,55,47,4,2,117.02
+2014,22,1,Sri Lanka Innings,3,6,0,0,50.0
+2014,22,1,Sri Lanka Innings,89,51,11,3,174.51
+2014,22,1,Sri Lanka Innings,23,12,2,1,191.67
+2014,22,1,Sri Lanka Innings,0,1,0,0,0.0
+2014,22,1,Sri Lanka Innings,11,5,0,1,220.0
+2014,22,2,England Innings,0,5,0,0,0.0
+2014,22,2,England Innings,116,64,11,6,181.25
+2014,22,2,England Innings,0,1,0,0,0.0
+2014,22,2,England Innings,57,38,7,2,150.0
+2014,22,2,England Innings,2,3,0,0,66.67
+2014,22,2,England Innings,11,6,2,0,183.33
+2014,25,1,Netherlands Innings,16,23,1,1,69.57
+2014,25,1,Netherlands Innings,26,26,3,0,100.0
+2014,25,1,Netherlands Innings,4,8,0,0,50.0
+2014,25,1,Netherlands Innings,49,35,7,1,140.0
+2014,25,1,Netherlands Innings,40,23,4,2,173.91
+2014,25,1,Netherlands Innings,1,6,0,0,16.67
+2014,25,2,New Zealand Innings,9,15,1,0,60.0
+2014,25,2,New Zealand Innings,29,22,5,0,131.82
+2014,25,2,New Zealand Innings,65,45,4,3,144.44
+2014,25,2,New Zealand Innings,18,11,1,1,163.64
+2014,25,2,New Zealand Innings,20,14,1,1,142.86
+2014,25,2,New Zealand Innings,7,7,0,0,100.0
+2014,26,1,South Africa Innings,56,37,6,2,151.35
+2014,26,1,South Africa Innings,29,33,2,0,87.88
+2014,26,1,South Africa Innings,69,28,9,3,246.43
+2014,26,1,South Africa Innings,5,5,0,0,100.0
+2014,26,1,South Africa Innings,19,15,2,1,126.67
+2014,26,1,South Africa Innings,3,3,0,0,100.0
+2014,26,2,England Innings,38,22,6,1,172.73
+2014,26,2,England Innings,18,14,1,2,128.57
+2014,26,2,England Innings,10,10,1,0,100.0
+2014,26,2,England Innings,14,14,1,0,100.0
+2014,26,2,England Innings,34,24,2,1,141.67
+2014,26,2,England Innings,31,18,3,1,172.22
+2014,26,2,England Innings,16,14,2,0,114.29
+2014,26,2,England Innings,17,4,1,2,425.0
+2014,26,2,England Innings,1,1,0,0,100.0
+2014,27,1,Pakistan Innings,111,62,10,5,179.03
+2014,27,1,Pakistan Innings,9,12,2,0,75.0
+2014,27,1,Pakistan Innings,8,12,0,0,66.67
+2014,27,1,Pakistan Innings,0,2,0,0,0.0
+2014,27,1,Pakistan Innings,26,23,2,0,113.04
+2014,27,1,Pakistan Innings,22,9,1,2,244.44
+2014,27,1,Pakistan Innings,1,1,0,0,100.0
+2014,27,2,Bangladesh Innings,16,15,2,0,106.67
+2014,27,2,Bangladesh Innings,18,16,3,0,112.5
+2014,27,2,Bangladesh Innings,38,32,2,2,118.75
+2014,27,2,Bangladesh Innings,4,12,0,0,33.33
+2014,27,2,Bangladesh Innings,2,4,0,0,50.0
+2014,27,2,Bangladesh Innings,23,19,1,1,121.05
+2014,27,2,Bangladesh Innings,17,12,0,1,141.67
+2014,27,2,Bangladesh Innings,0,1,0,0,0.0
+2014,27,2,Bangladesh Innings,17,9,4,0,188.89
+2014,28,1,India Innings,5,3,1,0,166.67
+2014,28,1,India Innings,19,16,2,0,118.75
+2014,28,1,India Innings,23,22,2,1,104.55
+2014,28,1,India Innings,60,43,5,4,139.53
+2014,28,1,India Innings,6,10,0,0,60.0
+2014,28,1,India Innings,24,20,1,1,120.0
+2014,28,1,India Innings,3,3,0,0,100.0
+2014,28,1,India Innings,2,3,0,0,66.67
+2014,28,1,India Innings,0,1,0,0,0.0
+2014,28,2,Australia Innings,6,11,1,0,54.55
+2014,28,2,Australia Innings,19,21,1,1,90.48
+2014,28,2,Australia Innings,0,2,0,0,0.0
+2014,28,2,Australia Innings,1,4,0,0,25.0
+2014,28,2,Australia Innings,23,12,0,3,191.67
+2014,28,2,Australia Innings,8,10,0,1,80.0
+2014,28,2,Australia Innings,13,18,0,0,72.22
+2014,28,2,Australia Innings,6,8,1,0,75.0
+2014,28,2,Australia Innings,2,4,0,0,50.0
+2014,28,2,Australia Innings,3,7,0,0,42.86
+2014,28,2,Australia Innings,1,1,0,0,100.0
+2014,29,1,Netherlands Innings,13,15,2,0,86.67
+2014,29,1,Netherlands Innings,39,31,6,1,125.81
+2014,29,1,Netherlands Innings,48,45,2,2,106.67
+2014,29,1,Netherlands Innings,8,15,0,0,53.33
+2014,29,1,Netherlands Innings,7,10,1,0,70.0
+2014,29,1,Netherlands Innings,1,2,0,0,50.0
+2014,29,1,Netherlands Innings,0,2,0,0,0.0
+2014,29,2,England Innings,12,17,2,0,70.59
+2014,29,2,England Innings,6,8,0,0,75.0
+2014,29,2,England Innings,3,7,0,0,42.86
+2014,29,2,England Innings,6,8,1,0,75.0
+2014,29,2,England Innings,6,14,0,0,42.86
+2014,29,2,England Innings,18,20,0,0,90.0
+2014,29,2,England Innings,5,6,0,0,83.33
+2014,29,2,England Innings,14,14,0,0,100.0
+2014,29,2,England Innings,4,5,0,0,80.0
+2014,29,2,England Innings,8,6,1,0,133.33
+2014,29,2,England Innings,1,1,0,0,100.0
+2014,31,1,Bangladesh Innings,5,11,0,0,45.45
+2014,31,1,Bangladesh Innings,0,6,0,0,0.0
+2014,31,1,Bangladesh Innings,66,52,5,3,126.92
+2014,31,1,Bangladesh Innings,47,36,5,1,130.56
+2014,31,1,Bangladesh Innings,6,7,0,0,85.71
+2014,31,1,Bangladesh Innings,14,10,2,0,140.0
+2014,31,2,Australia Innings,71,45,7,4,157.78
+2014,31,2,Australia Innings,48,35,5,3,137.14
+2014,31,2,Australia Innings,18,15,2,0,120.0
+2014,31,2,Australia Innings,5,3,1,0,166.67
+2014,31,2,Australia Innings,11,7,1,1,157.14
+2014,32,1,West Indies Innings,8,13,2,0,61.54
+2014,32,1,West Indies Innings,5,4,1,0,125.0
+2014,32,1,West Indies Innings,31,29,2,2,106.9
+2014,32,1,West Indies Innings,20,18,1,1,111.11
+2014,32,1,West Indies Innings,46,26,2,4,176.92
+2014,32,1,West Indies Innings,5,10,0,0,50.0
+2014,32,1,West Indies Innings,42,20,5,2,210.0
+2014,32,1,West Indies Innings,0,0,0,0,0.0
+2014,32,2,Pakistan Innings,0,1,0,0,0.0
+2014,32,2,Pakistan Innings,0,3,0,0,0.0
+2014,32,2,Pakistan Innings,19,32,0,0,59.38
+2014,32,2,Pakistan Innings,1,5,0,0,20.0
+2014,32,2,Pakistan Innings,2,6,0,0,33.33
+2014,32,2,Pakistan Innings,18,22,1,1,81.82
+2014,32,2,Pakistan Innings,18,12,0,2,150.0
+2014,32,2,Pakistan Innings,14,12,1,1,116.67
+2014,32,2,Pakistan Innings,4,7,0,0,57.14
+2014,32,2,Pakistan Innings,1,3,0,0,33.33
+2014,32,2,Pakistan Innings,3,4,0,0,75.0
+2014,33,1,Sri Lanka Innings,26,12,2,2,216.67
+2014,33,1,Sri Lanka Innings,39,39,2,1,100.0
+2014,33,1,Sri Lanka Innings,0,0,0,0,0.0
+2014,33,1,Sri Lanka Innings,1,6,0,0,16.67
+2014,33,1,Sri Lanka Innings,44,35,3,2,125.71
+2014,33,1,Sri Lanka Innings,40,23,3,2,173.91
+2014,33,1,Sri Lanka Innings,6,5,0,0,120.0
+2014,33,2,West Indies Innings,17,14,1,1,121.43
+2014,33,2,West Indies Innings,3,13,0,0,23.08
+2014,33,2,West Indies Innings,4,8,0,0,50.0
+2014,33,2,West Indies Innings,18,29,1,0,62.07
+2014,33,2,West Indies Innings,30,19,3,1,157.89
+2014,33,2,West Indies Innings,0,0,0,0,0.0
+2014,34,1,South Africa Innings,6,4,1,0,150.0
+2014,34,1,South Africa Innings,22,16,4,0,137.5
+2014,34,1,South Africa Innings,58,41,5,2,141.46
+2014,34,1,South Africa Innings,45,40,1,3,112.5
+2014,34,1,South Africa Innings,10,8,1,0,125.0
+2014,34,1,South Africa Innings,23,12,2,1,191.67
+2014,34,2,India Innings,24,13,4,1,184.62
+2014,34,2,India Innings,32,30,2,1,106.67
+2014,34,2,India Innings,72,44,5,2,163.64
+2014,34,2,India Innings,18,17,2,0,105.88
+2014,34,2,India Innings,21,10,3,1,210.0
+2014,34,2,India Innings,0,1,0,0,0.0
+2014,35,1,India Innings,29,26,3,0,111.54
+2014,35,1,India Innings,3,8,0,0,37.5
+2014,35,1,India Innings,77,58,5,4,132.76
+2014,35,1,India Innings,11,21,0,0,52.38
+2014,35,1,India Innings,4,7,0,0,57.14
+2014,35,2,Sri Lanka Innings,5,7,1,0,71.43
+2014,35,2,Sri Lanka Innings,18,16,4,0,112.5
+2014,35,2,Sri Lanka Innings,24,24,4,0,100.0
+2014,35,2,Sri Lanka Innings,52,35,6,1,148.57
+2014,35,2,Sri Lanka Innings,7,11,1,0,63.64
+2014,35,2,Sri Lanka Innings,23,14,0,3,164.29
+2014,1,1,Afghanistan Innings,0,1,0,0,0.0
+2014,1,1,Afghanistan Innings,7,11,1,0,63.64
+2014,1,1,Afghanistan Innings,21,22,3,1,95.45
+2014,1,1,Afghanistan Innings,0,1,0,0,0.0
+2014,1,1,Afghanistan Innings,3,9,0,0,33.33
+2014,1,1,Afghanistan Innings,10,23,0,0,43.48
+2014,1,1,Afghanistan Innings,16,16,2,0,100.0
+2014,1,1,Afghanistan Innings,1,3,0,0,33.33
+2014,1,1,Afghanistan Innings,1,6,0,0,16.67
+2014,1,1,Afghanistan Innings,1,11,0,0,9.09
+2014,1,1,Afghanistan Innings,0,1,0,0,0.0
+2014,1,2,Bangladesh Innings,21,27,2,0,77.78
+2014,1,2,Bangladesh Innings,44,33,4,3,133.33
+2014,1,2,Bangladesh Innings,10,12,1,0,83.33
+2014,3,1,Zimbabwe Innings,21,17,3,0,123.53
+2014,3,1,Zimbabwe Innings,10,8,2,0,125.0
+2014,3,1,Zimbabwe Innings,59,46,6,2,128.26
+2014,3,1,Zimbabwe Innings,16,9,1,1,177.78
+2014,3,1,Zimbabwe Innings,16,18,1,0,88.89
+2014,3,1,Zimbabwe Innings,22,13,0,2,169.23
+2014,3,1,Zimbabwe Innings,13,9,0,1,144.44
+2014,3,2,Ireland Innings,31,23,3,1,134.78
+2014,3,2,Ireland Innings,60,34,9,1,176.47
+2014,3,2,Ireland Innings,22,28,0,0,78.57
+2014,3,2,Ireland Innings,23,15,3,0,153.33
+2014,3,2,Ireland Innings,0,2,0,0,0.0
+2014,3,2,Ireland Innings,17,10,2,1,170.0
+2014,3,2,Ireland Innings,3,6,0,0,50.0
+2014,3,2,Ireland Innings,0,1,0,0,0.0
+2014,3,2,Ireland Innings,0,1,0,0,0.0
+2014,9,1,Nepal Innings,56,53,6,1,105.66
+2014,9,1,Nepal Innings,8,11,1,0,72.73
+2014,9,1,Nepal Innings,22,13,3,1,169.23
+2014,9,1,Nepal Innings,1,5,0,0,20.0
+2014,9,1,Nepal Innings,37,32,5,0,115.63
+2014,9,1,Nepal Innings,4,6,1,0,66.67
+2014,9,1,Nepal Innings,2,3,0,0,66.67
+2014,9,2,Afghanistan Innings,6,17,1,0,35.29
+2014,9,2,Afghanistan Innings,8,7,2,0,114.29
+2014,9,2,Afghanistan Innings,5,4,1,0,125.0
+2014,9,2,Afghanistan Innings,5,7,1,0,71.43
+2014,9,2,Afghanistan Innings,36,32,3,1,112.5
+2014,9,2,Afghanistan Innings,1,2,0,0,50.0
+2014,9,2,Afghanistan Innings,49,36,4,1,136.11
+2014,9,2,Afghanistan Innings,15,13,1,0,115.38
+2014,9,2,Afghanistan Innings,2,2,0,0,100.0
+2014,9,2,Afghanistan Innings,0,0,0,0,0.0
+2014,15,1,England Innings,33,24,4,1,137.5
+2014,15,1,England Innings,0,2,0,0,0.0
+2014,15,1,England Innings,36,23,6,1,156.52
+2014,15,1,England Innings,12,15,1,0,80.0
+2014,15,1,England Innings,32,23,4,0,139.13
+2014,15,1,England Innings,24,19,0,1,126.32
+2014,15,1,England Innings,8,6,0,1,133.33
+2014,15,1,England Innings,17,8,2,1,212.5
+2014,15,2,New Zealand Innings,11,9,2,0,122.22
+2014,15,2,New Zealand Innings,24,17,4,0,141.18
+2014,15,2,New Zealand Innings,16,6,1,2,266.67
+2014,18,1,South Africa Innings,4,8,0,0,50.0
+2014,18,1,South Africa Innings,41,40,2,0,102.5
+2014,18,1,South Africa Innings,13,8,2,0,162.5
+2014,18,1,South Africa Innings,5,6,1,0,83.33
+2014,18,1,South Africa Innings,86,43,10,3,200.0
+2014,18,1,South Africa Innings,6,6,1,0,100.0
+2014,18,1,South Africa Innings,13,8,0,1,162.5
+2014,18,1,South Africa Innings,1,1,0,0,100.0
+2014,18,2,New Zealand Innings,22,25,3,0,88.0
+2014,18,2,New Zealand Innings,51,35,5,2,145.71
+2014,18,2,New Zealand Innings,4,4,0,0,100.0
+2014,18,2,New Zealand Innings,62,37,4,3,167.57
+2014,18,2,New Zealand Innings,7,8,1,0,87.5
+2014,18,2,New Zealand Innings,7,4,1,0,175.0
+2014,18,2,New Zealand Innings,5,3,1,0,166.67
+2014,18,2,New Zealand Innings,4,4,1,0,100.0
+2014,18,2,New Zealand Innings,0,0,0,0,0.0
+2014,23,1,Australia Innings,16,11,2,1,145.45
+2014,23,1,Australia Innings,20,14,4,0,142.86
+2014,23,1,Australia Innings,2,8,0,0,25.0
+2014,23,1,Australia Innings,45,22,5,3,204.55
+2014,23,1,Australia Innings,12,12,0,1,100.0
+2014,23,1,Australia Innings,35,26,2,1,134.62
+2014,23,1,Australia Innings,13,17,1,0,76.47
+2014,23,1,Australia Innings,15,7,1,1,214.29
+2014,23,1,Australia Innings,4,4,0,0,100.0
+2014,23,1,Australia Innings,1,1,0,0,100.0
+2014,23,2,West Indies Innings,17,19,4,0,89.47
+2014,23,2,West Indies Innings,53,35,6,2,151.43
+2014,23,2,West Indies Innings,26,24,3,0,108.33
+2014,23,2,West Indies Innings,12,15,1,0,80.0
+2014,23,2,West Indies Innings,27,12,2,2,225.0
+2014,23,2,West Indies Innings,34,13,2,3,261.54
+2014,24,1,Bangladesh Innings,6,10,1,0,60.0
+2014,24,1,Bangladesh Innings,44,43,5,2,102.33
+2014,24,1,Bangladesh Innings,0,1,0,0,0.0
+2014,24,1,Bangladesh Innings,1,2,0,0,50.0
+2014,24,1,Bangladesh Innings,24,21,4,0,114.29
+2014,24,1,Bangladesh Innings,16,17,1,0,94.12
+2014,24,1,Bangladesh Innings,33,23,5,1,143.48
+2014,24,1,Bangladesh Innings,0,1,0,0,0.0
+2014,24,1,Bangladesh Innings,6,2,0,1,300.0
+2014,24,2,India Innings,56,44,5,1,127.27
+2014,24,2,India Innings,1,6,0,0,16.67
+2014,24,2,India Innings,57,50,3,1,114.0
+2014,24,2,India Innings,22,12,1,2,183.33
+2014,30,1,Sri Lanka Innings,16,8,2,1,200.0
+2014,30,1,Sri Lanka Innings,8,11,1,0,72.73
+2014,30,1,Sri Lanka Innings,25,32,2,0,78.13
+2014,30,1,Sri Lanka Innings,4,11,1,0,36.36
+2014,30,1,Sri Lanka Innings,20,18,3,0,111.11
+2014,30,1,Sri Lanka Innings,6,10,0,0,60.0
+2014,30,1,Sri Lanka Innings,16,13,3,0,123.08
+2014,30,1,Sri Lanka Innings,0,1,0,0,0.0
+2014,30,1,Sri Lanka Innings,17,11,1,1,154.55
+2014,30,1,Sri Lanka Innings,1,1,0,0,100.0
+2014,30,1,Sri Lanka Innings,0,1,0,0,0.0
+2014,30,2,New Zealand Innings,5,9,0,0,55.56
+2014,30,2,New Zealand Innings,42,43,6,0,97.67
+2014,30,2,New Zealand Innings,0,5,0,0,0.0
+2014,30,2,New Zealand Innings,0,5,0,0,0.0
+2014,30,2,New Zealand Innings,0,1,0,0,0.0
+2014,30,2,New Zealand Innings,2,4,0,0,50.0
+2014,30,2,New Zealand Innings,2,9,0,0,22.22
+2014,30,2,New Zealand Innings,4,9,1,0,44.44
+2014,30,2,New Zealand Innings,3,8,0,0,37.5
+2014,30,2,New Zealand Innings,0,0,0,0,0.0
+2014,30,2,New Zealand Innings,0,0,0,0,0.0
+2014,8,1,United Arab Emirates Innings,20,19,4,0,105.26
+2014,8,1,United Arab Emirates Innings,11,15,1,0,73.33
+2014,8,1,United Arab Emirates Innings,16,21,1,0,76.19
+2014,8,1,United Arab Emirates Innings,0,3,0,0,0.0
+2014,8,1,United Arab Emirates Innings,30,28,0,2,107.14
+2014,8,1,United Arab Emirates Innings,19,21,3,0,90.48
+2014,8,1,United Arab Emirates Innings,13,13,0,0,100.0
+2014,8,1,United Arab Emirates Innings,1,1,0,0,100.0
+2014,8,2,Ireland Innings,33,35,2,1,94.29
+2014,8,2,Ireland Innings,8,5,2,0,160.0
+2014,8,2,Ireland Innings,43,38,4,1,113.16
+2014,8,2,Ireland Innings,0,2,0,0,0.0
+2014,8,2,Ireland Innings,4,5,1,0,80.0
+2014,8,2,Ireland Innings,1,1,0,0,100.0
+2012,1,1,Sri Lanka Innings,17,19,3,0,89.47
+2012,1,1,Sri Lanka Innings,39,28,5,0,139.29
+2012,1,1,Sri Lanka Innings,13,18,1,0,72.22
+2012,1,1,Sri Lanka Innings,44,26,2,1,169.23
+2012,1,1,Sri Lanka Innings,43,30,4,1,143.33
+2012,1,1,Sri Lanka Innings,6,2,0,1,300.0
+2012,1,2,Zimbabwe Innings,20,23,3,0,86.96
+2012,1,2,Zimbabwe Innings,11,16,1,0,68.75
+2012,1,2,Zimbabwe Innings,0,1,0,0,0.0
+2012,1,2,Zimbabwe Innings,19,19,1,1,100.0
+2012,1,2,Zimbabwe Innings,10,13,0,1,76.92
+2012,1,2,Zimbabwe Innings,0,2,0,0,0.0
+2012,1,2,Zimbabwe Innings,17,20,2,0,85.0
+2012,1,2,Zimbabwe Innings,1,2,0,0,50.0
+2012,1,2,Zimbabwe Innings,0,3,0,0,0.0
+2012,1,2,Zimbabwe Innings,7,4,0,0,175.0
+2012,1,2,Zimbabwe Innings,0,2,0,0,0.0
+2012,2,1,Ireland Innings,0,1,0,0,0.0
+2012,2,1,Ireland Innings,7,12,1,0,58.33
+2012,2,1,Ireland Innings,16,18,3,0,88.89
+2012,2,1,Ireland Innings,20,24,2,0,83.33
+2012,2,1,Ireland Innings,5,5,1,0,100.0
+2012,2,1,Ireland Innings,35,29,5,0,120.69
+2012,2,1,Ireland Innings,15,14,1,0,107.14
+2012,2,1,Ireland Innings,7,7,1,0,100.0
+2012,2,1,Ireland Innings,14,10,0,1,140.0
+2012,2,2,Australia Innings,26,23,4,0,113.04
+2012,2,2,Australia Innings,51,30,5,3,170.0
+2012,2,2,Australia Innings,10,11,0,0,90.91
+2012,2,2,Australia Innings,22,19,3,0,115.79
+2012,2,2,Australia Innings,6,8,1,0,75.0
+2012,3,1,India Innings,10,8,1,0,125.0
+2012,3,1,India Innings,8,10,1,0,80.0
+2012,3,1,India Innings,50,39,4,2,128.21
+2012,3,1,India Innings,18,20,0,1,90.0
+2012,3,1,India Innings,38,33,6,0,115.15
+2012,3,1,India Innings,18,9,2,1,200.0
+2012,3,1,India Innings,1,1,0,0,100.0
+2012,3,2,Afghanistan Innings,18,16,3,0,112.5
+2012,3,2,Afghanistan Innings,22,18,1,1,122.22
+2012,3,2,Afghanistan Innings,26,26,3,0,100.0
+2012,3,2,Afghanistan Innings,6,9,0,0,66.67
+2012,3,2,Afghanistan Innings,31,17,2,2,182.35
+2012,3,2,Afghanistan Innings,1,2,0,0,50.0
+2012,3,2,Afghanistan Innings,8,9,0,1,88.89
+2012,3,2,Afghanistan Innings,5,14,0,0,35.71
+2012,3,2,Afghanistan Innings,5,2,1,0,250.0
+2012,3,2,Afghanistan Innings,8,5,2,0,160.0
+2012,3,2,Afghanistan Innings,0,0,0,0,0.0
+2012,4,1,Zimbabwe Innings,6,17,1,0,35.29
+2012,4,1,Zimbabwe Innings,0,3,0,0,0.0
+2012,4,1,Zimbabwe Innings,4,4,0,0,100.0
+2012,4,1,Zimbabwe Innings,37,40,4,0,92.5
+2012,4,1,Zimbabwe Innings,11,18,0,0,61.11
+2012,4,1,Zimbabwe Innings,0,1,0,0,0.0
+2012,4,1,Zimbabwe Innings,6,11,0,0,54.55
+2012,4,1,Zimbabwe Innings,5,9,0,0,55.56
+2012,4,1,Zimbabwe Innings,7,6,1,0,116.67
+2012,4,1,Zimbabwe Innings,9,11,0,0,81.82
+2012,4,2,South Africa Innings,50,43,6,0,116.28
+2012,4,2,South Africa Innings,32,33,3,0,96.97
+2012,8,1,West Indies Innings,2,5,0,0,40.0
+2012,8,1,West Indies Innings,54,33,5,4,163.64
+2012,8,1,West Indies Innings,16,12,2,1,133.33
+2012,8,1,West Indies Innings,50,32,3,4,156.25
+2012,8,1,West Indies Innings,27,21,1,1,128.57
+2012,8,1,West Indies Innings,10,8,2,0,125.0
+2012,8,1,West Indies Innings,12,7,1,1,171.43
+2012,8,1,West Indies Innings,3,2,0,0,150.0
+2012,8,1,West Indies Innings,0,0,0,0,0.0
+2012,8,1,West Indies Innings,4,1,1,0,400.0
+2012,8,2,Australia Innings,28,14,3,2,200.0
+2012,8,2,Australia Innings,41,24,2,3,170.83
+2012,8,2,Australia Innings,28,19,3,1,147.37
+2012,10,1,India Innings,45,38,5,0,118.42
+2012,10,1,India Innings,8,8,1,0,100.0
+2012,10,1,India Innings,40,32,6,0,125.0
+2012,10,1,India Innings,55,33,5,1,166.67
+2012,10,1,India Innings,9,8,1,0,112.5
+2012,10,1,India Innings,1,1,0,0,100.0
+2012,10,2,England Innings,35,25,4,2,140.0
+2012,10,2,England Innings,0,2,0,0,0.0
+2012,10,2,England Innings,6,4,0,1,150.0
+2012,10,2,England Innings,2,6,0,0,33.33
+2012,10,2,England Innings,1,8,0,0,12.5
+2012,10,2,England Innings,11,12,1,0,91.67
+2012,10,2,England Innings,1,8,0,0,12.5
+2012,10,2,England Innings,3,3,0,0,100.0
+2012,10,2,England Innings,0,3,0,0,0.0
+2012,10,2,England Innings,8,10,1,0,80.0
+2012,10,2,England Innings,12,7,2,0,171.43
+2012,12,1,Bangladesh Innings,24,12,5,0,200.0
+2012,12,1,Bangladesh Innings,14,13,3,0,107.69
+2012,12,1,Bangladesh Innings,84,54,11,2,155.56
+2012,12,1,Bangladesh Innings,25,26,1,1,96.15
+2012,12,1,Bangladesh Innings,0,2,0,0,0.0
+2012,12,1,Bangladesh Innings,16,13,2,0,123.08
+2012,12,1,Bangladesh Innings,1,1,0,0,100.0
+2012,12,2,Pakistan Innings,45,47,6,0,95.74
+2012,12,2,Pakistan Innings,72,36,9,3,200.0
+2012,12,2,Pakistan Innings,29,14,2,2,207.14
+2012,12,2,Pakistan Innings,22,15,4,0,146.67
+2012,16,1,India Innings,17,12,3,0,141.67
+2012,16,1,India Innings,31,30,2,1,103.33
+2012,16,1,India Innings,15,13,2,0,115.38
+2012,16,1,India Innings,8,10,1,0,80.0
+2012,16,1,India Innings,1,2,0,0,50.0
+2012,16,1,India Innings,26,19,4,0,136.84
+2012,16,1,India Innings,15,21,2,0,71.43
+2012,16,1,India Innings,16,12,1,1,133.33
+2012,16,1,India Innings,1,1,0,0,100.0
+2012,16,2,Australia Innings,72,42,2,7,171.43
+2012,16,2,Australia Innings,63,41,7,3,153.66
+2012,16,2,Australia Innings,4,6,0,0,66.67
+2012,18,1,West Indies Innings,12,21,2,0,57.14
+2012,18,1,West Indies Innings,2,9,0,0,22.22
+2012,18,1,West Indies Innings,50,35,4,2,142.86
+2012,18,1,West Indies Innings,40,34,4,2,117.65
+2012,18,1,West Indies Innings,1,6,0,0,16.67
+2012,18,1,West Indies Innings,19,14,0,1,135.71
+2012,18,1,West Indies Innings,1,1,0,0,100.0
+2012,18,2,Sri Lanka Innings,65,49,10,1,132.65
+2012,18,2,Sri Lanka Innings,13,9,3,0,144.44
+2012,18,2,Sri Lanka Innings,39,34,5,0,114.71
+2012,20,1,Pakistan Innings,15,28,1,0,53.57
+2012,20,1,Pakistan Innings,8,5,2,0,160.0
+2012,20,1,Pakistan Innings,14,12,2,0,116.67
+2012,20,1,Pakistan Innings,4,5,0,0,80.0
+2012,20,1,Pakistan Innings,5,6,0,0,83.33
+2012,20,1,Pakistan Innings,28,22,3,0,127.27
+2012,20,1,Pakistan Innings,21,18,0,1,116.67
+2012,20,1,Pakistan Innings,8,11,1,0,72.73
+2012,20,1,Pakistan Innings,12,10,1,1,120.0
+2012,20,1,Pakistan Innings,1,2,0,0,50.0
+2012,20,1,Pakistan Innings,0,0,0,0,0.0
+2012,20,2,India Innings,0,2,0,0,0.0
+2012,20,2,India Innings,29,24,4,0,120.83
+2012,20,2,India Innings,78,61,8,2,127.87
+2012,20,2,India Innings,19,16,2,0,118.75
+2012,22,1,Sri Lanka Innings,42,38,5,1,110.53
+2012,22,1,Sri Lanka Innings,16,12,1,1,133.33
+2012,22,1,Sri Lanka Innings,13,12,1,0,108.33
+2012,22,1,Sri Lanka Innings,28,19,3,1,147.37
+2012,22,1,Sri Lanka Innings,18,13,2,1,138.46
+2012,22,1,Sri Lanka Innings,13,7,1,1,185.71
+2012,22,1,Sri Lanka Innings,26,16,0,2,162.5
+2012,22,1,Sri Lanka Innings,1,3,0,0,33.33
+2012,22,2,England Innings,12,11,1,1,109.09
+2012,22,2,England Innings,3,5,0,0,60.0
+2012,22,2,England Innings,2,2,0,0,100.0
+2012,22,2,England Innings,67,48,8,2,139.58
+2012,22,2,England Innings,10,15,1,0,66.67
+2012,22,2,England Innings,1,6,0,0,16.67
+2012,22,2,England Innings,8,7,0,0,114.29
+2012,22,2,England Innings,1,2,0,0,50.0
+2012,22,2,England Innings,34,20,4,1,170.0
+2012,22,2,England Innings,1,3,0,0,33.33
+2012,22,2,England Innings,2,2,0,0,100.0
+2012,24,1,India Innings,8,12,1,0,66.67
+2012,24,1,India Innings,17,14,1,1,121.43
+2012,24,1,India Innings,2,6,0,0,33.33
+2012,24,1,India Innings,25,27,2,0,92.59
+2012,24,1,India Innings,21,15,1,2,140.0
+2012,24,1,India Innings,45,34,5,0,132.35
+2012,24,1,India Innings,23,13,3,0,176.92
+2012,24,2,South Africa Innings,0,2,0,0,0.0
+2012,24,2,South Africa Innings,6,8,1,0,75.0
+2012,24,2,South Africa Innings,13,13,2,0,100.0
+2012,24,2,South Africa Innings,65,38,6,2,171.05
+2012,24,2,South Africa Innings,16,23,0,0,69.57
+2012,24,2,South Africa Innings,13,12,1,0,108.33
+2012,24,2,South Africa Innings,10,10,1,0,100.0
+2012,24,2,South Africa Innings,10,6,0,1,166.67
+2012,24,2,South Africa Innings,8,5,0,1,160.0
+2012,24,2,South Africa Innings,0,0,0,0,0.0
+2012,24,2,South Africa Innings,6,3,0,1,200.0
+2012,25,1,Sri Lanka Innings,42,36,7,0,116.67
+2012,25,1,Sri Lanka Innings,35,43,3,0,81.4
+2012,25,1,Sri Lanka Innings,18,11,3,0,163.64
+2012,25,1,Sri Lanka Innings,15,18,1,0,83.33
+2012,25,1,Sri Lanka Innings,11,7,2,0,157.14
+2012,25,1,Sri Lanka Innings,10,6,1,0,166.67
+2012,25,2,Pakistan Innings,42,40,4,1,105.0
+2012,25,2,Pakistan Innings,20,21,3,0,95.24
+2012,25,2,Pakistan Innings,4,8,0,0,50.0
+2012,25,2,Pakistan Innings,1,2,0,0,50.0
+2012,25,2,Pakistan Innings,6,7,0,0,85.71
+2012,25,2,Pakistan Innings,29,22,3,0,131.82
+2012,25,2,Pakistan Innings,0,1,0,0,0.0
+2012,25,2,Pakistan Innings,8,13,1,0,61.54
+2012,25,2,Pakistan Innings,2,6,0,0,33.33
+2012,26,1,West Indies Innings,10,13,2,0,76.92
+2012,26,1,West Indies Innings,75,41,5,6,182.93
+2012,26,1,West Indies Innings,26,20,2,2,130.0
+2012,26,1,West Indies Innings,37,31,1,3,119.35
+2012,26,1,West Indies Innings,38,15,3,3,253.33
+2012,26,2,Australia Innings,1,3,0,0,33.33
+2012,26,2,Australia Innings,7,9,1,0,77.78
+2012,26,2,Australia Innings,18,12,3,0,150.0
+2012,26,2,Australia Innings,5,6,0,0,83.33
+2012,26,2,Australia Innings,63,29,6,4,217.24
+2012,26,2,Australia Innings,0,2,0,0,0.0
+2012,26,2,Australia Innings,1,5,0,0,20.0
+2012,26,2,Australia Innings,13,15,1,0,86.67
+2012,26,2,Australia Innings,2,5,0,0,40.0
+2012,26,2,Australia Innings,7,7,0,0,100.0
+2012,26,2,Australia Innings,9,7,1,0,128.57
+2012,5,1,New Zealand Innings,11,14,0,1,78.57
+2012,5,1,New Zealand Innings,35,36,2,1,97.22
+2012,5,1,New Zealand Innings,123,58,11,7,212.07
+2012,5,1,New Zealand Innings,14,12,2,0,116.67
+2012,5,2,Bangladesh Innings,0,3,0,0,0.0
+2012,5,2,Bangladesh Innings,21,21,3,0,100.0
+2012,5,2,Bangladesh Innings,11,8,2,0,137.5
+2012,5,2,Bangladesh Innings,4,6,0,0,66.67
+2012,5,2,Bangladesh Innings,15,19,0,1,78.95
+2012,5,2,Bangladesh Innings,50,39,6,1,128.21
+2012,5,2,Bangladesh Innings,14,16,0,1,87.5
+2012,5,2,Bangladesh Innings,5,3,1,0,166.67
+2012,5,2,Bangladesh Innings,5,3,1,0,166.67
+2012,5,2,Bangladesh Innings,0,2,0,0,0.0
+2012,6,1,England Innings,0,6,0,0,0.0
+2012,6,1,England Innings,31,27,5,0,114.81
+2012,6,1,England Innings,99,55,8,6,180.0
+2012,6,1,England Innings,27,23,1,1,117.39
+2012,6,1,England Innings,15,7,3,0,214.29
+2012,6,1,England Innings,12,5,1,1,240.0
+2012,6,1,England Innings,0,0,0,0,0.0
+2012,6,2,Afghanistan Innings,1,5,0,0,20.0
+2012,6,2,Afghanistan Innings,8,9,1,0,88.89
+2012,6,2,Afghanistan Innings,0,1,0,0,0.0
+2012,6,2,Afghanistan Innings,5,8,0,0,62.5
+2012,6,2,Afghanistan Innings,4,11,0,0,36.36
+2012,6,2,Afghanistan Innings,1,6,0,0,16.67
+2012,6,2,Afghanistan Innings,2,9,0,0,22.22
+2012,6,2,Afghanistan Innings,44,32,5,3,137.5
+2012,6,2,Afghanistan Innings,0,3,0,0,0.0
+2012,6,2,Afghanistan Innings,9,17,0,1,52.94
+2012,6,2,Afghanistan Innings,0,3,0,0,0.0
+2012,7,1,South Africa Innings,4,4,0,0,100.0
+2012,7,1,South Africa Innings,16,9,3,0,177.78
+2012,7,1,South Africa Innings,13,11,0,0,118.18
+2012,7,1,South Africa Innings,30,13,1,2,230.77
+2012,7,1,South Africa Innings,12,5,1,1,240.0
+2012,7,1,South Africa Innings,0,0,0,0,0.0
+2012,7,2,Sri Lanka Innings,4,6,1,0,66.67
+2012,7,2,Sri Lanka Innings,0,0,0,0,0.0
+2012,7,2,Sri Lanka Innings,13,14,1,0,92.86
+2012,7,2,Sri Lanka Innings,13,11,1,0,118.18
+2012,7,2,Sri Lanka Innings,1,3,0,0,33.33
+2012,7,2,Sri Lanka Innings,7,5,1,0,140.0
+2012,7,2,Sri Lanka Innings,5,3,0,0,166.67
+2012,9,1,Pakistan Innings,43,38,2,2,113.16
+2012,9,1,Pakistan Innings,25,16,5,0,156.25
+2012,9,1,Pakistan Innings,56,35,2,4,160.0
+2012,9,1,Pakistan Innings,3,3,0,0,100.0
+2012,9,1,Pakistan Innings,23,15,3,1,153.33
+2012,9,1,Pakistan Innings,9,7,1,0,128.57
+2012,9,1,Pakistan Innings,12,6,2,0,200.0
+2012,9,2,New Zealand Innings,33,28,3,1,117.86
+2012,9,2,New Zealand Innings,15,13,2,0,115.38
+2012,9,2,New Zealand Innings,32,31,4,1,103.23
+2012,9,2,New Zealand Innings,18,16,1,0,112.5
+2012,9,2,New Zealand Innings,11,7,2,0,157.14
+2012,9,2,New Zealand Innings,26,11,3,1,236.36
+2012,9,2,New Zealand Innings,13,6,1,1,216.67
+2012,9,2,New Zealand Innings,5,4,1,0,125.0
+2012,9,2,New Zealand Innings,1,3,0,0,33.33
+2012,9,2,New Zealand Innings,0,1,0,0,0.0
+2012,9,2,New Zealand Innings,0,0,0,0,0.0
+2012,11,1,Ireland Innings,0,1,0,0,0.0
+2012,11,1,Ireland Innings,19,16,3,0,118.75
+2012,11,1,Ireland Innings,17,19,3,0,89.47
+2012,11,1,Ireland Innings,25,21,0,1,119.05
+2012,11,1,Ireland Innings,21,22,3,0,95.45
+2012,11,1,Ireland Innings,13,15,0,1,86.67
+2012,11,1,Ireland Innings,15,10,0,1,150.0
+2012,11,1,Ireland Innings,14,11,0,1,127.27
+2012,13,1,New Zealand Innings,58,40,3,4,145.0
+2012,13,1,New Zealand Innings,38,30,6,0,126.67
+2012,13,1,New Zealand Innings,25,16,0,2,156.25
+2012,13,1,New Zealand Innings,23,15,2,0,153.33
+2012,13,1,New Zealand Innings,6,6,1,0,100.0
+2012,13,1,New Zealand Innings,3,4,0,0,75.0
+2012,13,1,New Zealand Innings,8,5,1,0,160.0
+2012,13,1,New Zealand Innings,4,4,0,0,100.0
+2012,13,2,Sri Lanka Innings,44,26,3,3,169.23
+2012,13,2,Sri Lanka Innings,76,53,5,3,143.4
+2012,13,2,Sri Lanka Innings,21,14,4,0,150.0
+2012,13,2,Sri Lanka Innings,8,9,1,0,88.89
+2012,13,2,Sri Lanka Innings,12,11,0,0,109.09
+2012,13,2,Sri Lanka Innings,5,3,1,0,166.67
+2012,13,2,Sri Lanka Innings,5,4,1,0,125.0
+2012,14,1,West Indies Innings,84,56,10,3,150.0
+2012,14,1,West Indies Innings,58,35,6,4,165.71
+2012,14,1,West Indies Innings,2,8,0,0,25.0
+2012,14,1,West Indies Innings,1,5,0,0,20.0
+2012,14,1,West Indies Innings,11,8,2,0,137.5
+2012,14,1,West Indies Innings,4,3,0,0,133.33
+2012,14,1,West Indies Innings,10,5,2,0,200.0
+2012,14,2,England Innings,0,2,0,0,0.0
+2012,14,2,England Innings,68,51,5,2,133.33
+2012,14,2,England Innings,0,1,0,0,0.0
+2012,14,2,England Innings,18,29,2,0,62.07
+2012,14,2,England Innings,71,36,4,5,197.22
+2012,14,2,England Innings,1,1,0,0,100.0
+2012,15,1,South Africa Innings,8,9,1,0,88.89
+2012,15,1,South Africa Innings,6,6,1,0,100.0
+2012,15,1,South Africa Innings,12,18,0,1,66.67
+2012,15,1,South Africa Innings,48,38,2,2,126.32
+2012,15,1,South Africa Innings,18,21,2,0,85.71
+2012,15,1,South Africa Innings,25,18,2,1,138.89
+2012,15,1,South Africa Innings,9,6,1,0,150.0
+2012,15,1,South Africa Innings,3,4,0,0,75.0
+2012,15,2,Pakistan Innings,15,9,2,1,166.67
+2012,15,2,Pakistan Innings,14,11,3,0,127.27
+2012,15,2,Pakistan Innings,0,2,0,0,0.0
+2012,15,2,Pakistan Innings,1,6,0,0,16.67
+2012,15,2,Pakistan Innings,12,26,1,0,46.15
+2012,15,2,Pakistan Innings,43,41,4,1,104.88
+2012,15,2,Pakistan Innings,0,1,0,0,0.0
+2012,15,2,Pakistan Innings,3,5,0,0,60.0
+2012,15,2,Pakistan Innings,32,17,2,3,188.24
+2012,15,2,Pakistan Innings,4,1,1,0,400.0
+2012,17,1,New Zealand Innings,5,6,1,0,83.33
+2012,17,1,New Zealand Innings,11,15,1,0,73.33
+2012,17,1,New Zealand Innings,10,10,2,0,100.0
+2012,17,1,New Zealand Innings,17,23,1,0,73.91
+2012,17,1,New Zealand Innings,22,23,2,0,95.65
+2012,17,1,New Zealand Innings,50,33,4,2,151.52
+2012,17,1,New Zealand Innings,16,10,0,2,160.0
+2012,17,1,New Zealand Innings,2,1,0,0,200.0
+2012,17,2,England Innings,4,14,0,0,28.57
+2012,17,2,England Innings,22,15,3,0,146.67
+2012,17,2,England Innings,76,43,5,5,176.74
+2012,17,2,England Innings,30,31,1,1,96.77
+2012,17,2,England Innings,5,8,0,0,62.5
+2012,17,2,England Innings,5,2,1,0,250.0
+2012,19,1,South Africa Innings,0,3,0,0,0.0
+2012,19,1,South Africa Innings,17,15,1,1,113.33
+2012,19,1,South Africa Innings,6,7,1,0,85.71
+2012,19,1,South Africa Innings,30,25,4,0,120.0
+2012,19,1,South Africa Innings,21,24,0,0,87.5
+2012,19,1,South Africa Innings,31,27,2,1,114.81
+2012,19,1,South Africa Innings,32,19,6,0,168.42
+2012,19,2,Australia Innings,5,9,0,0,55.56
+2012,19,2,Australia Innings,70,47,8,2,148.94
+2012,19,2,Australia Innings,45,37,2,2,121.62
+2012,19,2,Australia Innings,21,13,3,1,161.54
+2012,21,1,West Indies Innings,8,9,2,0,88.89
+2012,21,1,West Indies Innings,30,14,3,2,214.29
+2012,21,1,West Indies Innings,6,6,0,1,100.0
+2012,21,1,West Indies Innings,24,22,2,1,109.09
+2012,21,1,West Indies Innings,16,21,0,1,76.19
+2012,21,1,West Indies Innings,28,22,3,0,127.27
+2012,21,1,West Indies Innings,1,2,0,0,50.0
+2012,21,1,West Indies Innings,11,12,1,0,91.67
+2012,21,1,West Indies Innings,3,4,0,0,75.0
+2012,21,1,West Indies Innings,1,4,0,0,25.0
+2012,21,1,West Indies Innings,1,3,0,0,33.33
+2012,21,2,New Zealand Innings,3,5,0,0,60.0
+2012,21,2,New Zealand Innings,21,27,2,0,77.78
+2012,21,2,New Zealand Innings,22,18,3,0,122.22
+2012,21,2,New Zealand Innings,62,40,3,3,155.0
+2012,21,2,New Zealand Innings,14,14,1,0,100.0
+2012,21,2,New Zealand Innings,6,9,0,0,66.67
+2012,21,2,New Zealand Innings,5,7,0,0,71.43
+2012,21,2,New Zealand Innings,1,1,0,0,100.0
+2012,23,1,Pakistan Innings,4,5,0,0,80.0
+2012,23,1,Pakistan Innings,14,13,2,0,107.69
+2012,23,1,Pakistan Innings,55,46,4,2,119.57
+2012,23,1,Pakistan Innings,32,26,1,1,123.08
+2012,23,1,Pakistan Innings,9,8,1,0,112.5
+2012,23,1,Pakistan Innings,22,17,2,1,129.41
+2012,23,1,Pakistan Innings,4,2,1,0,200.0
+2012,23,1,Pakistan Innings,4,3,0,0,133.33
+2012,23,2,Australia Innings,8,14,1,0,57.14
+2012,23,2,Australia Innings,8,13,1,0,61.54
+2012,23,2,Australia Innings,54,47,4,1,114.89
+2012,23,2,Australia Innings,15,12,1,1,125.0
+2012,23,2,Australia Innings,12,11,0,1,109.09
+2012,23,2,Australia Innings,4,5,0,0,80.0
+2012,23,2,Australia Innings,13,14,1,0,92.86
+2012,23,2,Australia Innings,0,1,0,0,0.0
+2012,23,2,Australia Innings,1,3,0,0,33.33
+2012,27,1,West Indies Innings,0,5,0,0,0.0
+2012,27,1,West Indies Innings,3,16,0,0,18.75
+2012,27,1,West Indies Innings,78,56,3,6,139.29
+2012,27,1,West Indies Innings,19,19,0,1,100.0
+2012,27,1,West Indies Innings,2,4,0,0,50.0
+2012,27,1,West Indies Innings,0,1,0,0,0.0
+2012,27,1,West Indies Innings,26,15,3,0,173.33
+2012,27,1,West Indies Innings,4,4,0,0,100.0
+2012,27,2,Sri Lanka Innings,33,36,2,0,91.67
+2012,27,2,Sri Lanka Innings,0,3,0,0,0.0
+2012,27,2,Sri Lanka Innings,22,26,2,0,84.62
+2012,27,2,Sri Lanka Innings,1,5,0,0,20.0
+2012,27,2,Sri Lanka Innings,3,3,0,0,100.0
+2012,27,2,Sri Lanka Innings,3,5,0,0,60.0
+2012,27,2,Sri Lanka Innings,4,7,0,0,57.14
+2012,27,2,Sri Lanka Innings,26,13,3,1,200.0
+2012,27,2,Sri Lanka Innings,5,13,0,0,38.46
+2012,27,2,Sri Lanka Innings,1,2,0,0,50.0
+2012,27,2,Sri Lanka Innings,0,0,0,0,0.0
+2010,1,1,West Indies Innings,19,22,1,0,86.36
+2010,1,1,West Indies Innings,14,12,2,0,116.67
+2010,1,1,West Indies Innings,18,10,0,2,180.0
+2010,1,1,West Indies Innings,24,26,1,0,92.31
+2010,1,1,West Indies Innings,10,16,0,0,62.5
+2010,1,1,West Indies Innings,1,2,0,0,50.0
+2010,1,1,West Indies Innings,30,17,2,2,176.47
+2010,1,1,West Indies Innings,8,6,1,0,133.33
+2010,1,1,West Indies Innings,2,2,0,0,100.0
+2010,1,1,West Indies Innings,8,8,0,0,100.0
+2010,1,2,Ireland Innings,4,2,1,0,200.0
+2010,1,2,Ireland Innings,0,4,0,0,0.0
+2010,1,2,Ireland Innings,6,5,1,0,120.0
+2010,1,2,Ireland Innings,2,4,0,0,50.0
+2010,1,2,Ireland Innings,17,34,0,0,50.0
+2010,1,2,Ireland Innings,9,16,1,0,56.25
+2010,1,2,Ireland Innings,5,10,0,0,50.0
+2010,1,2,Ireland Innings,1,3,0,0,33.33
+2010,1,2,Ireland Innings,4,11,0,0,36.36
+2010,1,2,Ireland Innings,1,5,0,0,20.0
+2010,1,2,Ireland Innings,0,6,0,0,0.0
+2010,2,1,Sri Lanka Innings,81,51,8,2,158.82
+2010,2,1,Sri Lanka Innings,3,19,0,0,15.79
+2010,2,1,Sri Lanka Innings,4,11,0,0,36.36
+2010,2,1,Sri Lanka Innings,29,23,1,1,126.09
+2010,2,1,Sri Lanka Innings,11,10,0,1,110.0
+2010,2,1,Sri Lanka Innings,3,6,0,0,50.0
+2010,2,1,Sri Lanka Innings,0,0,0,0,0.0
+2010,2,2,New Zealand Innings,0,4,0,0,0.0
+2010,2,2,New Zealand Innings,42,27,3,2,155.56
+2010,2,2,New Zealand Innings,19,24,1,1,79.17
+2010,2,2,New Zealand Innings,9,15,0,0,60.0
+2010,2,2,New Zealand Innings,17,21,1,0,80.95
+2010,2,2,New Zealand Innings,17,15,1,0,113.33
+2010,2,2,New Zealand Innings,15,6,0,2,250.0
+2010,2,2,New Zealand Innings,1,1,0,0,100.0
+2010,2,2,New Zealand Innings,16,6,1,1,266.67
+2010,2,2,New Zealand Innings,0,0,0,0,0.0
+2010,3,1,Afghanistan Innings,50,48,4,0,104.17
+2010,3,1,Afghanistan Innings,0,4,0,0,0.0
+2010,3,1,Afghanistan Innings,6,5,1,0,120.0
+2010,3,1,Afghanistan Innings,5,11,1,0,45.45
+2010,3,1,Afghanistan Innings,30,33,0,3,90.91
+2010,3,1,Afghanistan Innings,0,3,0,0,0.0
+2010,3,1,Afghanistan Innings,5,5,0,0,100.0
+2010,3,1,Afghanistan Innings,7,6,1,0,116.67
+2010,3,1,Afghanistan Innings,6,5,1,0,120.0
+2010,3,1,Afghanistan Innings,0,0,0,0,0.0
+2010,3,2,India Innings,4,6,0,0,66.67
+2010,3,2,India Innings,48,46,2,3,104.35
+2010,3,2,India Innings,18,13,1,1,138.46
+2010,3,2,India Innings,23,22,0,1,104.55
+2010,3,2,India Innings,15,6,0,2,250.0
+2010,6,1,Australia Innings,26,18,4,1,144.44
+2010,6,1,Australia Innings,81,49,7,4,165.31
+2010,6,1,Australia Innings,2,3,0,0,66.67
+2010,6,1,Australia Innings,53,29,2,5,182.76
+2010,6,1,Australia Innings,17,8,1,1,212.5
+2010,6,1,Australia Innings,9,7,0,0,128.57
+2010,6,1,Australia Innings,1,2,0,0,50.0
+2010,6,1,Australia Innings,0,1,0,0,0.0
+2010,6,1,Australia Innings,0,1,0,0,0.0
+2010,6,1,Australia Innings,0,1,0,0,0.0
+2010,6,1,Australia Innings,0,2,0,0,0.0
+2010,6,2,Pakistan Innings,0,1,0,0,0.0
+2010,6,2,Pakistan Innings,15,10,3,0,150.0
+2010,6,2,Pakistan Innings,12,14,3,0,85.71
+2010,6,2,Pakistan Innings,18,14,0,1,128.57
+2010,6,2,Pakistan Innings,41,31,1,2,132.26
+2010,6,2,Pakistan Innings,33,24,3,1,137.5
+2010,6,2,Pakistan Innings,1,2,0,0,50.0
+2010,6,2,Pakistan Innings,16,11,1,1,145.45
+2010,6,2,Pakistan Innings,2,3,0,0,66.67
+2010,6,2,Pakistan Innings,5,5,0,0,100.0
+2010,6,2,Pakistan Innings,4,6,0,0,66.67
+2010,7,1,Sri Lanka Innings,100,64,10,4,156.25
+2010,7,1,Sri Lanka Innings,2,4,0,0,50.0
+2010,7,1,Sri Lanka Innings,23,19,1,2,121.05
+2010,7,1,Sri Lanka Innings,3,7,0,0,42.86
+2010,7,1,Sri Lanka Innings,9,8,0,1,112.5
+2010,7,1,Sri Lanka Innings,4,6,0,0,66.67
+2010,7,1,Sri Lanka Innings,13,6,0,2,216.67
+2010,7,1,Sri Lanka Innings,3,3,0,0,100.0
+2010,7,1,Sri Lanka Innings,2,3,0,0,66.67
+2010,7,2,Zimbabwe Innings,4,6,0,0,66.67
+2010,7,2,Zimbabwe Innings,12,13,0,0,92.31
+2010,7,2,Zimbabwe Innings,11,11,0,0,100.0
+2010,8,1,England Innings,28,18,4,0,155.56
+2010,8,1,England Innings,26,14,1,3,185.71
+2010,8,1,England Innings,24,20,1,1,120.0
+2010,8,1,England Innings,6,8,0,0,75.0
+2010,8,1,England Innings,55,35,3,3,157.14
+2010,8,1,England Innings,45,27,1,4,166.67
+2010,8,1,England Innings,0,0,0,0,0.0
+2010,8,2,West Indies Innings,25,12,2,2,208.33
+2010,8,2,West Indies Innings,15,13,0,1,115.38
+2010,8,2,West Indies Innings,0,0,0,0,0.0
+2010,8,2,West Indies Innings,12,10,1,0,120.0
+2010,10,1,England Innings,14,11,3,0,127.27
+2010,10,1,England Innings,13,17,0,0,76.47
+2010,10,1,England Innings,9,18,0,0,50.0
+2010,10,1,England Innings,0,3,0,0,0.0
+2010,10,1,England Innings,45,37,5,0,121.62
+2010,10,1,England Innings,20,24,0,1,83.33
+2010,10,1,England Innings,5,6,1,0,83.33
+2010,10,1,England Innings,7,5,0,0,140.0
+2010,10,1,England Innings,0,0,0,0,0.0
+2010,10,1,England Innings,0,0,0,0,0.0
+2010,10,2,Ireland Innings,4,10,0,0,40.0
+2010,10,2,Ireland Innings,0,6,0,0,0.0
+2010,10,2,Ireland Innings,9,5,2,0,180.0
+2010,11,1,South Africa Innings,27,14,4,1,192.86
+2010,11,1,South Africa Innings,0,1,0,0,0.0
+2010,11,1,South Africa Innings,34,33,0,2,103.03
+2010,11,1,South Africa Innings,17,21,1,1,80.95
+2010,11,1,South Africa Innings,25,21,0,2,119.05
+2010,11,1,South Africa Innings,4,6,0,0,66.67
+2010,11,1,South Africa Innings,23,17,2,1,135.29
+2010,11,1,South Africa Innings,2,6,0,0,33.33
+2010,11,1,South Africa Innings,1,1,0,0,100.0
+2010,11,2,Afghanistan Innings,0,3,0,0,0.0
+2010,11,2,Afghanistan Innings,2,8,0,0,25.0
+2010,11,2,Afghanistan Innings,2,6,0,0,33.33
+2010,11,2,Afghanistan Innings,1,4,0,0,25.0
+2010,11,2,Afghanistan Innings,3,6,0,0,50.0
+2010,11,2,Afghanistan Innings,4,2,1,0,200.0
+2010,11,2,Afghanistan Innings,0,5,0,0,0.0
+2010,11,2,Afghanistan Innings,11,12,0,1,91.67
+2010,11,2,Afghanistan Innings,23,25,1,2,92.0
+2010,11,2,Afghanistan Innings,22,21,1,2,104.76
+2010,11,2,Afghanistan Innings,1,6,0,0,16.67
+2010,12,1,Australia Innings,16,11,2,1,145.45
+2010,12,1,Australia Innings,4,7,0,0,57.14
+2010,12,1,Australia Innings,16,21,0,1,76.19
+2010,12,1,Australia Innings,6,9,0,0,66.67
+2010,12,1,Australia Innings,9,13,0,0,69.23
+2010,12,1,Australia Innings,8,11,0,0,72.73
+2010,12,1,Australia Innings,47,29,4,1,162.07
+2010,12,1,Australia Innings,27,18,1,2,150.0
+2010,12,1,Australia Innings,2,1,0,0,200.0
+2010,12,2,Bangladesh Innings,0,6,0,0,0.0
+2010,12,2,Bangladesh Innings,0,3,0,0,0.0
+2010,12,2,Bangladesh Innings,1,3,0,0,33.33
+2010,12,2,Bangladesh Innings,28,28,0,1,100.0
+2010,12,2,Bangladesh Innings,2,3,0,0,66.67
+2010,12,2,Bangladesh Innings,24,25,2,1,96.0
+2010,12,2,Bangladesh Innings,7,6,0,1,116.67
+2010,12,2,Bangladesh Innings,18,12,1,1,150.0
+2010,12,2,Bangladesh Innings,16,13,1,1,123.08
+2010,12,2,Bangladesh Innings,6,5,1,0,120.0
+2010,12,2,Bangladesh Innings,3,8,0,0,37.5
+2010,15,1,Australia Innings,54,32,1,6,168.75
+2010,15,1,Australia Innings,72,42,2,7,171.43
+2010,15,1,Australia Innings,35,22,3,2,159.09
+2010,15,1,Australia Innings,8,7,0,1,114.29
+2010,15,1,Australia Innings,5,6,0,0,83.33
+2010,15,1,Australia Innings,8,10,0,0,80.0
+2010,15,1,Australia Innings,1,1,0,0,100.0
+2010,15,2,India Innings,2,7,0,0,28.57
+2010,15,2,India Innings,9,10,2,0,90.0
+2010,15,2,India Innings,5,5,1,0,100.0
+2010,15,2,India Innings,79,46,4,6,171.74
+2010,15,2,India Innings,1,2,0,0,50.0
+2010,15,2,India Innings,2,8,0,0,25.0
+2010,15,2,India Innings,1,5,0,0,20.0
+2010,15,2,India Innings,4,5,0,0,80.0
+2010,15,2,India Innings,13,11,1,1,118.18
+2010,15,2,India Innings,9,6,0,1,150.0
+2010,15,2,India Innings,0,1,0,0,0.0
+2010,17,1,New Zealand Innings,33,29,5,0,113.79
+2010,17,1,New Zealand Innings,7,8,1,0,87.5
+2010,17,1,New Zealand Innings,2,10,0,0,20.0
+2010,17,1,New Zealand Innings,3,7,0,0,42.86
+2010,17,1,New Zealand Innings,38,34,1,2,111.76
+2010,17,1,New Zealand Innings,21,17,1,1,123.53
+2010,17,1,New Zealand Innings,2,7,0,0,28.57
+2010,17,1,New Zealand Innings,12,9,0,1,133.33
+2010,17,1,New Zealand Innings,0,0,0,0,0.0
+2010,17,2,Pakistan Innings,5,8,0,0,62.5
+2010,17,2,Pakistan Innings,67,54,8,1,124.07
+2010,17,2,Pakistan Innings,8,4,2,0,200.0
+2010,17,2,Pakistan Innings,0,1,0,0,0.0
+2010,17,2,Pakistan Innings,3,13,0,0,23.08
+2010,17,2,Pakistan Innings,11,9,1,0,122.22
+2010,17,2,Pakistan Innings,29,29,1,3,100.0
+2010,17,2,Pakistan Innings,2,3,0,0,66.67
+2010,19,1,West Indies Innings,98,66,5,7,148.48
+2010,19,1,West Indies Innings,23,29,2,0,79.31
+2010,19,1,West Indies Innings,19,10,2,1,190.0
+2010,19,1,West Indies Innings,17,11,0,2,154.55
+2010,19,1,West Indies Innings,1,2,0,0,50.0
+2010,19,1,West Indies Innings,0,1,0,0,0.0
+2010,19,1,West Indies Innings,0,0,0,0,0.0
+2010,19,1,West Indies Innings,4,2,1,0,200.0
+2010,19,2,India Innings,7,14,0,0,50.0
+2010,19,2,India Innings,15,14,3,0,107.14
+2010,19,2,India Innings,32,25,4,1,128.0
+2010,19,2,India Innings,5,8,1,0,62.5
+2010,19,2,India Innings,12,14,1,0,85.71
+2010,19,2,India Innings,29,18,2,2,161.11
+2010,19,2,India Innings,17,10,0,2,170.0
+2010,19,2,India Innings,14,10,1,1,140.0
+2010,19,2,India Innings,5,6,0,0,83.33
+2010,19,2,India Innings,0,2,0,0,0.0
+2010,19,2,India Innings,0,1,0,0,0.0
+2010,20,1,Australia Innings,1,4,0,0,25.0
+2010,20,1,Australia Innings,9,12,1,0,75.0
+2010,20,1,Australia Innings,15,10,3,0,150.0
+2010,20,1,Australia Innings,14,20,0,0,70.0
+2010,20,1,Australia Innings,0,1,0,0,0.0
+2010,20,1,Australia Innings,85,49,6,6,173.47
+2010,20,1,Australia Innings,39,26,4,1,150.0
+2010,20,2,Sri Lanka Innings,9,6,0,1,150.0
+2010,20,2,Sri Lanka Innings,5,14,0,0,35.71
+2010,20,2,Sri Lanka Innings,2,3,0,0,66.67
+2010,20,2,Sri Lanka Innings,20,12,2,1,166.67
+2010,20,2,Sri Lanka Innings,8,4,2,0,200.0
+2010,20,2,Sri Lanka Innings,19,24,1,0,79.17
+2010,20,2,Sri Lanka Innings,12,15,1,0,80.0
+2010,20,2,Sri Lanka Innings,2,2,0,0,100.0
+2010,20,2,Sri Lanka Innings,1,8,0,0,12.5
+2010,20,2,Sri Lanka Innings,1,7,0,0,14.29
+2010,20,2,Sri Lanka Innings,2,3,0,0,66.67
+2010,23,1,West Indies Innings,4,2,1,0,200.0
+2010,23,1,West Indies Innings,24,18,4,0,133.33
+2010,23,1,West Indies Innings,26,31,2,0,83.87
+2010,23,1,West Indies Innings,6,9,0,0,66.67
+2010,23,1,West Indies Innings,0,2,0,0,0.0
+2010,23,1,West Indies Innings,1,2,0,0,50.0
+2010,23,1,West Indies Innings,13,14,1,1,92.86
+2010,23,1,West Indies Innings,0,1,0,0,0.0
+2010,23,1,West Indies Innings,3,7,0,0,42.86
+2010,23,1,West Indies Innings,10,13,0,0,76.92
+2010,23,1,West Indies Innings,9,16,0,1,56.25
+2010,23,2,Australia Innings,25,12,4,1,208.33
+2010,23,2,Australia Innings,5,7,0,0,71.43
+2010,23,2,Australia Innings,16,24,0,0,66.67
+2010,23,2,Australia Innings,42,46,5,0,91.3
+2010,23,2,Australia Innings,10,9,1,0,111.11
+2010,23,2,Australia Innings,0,0,0,0,0.0
+2010,24,1,India Innings,13,12,2,0,108.33
+2010,24,1,India Innings,41,32,3,0,128.13
+2010,24,1,India Innings,63,47,7,1,134.04
+2010,24,1,India Innings,23,19,0,1,121.05
+2010,24,1,India Innings,1,2,0,0,50.0
+2010,24,1,India Innings,13,9,2,0,144.44
+2010,24,2,Sri Lanka Innings,4,3,1,0,133.33
+2010,24,2,Sri Lanka Innings,0,5,0,0,0.0
+2010,24,2,Sri Lanka Innings,33,26,5,0,126.92
+2010,24,2,Sri Lanka Innings,46,33,2,3,139.39
+2010,24,2,Sri Lanka Innings,46,37,3,2,124.32
+2010,24,2,Sri Lanka Innings,37,16,2,3,231.25
+2010,24,2,Sri Lanka Innings,0,0,0,0,0.0
+2010,25,1,Sri Lanka Innings,10,9,1,0,111.11
+2010,25,1,Sri Lanka Innings,1,4,0,0,25.0
+2010,25,1,Sri Lanka Innings,9,8,2,0,112.5
+2010,25,1,Sri Lanka Innings,16,19,2,0,84.21
+2010,25,1,Sri Lanka Innings,58,45,3,1,128.89
+2010,25,1,Sri Lanka Innings,16,27,2,0,59.26
+2010,25,1,Sri Lanka Innings,7,8,0,0,87.5
+2010,25,1,Sri Lanka Innings,2,1,0,0,200.0
+2010,25,2,England Innings,39,29,5,2,134.48
+2010,25,2,England Innings,33,26,4,1,126.92
+2010,25,2,England Innings,42,26,3,2,161.54
+2010,25,2,England Innings,10,13,0,0,76.92
+2010,25,2,England Innings,2,2,0,0,100.0
+2010,26,1,Pakistan Innings,50,34,6,2,147.06
+2010,26,1,Pakistan Innings,32,30,4,0,106.67
+2010,26,1,Pakistan Innings,56,35,2,4,160.0
+2010,26,1,Pakistan Innings,8,9,0,0,88.89
+2010,26,1,Pakistan Innings,13,6,1,1,216.67
+2010,26,1,Pakistan Innings,12,7,0,1,171.43
+2010,26,1,Pakistan Innings,0,0,0,0,0.0
+2010,26,2,Australia Innings,0,2,0,0,0.0
+2010,26,2,Australia Innings,16,9,2,1,177.78
+2010,26,2,Australia Innings,25,20,2,1,125.0
+2010,26,2,Australia Innings,17,19,2,0,89.47
+2010,26,2,Australia Innings,13,9,0,1,144.44
+2010,26,2,Australia Innings,43,31,0,5,138.71
+2010,26,2,Australia Innings,60,24,3,6,250.0
+2010,26,2,Australia Innings,5,4,1,0,125.0
+2010,26,2,Australia Innings,5,3,1,0,166.67
+2010,27,1,Australia Innings,2,3,0,0,66.67
+2010,27,1,Australia Innings,2,4,0,0,50.0
+2010,27,1,Australia Innings,27,27,2,0,100.0
+2010,27,1,Australia Innings,1,2,0,0,50.0
+2010,27,1,Australia Innings,59,54,2,2,109.26
+2010,27,1,Australia Innings,30,19,4,1,157.89
+2010,27,1,Australia Innings,17,10,2,0,170.0
+2010,27,1,Australia Innings,1,2,0,0,50.0
+2010,27,2,England Innings,2,4,0,0,50.0
+2010,27,2,England Innings,63,49,7,2,128.57
+2010,27,2,England Innings,47,31,4,1,151.61
+2010,27,2,England Innings,12,5,1,1,240.0
+2010,27,2,England Innings,15,13,0,1,115.38
+2010,4,1,Pakistan Innings,73,55,8,1,132.73
+2010,4,1,Pakistan Innings,73,46,8,2,158.7
+2010,4,1,Pakistan Innings,9,9,0,0,100.0
+2010,4,1,Pakistan Innings,6,5,0,0,120.0
+2010,4,1,Pakistan Innings,8,5,0,0,160.0
+2010,4,2,Bangladesh Innings,19,18,3,0,105.56
+2010,4,2,Bangladesh Innings,0,2,0,0,0.0
+2010,4,2,Bangladesh Innings,65,49,4,3,132.65
+2010,4,2,Bangladesh Innings,47,31,3,2,151.61
+2010,4,2,Bangladesh Innings,0,3,0,0,0.0
+2010,4,2,Bangladesh Innings,10,9,1,0,111.11
+2010,4,2,Bangladesh Innings,4,3,0,0,133.33
+2010,4,2,Bangladesh Innings,1,3,0,0,33.33
+2010,4,2,Bangladesh Innings,1,3,0,0,33.33
+2010,5,1,India Innings,16,17,2,0,94.12
+2010,5,1,India Innings,0,1,0,0,0.0
+2010,5,1,India Innings,101,60,9,5,168.33
+2010,5,1,India Innings,37,30,3,2,123.33
+2010,5,1,India Innings,11,7,0,1,157.14
+2010,5,1,India Innings,16,6,1,1,266.67
+2010,5,1,India Innings,0,0,0,0,0.0
+2010,5,2,South Africa Innings,73,54,3,3,135.19
+2010,5,2,South Africa Innings,8,14,0,0,57.14
+2010,5,2,South Africa Innings,36,28,1,2,128.57
+2010,5,2,South Africa Innings,31,15,1,3,206.67
+2010,5,2,South Africa Innings,12,7,0,1,171.43
+2010,5,2,South Africa Innings,4,2,0,0,200.0
+2010,5,2,South Africa Innings,4,1,1,0,400.0
+2010,9,1,Zimbabwe Innings,21,14,3,0,150.0
+2010,9,1,Zimbabwe Innings,20,20,2,0,100.0
+2010,9,1,Zimbabwe Innings,8,8,1,0,100.0
+2010,9,1,Zimbabwe Innings,3,4,0,0,75.0
+2010,9,1,Zimbabwe Innings,1,5,0,0,20.0
+2010,9,1,Zimbabwe Innings,0,2,0,0,0.0
+2010,9,1,Zimbabwe Innings,14,21,0,0,66.67
+2010,9,1,Zimbabwe Innings,4,11,0,0,36.36
+2010,9,1,Zimbabwe Innings,0,1,0,0,0.0
+2010,9,1,Zimbabwe Innings,0,1,0,0,0.0
+2010,9,1,Zimbabwe Innings,2,4,0,0,50.0
+2010,9,2,New Zealand Innings,22,26,2,0,84.62
+2010,9,2,New Zealand Innings,2,11,0,0,18.18
+2010,9,2,New Zealand Innings,6,12,0,0,50.0
+2010,13,1,Pakistan Innings,15,18,2,1,83.33
+2010,13,1,Pakistan Innings,34,26,3,1,130.77
+2010,13,1,Pakistan Innings,18,14,2,0,128.57
+2010,13,1,Pakistan Innings,30,25,2,1,120.0
+2010,13,1,Pakistan Innings,0,1,0,0,0.0
+2010,13,1,Pakistan Innings,13,14,0,1,92.86
+2010,13,1,Pakistan Innings,10,9,0,1,111.11
+2010,13,1,Pakistan Innings,1,3,0,0,33.33
+2010,13,1,Pakistan Innings,3,7,0,0,42.86
+2010,13,1,Pakistan Innings,13,5,1,1,260.0
+2010,13,1,Pakistan Innings,0,0,0,0,0.0
+2010,13,2,England Innings,25,13,3,1,192.31
+2010,13,2,England Innings,25,27,3,1,92.59
+2010,13,2,England Innings,73,52,8,2,140.38
+2010,13,2,England Innings,16,15,1,0,106.67
+2010,13,2,England Innings,5,7,1,0,71.43
+2010,13,2,England Innings,1,3,0,0,33.33
+2010,14,1,South Africa Innings,31,26,1,2,119.23
+2010,14,1,South Africa Innings,14,12,2,0,116.67
+2010,14,1,South Africa Innings,30,24,1,2,125.0
+2010,14,1,South Africa Innings,47,39,1,2,120.51
+2010,14,1,South Africa Innings,40,18,0,5,222.22
+2010,14,1,South Africa Innings,0,1,0,0,0.0
+2010,14,2,New Zealand Innings,6,5,1,0,120.0
+2010,14,2,New Zealand Innings,33,28,2,2,117.86
+2010,14,2,New Zealand Innings,18,19,3,0,94.74
+2010,14,2,New Zealand Innings,19,16,1,1,118.75
+2010,14,2,New Zealand Innings,13,12,2,0,108.33
+2010,14,2,New Zealand Innings,18,13,0,2,138.46
+2010,14,2,New Zealand Innings,0,2,0,0,0.0
+2010,14,2,New Zealand Innings,26,17,3,1,152.94
+2010,14,2,New Zealand Innings,10,10,1,0,100.0
+2010,16,1,Sri Lanka Innings,98,56,9,4,175.0
+2010,16,1,Sri Lanka Innings,6,10,1,0,60.0
+2010,16,1,Sri Lanka Innings,68,49,5,3,138.78
+2010,16,1,Sri Lanka Innings,6,4,1,0,150.0
+2010,16,1,Sri Lanka Innings,4,1,1,0,400.0
+2010,16,2,West Indies Innings,5,4,1,0,125.0
+2010,16,2,West Indies Innings,11,9,1,1,122.22
+2010,16,2,West Indies Innings,28,33,2,0,84.85
+2010,16,2,West Indies Innings,23,23,3,0,100.0
+2010,16,2,West Indies Innings,16,18,2,0,88.89
+2010,16,2,West Indies Innings,9,10,1,0,90.0
+2010,16,2,West Indies Innings,2,3,0,0,66.67
+2010,16,2,West Indies Innings,5,7,1,0,71.43
+2010,16,2,West Indies Innings,16,9,2,0,177.78
+2010,16,2,West Indies Innings,6,4,1,0,150.0
+2010,18,1,England Innings,3,4,0,0,75.0
+2010,18,1,England Innings,41,42,3,2,97.62
+2010,18,1,England Innings,53,33,8,1,160.61
+2010,18,1,England Innings,14,9,0,2,155.56
+2010,18,1,England Innings,21,14,3,0,150.0
+2010,18,1,England Innings,0,2,0,0,0.0
+2010,18,1,England Innings,13,13,1,0,100.0
+2010,18,1,England Innings,8,5,1,0,160.0
+2010,18,1,England Innings,1,1,0,0,100.0
+2010,18,2,South Africa Innings,19,24,2,0,79.17
+2010,18,2,South Africa Innings,11,13,0,1,84.62
+2010,18,2,South Africa Innings,8,8,1,0,100.0
+2010,18,2,South Africa Innings,5,9,0,0,55.56
+2010,18,2,South Africa Innings,0,2,0,0,0.0
+2010,18,2,South Africa Innings,39,25,2,2,156.0
+2010,18,2,South Africa Innings,9,11,0,0,81.82
+2010,18,2,South Africa Innings,12,12,0,1,100.0
+2010,18,2,South Africa Innings,5,6,0,0,83.33
+2010,18,2,South Africa Innings,1,2,0,0,50.0
+2010,18,2,South Africa Innings,2,3,0,0,66.67
+2010,21,1,Pakistan Innings,37,33,3,2,112.12
+2010,21,1,Pakistan Innings,2,4,0,0,50.0
+2010,21,1,Pakistan Innings,7,9,1,0,77.78
+2010,21,1,Pakistan Innings,1,5,0,0,20.0
+2010,21,1,Pakistan Innings,51,33,2,4,154.55
+2010,21,1,Pakistan Innings,30,18,4,1,166.67
+2010,21,1,Pakistan Innings,11,10,0,0,110.0
+2010,21,1,Pakistan Innings,3,7,0,0,42.86
+2010,21,1,Pakistan Innings,2,1,0,0,200.0
+2010,21,2,South Africa Innings,3,9,0,0,33.33
+2010,21,2,South Africa Innings,13,13,1,0,100.0
+2010,21,2,South Africa Innings,22,21,2,0,104.76
+2010,21,2,South Africa Innings,53,41,1,2,129.27
+2010,21,2,South Africa Innings,3,5,0,0,60.0
+2010,21,2,South Africa Innings,12,14,1,0,85.71
+2010,21,2,South Africa Innings,7,7,0,0,100.0
+2010,21,2,South Africa Innings,19,8,4,0,237.5
+2010,21,2,South Africa Innings,2,2,0,0,100.0
+2010,22,1,New Zealand Innings,33,32,4,0,103.13
+2010,22,1,New Zealand Innings,9,11,2,0,81.82
+2010,22,1,New Zealand Innings,16,15,0,1,106.67
+2010,22,1,New Zealand Innings,44,33,0,2,133.33
+2010,22,1,New Zealand Innings,31,19,3,1,163.16
+2010,22,1,New Zealand Innings,1,2,0,0,50.0
+2010,22,1,New Zealand Innings,3,5,0,0,60.0
+2010,22,1,New Zealand Innings,4,4,0,0,100.0
+2010,22,2,England Innings,15,12,1,1,125.0
+2010,22,2,England Innings,32,21,4,1,152.38
+2010,22,2,England Innings,9,10,1,0,90.0
+2010,22,2,England Innings,3,6,0,0,50.0
+2010,22,2,England Innings,40,34,4,1,117.65
+2010,22,2,England Innings,24,17,3,0,141.18
+2010,22,2,England Innings,23,11,3,0,209.09
+2010,22,2,England Innings,0,2,0,0,0.0
+2010,22,2,England Innings,1,2,0,0,50.0
+2009,2,1,Scotland Innings,27,10,6,0,270.0
+2009,2,1,Scotland Innings,27,15,2,1,180.0
+2009,2,1,Scotland Innings,33,15,3,2,220.0
+2009,2,1,Scotland Innings,0,1,0,0,0.0
+2009,2,1,Scotland Innings,0,1,0,0,0.0
+2009,2,2,New Zealand Innings,18,7,4,0,257.14
+2009,2,2,New Zealand Innings,31,12,3,2,258.33
+2009,2,2,New Zealand Innings,21,10,1,2,210.0
+2009,2,2,New Zealand Innings,8,6,1,0,133.33
+2009,2,2,New Zealand Innings,8,4,0,1,200.0
+2009,3,1,Australia Innings,0,3,0,0,0.0
+2009,3,1,Australia Innings,63,53,6,1,118.87
+2009,3,1,Australia Innings,0,1,0,0,0.0
+2009,3,1,Australia Innings,2,7,0,0,28.57
+2009,3,1,Australia Innings,24,19,2,1,126.32
+2009,3,1,Australia Innings,27,16,0,3,168.75
+2009,3,1,Australia Innings,28,15,3,1,186.67
+2009,3,1,Australia Innings,9,7,1,0,128.57
+2009,3,1,Australia Innings,1,1,0,0,100.0
+2009,3,2,West Indies Innings,88,50,6,6,176.0
+2009,3,2,West Indies Innings,53,32,7,1,165.63
+2009,3,2,West Indies Innings,8,12,0,0,66.67
+2009,3,2,West Indies Innings,0,1,0,0,0.0
+2009,3,2,West Indies Innings,8,2,2,0,400.0
+2009,4,1,India Innings,50,46,4,0,108.7
+2009,4,1,India Innings,36,23,3,2,156.52
+2009,4,1,India Innings,26,21,0,1,123.81
+2009,4,1,India Innings,41,18,3,4,227.78
+2009,4,1,India Innings,10,8,1,0,125.0
+2009,4,1,India Innings,1,1,0,0,100.0
+2009,4,1,India Innings,11,3,1,1,366.67
+2009,4,2,Bangladesh Innings,15,10,3,0,150.0
+2009,4,2,Bangladesh Innings,41,22,2,3,186.36
+2009,4,2,Bangladesh Innings,11,9,1,0,122.22
+2009,4,2,Bangladesh Innings,8,10,0,0,80.0
+2009,4,2,Bangladesh Innings,8,13,0,0,61.54
+2009,4,2,Bangladesh Innings,16,20,1,0,80.0
+2009,4,2,Bangladesh Innings,11,8,0,1,137.5
+2009,4,2,Bangladesh Innings,11,11,1,0,100.0
+2009,4,2,Bangladesh Innings,28,17,0,3,164.71
+2009,4,2,Bangladesh Innings,0,0,0,0,0.0
+2009,5,1,South Africa Innings,38,29,6,1,131.03
+2009,5,1,South Africa Innings,48,31,8,0,154.84
+2009,5,1,South Africa Innings,16,14,0,0,114.29
+2009,5,1,South Africa Innings,79,34,5,6,232.35
+2009,5,1,South Africa Innings,24,11,1,2,218.18
+2009,5,1,South Africa Innings,2,3,0,0,66.67
+2009,5,1,South Africa Innings,0,0,0,0,0.0
+2009,5,2,Scotland Innings,5,6,1,0,83.33
+2009,5,2,Scotland Innings,4,4,1,0,100.0
+2009,5,2,Scotland Innings,0,1,0,0,0.0
+2009,5,2,Scotland Innings,42,32,1,3,131.25
+2009,5,2,Scotland Innings,0,1,0,0,0.0
+2009,5,2,Scotland Innings,8,16,1,0,50.0
+2009,5,2,Scotland Innings,2,6,0,0,33.33
+2009,5,2,Scotland Innings,15,20,0,0,75.0
+2009,5,2,Scotland Innings,1,2,0,0,50.0
+2009,5,2,Scotland Innings,1,3,0,0,33.33
+2009,5,2,Scotland Innings,0,3,0,0,0.0
+2009,6,1,England Innings,5,6,1,0,83.33
+2009,6,1,England Innings,34,16,6,1,212.5
+2009,6,1,England Innings,58,38,5,3,152.63
+2009,6,1,England Innings,33,32,3,1,103.13
+2009,6,1,England Innings,15,11,2,0,136.36
+2009,6,1,England Innings,16,12,1,0,133.33
+2009,6,1,England Innings,14,8,0,1,175.0
+2009,6,2,Pakistan Innings,4,7,0,0,57.14
+2009,6,2,Pakistan Innings,28,23,5,0,121.74
+2009,6,2,Pakistan Innings,6,6,0,0,100.0
+2009,6,2,Pakistan Innings,20,21,1,0,95.24
+2009,6,2,Pakistan Innings,46,31,5,0,148.39
+2009,6,2,Pakistan Innings,5,12,0,0,41.67
+2009,6,2,Pakistan Innings,10,8,0,1,125.0
+2009,6,2,Pakistan Innings,4,6,0,0,66.67
+2009,6,2,Pakistan Innings,8,6,1,0,133.33
+2009,7,1,Bangladesh Innings,22,28,2,0,78.57
+2009,7,1,Bangladesh Innings,13,5,3,0,260.0
+2009,7,1,Bangladesh Innings,14,10,1,1,140.0
+2009,7,1,Bangladesh Innings,7,7,1,0,100.0
+2009,7,1,Bangladesh Innings,7,10,0,0,70.0
+2009,7,1,Bangladesh Innings,13,20,0,0,65.0
+2009,7,1,Bangladesh Innings,14,15,0,0,93.33
+2009,7,1,Bangladesh Innings,33,16,1,2,206.25
+2009,7,1,Bangladesh Innings,7,9,0,0,77.78
+2009,7,1,Bangladesh Innings,0,0,0,0,0.0
+2009,7,2,Ireland Innings,2,10,0,0,20.0
+2009,7,2,Ireland Innings,23,29,3,0,79.31
+2009,7,2,Ireland Innings,40,25,3,3,160.0
+2009,7,2,Ireland Innings,10,15,0,0,66.67
+2009,7,2,Ireland Innings,17,14,2,0,121.43
+2009,7,2,Ireland Innings,39,17,4,2,229.41
+2009,8,1,Australia Innings,22,21,2,1,104.76
+2009,8,1,Australia Innings,0,3,0,0,0.0
+2009,8,1,Australia Innings,25,15,5,0,166.67
+2009,8,1,Australia Innings,16,17,0,1,94.12
+2009,8,1,Australia Innings,11,15,0,0,73.33
+2009,8,1,Australia Innings,28,22,1,2,127.27
+2009,8,1,Australia Innings,1,5,0,0,20.0
+2009,8,1,Australia Innings,28,13,2,2,215.38
+2009,8,1,Australia Innings,15,5,2,1,300.0
+2009,8,1,Australia Innings,4,3,1,0,133.33
+2009,8,1,Australia Innings,4,1,1,0,400.0
+2009,8,2,Sri Lanka Innings,53,32,10,0,165.63
+2009,8,2,Sri Lanka Innings,2,7,0,0,28.57
+2009,8,2,Sri Lanka Innings,55,42,4,2,130.95
+2009,8,2,Sri Lanka Innings,9,12,0,0,75.0
+2009,8,2,Sri Lanka Innings,11,11,1,0,100.0
+2009,8,2,Sri Lanka Innings,21,12,1,2,175.0
+2009,9,1,Pakistan Innings,41,30,3,2,136.67
+2009,9,1,Pakistan Innings,18,13,2,1,138.46
+2009,9,1,Pakistan Innings,30,28,2,0,107.14
+2009,9,1,Pakistan Innings,36,20,0,3,180.0
+2009,9,1,Pakistan Innings,31,20,3,0,155.0
+2009,9,1,Pakistan Innings,13,7,0,1,185.71
+2009,9,1,Pakistan Innings,3,2,0,0,150.0
+2009,9,2,Netherlands Innings,13,6,3,0,216.67
+2009,9,2,Netherlands Innings,21,29,1,0,72.41
+2009,9,2,Netherlands Innings,13,15,2,0,86.67
+2009,9,2,Netherlands Innings,2,4,0,0,50.0
+2009,9,2,Netherlands Innings,14,10,0,1,140.0
+2009,9,2,Netherlands Innings,4,7,0,0,57.14
+2009,9,2,Netherlands Innings,0,2,0,0,0.0
+2009,9,2,Netherlands Innings,2,6,0,0,33.33
+2009,9,2,Netherlands Innings,11,17,0,0,64.71
+2009,9,2,Netherlands Innings,6,7,0,0,85.71
+2009,9,2,Netherlands Innings,1,2,0,0,50.0
+2009,10,1,South Africa Innings,24,23,2,1,104.35
+2009,10,1,South Africa Innings,33,35,4,0,94.29
+2009,10,1,South Africa Innings,3,7,0,0,42.86
+2009,10,1,South Africa Innings,0,6,0,0,0.0
+2009,10,1,South Africa Innings,29,23,1,2,126.09
+2009,10,1,South Africa Innings,15,8,2,0,187.5
+2009,10,1,South Africa Innings,6,6,0,0,100.0
+2009,10,1,South Africa Innings,10,10,0,0,100.0
+2009,10,1,South Africa Innings,2,2,0,0,100.0
+2009,10,2,New Zealand Innings,57,54,6,0,105.56
+2009,10,2,New Zealand Innings,6,5,1,0,120.0
+2009,10,2,New Zealand Innings,1,5,0,0,20.0
+2009,10,2,New Zealand Innings,22,31,2,0,70.97
+2009,10,2,New Zealand Innings,24,18,2,0,133.33
+2009,10,2,New Zealand Innings,7,7,0,0,100.0
+2009,11,1,Sri Lanka Innings,74,47,11,1,157.45
+2009,11,1,Sri Lanka Innings,81,47,10,3,172.34
+2009,11,1,Sri Lanka Innings,5,6,0,0,83.33
+2009,11,1,Sri Lanka Innings,4,7,0,0,57.14
+2009,11,1,Sri Lanka Innings,8,5,1,0,160.0
+2009,11,1,Sri Lanka Innings,7,7,1,0,100.0
+2009,11,1,Sri Lanka Innings,3,2,0,0,150.0
+2009,11,2,West Indies Innings,29,19,5,0,152.63
+2009,11,2,West Indies Innings,13,11,1,1,118.18
+2009,11,2,West Indies Innings,14,11,1,0,127.27
+2009,11,2,West Indies Innings,1,5,0,0,20.0
+2009,11,2,West Indies Innings,28,26,0,0,107.69
+2009,11,2,West Indies Innings,51,38,5,2,134.21
+2009,11,2,West Indies Innings,19,11,3,0,172.73
+2009,12,1,Ireland Innings,5,8,0,0,62.5
+2009,12,1,Ireland Innings,0,7,0,0,0.0
+2009,12,1,Ireland Innings,19,23,1,0,82.61
+2009,12,1,Ireland Innings,8,5,1,0,160.0
+2009,12,1,Ireland Innings,2,4,0,0,50.0
+2009,12,1,Ireland Innings,19,22,1,0,86.36
+2009,12,1,Ireland Innings,29,25,3,1,116.0
+2009,12,1,Ireland Innings,1,1,0,0,100.0
+2009,12,1,Ireland Innings,12,6,2,0,200.0
+2009,12,1,Ireland Innings,9,7,1,0,128.57
+2009,12,2,India Innings,37,31,3,1,119.35
+2009,12,2,India Innings,52,45,4,1,115.56
+2009,12,2,India Innings,14,13,1,0,107.69
+2009,12,2,India Innings,3,4,0,0,75.0
+2009,13,1,New Zealand Innings,10,14,0,1,71.43
+2009,13,1,New Zealand Innings,63,30,13,0,210.0
+2009,13,1,New Zealand Innings,45,32,0,4,140.63
+2009,13,1,New Zealand Innings,42,25,1,3,168.0
+2009,13,1,New Zealand Innings,15,7,1,1,214.29
+2009,13,1,New Zealand Innings,5,5,0,0,100.0
+2009,13,1,New Zealand Innings,7,7,0,0,100.0
+2009,13,2,Ireland Innings,1,1,0,0,100.0
+2009,13,2,Ireland Innings,23,28,2,0,82.14
+2009,13,2,Ireland Innings,3,4,0,0,75.0
+2009,13,2,Ireland Innings,28,17,5,0,164.71
+2009,13,2,Ireland Innings,2,3,0,0,66.67
+2009,13,2,Ireland Innings,12,14,1,0,85.71
+2009,13,2,Ireland Innings,20,12,1,1,166.67
+2009,13,2,Ireland Innings,14,9,0,1,155.56
+2009,13,2,Ireland Innings,0,2,0,0,0.0
+2009,13,2,Ireland Innings,8,8,1,0,100.0
+2009,13,2,Ireland Innings,1,2,0,0,50.0
+2009,14,1,England Innings,2,5,0,0,40.0
+2009,14,1,England Innings,1,6,0,0,16.67
+2009,14,1,England Innings,19,17,4,0,111.76
+2009,14,1,England Innings,38,33,3,2,115.15
+2009,14,1,England Innings,19,19,2,0,100.0
+2009,14,1,England Innings,1,4,0,0,25.0
+2009,14,1,England Innings,1,3,0,0,33.33
+2009,14,1,England Innings,5,6,0,0,83.33
+2009,14,1,England Innings,9,8,1,0,112.5
+2009,14,1,England Innings,9,17,0,0,52.94
+2009,14,1,England Innings,0,1,0,0,0.0
+2009,14,2,South Africa Innings,11,15,2,0,73.33
+2009,14,2,South Africa Innings,57,49,5,1,116.33
+2009,14,2,South Africa Innings,30,30,2,1,100.0
+2009,14,2,South Africa Innings,11,12,0,0,91.67
+2009,14,2,South Africa Innings,2,4,0,0,50.0
+2009,16,1,India Innings,14,13,2,0,107.69
+2009,16,1,India Innings,5,3,1,0,166.67
+2009,16,1,India Innings,5,8,0,0,62.5
+2009,16,1,India Innings,67,43,6,2,155.81
+2009,16,1,India Innings,11,23,0,0,47.83
+2009,16,1,India Innings,31,23,3,1,134.78
+2009,16,1,India Innings,2,3,0,0,66.67
+2009,16,1,India Innings,13,4,3,0,325.0
+2009,16,1,India Innings,0,0,0,0,0.0
+2009,16,2,West Indies Innings,22,28,4,0,78.57
+2009,16,2,West Indies Innings,0,2,0,0,0.0
+2009,16,2,West Indies Innings,44,37,5,0,118.92
+2009,16,2,West Indies Innings,66,36,4,3,183.33
+2009,16,2,West Indies Innings,18,9,3,0,200.0
+2009,18,1,New Zealand Innings,12,6,2,0,200.0
+2009,18,1,New Zealand Innings,15,14,2,0,107.14
+2009,18,1,New Zealand Innings,8,8,1,0,100.0
+2009,18,1,New Zealand Innings,22,29,0,1,75.86
+2009,18,1,New Zealand Innings,5,11,0,0,45.45
+2009,18,1,New Zealand Innings,8,8,1,0,100.0
+2009,18,1,New Zealand Innings,7,11,1,0,63.64
+2009,18,1,New Zealand Innings,7,13,0,0,53.85
+2009,18,1,New Zealand Innings,8,9,1,0,88.89
+2009,18,1,New Zealand Innings,0,1,0,0,0.0
+2009,18,1,New Zealand Innings,1,1,0,0,100.0
+2009,18,2,Pakistan Innings,19,14,1,1,135.71
+2009,18,2,Pakistan Innings,35,28,4,2,125.0
+2009,18,2,Pakistan Innings,5,8,0,0,62.5
+2009,18,2,Pakistan Innings,4,3,1,0,133.33
+2009,18,2,Pakistan Innings,29,18,3,0,161.11
+2009,18,2,Pakistan Innings,6,9,0,0,66.67
+2009,19,1,Sri Lanka Innings,0,2,0,0,0.0
+2009,19,1,Sri Lanka Innings,27,27,5,0,100.0
+2009,19,1,Sri Lanka Innings,3,10,0,0,30.0
+2009,19,1,Sri Lanka Innings,78,53,9,1,147.17
+2009,19,1,Sri Lanka Innings,4,6,0,0,66.67
+2009,19,1,Sri Lanka Innings,7,9,0,0,77.78
+2009,19,1,Sri Lanka Innings,10,7,1,0,142.86
+2009,19,1,Sri Lanka Innings,1,2,0,0,50.0
+2009,19,1,Sri Lanka Innings,0,1,0,0,0.0
+2009,19,1,Sri Lanka Innings,1,2,0,0,50.0
+2009,19,1,Sri Lanka Innings,4,1,1,0,400.0
+2009,19,2,Ireland Innings,31,29,5,0,106.9
+2009,19,2,Ireland Innings,31,37,4,0,83.78
+2009,19,2,Ireland Innings,22,21,1,1,104.76
+2009,19,2,Ireland Innings,0,2,0,0,0.0
+2009,19,2,Ireland Innings,31,21,4,0,147.62
+2009,19,2,Ireland Innings,9,6,0,1,150.0
+2009,19,2,Ireland Innings,0,1,0,0,0.0
+2009,19,2,Ireland Innings,2,3,0,0,66.67
+2009,19,2,Ireland Innings,1,1,0,0,100.0
+2009,20,1,England Innings,37,37,3,1,100.0
+2009,20,1,England Innings,1,7,0,0,14.29
+2009,20,1,England Innings,46,27,5,1,170.37
+2009,20,1,England Innings,25,27,2,0,92.59
+2009,20,1,England Innings,12,10,1,0,120.0
+2009,20,1,England Innings,7,5,1,0,140.0
+2009,20,1,England Innings,6,5,0,0,120.0
+2009,20,1,England Innings,0,1,0,0,0.0
+2009,20,1,England Innings,3,1,0,0,300.0
+2009,20,2,India Innings,26,26,4,0,100.0
+2009,20,2,India Innings,9,8,1,0,112.5
+2009,20,2,India Innings,2,5,0,0,40.0
+2009,20,2,India Innings,25,35,1,0,71.43
+2009,20,2,India Innings,17,9,0,2,188.89
+2009,20,2,India Innings,30,20,3,0,150.0
+2009,20,2,India Innings,33,17,1,2,194.12
+2009,22,1,England Innings,55,47,5,0,117.02
+2009,22,1,England Innings,6,6,1,0,100.0
+2009,22,1,England Innings,31,19,5,0,163.16
+2009,22,1,England Innings,18,15,1,1,120.0
+2009,22,1,England Innings,11,10,0,0,110.0
+2009,22,1,England Innings,13,12,0,0,108.33
+2009,22,1,England Innings,10,9,0,0,111.11
+2009,22,1,England Innings,10,2,1,1,500.0
+2009,22,2,West Indies Innings,15,8,3,0,187.5
+2009,22,2,West Indies Innings,0,3,0,0,0.0
+2009,22,2,West Indies Innings,0,1,0,0,0.0
+2009,22,2,West Indies Innings,18,13,1,1,138.46
+2009,22,2,West Indies Innings,9,6,0,1,150.0
+2009,22,2,West Indies Innings,17,10,1,0,170.0
+2009,22,2,West Indies Innings,19,9,3,0,211.11
+2009,23,1,Sri Lanka Innings,48,37,5,0,129.73
+2009,23,1,Sri Lanka Innings,0,1,0,0,0.0
+2009,23,1,Sri Lanka Innings,13,10,2,0,130.0
+2009,23,1,Sri Lanka Innings,35,35,3,0,100.0
+2009,23,1,Sri Lanka Innings,41,29,6,1,141.38
+2009,23,1,Sri Lanka Innings,8,5,1,0,160.0
+2009,23,1,Sri Lanka Innings,6,4,0,0,150.0
+2009,23,2,New Zealand Innings,10,12,2,0,83.33
+2009,23,2,New Zealand Innings,23,13,3,1,176.92
+2009,23,2,New Zealand Innings,43,34,4,1,126.47
+2009,23,2,New Zealand Innings,8,8,1,0,100.0
+2009,23,2,New Zealand Innings,2,3,0,0,66.67
+2009,23,2,New Zealand Innings,7,12,0,0,58.33
+2009,23,2,New Zealand Innings,2,3,0,0,66.67
+2009,23,2,New Zealand Innings,2,4,0,0,50.0
+2009,23,2,New Zealand Innings,3,5,0,0,60.0
+2009,23,2,New Zealand Innings,4,6,1,0,66.67
+2009,23,2,New Zealand Innings,2,2,0,0,100.0
+2009,24,1,South Africa Innings,26,26,2,0,100.0
+2009,24,1,South Africa Innings,5,3,1,0,166.67
+2009,24,1,South Africa Innings,63,51,7,0,123.53
+2009,24,1,South Africa Innings,10,15,0,0,66.67
+2009,24,1,South Africa Innings,11,15,1,0,73.33
+2009,24,1,South Africa Innings,8,8,1,0,100.0
+2009,24,1,South Africa Innings,4,2,1,0,200.0
+2009,24,2,India Innings,21,19,3,0,110.53
+2009,24,2,India Innings,29,28,3,0,103.57
+2009,24,2,India Innings,3,8,0,0,37.5
+2009,24,2,India Innings,25,25,1,1,100.0
+2009,24,2,India Innings,5,12,0,0,41.67
+2009,24,2,India Innings,0,2,0,0,0.0
+2009,24,2,India Innings,14,15,1,1,93.33
+2009,24,2,India Innings,7,6,0,0,116.67
+2009,24,2,India Innings,4,3,0,0,133.33
+2009,24,2,India Innings,2,2,0,0,100.0
+2009,25,1,Pakistan Innings,23,12,4,1,191.67
+2009,25,1,Pakistan Innings,0,2,0,0,0.0
+2009,25,1,Pakistan Innings,51,34,8,0,150.0
+2009,25,1,Pakistan Innings,34,39,2,0,87.18
+2009,25,1,Pakistan Innings,24,18,1,0,133.33
+2009,25,1,Pakistan Innings,12,15,0,0,80.0
+2009,25,2,South Africa Innings,64,54,7,1,118.52
+2009,25,2,South Africa Innings,10,14,1,0,71.43
+2009,25,2,South Africa Innings,5,4,1,0,125.0
+2009,25,2,South Africa Innings,1,5,0,0,20.0
+2009,25,2,South Africa Innings,44,39,3,1,112.82
+2009,25,2,South Africa Innings,2,4,0,0,50.0
+2009,25,2,South Africa Innings,0,0,0,0,0.0
+2009,26,1,Sri Lanka Innings,96,57,12,2,168.42
+2009,26,1,Sri Lanka Innings,24,37,3,0,64.86
+2009,26,1,Sri Lanka Innings,0,2,0,0,0.0
+2009,26,1,Sri Lanka Innings,2,3,0,0,66.67
+2009,26,1,Sri Lanka Innings,11,12,2,0,91.67
+2009,26,1,Sri Lanka Innings,7,5,1,0,140.0
+2009,26,1,Sri Lanka Innings,12,4,1,1,300.0
+2009,26,2,West Indies Innings,63,50,8,2,126.0
+2009,26,2,West Indies Innings,0,1,0,0,0.0
+2009,26,2,West Indies Innings,0,2,0,0,0.0
+2009,26,2,West Indies Innings,0,2,0,0,0.0
+2009,26,2,West Indies Innings,7,15,0,0,46.67
+2009,26,2,West Indies Innings,5,12,0,0,41.67
+2009,26,2,West Indies Innings,3,10,0,0,30.0
+2009,26,2,West Indies Innings,9,5,2,0,180.0
+2009,26,2,West Indies Innings,2,2,0,0,100.0
+2009,26,2,West Indies Innings,1,4,0,0,25.0
+2009,26,2,West Indies Innings,0,4,0,0,0.0
+2009,27,1,Sri Lanka Innings,0,5,0,0,0.0
+2009,27,1,Sri Lanka Innings,17,10,2,1,170.0
+2009,27,1,Sri Lanka Innings,0,2,0,0,0.0
+2009,27,1,Sri Lanka Innings,64,52,7,0,123.08
+2009,27,1,Sri Lanka Innings,1,4,0,0,25.0
+2009,27,1,Sri Lanka Innings,14,19,2,0,73.68
+2009,27,1,Sri Lanka Innings,1,5,0,0,20.0
+2009,27,1,Sri Lanka Innings,35,24,3,1,145.83
+2009,27,2,Pakistan Innings,37,28,2,2,132.14
+2009,27,2,Pakistan Innings,19,23,3,0,82.61
+2009,27,2,Pakistan Innings,54,40,2,2,135.0
+2009,27,2,Pakistan Innings,24,22,1,0,109.09
+2009,1,1,England Innings,46,34,5,0,135.29
+2009,1,1,England Innings,71,49,8,0,144.9
+2009,1,1,England Innings,5,8,0,0,62.5
+2009,1,1,England Innings,6,8,0,0,75.0
+2009,1,1,England Innings,11,10,1,0,110.0
+2009,1,1,England Innings,10,8,0,0,125.0
+2009,1,1,England Innings,3,3,0,0,100.0
+2009,1,2,Netherlands Innings,1,4,0,0,25.0
+2009,1,2,Netherlands Innings,20,13,1,2,153.85
+2009,1,2,Netherlands Innings,12,16,1,0,75.0
+2009,1,2,Netherlands Innings,49,30,6,1,163.33
+2009,1,2,Netherlands Innings,30,25,1,1,120.0
+2009,1,2,Netherlands Innings,22,17,2,0,129.41
+2009,1,2,Netherlands Innings,8,8,1,0,100.0
+2009,1,2,Netherlands Innings,5,7,0,0,71.43
+2009,15,1,Sri Lanka Innings,46,39,8,0,117.95
+2009,15,1,Sri Lanka Innings,26,24,2,1,108.33
+2009,15,1,Sri Lanka Innings,15,16,1,0,93.75
+2009,15,1,Sri Lanka Innings,19,18,2,0,105.56
+2009,15,1,Sri Lanka Innings,8,6,1,0,133.33
+2009,15,1,Sri Lanka Innings,5,10,0,0,50.0
+2009,15,1,Sri Lanka Innings,9,8,1,0,112.5
+2009,15,1,Sri Lanka Innings,0,1,0,0,0.0
+2009,15,1,Sri Lanka Innings,2,1,0,0,200.0
+2009,15,2,Pakistan Innings,0,3,0,0,0.0
+2009,15,2,Pakistan Innings,5,9,0,0,55.56
+2009,15,2,Pakistan Innings,28,20,5,0,140.0
+2009,15,2,Pakistan Innings,50,37,4,0,135.14
+2009,15,2,Pakistan Innings,21,28,0,0,75.0
+2009,15,2,Pakistan Innings,0,1,0,0,0.0
+2009,15,2,Pakistan Innings,12,11,1,0,109.09
+2009,15,2,Pakistan Innings,3,7,0,0,42.86
+2009,15,2,Pakistan Innings,9,4,0,1,225.0
+2009,15,2,Pakistan Innings,0,0,0,0,0.0
+2009,15,2,Pakistan Innings,0,0,0,0,0.0
+2009,17,1,South Africa Innings,45,31,6,1,145.16
+2009,17,1,South Africa Innings,31,18,6,0,172.22
+2009,17,1,South Africa Innings,55,35,8,1,157.14
+2009,17,1,South Africa Innings,17,10,2,0,170.0
+2009,17,1,South Africa Innings,10,8,2,0,125.0
+2009,17,1,South Africa Innings,17,12,0,1,141.67
+2009,17,1,South Africa Innings,0,1,0,0,0.0
+2009,17,1,South Africa Innings,1,3,0,0,33.33
+2009,17,1,South Africa Innings,4,2,0,0,200.0
+2009,17,2,West Indies Innings,5,8,0,0,62.5
+2009,17,2,West Indies Innings,0,5,0,0,0.0
+2009,17,2,West Indies Innings,77,50,12,1,154.0
+2009,17,2,West Indies Innings,19,17,2,0,111.76
+2009,17,2,West Indies Innings,8,7,1,0,114.29
+2009,17,2,West Indies Innings,8,11,0,0,72.73
+2009,17,2,West Indies Innings,6,4,1,0,150.0
+2009,17,2,West Indies Innings,8,7,1,0,114.29
+2009,17,2,West Indies Innings,0,1,0,0,0.0
+2009,17,2,West Indies Innings,13,9,2,0,144.44
+2009,17,2,West Indies Innings,2,2,0,0,100.0
+2009,21,1,Pakistan Innings,57,51,5,1,111.76
+2009,21,1,Pakistan Innings,23,19,3,1,121.05
+2009,21,1,Pakistan Innings,24,13,3,0,184.62
+2009,21,1,Pakistan Innings,10,8,1,0,125.0
+2009,21,1,Pakistan Innings,20,14,1,1,142.86
+2009,21,1,Pakistan Innings,15,9,0,1,166.67
+2009,21,1,Pakistan Innings,4,7,0,0,57.14
+2009,21,2,Ireland Innings,40,36,2,0,111.11
+2009,21,2,Ireland Innings,7,10,1,0,70.0
+2009,21,2,Ireland Innings,17,16,2,0,106.25
+2009,21,2,Ireland Innings,26,30,1,0,86.67
+2009,21,2,Ireland Innings,2,8,0,0,25.0
+2009,21,2,Ireland Innings,0,1,0,0,0.0
+2009,21,2,Ireland Innings,5,7,0,0,71.43
+2009,21,2,Ireland Innings,2,2,0,0,100.0
+2009,21,2,Ireland Innings,2,6,0,0,33.33
+2009,21,2,Ireland Innings,1,1,0,0,100.0
+2009,21,2,Ireland Innings,5,5,0,0,100.0
+2007,1,1,West Indies Innings,117,57,7,10,205.26
+2007,1,1,West Indies Innings,35,34,3,0,102.94
+2007,1,1,West Indies Innings,6,4,0,1,150.0
+2007,1,1,West Indies Innings,11,10,1,0,110.0
+2007,1,1,West Indies Innings,1,4,0,0,25.0
+2007,1,1,West Indies Innings,12,8,0,1,150.0
+2007,1,1,West Indies Innings,6,4,1,0,150.0
+2007,1,1,West Indies Innings,0,0,0,0,0.0
+2007,1,2,South Africa Innings,28,21,4,1,133.33
+2007,1,2,South Africa Innings,90,55,14,2,163.64
+2007,1,2,South Africa Innings,16,9,1,1,177.78
+2007,1,2,South Africa Innings,46,22,5,2,209.09
+2007,2,1,Kenya Innings,0,2,0,0,0.0
+2007,2,1,Kenya Innings,0,1,0,0,0.0
+2007,2,1,Kenya Innings,0,3,0,0,0.0
+2007,2,1,Kenya Innings,0,2,0,0,0.0
+2007,2,1,Kenya Innings,18,25,2,0,72.0
+2007,2,1,Kenya Innings,18,26,3,0,69.23
+2007,2,1,Kenya Innings,0,6,0,0,0.0
+2007,2,1,Kenya Innings,4,12,0,0,33.33
+2007,2,1,Kenya Innings,14,13,1,0,107.69
+2007,2,1,Kenya Innings,11,9,0,1,122.22
+2007,2,1,Kenya Innings,0,2,0,0,0.0
+2007,2,2,New Zealand Innings,27,20,4,1,135.0
+2007,2,2,New Zealand Innings,16,13,1,1,123.08
+2007,2,2,New Zealand Innings,21,14,1,2,150.0
+2007,3,1,Pakistan Innings,13,23,2,0,56.52
+2007,3,1,Pakistan Innings,4,3,1,0,133.33
+2007,3,1,Pakistan Innings,18,11,3,0,163.64
+2007,3,1,Pakistan Innings,41,29,3,2,141.38
+2007,3,1,Pakistan Innings,11,13,1,0,84.62
+2007,3,1,Pakistan Innings,22,7,1,2,314.29
+2007,3,1,Pakistan Innings,23,16,4,0,143.75
+2007,3,1,Pakistan Innings,16,10,1,1,160.0
+2007,3,1,Pakistan Innings,17,8,1,1,212.5
+2007,3,1,Pakistan Innings,0,0,0,0,0.0
+2007,3,2,Scotland Innings,46,35,9,0,131.43
+2007,3,2,Scotland Innings,2,4,0,0,50.0
+2007,3,2,Scotland Innings,4,6,0,0,66.67
+2007,3,2,Scotland Innings,2,4,0,0,50.0
+2007,3,2,Scotland Innings,0,2,0,0,0.0
+2007,3,2,Scotland Innings,1,5,0,0,20.0
+2007,3,2,Scotland Innings,11,7,2,0,157.14
+2007,3,2,Scotland Innings,14,31,0,0,45.16
+2007,3,2,Scotland Innings,14,18,0,0,77.78
+2007,3,2,Scotland Innings,0,1,0,0,0.0
+2007,3,2,Scotland Innings,13,7,2,0,185.71
+2007,4,1,Australia Innings,4,6,0,0,66.67
+2007,4,1,Australia Innings,4,2,1,0,200.0
+2007,4,1,Australia Innings,8,15,1,0,53.33
+2007,4,1,Australia Innings,33,25,4,0,132.0
+2007,4,1,Australia Innings,15,23,1,0,65.22
+2007,4,1,Australia Innings,35,22,2,2,159.09
+2007,4,1,Australia Innings,6,12,0,0,50.0
+2007,4,1,Australia Innings,13,7,1,1,185.71
+2007,4,1,Australia Innings,9,5,1,0,180.0
+2007,4,1,Australia Innings,4,3,0,0,133.33
+2007,4,2,Zimbabwe Innings,23,15,5,0,153.33
+2007,4,2,Zimbabwe Innings,60,45,4,2,133.33
+2007,4,2,Zimbabwe Innings,15,14,3,0,107.14
+2007,4,2,Zimbabwe Innings,0,6,0,0,0.0
+2007,4,2,Zimbabwe Innings,3,8,0,0,37.5
+2007,4,2,Zimbabwe Innings,27,28,2,0,96.43
+2007,4,2,Zimbabwe Innings,4,3,0,0,133.33
+2007,8,1,Sri Lanka Innings,10,11,1,0,90.91
+2007,8,1,Sri Lanka Innings,88,44,11,4,200.0
+2007,8,1,Sri Lanka Innings,30,18,5,0,166.67
+2007,8,1,Sri Lanka Innings,65,27,9,2,240.74
+2007,8,1,Sri Lanka Innings,5,4,1,0,125.0
+2007,8,1,Sri Lanka Innings,3,4,0,0,75.0
+2007,8,1,Sri Lanka Innings,46,13,3,5,353.85
+2007,8,1,Sri Lanka Innings,1,1,0,0,100.0
+2007,8,2,Kenya Innings,0,3,0,0,0.0
+2007,8,2,Kenya Innings,18,33,1,0,54.55
+2007,8,2,Kenya Innings,5,8,1,0,62.5
+2007,8,2,Kenya Innings,16,22,0,1,72.73
+2007,8,2,Kenya Innings,4,4,0,0,100.0
+2007,8,2,Kenya Innings,2,3,0,0,66.67
+2007,8,2,Kenya Innings,21,25,2,0,84.0
+2007,8,2,Kenya Innings,4,10,0,0,40.0
+2007,8,2,Kenya Innings,4,4,0,0,100.0
+2007,8,2,Kenya Innings,3,5,0,0,60.0
+2007,8,2,Kenya Innings,0,0,0,0,0.0
+2007,10,1,India Innings,0,3,0,0,0.0
+2007,10,1,India Innings,5,3,1,0,166.67
+2007,10,1,India Innings,50,39,4,2,128.21
+2007,10,1,India Innings,1,4,0,0,25.0
+2007,10,1,India Innings,11,9,2,0,122.22
+2007,10,1,India Innings,33,31,3,1,106.45
+2007,10,1,India Innings,20,15,0,2,133.33
+2007,10,1,India Innings,1,4,0,0,25.0
+2007,10,1,India Innings,14,9,2,0,155.56
+2007,10,1,India Innings,1,3,0,0,33.33
+2007,10,2,Pakistan Innings,17,25,2,0,68.0
+2007,10,2,Pakistan Innings,7,8,1,0,87.5
+2007,10,2,Pakistan Innings,15,13,1,1,115.38
+2007,10,2,Pakistan Innings,2,8,0,0,25.0
+2007,10,2,Pakistan Innings,20,18,3,0,111.11
+2007,10,2,Pakistan Innings,53,35,7,1,151.43
+2007,10,2,Pakistan Innings,7,9,0,0,77.78
+2007,10,2,Pakistan Innings,12,5,2,0,240.0
+2007,12,1,Bangladesh Innings,8,7,2,0,114.29
+2007,12,1,Bangladesh Innings,0,1,0,0,0.0
+2007,12,1,Bangladesh Innings,36,14,5,2,257.14
+2007,12,1,Bangladesh Innings,10,3,1,1,333.33
+2007,12,1,Bangladesh Innings,19,14,3,0,135.71
+2007,12,1,Bangladesh Innings,14,35,0,0,40.0
+2007,12,1,Bangladesh Innings,12,8,0,2,150.0
+2007,12,1,Bangladesh Innings,19,21,0,2,90.48
+2007,12,1,Bangladesh Innings,4,6,0,0,66.67
+2007,12,1,Bangladesh Innings,2,6,0,0,33.33
+2007,12,1,Bangladesh Innings,6,3,1,0,200.0
+2007,12,2,South Africa Innings,41,34,6,0,120.59
+2007,12,2,South Africa Innings,36,28,4,1,128.57
+2007,12,2,South Africa Innings,41,29,3,2,141.38
+2007,12,2,South Africa Innings,14,15,1,0,93.33
+2007,12,2,South Africa Innings,12,7,1,1,171.43
+2007,13,1,New Zealand Innings,3,6,0,0,50.0
+2007,13,1,New Zealand Innings,45,31,9,0,145.16
+2007,13,1,New Zealand Innings,21,23,1,1,91.3
+2007,13,1,New Zealand Innings,11,9,0,1,122.22
+2007,13,1,New Zealand Innings,2,4,0,0,50.0
+2007,13,1,New Zealand Innings,44,23,1,4,191.3
+2007,13,1,New Zealand Innings,35,15,2,3,233.33
+2007,13,1,New Zealand Innings,15,5,3,0,300.0
+2007,13,1,New Zealand Innings,4,2,1,0,200.0
+2007,13,1,New Zealand Innings,0,1,0,0,0.0
+2007,13,1,New Zealand Innings,0,1,0,0,0.0
+2007,13,2,India Innings,51,33,5,2,154.55
+2007,13,2,India Innings,40,17,6,2,235.29
+2007,13,2,India Innings,0,2,0,0,0.0
+2007,13,2,India Innings,24,20,2,0,120.0
+2007,13,2,India Innings,5,7,0,0,71.43
+2007,13,2,India Innings,17,12,3,0,141.67
+2007,13,2,India Innings,11,10,2,0,110.0
+2007,13,2,India Innings,1,2,0,0,50.0
+2007,13,2,India Innings,7,6,1,0,116.67
+2007,13,2,India Innings,19,10,4,0,190.0
+2007,13,2,India Innings,1,1,0,0,100.0
+2007,16,1,Pakistan Innings,12,17,1,0,70.59
+2007,16,1,Pakistan Innings,7,4,0,1,175.0
+2007,16,1,Pakistan Innings,10,11,2,0,90.91
+2007,16,1,Pakistan Innings,51,35,2,3,145.71
+2007,16,1,Pakistan Innings,57,31,4,2,183.87
+2007,16,1,Pakistan Innings,17,9,2,0,188.89
+2007,16,1,Pakistan Innings,10,9,1,0,111.11
+2007,16,1,Pakistan Innings,16,6,0,2,266.67
+2007,16,2,Sri Lanka Innings,0,2,0,0,0.0
+2007,16,2,Sri Lanka Innings,5,5,0,0,100.0
+2007,16,2,Sri Lanka Innings,18,10,2,1,180.0
+2007,16,2,Sri Lanka Innings,28,27,2,1,103.7
+2007,16,2,Sri Lanka Innings,38,27,5,1,140.74
+2007,16,2,Sri Lanka Innings,38,28,0,4,135.71
+2007,16,2,Sri Lanka Innings,0,4,0,0,0.0
+2007,16,2,Sri Lanka Innings,0,4,0,0,0.0
+2007,16,2,Sri Lanka Innings,12,13,0,0,92.31
+2007,16,2,Sri Lanka Innings,1,2,0,0,50.0
+2007,16,2,Sri Lanka Innings,0,0,0,0,0.0
+2007,17,1,New Zealand Innings,13,17,1,0,76.47
+2007,17,1,New Zealand Innings,4,5,1,0,80.0
+2007,17,1,New Zealand Innings,0,2,0,0,0.0
+2007,17,1,New Zealand Innings,7,8,0,1,87.5
+2007,17,1,New Zealand Innings,42,31,1,4,135.48
+2007,17,1,New Zealand Innings,57,31,3,4,183.87
+2007,17,1,New Zealand Innings,8,6,1,0,133.33
+2007,17,1,New Zealand Innings,17,9,2,0,188.89
+2007,17,1,New Zealand Innings,2,3,0,0,66.67
+2007,17,1,New Zealand Innings,7,8,0,0,87.5
+2007,17,2,England Innings,50,31,4,2,161.29
+2007,17,2,England Innings,24,25,4,0,96.0
+2007,17,2,England Innings,24,16,2,1,150.0
+2007,17,2,England Innings,3,5,0,0,60.0
+2007,17,2,England Innings,21,16,0,1,131.25
+2007,17,2,England Innings,1,1,0,0,100.0
+2007,17,2,England Innings,24,17,1,1,141.18
+2007,17,2,England Innings,0,1,0,0,0.0
+2007,17,2,England Innings,8,6,0,0,133.33
+2007,17,2,England Innings,3,2,0,0,150.0
+2007,20,1,New Zealand Innings,32,29,4,0,110.34
+2007,20,1,New Zealand Innings,38,26,3,2,146.15
+2007,20,1,New Zealand Innings,1,3,0,0,33.33
+2007,20,1,New Zealand Innings,6,9,0,0,66.67
+2007,20,1,New Zealand Innings,48,25,2,4,192.0
+2007,20,1,New Zealand Innings,15,15,2,0,100.0
+2007,20,1,New Zealand Innings,1,4,0,0,25.0
+2007,20,1,New Zealand Innings,1,3,0,0,33.33
+2007,20,1,New Zealand Innings,0,1,0,0,0.0
+2007,20,1,New Zealand Innings,3,7,0,0,42.86
+2007,20,2,South Africa Innings,2,4,0,0,50.0
+2007,20,2,South Africa Innings,19,19,4,0,100.0
+2007,20,2,South Africa Innings,1,5,0,0,20.0
+2007,20,2,South Africa Innings,89,56,6,6,158.93
+2007,20,2,South Africa Innings,23,23,2,0,100.0
+2007,20,2,South Africa Innings,16,11,0,1,145.45
+2007,21,1,India Innings,58,41,7,1,141.46
+2007,21,1,India Innings,68,52,4,3,130.77
+2007,21,1,India Innings,6,4,1,0,150.0
+2007,21,1,India Innings,10,8,0,0,125.0
+2007,21,1,India Innings,58,16,3,7,362.5
+2007,21,1,India Innings,0,0,0,0,0.0
+2007,21,2,England Innings,29,20,3,1,145.0
+2007,21,2,England Innings,43,31,5,1,138.71
+2007,21,2,England Innings,39,23,3,1,169.57
+2007,21,2,England Innings,28,20,2,1,140.0
+2007,21,2,England Innings,21,13,3,1,161.54
+2007,21,2,England Innings,8,4,1,0,200.0
+2007,21,2,England Innings,16,9,1,1,177.78
+2007,21,2,England Innings,0,0,0,0,0.0
+2007,22,1,Sri Lanka Innings,4,8,0,0,50.0
+2007,22,1,Sri Lanka Innings,0,2,0,0,0.0
+2007,22,1,Sri Lanka Innings,22,23,3,0,95.65
+2007,22,1,Sri Lanka Innings,1,2,0,0,50.0
+2007,22,1,Sri Lanka Innings,6,11,1,0,54.55
+2007,22,1,Sri Lanka Innings,3,5,0,0,60.0
+2007,22,1,Sri Lanka Innings,28,26,3,0,107.69
+2007,22,1,Sri Lanka Innings,0,2,0,0,0.0
+2007,22,1,Sri Lanka Innings,21,28,1,0,75.0
+2007,22,1,Sri Lanka Innings,12,10,0,1,120.0
+2007,22,1,Sri Lanka Innings,0,2,0,0,0.0
+2007,22,2,Australia Innings,31,25,4,0,124.0
+2007,22,2,Australia Innings,58,38,7,2,152.63
+2007,24,1,India Innings,19,19,3,0,100.0
+2007,24,1,India Innings,11,11,1,0,100.0
+2007,24,1,India Innings,0,1,0,0,0.0
+2007,24,1,India Innings,15,16,1,1,93.75
+2007,24,1,India Innings,50,40,7,2,125.0
+2007,24,1,India Innings,45,33,4,1,136.36
+2007,24,1,India Innings,0,1,0,0,0.0
+2007,24,2,South Africa Innings,1,3,0,0,33.33
+2007,24,2,South Africa Innings,4,6,1,0,66.67
+2007,24,2,South Africa Innings,1,4,0,0,25.0
+2007,24,2,South Africa Innings,5,12,1,0,41.67
+2007,24,2,South Africa Innings,36,41,4,0,87.8
+2007,24,2,South Africa Innings,0,1,0,0,0.0
+2007,24,2,South Africa Innings,36,37,2,1,97.3
+2007,24,2,South Africa Innings,2,5,0,0,40.0
+2007,24,2,South Africa Innings,2,6,0,0,33.33
+2007,24,2,South Africa Innings,1,3,0,0,33.33
+2007,24,2,South Africa Innings,4,2,1,0,200.0
+2007,26,1,India Innings,24,25,4,0,96.0
+2007,26,1,India Innings,9,13,1,0,69.23
+2007,26,1,India Innings,34,28,1,3,121.43
+2007,26,1,India Innings,70,30,5,5,233.33
+2007,26,1,India Innings,36,18,4,1,200.0
+2007,26,1,India Innings,8,5,0,1,160.0
+2007,26,1,India Innings,0,1,0,0,0.0
+2007,26,2,Australia Innings,22,13,2,2,169.23
+2007,26,2,Australia Innings,62,47,4,4,131.91
+2007,26,2,Australia Innings,11,10,0,1,110.0
+2007,26,2,Australia Innings,43,26,3,2,165.38
+2007,26,2,Australia Innings,13,12,0,1,108.33
+2007,26,2,Australia Innings,3,3,0,0,100.0
+2007,26,2,Australia Innings,5,8,0,0,62.5
+2007,26,2,Australia Innings,2,2,0,0,100.0
+2007,26,2,Australia Innings,4,1,1,0,400.0
+2007,27,1,India Innings,75,54,8,2,138.89
+2007,27,1,India Innings,15,8,1,1,187.5
+2007,27,1,India Innings,8,11,1,0,72.73
+2007,27,1,India Innings,14,19,1,0,73.68
+2007,27,1,India Innings,6,10,0,0,60.0
+2007,27,1,India Innings,30,16,2,1,187.5
+2007,27,1,India Innings,3,3,0,0,100.0
+2007,27,2,Pakistan Innings,1,3,0,0,33.33
+2007,27,2,Pakistan Innings,33,14,4,2,235.71
+2007,27,2,Pakistan Innings,0,3,0,0,0.0
+2007,27,2,Pakistan Innings,24,24,4,0,100.0
+2007,27,2,Pakistan Innings,8,17,0,0,47.06
+2007,27,2,Pakistan Innings,43,38,0,4,113.16
+2007,27,2,Pakistan Innings,0,1,0,0,0.0
+2007,27,2,Pakistan Innings,15,11,2,0,136.36
+2007,27,2,Pakistan Innings,12,4,0,2,300.0
+2007,27,2,Pakistan Innings,0,2,0,0,0.0
+2007,27,2,Pakistan Innings,4,1,1,0,400.0
+2007,5,1,West Indies Innings,0,3,0,0,0.0
+2007,5,1,West Indies Innings,51,52,6,0,98.08
+2007,5,1,West Indies Innings,37,31,3,2,119.35
+2007,5,1,West Indies Innings,27,14,2,2,192.86
+2007,5,1,West Indies Innings,5,7,0,0,71.43
+2007,5,1,West Indies Innings,2,3,0,0,66.67
+2007,5,1,West Indies Innings,29,7,1,4,414.29
+2007,5,1,West Indies Innings,2,2,0,0,100.0
+2007,5,1,West Indies Innings,1,1,0,0,100.0
+2007,5,2,Bangladesh Innings,10,13,2,0,76.92
+2007,5,2,Bangladesh Innings,1,4,0,0,25.0
+2007,5,2,Bangladesh Innings,62,49,8,1,126.53
+2007,5,2,Bangladesh Innings,61,27,7,3,225.93
+2007,5,2,Bangladesh Innings,13,9,1,0,144.44
+2007,5,2,Bangladesh Innings,5,7,0,0,71.43
+2007,6,1,England Innings,14,9,2,0,155.56
+2007,6,1,England Innings,20,14,2,1,142.86
+2007,6,1,England Innings,0,1,0,0,0.0
+2007,6,1,England Innings,79,37,7,4,213.51
+2007,6,1,England Innings,37,28,1,2,132.14
+2007,6,1,England Innings,13,13,0,1,100.0
+2007,6,1,England Innings,11,8,0,1,137.5
+2007,6,1,England Innings,0,1,0,0,0.0
+2007,6,1,England Innings,9,7,1,0,128.57
+2007,6,1,England Innings,1,2,0,0,50.0
+2007,6,1,England Innings,0,0,0,0,0.0
+2007,6,2,Zimbabwe Innings,29,25,5,0,116.0
+2007,6,2,Zimbabwe Innings,47,39,4,2,120.51
+2007,6,2,Zimbabwe Innings,2,4,0,0,50.0
+2007,6,2,Zimbabwe Innings,5,8,0,0,62.5
+2007,6,2,Zimbabwe Innings,2,6,0,0,33.33
+2007,6,2,Zimbabwe Innings,8,5,0,1,160.0
+2007,6,2,Zimbabwe Innings,27,23,1,0,117.39
+2007,6,2,Zimbabwe Innings,13,10,1,0,130.0
+2007,6,2,Zimbabwe Innings,0,0,0,0,0.0
+2007,9,1,England Innings,20,20,3,0,100.0
+2007,9,1,England Innings,17,17,1,1,100.0
+2007,9,1,England Innings,3,6,0,0,50.0
+2007,9,1,England Innings,21,20,2,0,105.0
+2007,9,1,England Innings,18,11,2,1,163.64
+2007,9,1,England Innings,31,19,4,1,163.16
+2007,9,1,England Innings,14,13,0,1,107.69
+2007,9,1,England Innings,4,6,0,0,66.67
+2007,9,1,England Innings,1,4,0,0,25.0
+2007,9,1,England Innings,1,3,0,0,33.33
+2007,9,1,England Innings,2,4,0,0,50.0
+2007,9,2,Australia Innings,45,28,5,1,160.71
+2007,9,2,Australia Innings,67,43,11,1,155.81
+2007,9,2,Australia Innings,20,16,1,1,125.0
+2007,9,2,Australia Innings,2,2,0,0,100.0
+2007,11,1,New Zealand Innings,14,16,1,0,87.5
+2007,11,1,New Zealand Innings,10,12,0,0,83.33
+2007,11,1,New Zealand Innings,25,19,1,2,131.58
+2007,11,1,New Zealand Innings,62,43,3,3,144.19
+2007,11,1,New Zealand Innings,2,3,0,0,66.67
+2007,11,1,New Zealand Innings,2,5,0,0,40.0
+2007,11,1,New Zealand Innings,33,19,2,2,173.68
+2007,11,1,New Zealand Innings,3,3,0,0,100.0
+2007,11,2,Sri Lanka Innings,37,25,2,2,148.0
+2007,11,2,Sri Lanka Innings,61,44,6,3,138.64
+2007,11,2,Sri Lanka Innings,14,19,1,0,73.68
+2007,11,2,Sri Lanka Innings,35,18,4,1,194.44
+2007,11,2,Sri Lanka Innings,9,7,1,0,128.57
+2007,14,1,Bangladesh Innings,32,40,3,0,80.0
+2007,14,1,Bangladesh Innings,11,17,2,0,64.71
+2007,14,1,Bangladesh Innings,31,34,2,0,91.18
+2007,14,1,Bangladesh Innings,7,6,1,0,116.67
+2007,14,1,Bangladesh Innings,16,11,1,1,145.45
+2007,14,1,Bangladesh Innings,0,1,0,0,0.0
+2007,14,1,Bangladesh Innings,0,1,0,0,0.0
+2007,14,1,Bangladesh Innings,4,13,0,0,30.77
+2007,14,1,Bangladesh Innings,3,2,0,0,150.0
+2007,14,1,Bangladesh Innings,0,0,0,0,0.0
+2007,14,2,Australia Innings,43,28,1,4,153.57
+2007,14,2,Australia Innings,73,48,9,3,152.08
+2007,14,2,Australia Innings,6,8,0,0,75.0
+2007,15,1,South Africa Innings,19,13,4,0,146.15
+2007,15,1,South Africa Innings,0,4,0,0,0.0
+2007,15,1,South Africa Innings,18,14,4,0,128.57
+2007,15,1,South Africa Innings,21,27,0,1,77.78
+2007,15,1,South Africa Innings,29,29,3,0,100.0
+2007,15,1,South Africa Innings,0,1,0,0,0.0
+2007,15,1,South Africa Innings,43,20,3,4,215.0
+2007,15,1,South Africa Innings,6,7,0,0,85.71
+2007,15,1,South Africa Innings,9,5,1,0,180.0
+2007,15,2,England Innings,0,4,0,0,0.0
+2007,15,2,England Innings,32,31,1,1,103.23
+2007,15,2,England Innings,15,14,3,0,107.14
+2007,15,2,England Innings,0,1,0,0,0.0
+2007,15,2,England Innings,36,31,1,2,116.13
+2007,15,2,England Innings,17,16,2,0,106.25
+2007,15,2,England Innings,7,11,0,0,63.64
+2007,15,2,England Innings,15,9,2,0,166.67
+2007,15,2,England Innings,6,3,1,0,200.0
+2007,18,1,Australia Innings,24,12,5,0,200.0
+2007,18,1,Australia Innings,1,5,0,0,20.0
+2007,18,1,Australia Innings,27,26,3,0,103.85
+2007,18,1,Australia Innings,29,18,5,0,161.11
+2007,18,1,Australia Innings,37,25,3,1,148.0
+2007,18,1,Australia Innings,36,29,3,0,124.14
+2007,18,1,Australia Innings,0,1,0,0,0.0
+2007,18,1,Australia Innings,2,3,0,0,66.67
+2007,18,1,Australia Innings,1,1,0,0,100.0
+2007,18,2,Pakistan Innings,10,10,1,1,100.0
+2007,18,2,Pakistan Innings,15,11,2,1,136.36
+2007,18,2,Pakistan Innings,11,12,2,0,91.67
+2007,18,2,Pakistan Innings,4,3,1,0,133.33
+2007,18,2,Pakistan Innings,52,38,4,2,136.84
+2007,18,2,Pakistan Innings,66,42,7,1,157.14
+2007,19,1,Sri Lanka Innings,23,14,3,0,164.29
+2007,19,1,Sri Lanka Innings,0,1,0,0,0.0
+2007,19,1,Sri Lanka Innings,20,29,2,0,68.97
+2007,19,1,Sri Lanka Innings,30,30,1,0,100.0
+2007,19,1,Sri Lanka Innings,12,12,0,1,100.0
+2007,19,1,Sri Lanka Innings,21,16,2,0,131.25
+2007,19,1,Sri Lanka Innings,31,19,2,1,163.16
+2007,19,2,Bangladesh Innings,3,10,0,0,30.0
+2007,19,2,Bangladesh Innings,0,1,0,0,0.0
+2007,19,2,Bangladesh Innings,18,11,3,0,163.64
+2007,19,2,Bangladesh Innings,4,8,0,0,50.0
+2007,19,2,Bangladesh Innings,18,19,2,0,94.74
+2007,19,2,Bangladesh Innings,5,6,0,0,83.33
+2007,19,2,Bangladesh Innings,16,16,0,1,100.0
+2007,19,2,Bangladesh Innings,12,12,2,0,100.0
+2007,19,2,Bangladesh Innings,1,1,0,0,100.0
+2007,19,2,Bangladesh Innings,5,12,0,0,41.67
+2007,19,2,Bangladesh Innings,0,0,0,0,0.0
+2007,23,1,Bangladesh Innings,3,8,0,0,37.5
+2007,23,1,Bangladesh Innings,71,49,6,3,144.9
+2007,23,1,Bangladesh Innings,15,17,0,0,88.24
+2007,23,1,Bangladesh Innings,5,4,0,0,125.0
+2007,23,1,Bangladesh Innings,1,3,0,0,33.33
+2007,23,1,Bangladesh Innings,12,10,1,0,120.0
+2007,23,1,Bangladesh Innings,1,1,0,0,100.0
+2007,23,1,Bangladesh Innings,11,14,0,0,78.57
+2007,23,1,Bangladesh Innings,6,9,0,0,66.67
+2007,23,1,Bangladesh Innings,0,1,0,0,0.0
+2007,23,1,Bangladesh Innings,1,6,0,0,16.67
+2007,23,2,Pakistan Innings,27,18,3,1,150.0
+2007,23,2,Pakistan Innings,39,15,5,2,260.0
+2007,23,2,Pakistan Innings,23,21,4,0,109.52
+2007,23,2,Pakistan Innings,21,28,0,0,75.0
+2007,23,2,Pakistan Innings,1,4,0,0,25.0
+2007,23,2,Pakistan Innings,21,23,2,0,91.3
+2007,23,2,Pakistan Innings,1,2,0,0,50.0
+2007,23,2,Pakistan Innings,3,4,0,0,75.0
+2007,25,1,New Zealand Innings,28,28,1,1,100.0
+2007,25,1,New Zealand Innings,26,27,2,0,96.3
+2007,25,1,New Zealand Innings,18,12,1,1,150.0
+2007,25,1,New Zealand Innings,10,15,0,0,66.67
+2007,25,1,New Zealand Innings,37,23,2,2,160.87
+2007,25,1,New Zealand Innings,12,6,1,1,200.0
+2007,25,1,New Zealand Innings,1,4,0,0,25.0
+2007,25,1,New Zealand Innings,0,0,0,0,0.0
+2007,25,1,New Zealand Innings,5,7,0,0,71.43
+2007,25,1,New Zealand Innings,0,0,0,0,0.0
+2007,25,2,Pakistan Innings,32,21,3,2,152.38
+2007,25,2,Pakistan Innings,59,41,3,5,143.9
+2007,25,2,Pakistan Innings,4,15,0,0,26.67
+2007,25,2,Pakistan Innings,26,14,1,1,185.71
+2007,25,2,Pakistan Innings,6,5,1,0,120.0
+2007,25,2,Pakistan Innings,16,17,0,1,94.12

@@ -1,0 +1,60 @@
+antecedents,consequents,support,confidence,lift,generator_length,closure_length
+Balls=Few | Season=2010 | StrikeRate=Low,Runs=Low | Sixes=None,0.06017191977077364,1.0,1.6870090634441088,3,5
+Balls=Few | Season=2009 | StrikeRate=Low,Runs=Low | Sixes=None,0.05551575931232092,1.0,1.6870090634441088,3,5
+Balls=Few | Fours=None | Season=2010 | StrikeRate=Low,Runs=Low | Sixes=None,0.05515759312320917,1.0,1.6870090634441088,4,6
+Balls=Few | Fours=None | Season=2009 | StrikeRate=Low,Runs=Low | Sixes=None,0.050143266475644696,1.0,1.6870090634441088,4,6
+Balls=Few | Fours=None,Runs=Low,0.37141833810888253,1.0,1.4503896103896103,2,3
+Balls=Few | StrikeRate=Low,Runs=Low,0.3570916905444126,1.0,1.4503896103896103,2,3
+Balls=Few | Sixes=None | StrikeRate=Low,Runs=Low,0.3542263610315186,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Sixes=None,Runs=Low,0.335243553008596,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | StrikeRate=Low,Runs=Low,0.3212750716332378,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Sixes=None | StrikeRate=Low,Runs=Low,0.31876790830945556,1.0,1.4503896103896103,4,5
+Balls=Few | Innings=2 | Sixes=None,Runs=Low,0.22886819484240686,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Innings=2,Runs=Low,0.18839541547277938,1.0,1.4503896103896103,3,4
+Balls=Few | Innings=2 | StrikeRate=Low,Runs=Low,0.18553008595988538,1.0,1.4503896103896103,3,4
+Balls=Few | Innings=2 | Sixes=None | StrikeRate=Low,Runs=Low,0.1833810888252149,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Innings=1,Runs=Low,0.18302292263610315,1.0,1.4503896103896103,3,4
+Balls=Few | Innings=1 | StrikeRate=Low,Runs=Low,0.1715616045845272,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Innings=2 | Sixes=None,Runs=Low,0.1715616045845272,1.0,1.4503896103896103,4,5
+Balls=Few | Innings=1 | Sixes=None | StrikeRate=Low,Runs=Low,0.17084527220630372,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Innings=2 | StrikeRate=Low,Runs=Low,0.16726361031518625,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Innings=2 | Sixes=None | StrikeRate=Low,Runs=Low,0.1654727793696275,1.0,1.4503896103896103,5,6
+Balls=Few | Fours=None | Innings=1 | Sixes=None,Runs=Low,0.16368194842406877,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Innings=1 | StrikeRate=Low,Runs=Low,0.15401146131805157,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Innings=1 | Sixes=None | StrikeRate=Low,Runs=Low,0.15329512893982808,1.0,1.4503896103896103,5,6
+Balls=Few | Fours=Few | Sixes=None,Runs=Low,0.11891117478510028,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2014 | Sixes=None,Runs=Low,0.08739255014326648,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2010,Runs=Low,0.08631805157593123,1.0,1.4503896103896103,2,3
+Balls=Few | Season=2016 | Sixes=None,Runs=Low,0.08094555873925502,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2010 | Sixes=None,Runs=Low,0.07628939828080229,1.0,1.4503896103896103,3,4
+Balls=Few | StrikeRate=Medium,Runs=Low,0.07414040114613181,1.0,1.4503896103896103,2,3
+Balls=Few | Season=2014 | StrikeRate=Low,Runs=Low,0.07342406876790832,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2014 | Sixes=None | StrikeRate=Low,Runs=Low,0.07306590257879657,1.0,1.4503896103896103,4,5
+Balls=Few | Season=2007 | Sixes=None,Runs=Low,0.07091690544412607,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2014,Runs=Low,0.07055873925501432,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2012,Runs=Low,0.06948424068767908,1.0,1.4503896103896103,2,3
+Balls=Few | Fours=None | Season=2016,Runs=Low,0.06912607449856734,1.0,1.4503896103896103,3,4
+Fours=None | Season=2010 | Sixes=None,Runs=Low,0.06769340974212035,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2010,Runs=Low,0.0651862464183381,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2014 | Sixes=None,Runs=Low,0.0651862464183381,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2014 | StrikeRate=Low,Runs=Low,0.06411174785100286,1.0,1.4503896103896103,4,5
+Fours=None | Season=2010 | Sixes=None | StrikeRate=Low,Runs=Low,0.06411174785100286,1.0,1.4503896103896103,4,5
+Balls=Few | Season=2016 | StrikeRate=Low,Runs=Low,0.06375358166189111,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2014 | Sixes=None | StrikeRate=Low,Runs=Low,0.06375358166189111,1.0,1.4503896103896103,5,6
+Balls=Few | Fours=Few | Innings=1 | Sixes=None,Runs=Low,0.06339541547277937,1.0,1.4503896103896103,4,5
+Balls=Few | Season=2012 | Sixes=None,Runs=Low,0.06303724928366762,1.0,1.4503896103896103,3,4
+Balls=Few | Season=2016 | Sixes=None | StrikeRate=Low,Runs=Low,0.06267908309455587,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2007,Runs=Low,0.06017191977077364,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2009,Runs=Low,0.05873925501432665,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2010 | Sixes=None,Runs=Low,0.05873925501432665,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2016 | Sixes=None,Runs=Low,0.05766475644699141,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2016 | StrikeRate=Low,Runs=Low,0.05659025787965616,1.0,1.4503896103896103,4,5
+Balls=Few | Sixes=None | StrikeRate=Medium,Runs=Low,0.055873925501432664,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=Few | Innings=2 | Sixes=None,Runs=Low,0.05551575931232092,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2016 | Sixes=None | StrikeRate=Low,Runs=Low,0.05551575931232092,1.0,1.4503896103896103,5,6
+Balls=Few | Fours=None | Season=2007 | Sixes=None,Runs=Low,0.05515759312320917,1.0,1.4503896103896103,4,5
+Balls=Few | Season=2007 | StrikeRate=Low,Runs=Low,0.05479942693409742,1.0,1.4503896103896103,3,4
+Balls=Few | Fours=None | Season=2009 | Sixes=None,Runs=Low,0.054441260744985676,1.0,1.4503896103896103,4,5
+Balls=Few | Season=2007 | Sixes=None | StrikeRate=Low,Runs=Low,0.05408309455587393,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2007 | StrikeRate=Low,Runs=Low,0.05300859598853868,1.0,1.4503896103896103,4,5
+Balls=Few | Fours=None | Season=2007 | Sixes=None | StrikeRate=Low,Runs=Low,0.05265042979942693,1.0,1.4503896103896103,5,6

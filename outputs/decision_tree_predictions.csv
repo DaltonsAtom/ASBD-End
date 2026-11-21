@@ -1,0 +1,560 @@
+Season,Innings,Team,Actual,Predicted,Correct
+2010,2,Bangladesh Innings,Low,Low,True
+2016,1,Australia Innings,High,Medium,False
+2007,2,Kenya Innings,Low,Low,True
+2012,1,South Africa Innings,Medium,Low,False
+2007,2,Pakistan Innings,Medium,Low,False
+2007,1,West Indies Innings,High,Low,False
+2016,1,Australia Innings,Medium,Medium,True
+2010,1,Zimbabwe Innings,Low,Low,True
+2009,1,Sri Lanka Innings,Low,High,False
+2012,2,Afghanistan Innings,Low,Low,True
+2012,2,Pakistan Innings,Low,Low,True
+2012,2,Afghanistan Innings,Low,Low,True
+2007,1,India Innings,Low,High,False
+2009,1,England Innings,Low,Low,True
+2012,1,South Africa Innings,Medium,Low,False
+2016,2,West Indies Innings,Low,High,False
+2016,2,Oman Innings,Low,Low,True
+2009,1,India Innings,Low,High,False
+2016,2,Pakistan Innings,Low,Low,True
+2014,1,United Arab Emirates Innings,Low,Low,True
+2007,1,India Innings,Medium,High,False
+2014,2,Hong Kong Innings,Medium,Low,False
+2010,2,Pakistan Innings,Medium,Low,False
+2007,1,Bangladesh Innings,Low,Low,True
+2007,2,New Zealand Innings,Medium,Low,False
+2007,1,Bangladesh Innings,Low,Low,True
+2007,2,Bangladesh Innings,Low,Low,True
+2014,2,Netherlands Innings,Medium,Low,False
+2012,1,Sri Lanka Innings,Low,High,False
+2007,1,Bangladesh Innings,Medium,Low,False
+2007,2,South Africa Innings,High,Low,False
+2016,1,Sri Lanka Innings,Medium,High,False
+2009,1,Australia Innings,Low,Medium,False
+2016,1,New Zealand Innings,Low,Low,True
+2010,2,Bangladesh Innings,Low,Low,True
+2014,2,England Innings,Medium,Low,False
+2009,2,India Innings,Low,Medium,False
+2012,1,South Africa Innings,Medium,Low,False
+2010,2,Sri Lanka Innings,Low,High,False
+2009,1,England Innings,Low,Low,True
+2016,2,Afghanistan Innings,Medium,Low,False
+2012,2,Australia Innings,Low,High,False
+2012,1,New Zealand Innings,Low,Low,True
+2009,1,Sri Lanka Innings,Low,High,False
+2012,1,Sri Lanka Innings,Low,High,False
+2012,1,West Indies Innings,High,High,True
+2009,1,South Africa Innings,Medium,Low,False
+2012,1,India Innings,Medium,High,False
+2007,2,Pakistan Innings,Low,Low,True
+2016,1,Pakistan Innings,Low,Low,True
+2016,2,West Indies Innings,Low,High,False
+2016,1,Bangladesh Innings,Low,Low,True
+2016,2,Bangladesh Innings,Medium,Low,False
+2010,1,Sri Lanka Innings,High,High,True
+2016,1,Afghanistan Innings,Low,Low,True
+2009,2,India Innings,Medium,Medium,True
+2010,1,Australia Innings,Low,High,False
+2007,1,India Innings,Medium,High,False
+2012,2,Australia Innings,High,High,True
+2012,2,New Zealand Innings,Medium,Low,False
+2009,1,Pakistan Innings,Low,Low,True
+2014,2,Bangladesh Innings,Medium,Low,False
+2010,1,West Indies Innings,Low,Medium,False
+2009,2,Ireland Innings,Low,Low,True
+2014,2,Bangladesh Innings,Low,Low,True
+2007,1,India Innings,Low,High,False
+2012,1,New Zealand Innings,High,Low,False
+2014,2,Netherlands Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2007,1,Sri Lanka Innings,Medium,High,False
+2012,1,England Innings,Medium,Low,False
+2012,2,Afghanistan Innings,Low,Low,True
+2016,2,India Innings,Low,High,False
+2014,1,Bangladesh Innings,Low,Low,True
+2007,1,Bangladesh Innings,Low,Low,True
+2016,2,India Innings,Low,High,False
+2014,1,Australia Innings,Low,Medium,False
+2010,1,Pakistan Innings,Low,Low,True
+2012,2,Pakistan Innings,Medium,Low,False
+2007,2,Australia Innings,High,High,True
+2007,2,Sri Lanka Innings,Low,High,False
+2016,1,New Zealand Innings,Low,Low,True
+2009,2,Ireland Innings,Low,Low,True
+2016,1,England Innings,Medium,Low,False
+2009,1,England Innings,Medium,Low,False
+2009,1,New Zealand Innings,Low,Low,True
+2012,2,England Innings,Low,Low,True
+2012,2,Australia Innings,Low,High,False
+2009,2,Pakistan Innings,Medium,Low,False
+2010,1,Afghanistan Innings,High,Low,False
+2016,1,Zimbabwe Innings,Low,Low,True
+2016,2,West Indies Innings,Low,High,False
+2016,1,Afghanistan Innings,High,Low,False
+2007,2,England Innings,Low,Low,True
+2014,2,Australia Innings,Low,High,False
+2009,2,Ireland Innings,Low,Low,True
+2016,2,Oman Innings,Medium,Low,False
+2010,1,South Africa Innings,Low,Low,True
+2016,1,Sri Lanka Innings,Medium,High,False
+2009,2,Scotland Innings,Low,Medium,False
+2014,2,Australia Innings,Low,High,False
+2007,1,West Indies Innings,Low,Low,True
+2009,1,England Innings,Low,Low,True
+2007,2,New Zealand Innings,Low,Low,True
+2009,2,Sri Lanka Innings,Low,High,False
+2010,1,Pakistan Innings,Low,Low,True
+2012,1,Pakistan Innings,Low,Low,True
+2012,1,Sri Lanka Innings,Low,High,False
+2010,2,England Innings,Medium,Low,False
+2009,2,Ireland Innings,Low,Low,True
+2009,2,Pakistan Innings,Low,Low,True
+2012,2,Australia Innings,Low,High,False
+2012,1,Zimbabwe Innings,Low,Low,True
+2014,2,Afghanistan Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2009,2,New Zealand Innings,Low,Low,True
+2010,1,England Innings,Low,Low,True
+2009,1,New Zealand Innings,High,Low,False
+2007,2,South Africa Innings,Medium,Low,False
+2007,1,Pakistan Innings,Low,Low,True
+2010,1,Zimbabwe Innings,Low,Low,True
+2016,1,Bangladesh Innings,Low,Low,True
+2012,2,Afghanistan Innings,Low,Low,True
+2016,1,New Zealand Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2012,1,Bangladesh Innings,Low,Low,True
+2014,1,United Arab Emirates Innings,Low,Low,True
+2007,2,Pakistan Innings,High,Low,False
+2009,2,Bangladesh Innings,Low,Low,True
+2014,1,Sri Lanka Innings,High,High,True
+2014,1,Netherlands Innings,Low,Low,True
+2012,1,Ireland Innings,Medium,Low,False
+2014,2,India Innings,High,High,True
+2010,1,Pakistan Innings,Low,Low,True
+2012,2,Afghanistan Innings,Low,Low,True
+2007,1,India Innings,Low,High,False
+2014,2,South Africa Innings,Low,Low,True
+2010,2,India Innings,Medium,High,False
+2007,1,India Innings,Low,High,False
+2007,2,Zimbabwe Innings,Medium,Low,False
+2010,1,England Innings,Low,Low,True
+2014,2,England Innings,Low,Low,True
+2012,1,West Indies Innings,Low,High,False
+2010,1,Pakistan Innings,Low,Low,True
+2010,2,Pakistan Innings,Low,Low,True
+2007,2,Pakistan Innings,Low,Low,True
+2007,2,Scotland Innings,Low,Medium,False
+2010,1,West Indies Innings,Low,Medium,False
+2007,1,New Zealand Innings,Low,Low,True
+2016,2,Scotland Innings,Low,Medium,False
+2016,2,West Indies Innings,Low,High,False
+2007,2,Pakistan Innings,Low,Low,True
+2010,2,India Innings,Low,High,False
+2014,2,Hong Kong Innings,Low,Low,True
+2012,1,Zimbabwe Innings,Low,Low,True
+2007,2,Australia Innings,High,High,True
+2014,2,West Indies Innings,Low,Medium,False
+2012,1,Ireland Innings,Medium,Low,False
+2010,1,Australia Innings,Low,High,False
+2012,1,South Africa Innings,Medium,Low,False
+2007,2,Kenya Innings,Low,Low,True
+2010,1,South Africa Innings,Low,Low,True
+2009,2,New Zealand Innings,Medium,Low,False
+2016,1,Afghanistan Innings,Low,Low,True
+2010,2,Pakistan Innings,Low,Low,True
+2012,1,New Zealand Innings,Low,Low,True
+2007,2,Kenya Innings,Low,Low,True
+2007,2,Pakistan Innings,Low,Low,True
+2012,2,Australia Innings,Low,High,False
+2014,1,Nepal Innings,Low,Low,True
+2007,1,India Innings,Low,High,False
+2010,1,England Innings,Medium,Low,False
+2009,1,Pakistan Innings,Low,Low,True
+2007,2,New Zealand Innings,Medium,Low,False
+2010,2,Australia Innings,Medium,High,False
+2007,1,England Innings,Low,Low,True
+2016,2,India Innings,Low,High,False
+2007,2,Pakistan Innings,Medium,Low,False
+2009,1,Sri Lanka Innings,High,High,True
+2010,2,England Innings,High,Low,False
+2010,1,Pakistan Innings,Low,Low,True
+2007,1,West Indies Innings,High,Low,False
+2012,2,Australia Innings,Low,High,False
+2010,2,South Africa Innings,Low,Low,True
+2016,2,Bangladesh Innings,Medium,Low,False
+2016,2,India Innings,Medium,High,False
+2010,2,Australia Innings,Low,High,False
+2010,1,India Innings,Medium,High,False
+2014,1,India Innings,Low,High,False
+2014,2,New Zealand Innings,Low,Low,True
+2012,2,Australia Innings,Medium,High,False
+2007,2,England Innings,Medium,Low,False
+2010,2,India Innings,Low,High,False
+2012,1,Pakistan Innings,Low,Low,True
+2007,1,England Innings,Low,Low,True
+2012,2,New Zealand Innings,Low,Low,True
+2007,1,England Innings,Low,Low,True
+2010,1,Sri Lanka Innings,Low,High,False
+2016,2,India Innings,Low,High,False
+2007,2,Pakistan Innings,High,Low,False
+2014,1,South Africa Innings,Low,Low,True
+2014,1,West Indies Innings,Low,Medium,False
+2009,1,Sri Lanka Innings,Low,High,False
+2014,1,Netherlands Innings,Medium,Low,False
+2010,2,Pakistan Innings,Low,Low,True
+2014,1,West Indies Innings,Low,Medium,False
+2016,1,New Zealand Innings,Low,Low,True
+2009,1,South Africa Innings,Low,Low,True
+2014,1,Pakistan Innings,Low,Low,True
+2014,1,Australia Innings,Medium,Medium,True
+2009,1,South Africa Innings,Low,Low,True
+2012,1,India Innings,Medium,High,False
+2010,2,Afghanistan Innings,Low,Low,True
+2014,2,Sri Lanka Innings,Low,High,False
+2014,2,England Innings,Low,Low,True
+2014,1,South Africa Innings,Low,Low,True
+2010,2,Pakistan Innings,Low,Low,True
+2007,2,India Innings,Medium,High,False
+2007,1,West Indies Innings,Medium,Low,False
+2012,2,South Africa Innings,Low,Low,True
+2010,2,South Africa Innings,Medium,Low,False
+2016,1,Pakistan Innings,Medium,Low,False
+2009,2,South Africa Innings,High,Low,False
+2014,2,Sri Lanka Innings,Low,High,False
+2014,2,Ireland Innings,Low,Low,True
+2016,1,Afghanistan Innings,Low,Low,True
+2012,2,Pakistan Innings,Low,Low,True
+2007,1,New Zealand Innings,Low,Low,True
+2012,2,Pakistan Innings,Medium,Low,False
+2014,1,West Indies Innings,Medium,Medium,True
+2007,2,Australia Innings,Low,High,False
+2012,2,Afghanistan Innings,Low,Low,True
+2007,2,Zimbabwe Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2016,2,Oman Innings,Medium,Low,False
+2007,2,South Africa Innings,Low,Low,True
+2007,2,England Innings,Low,Low,True
+2010,1,England Innings,Low,Low,True
+2007,1,New Zealand Innings,High,Low,False
+2016,1,Hong Kong Innings,Medium,Low,False
+2014,1,Nepal Innings,Low,Low,True
+2014,1,Bangladesh Innings,Low,Low,True
+2012,1,Pakistan Innings,High,Low,False
+2010,2,South Africa Innings,Low,Low,True
+2014,2,Zimbabwe Innings,Low,Low,True
+2007,2,England Innings,Low,Low,True
+2009,1,England Innings,Low,Low,True
+2014,1,Netherlands Innings,Medium,Low,False
+2010,1,New Zealand Innings,Low,Low,True
+2010,2,Australia Innings,Low,High,False
+2009,2,West Indies Innings,Low,High,False
+2016,2,Ireland Innings,Low,Low,True
+2014,1,South Africa Innings,Low,Low,True
+2012,2,New Zealand Innings,Low,Low,True
+2010,2,New Zealand Innings,Low,Low,True
+2010,1,Australia Innings,Low,High,False
+2014,1,India Innings,Low,High,False
+2014,2,England Innings,Low,Low,True
+2007,2,Pakistan Innings,Medium,Low,False
+2007,2,Pakistan Innings,Low,Low,True
+2014,1,Bangladesh Innings,High,Low,False
+2010,1,West Indies Innings,Low,Medium,False
+2007,2,Bangladesh Innings,Low,Low,True
+2009,2,West Indies Innings,Low,High,False
+2009,1,South Africa Innings,Low,Low,True
+2007,1,Pakistan Innings,Low,Low,True
+2010,2,Bangladesh Innings,Low,Low,True
+2010,1,Afghanistan Innings,Low,Low,True
+2010,2,South Africa Innings,High,Low,False
+2010,2,England Innings,Low,Low,True
+2016,2,Sri Lanka Innings,Medium,High,False
+2014,2,England Innings,High,Low,False
+2010,2,Australia Innings,Medium,High,False
+2010,2,Bangladesh Innings,Low,Low,True
+2012,2,Australia Innings,Low,High,False
+2014,2,New Zealand Innings,High,Low,False
+2016,1,New Zealand Innings,Low,Low,True
+2014,1,Hong Kong Innings,Medium,Low,False
+2016,1,Sri Lanka Innings,Low,High,False
+2016,1,South Africa Innings,Low,Low,True
+2009,1,Pakistan Innings,Medium,Low,False
+2016,2,Netherlands Innings,Low,Low,True
+2012,1,Pakistan Innings,Low,Low,True
+2010,2,Ireland Innings,Low,Low,True
+2010,2,South Africa Innings,Medium,Low,False
+2007,1,Australia Innings,Low,Medium,False
+2010,1,Pakistan Innings,High,Low,False
+2016,1,Sri Lanka Innings,Low,High,False
+2014,2,Pakistan Innings,Low,Low,True
+2012,1,Sri Lanka Innings,Medium,High,False
+2012,1,Ireland Innings,Low,Low,True
+2010,2,Pakistan Innings,Low,Low,True
+2012,2,Pakistan Innings,Medium,Low,False
+2014,2,Bangladesh Innings,Medium,Low,False
+2012,1,India Innings,Low,High,False
+2012,1,West Indies Innings,Low,High,False
+2014,1,South Africa Innings,Low,Low,True
+2014,2,Australia Innings,Low,High,False
+2016,2,Australia Innings,Low,High,False
+2012,2,South Africa Innings,High,Low,False
+2012,2,New Zealand Innings,Low,Low,True
+2016,2,Scotland Innings,Medium,Medium,True
+2014,1,India Innings,Low,High,False
+2012,1,Zimbabwe Innings,Low,Low,True
+2014,1,Afghanistan Innings,Low,Low,True
+2016,1,Hong Kong Innings,Low,Low,True
+2010,2,South Africa Innings,Low,Low,True
+2016,1,New Zealand Innings,Medium,Low,False
+2016,1,South Africa Innings,High,Low,False
+2016,1,England Innings,Medium,Low,False
+2014,1,Netherlands Innings,Low,Low,True
+2016,1,New Zealand Innings,Low,Low,True
+2010,2,England Innings,Medium,Low,False
+2012,2,South Africa Innings,Low,Low,True
+2010,2,India Innings,Low,High,False
+2007,1,West Indies Innings,Medium,Low,False
+2014,2,Australia Innings,Medium,High,False
+2009,2,Ireland Innings,Low,Low,True
+2016,2,Netherlands Innings,Low,Low,True
+2012,2,New Zealand Innings,High,Low,False
+2016,1,New Zealand Innings,Medium,Low,False
+2009,2,Ireland Innings,Low,Low,True
+2012,2,Sri Lanka Innings,Medium,High,False
+2010,1,Zimbabwe Innings,Medium,Low,False
+2012,2,South Africa Innings,Medium,Low,False
+2014,2,Zimbabwe Innings,High,Low,False
+2009,2,Bangladesh Innings,Low,Low,True
+2010,1,Australia Innings,Low,High,False
+2012,1,India Innings,Medium,High,False
+2016,1,Zimbabwe Innings,Low,Low,True
+2016,2,Sri Lanka Innings,Low,High,False
+2007,1,India Innings,Low,High,False
+2012,1,New Zealand Innings,Low,Low,True
+2014,1,Australia Innings,Low,Medium,False
+2007,1,Pakistan Innings,Low,Low,True
+2010,2,England Innings,Medium,Low,False
+2014,1,Bangladesh Innings,Low,Low,True
+2016,1,Zimbabwe Innings,Low,Low,True
+2012,2,England Innings,Low,Low,True
+2016,1,India Innings,Medium,High,False
+2014,1,Sri Lanka Innings,Low,High,False
+2009,2,Ireland Innings,Medium,Low,False
+2014,2,Ireland Innings,Low,Low,True
+2010,2,New Zealand Innings,Low,Low,True
+2010,2,New Zealand Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2012,2,England Innings,Low,Low,True
+2014,1,Pakistan Innings,Low,Low,True
+2007,1,Kenya Innings,Low,Low,True
+2016,1,England Innings,Low,Low,True
+2014,1,Sri Lanka Innings,Low,High,False
+2010,2,New Zealand Innings,Medium,Low,False
+2016,2,Afghanistan Innings,Low,Low,True
+2009,1,South Africa Innings,Medium,Low,False
+2016,2,Bangladesh Innings,Low,Low,True
+2016,1,Afghanistan Innings,Low,Low,True
+2007,2,Australia Innings,Low,High,False
+2007,1,Sri Lanka Innings,Medium,High,False
+2007,1,New Zealand Innings,Low,Low,True
+2012,1,England Innings,Low,Low,True
+2014,2,Ireland Innings,Low,Low,True
+2014,1,United Arab Emirates Innings,Medium,Low,False
+2010,1,West Indies Innings,Low,Medium,False
+2016,2,Sri Lanka Innings,Low,High,False
+2014,2,Australia Innings,Low,High,False
+2014,1,Zimbabwe Innings,High,Low,False
+2012,2,Zimbabwe Innings,Low,Low,True
+2012,2,Bangladesh Innings,Low,Low,True
+2014,2,New Zealand Innings,Low,Low,True
+2014,2,Australia Innings,High,High,True
+2010,2,Pakistan Innings,Low,Low,True
+2012,2,Bangladesh Innings,Low,Low,True
+2009,1,New Zealand Innings,Low,Low,True
+2010,1,England Innings,Low,Low,True
+2016,2,Afghanistan Innings,Low,Low,True
+2010,2,England Innings,Low,Low,True
+2014,2,Zimbabwe Innings,Low,Low,True
+2009,1,India Innings,High,High,True
+2009,1,South Africa Innings,Medium,Low,False
+2012,1,India Innings,Low,High,False
+2016,1,England Innings,Low,Low,True
+2014,1,Nepal Innings,Medium,Low,False
+2016,2,West Indies Innings,Medium,High,False
+2016,2,Afghanistan Innings,Low,Low,True
+2016,1,New Zealand Innings,Medium,Low,False
+2012,2,Sri Lanka Innings,Medium,High,False
+2016,2,Sri Lanka Innings,Low,High,False
+2009,2,Ireland Innings,Medium,Low,False
+2010,1,Sri Lanka Innings,Low,High,False
+2012,1,Ireland Innings,Low,Low,True
+2014,1,Afghanistan Innings,Low,Low,True
+2016,2,Netherlands Innings,Low,Low,True
+2007,2,Bangladesh Innings,Low,Low,True
+2007,1,West Indies Innings,Low,Low,True
+2010,1,West Indies Innings,Low,Medium,False
+2009,2,Pakistan Innings,Low,Low,True
+2009,2,New Zealand Innings,Medium,Low,False
+2016,2,West Indies Innings,Low,High,False
+2012,2,Australia Innings,Low,High,False
+2012,2,England Innings,Low,Low,True
+2016,2,Australia Innings,Low,High,False
+2016,1,Australia Innings,Low,Medium,False
+2012,2,Afghanistan Innings,Medium,Low,False
+2012,1,India Innings,Low,High,False
+2007,2,England Innings,Low,Low,True
+2014,1,Netherlands Innings,Medium,Low,False
+2014,1,Nepal Innings,Low,Low,True
+2010,1,England Innings,Medium,Low,False
+2016,1,Afghanistan Innings,Medium,Low,False
+2012,1,New Zealand Innings,Medium,Low,False
+2012,1,West Indies Innings,Low,High,False
+2014,2,Australia Innings,Low,High,False
+2012,2,Sri Lanka Innings,Medium,High,False
+2012,1,Ireland Innings,Low,Low,True
+2009,2,New Zealand Innings,Low,Low,True
+2016,1,Bangladesh Innings,Low,Low,True
+2009,2,Bangladesh Innings,Low,Low,True
+2007,2,Australia Innings,Medium,High,False
+2016,1,India Innings,Low,High,False
+2007,2,South Africa Innings,Low,Low,True
+2012,1,Pakistan Innings,High,Low,False
+2010,1,West Indies Innings,High,Medium,False
+2012,2,Sri Lanka Innings,Low,High,False
+2007,2,India Innings,Low,High,False
+2007,2,Zimbabwe Innings,Medium,Low,False
+2010,1,Australia Innings,Medium,High,False
+2014,1,United Arab Emirates Innings,Medium,Low,False
+2012,2,Bangladesh Innings,Low,Low,True
+2010,1,New Zealand Innings,Low,Low,True
+2010,1,Pakistan Innings,Low,Low,True
+2016,1,Zimbabwe Innings,Low,Low,True
+2016,2,Ireland Innings,Low,Low,True
+2007,2,South Africa Innings,Medium,Low,False
+2007,1,Bangladesh Innings,Low,Low,True
+2016,2,Pakistan Innings,Low,Low,True
+2014,1,England Innings,Medium,Low,False
+2010,2,West Indies Innings,Medium,Low,False
+2007,1,Bangladesh Innings,Medium,Low,False
+2016,2,Afghanistan Innings,Medium,Low,False
+2012,1,New Zealand Innings,Low,Low,True
+2012,2,England Innings,Low,Low,True
+2007,1,England Innings,Low,Low,True
+2016,2,Sri Lanka Innings,Low,High,False
+2007,1,Bangladesh Innings,Low,Low,True
+2016,2,Australia Innings,Low,High,False
+2014,1,South Africa Innings,Medium,Low,False
+2014,1,Netherlands Innings,Low,Low,True
+2014,1,Nepal Innings,Low,Low,True
+2010,2,Ireland Innings,Low,Low,True
+2016,1,England Innings,Low,Low,True
+2012,2,Pakistan Innings,Medium,Low,False
+2016,1,New Zealand Innings,Low,Low,True
+2012,2,Sri Lanka Innings,Low,High,False
+2007,1,Bangladesh Innings,Low,Low,True
+2016,1,South Africa Innings,Low,Low,True
+2016,1,New Zealand Innings,Medium,Low,False
+2010,1,West Indies Innings,Low,Medium,False
+2007,2,India Innings,Medium,High,False
+2010,2,New Zealand Innings,Low,Low,True
+2014,2,Bangladesh Innings,Low,Low,True
+2014,2,Australia Innings,Low,High,False
+2010,1,Pakistan Innings,Medium,Low,False
+2010,2,Ireland Innings,Low,Low,True
+2007,2,Scotland Innings,Low,Medium,False
+2014,1,United Arab Emirates Innings,Low,Low,True
+2007,2,India Innings,Low,High,False
+2010,1,India Innings,Low,High,False
+2007,2,Sri Lanka Innings,Low,High,False
+2009,2,Ireland Innings,Low,Low,True
+2010,1,New Zealand Innings,Medium,Low,False
+2009,2,Pakistan Innings,Low,Low,True
+2016,1,Sri Lanka Innings,Medium,High,False
+2009,1,India Innings,Medium,High,False
+2014,2,West Indies Innings,Low,Medium,False
+2010,1,New Zealand Innings,Low,Low,True
+2009,2,New Zealand Innings,Low,Low,True
+2016,1,Ireland Innings,Low,Low,True
+2010,2,Pakistan Innings,Low,Low,True
+2014,2,Bangladesh Innings,Low,Low,True
+2007,1,Kenya Innings,Low,Low,True
+2007,1,New Zealand Innings,Low,Low,True
+2010,1,Australia Innings,Low,High,False
+2014,2,Ireland Innings,Low,Low,True
+2007,1,Pakistan Innings,High,Low,False
+2007,1,West Indies Innings,Low,Low,True
+2014,2,Pakistan Innings,Low,Low,True
+2014,1,Netherlands Innings,Low,Low,True
+2016,1,England Innings,Medium,Low,False
+2012,1,India Innings,Low,High,False
+2009,2,India Innings,Low,Medium,False
+2009,2,South Africa Innings,Low,Low,True
+2014,2,Zimbabwe Innings,Medium,Low,False
+2016,1,Afghanistan Innings,Low,Low,True
+2009,1,Australia Innings,Medium,Medium,True
+2014,2,Pakistan Innings,Low,Low,True
+2016,1,Pakistan Innings,Medium,Low,False
+2007,2,Bangladesh Innings,Low,Low,True
+2010,1,Australia Innings,Low,High,False
+2016,1,New Zealand Innings,Low,Low,True
+2009,1,Bangladesh Innings,Low,Low,True
+2014,2,Bangladesh Innings,Low,Low,True
+2012,2,Sri Lanka Innings,Low,High,False
+2010,2,Australia Innings,Medium,High,False
+2007,2,Scotland Innings,Low,Medium,False
+2016,2,England Innings,Medium,Low,False
+2014,1,Bangladesh Innings,Low,Low,True
+2007,1,Sri Lanka Innings,Low,High,False
+2012,2,England Innings,Low,Low,True
+2014,2,West Indies Innings,Medium,Medium,True
+2014,1,Sri Lanka Innings,Medium,High,False
+2012,2,Bangladesh Innings,Low,Low,True
+2010,2,Australia Innings,Low,High,False
+2007,1,India Innings,Low,High,False
+2014,2,Netherlands Innings,Low,Low,True
+2014,2,New Zealand Innings,Low,Low,True
+2010,2,Pakistan Innings,Medium,Low,False
+2016,1,England Innings,High,Low,False
+2007,1,India Innings,Low,High,False
+2007,1,New Zealand Innings,Medium,Low,False
+2010,1,Pakistan Innings,High,Low,False
+2010,1,Sri Lanka Innings,Low,High,False
+2007,2,South Africa Innings,Medium,Low,False
+2012,2,England Innings,Low,Low,True
+2012,1,Pakistan Innings,Medium,Low,False
+2009,2,Netherlands Innings,Low,Low,True
+2010,2,England Innings,Low,Low,True
+2014,1,Zimbabwe Innings,Medium,Low,False
+2016,2,Australia Innings,Low,High,False
+2014,1,Nepal Innings,Medium,Low,False
+2007,1,New Zealand Innings,Low,Low,True
+2016,2,Afghanistan Innings,Low,Low,True
+2014,2,Bangladesh Innings,Low,Low,True
+2014,1,West Indies Innings,Low,Medium,False
+2010,2,Australia Innings,Low,High,False
+2016,1,New Zealand Innings,Medium,Low,False
+2014,1,South Africa Innings,Low,Low,True
+2010,1,South Africa Innings,Medium,Low,False
+2014,1,Nepal Innings,Low,Low,True
+2014,2,Bangladesh Innings,Medium,Low,False
+2012,2,Pakistan Innings,Low,Low,True
+2007,1,Bangladesh Innings,Low,Low,True
+2010,1,Australia Innings,Low,High,False
+2007,1,New Zealand Innings,Medium,Low,False
+2016,2,Afghanistan Innings,Low,Low,True
+2007,1,New Zealand Innings,Low,Low,True
+2012,1,Pakistan Innings,Low,Low,True
+2009,1,South Africa Innings,Low,Low,True
+2014,1,West Indies Innings,Low,Medium,False
+2016,2,Scotland Innings,Low,Medium,False
+2012,2,Sri Lanka Innings,Low,High,False
+2014,1,Australia Innings,Low,Medium,False
+2014,1,Netherlands Innings,Low,Low,True
+2009,2,West Indies Innings,Medium,High,False
+2014,2,Ireland Innings,Low,Low,True
+2014,1,South Africa Innings,High,Low,False
+2010,1,Sri Lanka Innings,Low,High,False
+2010,1,West Indies Innings,Low,Medium,False
+2012,1,New Zealand Innings,Low,Low,True
+2010,1,Sri Lanka Innings,Low,High,False

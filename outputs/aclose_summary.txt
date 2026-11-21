@@ -1,0 +1,13 @@
+ACLOSE-STYLE CLOSED FREQUENT ITEMSET MINING
+Transactions: 2792
+Distinct items: 23
+Minimum support: 0.05 (count >= 140)
+Minimum confidence: 0.6
+Minimum lift: 1.0
+All frequent itemsets: 525
+Closed frequent itemsets: 458
+Minimal generators: 458
+Exact closed implication rules: 59
+Frequent itemsets by size: {1: 23, 2: 136, 3: 194, 4: 122, 5: 43, 6: 7}
+Elapsed time: 0.134100 seconds
+NOTE: Exact closure rules have confidence 1.0; this is not the complete set of approximate rules with confidence >= 0.6.
